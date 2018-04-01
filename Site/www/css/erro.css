@@ -1,0 +1,162 @@
+html {height:100%;}
+body {
+    background-color: #000;  
+	height: 100%;
+	margin: 0;
+}
+#conteudo_chaos{
+    background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bg_pag_erro.html) top center no-repeat;	
+    background-color: #000;
+    min-height:685px;
+    height:1121px;
+}
+#box_botoes_chaos{
+	padding-top:790px;
+	margin:0px auto;
+	width: 260px;
+	height:35px;
+}
+#conteudo_m2{
+    background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bg_pag_erro2.jpg) top center no-repeat;
+    background-color: #000;
+    min-height:756px;
+    height:100%;
+    position: absolut;
+}
+#conteudo_m2 #box_botoes{padding-top: 800px;} 
+#conteudo_m2 #box_botoes .bot_home a{
+   	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bt_irparahome.html) top center no-repeat;
+    float: left;
+    height: 25px;
+    width: 120px;
+}
+#conteudo_m2 #box_botoes .bot_home a:hover{background-position:0 -25px;}
+#conteudo_m2 #box_botoes .bot_noticias a{
+   	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bt_irparanoticias.html) top center no-repeat;
+    float: right;
+    height: 25px;
+    width: 120px;
+}
+#conteudo_m2 #box_botoes .bot_noticias a:hover{background-position:0 -25px;}
+#conteudo_wyd {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bg_pag_erro.html) top center no-repeat;	
+    background-color: #000;
+    min-height:685px;
+    height:100%;
+}
+#conteudo_pb {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bg_pag_erro.html) top center no-repeat;
+    background-color: #242424;
+    height:100%;
+}
+#conteudo_z4 {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bg_pag_erro.html) top center no-repeat;
+	width:890px;
+	margin: 0 auto;
+}
+#conteudo_z4 #box_botoes{
+	padding-top: 530px;
+} 
+#box_botoes {
+	height:35px;
+	width: 260px;
+	margin: 0px auto;
+	padding-top: 635px;
+}
+
+.bot_home{
+   	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bt_irparahome.html) top center no-repeat;
+	cursor:pointer;
+    width: 120px;
+    height: 25px;
+    float: left;	
+}
+.bot_noticias{
+   	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bt_irparanoticias.html) top center no-repeat;
+    cursor:pointer;
+    width: 120px;
+    height: 25px;
+	float: right;
+}
+.bot_home:hover, .bot_noticias:hover{background-position: 0 -25px;}
+.pag_erro2 {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/erro/bg_pag_erro2.jpg) top center no-repeat;
+    background-color: #242424;
+    display: table;
+    height: 100%;
+    margin: 0;
+    min-height: 756px;
+    width: 100%;
+}
+#bg_black {background-color: #000;}
+.pag_erro2 #box_redes_sociais {
+	width: 207px;
+	height: 48px;
+	display: block;
+	margin: 650px auto 0;
+}
+.pag_erro2 #box_redes_sociais a {
+	width: 48px;
+	height: 48px;
+	float: left;
+	margin: 0 10px;
+}
+.pag_erro2 #box_redes_sociais #ico_1 {
+	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/ico_facebook.png) top center no-repeat;
+}
+.pag_erro2 #box_redes_sociais #ico_2 {
+	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/ico_twitter.png) top center no-repeat;
+}
+.pag_erro2 #box_redes_sociais #ico_3 {
+	background: url(../../imagem.ongame.net/site_novo/m2/global/erro/ico_youtube.png) top center no-repeat;
+}
+/*Início do CSS da pagina de Manutenção*/
+#pag_manutencao {
+    background: url(../../imagem.ongame.net/site_novo/global/pag_manutencao/metin2_bg.jpg) top center no-repeat;
+	width: 1003px;
+    height:602px;
+    margin: 0 auto;
+}
+#pag_manutencao #box_redes_sociais{
+    height:37px;
+    float: right;
+	width: 510px;
+    margin-top: 565px;
+    margin-right:28px;
+	background: url(../../imagem.ongame.net/site_novo/global/pag_manutencao/bg_transp.png);
+	padding: 0 5px;
+}
+
+#pag_manutencao #box_redes_sociais .enquanto_isso{
+	float: left;
+	margin-top: -10px;
+	margin-left: 5px;
+	
+}
+#pag_manutencao #box_redes_sociais #mensagem{
+    height:20px;
+    float: left;
+    color: #fff;
+    font-family: verdana,arial,helvetica;
+    font-size:8pt;
+    padding-top:1px;
+	margin: 11px 6px 3px;
+}
+#pag_manutencao #box_redes_sociais span{
+    float: left;
+    width:14px;
+    height: 12px;
+    background: url(../../imagem.ongame.net/site_novo/global/pag_manutencao/seta.png) top center no-repeat;
+	margin: 13px 7px;
+	
+}
+#pag_manutencao .bot_redes_sociais{
+    width: 27px;
+    height: 27px;    
+    float: left;
+    margin: 5px;
+}
+#pag_manutencao #box_redes_sociais #bot1{background: url(../../imagem.ongame.net/site_novo/global/footer/facebook.png) top center no-repeat;}
+#pag_manutencao #box_redes_sociais #bot2{background: url(../../imagem.ongame.net/site_novo/global/footer/twitter.png) top center no-repeat;}
+#pag_manutencao #box_redes_sociais #bot3{background: url(../../imagem.ongame.net/site_novo/global/footer/youtube.png) top center no-repeat;}
+/*Fim do CSS da pagina de Manutenção*/

@@ -1,0 +1,1472 @@
+
+#barra-ongame>.barra-ongame-centro{
+    max-width: 1022px!important;
+}
+
+/*Estrutura do Configurações gerais*/
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif, "Lucida Sans Unicode";
+    font-size: 8pt;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    color: #444
+}
+
+html,
+body {
+}
+
+body {
+    margin: 0;
+    height: 1000px;
+    background: url(imagem/global/metin2_background.jpg) top center no-repeat;
+}
+
+img {
+    border: none;
+}
+
+.marcador_h1 {
+    width: 8px;
+    height: 16px;
+    float: left;
+    margin: 6px 5px 0px 1px;
+    background: url(imagem/global/metin2_img_seta_header_interna.png) top center no-repeat;
+}
+.marcador_h2 {
+    width: 13px;
+    height: 13px;
+    float: left;
+    margin: 8px 5px 5px 16px;
+    background: url(imagem/global/metin2_marcador_h2.gif) top center no-repeat;
+}
+h2 {
+    font-size: 10pt !important;
+}
+h2 span {
+    font-size: 10pt !important;
+}
+
+.titulo_conteudo h2 {
+    padding: 6px 0;
+}
+.sem_borda {
+    border: none !important;
+}
+/*Botões*/
+.botao1 {
+    background: url(imagem/global/botoes/metin2_bg_botao1.html) repeat-x scroll 0 0 transparent;
+    border: solid 1px #2D2705;
+    color: #131102;
+    cursor: pointer;
+    font-size: 8pt;
+    height: 17px;
+    padding-top: 3px;
+    text-align: center;
+    text-shadow: 0px 0px  3px #B09919, 0px 0px  3px #B09919, 0px 0px  2px #B09919, 0px 0px  2px #B09919;
+    font-weight: bold;
+    width: 70px;
+}
+.botao1:hover {
+    background-position: 0 -17px;
+    text-shadow: 0px 0px  3px #B09919, 0px 0px  3px #B09919, 0px 0px  2px #B09919, 0px 0px  2px #B09919;
+}
+.botao2 {
+    background: url(imagem/global/botoes/metin2_bg_botao2.html) repeat-x scroll 0 0 transparent;
+    border: solid 1px #000;
+    color: #f7d8a1;
+    cursor: pointer;
+    font-size: 8pt;
+    height: 19px;
+    padding-top: 6px;
+    text-align: center;
+    text-shadow: 0px 0px  2px #A78E54;
+    width: 95px;
+}
+.botao2:hover {
+    background-position: 0 -25px;
+    text-shadow: 0px 0px  4px #DFD0AC, 0px 0px  2px #DFD0AC;
+}
+/*Estrutura do Cabeçalho*/
+#barra-ongame section {
+    max-width: 1004px !important;
+}
+
+#header-ongame {
+    max-width: 1004px;
+}
+
+#header {
+    border: 1px solid purple;
+    position: relative;
+    height: 40px;
+    width: 1000px;
+    margin: auto;
+    z-index: 1000;
+    text-align: center;
+    background-color: #E6E6E6;
+}
+/*Estrutura do Conteúdo*/
+#conteudo {
+    border: 1px solid green;
+    display: block;
+    margin: auto;
+    width: 1000px;
+}
+
+/*Estrutura do logotipo*/
+#conteudo #logotipo {
+
+    /*border: 1px solid red;*/
+    position: relative;
+    margin: 15px auto;
+    width: 136px;
+    height: 142px;
+    z-index: 2;
+}
+
+/*Estrutura do Menu*/
+#conteudo #menu {
+
+    /*border-top: 1px solid blue;*/
+
+    /*border-bottom: 1px solid blue;*/
+    background: url(imagem/menu/metin2_bg_menusuperior.jpg) no-repeat;
+    position: relative;
+    margin: auto;
+    margin-top: -50px;
+    width: 1008px;
+    left: -4px;
+    height: 42px;
+    text-decoration: none;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.menu_jogo {
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif, "Lucida Sans Unicode";
+    font-size: 13px;
+}
+
+/*Estrutura da div centro*/
+#conteudo #centro {
+    border: 1px solid red;
+    position: relative;
+    margin: 0px auto;
+    padding: 0px;
+    width: 990px;
+}
+
+#gm_recomenda .jcarousel-prev {
+    width: 38px;
+    height: 40px;
+    background-image: url(imagem/home/gm_recomenda/metin2_gmrecomenda_seta_esquerda.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    position: relative;
+    float: left;
+    top: -66px;
+    display: block;
+    left: 20px;
+}
+
+#gm_recomenda .jcarousel-next {
+    width: 38px;
+    height: 40px;
+    background-image: url(imagem/home/gm_recomenda/metin2_gmrecomenda_seta_direita.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    top: -66px;
+    display: block;
+    right: 20px;
+}
+
+/*INICIO - Setas SS*/
+#screenshot .jcarousel-prev {
+    width: 38px;
+    height: 40px;
+    background-image: url(imagem/home/gm_recomenda/metin2_gmrecomenda_seta_esquerda.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    position: relative;
+    float: left;
+    top: -90px;
+    display: block;
+    left: 20px;
+}
+
+#screenshot .jcarousel-next {
+    width: 38px;
+    height: 40px;
+    background-image: url(imagem/home/gm_recomenda/metin2_gmrecomenda_seta_direita.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    top: -90px;
+    display: block;
+    right: 20px;
+}
+
+/*FIM - SETAS SS*/
+
+/*INICIO - Setas VÍDEOS*/
+#videos .jcarousel-prev {
+    width: 38px;
+    height: 40px;
+    background-image: url(imagem/home/gm_recomenda/metin2_gmrecomenda_seta_esquerda.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    position: relative;
+    float: left;
+    top: -81px;
+    display: block;
+    left: 20px;
+}
+
+#videos .jcarousel-next {
+    width: 38px;
+    height: 40px;
+    background-image: url(imagem/home/gm_recomenda/metin2_gmrecomenda_seta_direita.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    top: -81px;
+    display: block;
+    right: 20px;
+}
+
+/*FIM - SETAS VÍDEOS*/
+
+/*Estrutura da div direito*/
+#conteudo #centro #direito {
+    border: 0px solid blue;
+    position: relative;
+    float: right;
+    width: 240px;
+}
+
+/*Estrutura da div login*/
+#conteudo #centro #direito #login {
+    border: 1px solid green;
+    position: relative;
+    float: right;
+    width: 238px;
+    height: 160px;
+}
+
+#conteudo #centro #direito #login #btLogar {
+    cursor: pointer;
+}
+
+/*Banner*/
+#conteudo #centro #direito #banner_eventos {
+    position: relative;
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+
+/**/
+
+/*Estrutura da div box_facebook*/
+#conteudo #centro #direito #box_facebook {
+    border: 1px solid green;
+    position: relative;
+    float: right;
+    margin: 6px 0 0 0;
+    width: 240px;
+    height: 231px;
+}
+
+/*Início GM BLOG (lateral) */
+#box_gmblog {
+    border: 1px solid #262525;
+    height: 199px;
+    width: 238px;
+    float: right;
+    margin-top: 11px;
+}
+
+#box_gmblog ul {
+    float: left;
+}
+
+#box_gmblog ul li {
+    float: left;
+    width: 226px;
+    height: 55px;
+    margin: 0 6px;
+    border-bottom: 1px solid #262525;
+}
+
+#box_gmblog ul li {
+    float: left;
+    width: 226px;
+    height: 55px;
+    margin: 0 6px;
+    border-bottom: 1px solid #262525;
+}
+
+#box_gmblog ul li:last-child {
+    border: none;
+}
+
+#box_gmblog ul li a {
+    text-decoration: none;
+}
+
+#box_gmblog ul li .titulo_noticia {
+    float: left;
+    font-weight: bold;
+    width: 221px;
+    padding: 6px 0px 0px 5px;
+}
+
+#box_gmblog ul li .data_noticia {
+    float: left;
+    width: 216px;
+    padding: 3px 5px 0;
+}
+
+#box_gmblog ul li .views_noticia {
+    float: left;
+    width: 100%;
+    width: 216px;
+    padding: 1px 5px;
+}
+
+/*Fim GM BLOG (lateral) */
+
+/*Estrutura da div box_quick_menu*/
+#conteudo #centro #direito #box_quick_menu {
+    border: 1px solid green;
+    position: relative;
+    float: right;
+    margin: 10px 0 0 0;
+    width: 240px;
+    height: 160px;
+}
+
+/*ESTRUTURA ENQUETE*/
+#conteudo #centro #direito #box_enquete {
+    border: 1px solid green;
+    position: relative;
+    float: right;
+    margin: 10px 0 0 0;
+    width: 240px;
+    height: 200px;
+}
+
+/*FIM ENQUETE*/
+
+/*Estrutura da div meio*/
+#conteudo #centro #meio {
+    border: 0px solid blue;
+    position: relative;
+    width: 730px;
+}
+
+/*Estrutura da div banner*/
+#centro #meio #banner {
+    border: 1px solid green;
+    position: relative;
+    width: 730px;
+    height: 230px;
+}
+
+#centro #meio #banner #banner_home li a.link-banner-principal {
+    float: left;
+    height: 233px;
+    width: 727px;
+}
+
+#centro #meio #banner .banner_youtube img {
+    width: 100%;
+}
+
+#centro #meio #banner .banner_youtube {
+    display: block;
+    float: left;
+    height: 190px;
+    left: 210px;
+    position: relative;
+    top: -211px;
+    width: 280px;
+}
+
+/*Estrutura da div noticias*/
+#centro #meio #noticias {
+    border: 1px solid black;
+    position: relative;
+    width: 730px;
+    height: 244px;
+    margin: 10px auto;
+}
+
+#conteudo #centro #meio .box_conteudo{
+    word-wrap: break-word;
+}
+
+#conteudo #centro #meio .box_conteudo ol.lista-personalizada li span, ul.lista-personalizada li span{
+    color: inherit!important;
+    background-color: inherit!important;
+}
+
+#conteudo #centro #meio .box_conteudo table.tabela-personalizada{
+    margin: auto!important;
+    background: none!important;
+}
+
+#conteudo #centro #meio .box_conteudo table.tabela-personalizada tr td span{
+    color: inherit!important;
+    background-color: inherit!important;
+}
+
+#conteudo #centro #meio .box_conteudo table.tabela-personalizada tr td p{
+    color: inherit!important;
+}
+
+/*Estrutura box_facebook Notícias/Blog*/
+#box_facebook_blog {
+    background: #333;
+    float: left;
+    margin-top: 20px;
+}
+
+/*Estrutura dos boxs*/
+#centro #meio #box_1 {
+    border: 1px solid #2a2a2a;
+    position: relative;
+    float: left;
+    display: block;
+    width: 359px;
+    height: 200px;
+}
+
+#centro #meio #box_2 {
+    border: 1px solid red;
+    position: relative;
+    display: block;
+    width: 359px;
+    height: 200px;
+    float: right;
+}
+
+#centro #meio #box_3 {
+    border: 1px solid red;
+    position: relative;
+    display: block;
+    float: left;
+    width: 730px;
+    height: 150px;
+    margin: 10px 0 0 0;
+}
+
+#centro #meio #box_4 {
+    border: 1px solid red;
+    position: relative;
+    width: 330px;
+    height: 150px;
+    margin: -152px auto auto 353px;
+}
+
+/*Estrutura da div esquerdo que nesse caso não está sendo utilizado a div meio está alinhada a direita
+#conteudo #centro #esquerdo{}*/
+
+/*Estrutura do Rodapé*/
+#rodape {
+    position: relative;
+    top: 10px;
+    clear: both;
+    height: 100px;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    background-image: url(../../imagem.ongame.net/site_novo/m2/global/metin2_rodape.gif);
+    background-repeat: repeat-x;
+}
+
+#rodape #rodape_conteudo {
+    width: 1000px;
+    margin: 0 auto;
+    height: 200px;
+    display: block;
+}
+
+#rodape #rodape_conteudo span {
+    float: left;
+    text-align: left;
+}
+
+#rodape #rodape_conteudo ul {
+    float: left;
+    width: 100%;
+    margin-top: 3px;
+}
+
+#rodape #rodape_conteudo li {
+    margin-left: 25px;
+    list-style: disc;
+    text-align: left;
+}
+
+#rodape #rodape_conteudo a {
+    text-decoration: none;
+}
+
+#rodape #rodape_conteudo a:hover {
+    text-decoration: underline;
+}
+
+#rodape #rodape_conteudo #onlinegames,
+#rodape #rodape_conteudo #jogo,
+#rodape #rodape_conteudo #seguranca {
+    float: left;
+    margin-top: 40px;
+}
+
+#rodape #rodape_conteudo #onlinegames {
+    margin-left: 40px;
+    width: 150px;
+}
+
+#rodape #rodape_conteudo #jogo {
+    margin-left: 20px;
+    width: 150px;
+}
+
+#rodape #rodape_conteudo #seguranca {
+    margin-left: 10px;
+    width: 150px;
+}
+
+#rodape #rodape_conteudo #classificacao {
+    position: relative;
+    float: right;
+    display: block;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+
+#rodape #rodape_conteudo #rodape_redes_sociais {
+    margin-left: 10px;
+    width: 150px;
+    height: 50px;
+    float: left;
+    padding-top: 30px;
+}
+
+#rodape #rodape_conteudo #rodape_redes_sociais li {
+    float: left;
+    list-style: none;
+    width: 27px;
+    height: 27px;
+    margin: 3px 10px 0 0;
+}
+
+#rodape #rodape_conteudo #rodape_redes_sociais li a {
+    float: left;
+    width: 27px;
+    height: 27px;
+}
+
+#rodape #rodape_conteudo #rodape_redes_sociais #redes_face a {
+    background-image: url(../../imagem.ongame.net/site_novo/global/footer/facebook.png);
+}
+
+#rodape #rodape_conteudo #rodape_redes_sociais #redes_twitter a {
+    background-image: url(../../imagem.ongame.net/site_novo/global/footer/twitter.png);
+}
+
+#rodape #rodape_conteudo #rodape_redes_sociais #redes_youtube a {
+    background-image: url(../../imagem.ongame.net/site_novo/global/footer/youtube.png);
+}
+
+#rodape_assinatura {
+    display: block;
+    height: 49px;
+    margin: 0 auto;
+    text-align: left;
+    width: 1000px;
+}
+
+#rodape_assinatura .assinatura_ongame,
+#rodape_assinatura .assinatura_desenv,
+#rodape_assinatura p {
+    float: left;
+    text-decoration: none;
+    text-align: center;
+}
+
+/*View Blog (submenu_blog + face */
+#box_submenu_facebook {
+    float: left;
+    background: tomato;
+}
+
+.box_menu_blog {
+    border: 0px solid green/*#2A2A2A*/ ;
+    float: left;
+    padding: 24px 15px 8px 15px;
+}
+
+.box_menu_blog #menublog1 {
+    border: 0px solid red;
+    float: left;
+    width: 195px;
+}
+
+.box_menu_blog #menublog2 {
+    border: 0px solid red;
+    float: left;
+    margin-left: 15px;
+    width: 400px;
+}
+
+.box_menu_ranking .box_individual_menu_blog {
+    float: left;
+}
+
+#menublog1 span {
+    float: left;
+    padding-right: 10px;
+    padding-top: 2px;
+}
+
+#menublog2 span {
+    float: left;
+    padding-right: 10px;
+    padding-top: 2px;
+}
+
+#ep2 {
+    display: none;
+}
+
+#pager1 {
+    margin-left: 180px;
+}
+
+#pager1 #paginador_loja_historico .first,
+#pager1 #paginador_loja_historico .last {
+    cursor: pointer;
+}
+
+#paginador_loja_historico .next {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+#paginador_loja_historico .prev {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+#pager1 .pagedisplay {
+    float: left;
+    text-align: center;
+}
+
+#conteudo #centro #meio .box_conteudo#pag-autoatendimento {
+    border: none;
+}
+
+#conteudo #centro #meio .box_conteudo p * {
+    color: #fff;
+}
+
+#conteudo #centro #meio .box_conteudo p span{
+    color: inherit;
+    font-size: inherit;
+}
+
+.conteudo-autoatendimento  #form {
+    float: left;
+    margin-left: 16px;
+    margin-bottom: 10px;
+    width: 695px;
+}
+
+.conteudo-autoatendimento .autoatendimento {
+    float: left;
+    margin-left: 16px;
+    width: 695px;
+    margin-top: 12px;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento {
+    float: left;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento a {
+    background-image: url(../../imagem.ongame.net/site_novo/global/loja/mapa.jpg);
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento .box-direita {
+    float: left;
+    width: 595px;
+    height: 90px;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento .box-direita * {
+    color: #fff;
+    float: left;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento .box-direita .estabelecimento {
+    font-weight: bold;
+    font-size: 10pt;
+    margin-bottom: 2px;
+    width: 100%;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento .box-direita .endereço {
+    clear: both;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento .box-direita .cep {
+    clear: both;
+}
+
+.conteudo-autoatendimento .autoatendimento .item-autoatendimento .box-direita .bairro {
+    clear: both;
+}
+
+/* --- Início pag downloads --- */
+.ul_repositorios {
+    float: left;
+    padding: 15px 0px 14px 15px;
+}
+
+.ul_repositorios .box_download {
+    float: left;
+    width: 110px;
+    height: 93px;
+    margin: 0px 3px;
+}
+
+.ul_repositorios .box_download#download_destaque {
+    border: 1px solid #000;
+    background: #1E1E1E;
+}
+
+.ul_repositorios .logo {
+    display: block;
+    height: 45px;
+    margin: 0 auto;
+}
+
+.ul_repositorios .logo#logo_torrent {
+    width: 80px;
+    background: url(imagem/metin2_ico_torrent.png);
+    background-repeat: no-repeat;
+    background-position: 0 -5px;
+}
+
+.ul_repositorios .logo#logo_ultradownloads {
+    width: 50px;
+    background: url(imagem/metin2_ico_ultradownloads.png);
+    background-repeat: no-repeat;
+}
+
+.ul_repositorios .logo#logo_superdownloads {
+    width: 80px;
+    background: url(imagem/metin2_ico_baixaki.png);
+    background-repeat: no-repeat;
+}
+
+.ul_repositorios .logo#logo_baixaki {
+    width: 80px;
+    background: url(metin2_ico_baixaki.png);
+    background-repeat: no-repeat;
+    background-position: 0 -10px;
+}
+
+.ul_repositorios .logo#logo_techtudo {
+    width: 80px;
+    background: url(imagem/metin2_ico_techtudo.png);
+    background-repeat: no-repeat;
+    background-position: 0 -10px;
+}
+
+.ul_repositorios .logo#logo_ziggi {
+    width: 80px;
+    background: url(imagem/metin2_ico_ziggi.png);
+    background-repeat: no-repeat;
+    background-position: 0 -10px;
+}
+
+.ul_repositorios .link_download {
+    float: left;
+    margin: 5px 20px 5px 11px;
+    width: 90px;
+    height: 25px;
+    background: url(imagem/metin2_bt_downloadmini1.jpg);
+}
+
+.ul_repositorios .link_download:hover {
+    background-position: 0 -25px;
+}
+
+.ul_repositorios .recomendacao {
+    float: left;
+    width: 110px;
+    height: 13px;
+    font-size: 7pt;
+    text-align: center;
+}
+
+#teste_download {
+    background: #222;
+    float: left;
+}
+
+#conteudo #centro #meio #box_download_drivers p{
+    padding-right: 20px;
+}
+
+#conteudo #centro #meio #box_download_drivers #radeon{
+    width:71px;
+    height: 52px;
+    margin: 25px 0 0 84px;
+    position: relative;
+    float: left;
+}
+
+#conteudo #centro #meio #box_download_drivers #nvidia{
+    width:71px;
+    height: 52px;
+    margin: 25px 0 0 40px;
+    position: relative;
+    float: left;    
+}
+#conteudo #centro #meio #box_download_directx #directx1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 12px 0 0 60px;
+}
+#conteudo #centro #meio #box_download_directx #directx2{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 13px 0 0 20px;
+}
+
+/*-PÁGINA DE DOWNLOAD PARTICIONADO-*/
+
+/*INICIO - Box arquivo particionado sites do jogo*/
+#conteudo #centro #meio #particionado .artigo {
+    min-height: 45px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado1 a ,
+#conteudo #centro #meio .box_conteudo .parte1 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte1.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado1 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte1 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado2 a ,
+#conteudo #centro #meio .box_conteudo .parte2 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte2.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado2 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte2 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado3 a ,
+#conteudo #centro #meio .box_conteudo .parte3 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte3.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado3 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte3 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado4 a ,
+#conteudo #centro #meio .box_conteudo .parte4 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte4.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado4 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte4 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado5 a ,
+#conteudo #centro #meio .box_conteudo .parte5 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte5.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado5 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte5 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado6 a ,
+#conteudo #centro #meio .box_conteudo .parte6 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte6.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado6 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte6 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado7 a ,
+#conteudo #centro #meio .box_conteudo .parte7 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte7.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado7 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte7 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado8 a ,
+#conteudo #centro #meio .box_conteudo .parte8 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte8.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado8 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte8 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado9 a ,
+#conteudo #centro #meio .box_conteudo .parte9 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte9.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado9 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte9 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado10 a ,
+#conteudo #centro #meio .box_conteudo .parte10 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte10.jpg);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado10 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte10 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado11 a ,
+#conteudo #centro #meio .box_conteudo .parte11 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte11.html);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado11 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte11 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado12 a ,
+#conteudo #centro #meio .box_conteudo .parte12 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte12.html);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado12 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte12 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado13 a ,
+#conteudo #centro #meio .box_conteudo .parte13 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte13.html);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado13 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte13 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado14 a ,
+#conteudo #centro #meio .box_conteudo .parte14 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte14.html);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado14 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte14 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado15 a ,
+#conteudo #centro #meio .box_conteudo .parte15 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte15.html);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado15 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte15 a:hover {
+    background-position: -80px -25px;
+}
+
+#conteudo #centro #meio .box_conteudo #particionado16 a ,
+#conteudo #centro #meio .box_conteudo .parte16 a {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/downloads/particionado/metin2_bt_parte16.html);
+    position: relative;
+    float: left;
+    width: 80px;
+    height: 25px;
+    margin: 10px 0 0 10px;
+}
+#conteudo #centro #meio .box_conteudo #particionado16 a:hover ,
+#conteudo #centro #meio .box_conteudo .parte16 a:hover {
+    background-position: -80px -25px;
+}
+
+/*FIM - Box arquivo particionado sites do jogo*/
+
+/* --- Início box ativar cash --- */
+
+.box_esquerda_ativacao_cash {
+    float: left;
+    width: 500px;
+    min-height: 150px;
+}
+
+.box_esquerda_ativacao_cash_resultado {
+    float: left;
+    width: 500px;
+    min-height: 150px;
+}
+
+.box_esquerda_ativacao_cash .istrucoes_ativacao_cash {
+    margin-bottom: 8px !important;
+}
+
+.box_esquerda_ativacao_cash .input_ativar_cash {
+    border: 1px solid #000;
+    background-color: #333333;
+    color: #fff;
+    width: 410px;
+    height: 20px;
+    margin-right: 60px;
+    padding: 0px 5px 1px;
+}
+
+.box_captcha {
+    float: left;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    margin-top: 13px;
+    width: 485px;
+}
+
+.box_captcha .img_captcha {
+    border: 1px solid #43675B;
+    float: left;
+    width: 160px;
+    margin-right: 5px;
+    margin-bottom: 8px;
+}
+
+.box_captcha .instrucoes_captcha {
+    float: left;
+    margin: 0px 0 5px 0 !important;
+    width: 315px;
+    padding: 0;
+}
+
+.box_captcha .atualizar_captcha {
+    float: left;
+    width: 26px;
+    height: 25px;
+    border: 0;
+    background-image: url(../../imagem.ongame.net/site_novo/global/loja/reload_captcha.gif);
+    cursor: pointer;
+    margin-right: 3px;
+    margin-left: 0px;
+}
+
+.box_captcha .atualizar_captcha:hover {
+    background-position: 0 -25px;
+}
+
+.box_captcha .input_captcha {
+    border: 1px solid #000;
+    background-color: #333333;
+    float: left;
+    margin-top: 1px;
+    padding: 0px 5px 1px;
+    color: #fff;
+    width: 138px;
+    height: 20px;
+}
+
+.box_captcha .btn_botao_ativar_cash {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/loja/metin2_bt_ativar.jpg);
+    border: 0px solid red;
+    width: 70px;
+    height: 20px;
+    float: left;
+    margin: 4px 0 0 5px;
+    cursor: pointer;
+}
+
+.box_captcha .btn_botao_ativar_cash:hover {
+    background-position: 0 -20px;
+}
+
+.box_captcha .box_verificacao_captcha {
+    float: left;
+    width: 485px;
+    margin: 8px 0px 0px 0px;
+}
+
+.box_captcha .box_verificacao_captcha p {
+    float: left;
+    margin: 0px !important;
+}
+
+.box_direita_ativacao_cash {
+    float: left;
+    width: 225px;
+    height: 130px;
+}
+
+.box_direita_ativacao_cash .logo_ativacao_cash {
+    float: left;
+    margin: 45px 0 0 20px;
+}
+
+.logo_ativacao_cash_eprepag {
+    margin: 5px 0 0 20px !important;
+}
+
+.resultado_validacao {
+    float: left;
+    padding: 15px;
+}
+
+.resultado_validacao .ico {
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+}
+
+.resultado_validacao .ico.sucesso {
+    background-image: url(../../imagem.ongame.net/site_novo/global/loja/sucesso.png);
+}
+
+.resultado_validacao .ico.erro {
+    background-image: url(../../imagem.ongame.net/site_novo/global/loja/erro.png);
+}
+
+.resultado_validacao .loader {
+    background-image: url(../../imagem.ongame.net/site_novo/global/loja/loader.gif);
+    float: left;
+    width: 220px;
+    height: 19px;
+    margin: 5px 0 0 -7px;
+    clear: both;
+}
+
+.resultado_validacao .tente_novamente {
+    float: left;
+    clear: both;
+    padding: 5px 0;
+}
+
+.resultado_validacao p {
+    float: left;
+    margin: 1px 0 0 0 !important;
+}
+
+#box_conteudo_cupom {
+    border: none !important;
+}
+
+#box_conteudo_cupom * {
+    color: #fff;
+}
+
+#box_conteudo_cupom ul li {
+    margin-top: 3px;
+    padding-left: 15px;
+}
+
+#box_conteudo_cupom ul li:first-child {
+    margin-bottom: 6px;
+    padding-left: 0px;
+}
+
+#box_conteudo_cupom #box_input_cupom {
+    float: left;
+    margin: 20px 0 0 164px;
+}
+
+#box_conteudo_cupom #box_input_cupom .box_captcha {
+    float: left;
+    margin-top: 12px;
+    padding: 0px;
+}
+
+#box_conteudo_cupom #box_input_cupom .box_captcha .input_captcha {
+    width: 95px;
+}
+
+#box_conteudo_cupom #box_input_cupom p {
+    float: left;
+    margin: 8px 8px 6px 0px;
+}
+
+#box_conteudo_cupom .busca_noticias {
+    border: 1px solid #000;
+    background-color: #252324;
+    color: #666666;
+    width: 300px;
+    float: left;
+    padding: 6px;
+}
+
+#box_conteudo_cupom #btn_botao_ativar {
+    background: url(../../imagem.ongame.net/site_novo/m2/global/loja/metin2_bt_ativar.jpg);
+    border: 0px solid red;
+    width: 70px;
+    height: 20px;
+    float: left;
+    margin: 3px 0 0 5px;
+    cursor: pointer;
+}
+
+#box_conteudo_cupom #btn_botao_ativar:hover {
+    background-position: 0 -20px;
+}
+
+#box_conteudo_resgatar_cupom {
+    color: #fff;
+    float: left;
+    width: 707px;
+    border-top: 1px solid #222;
+    padding: 10px;
+}
+
+#box_conteudo_resgatar_cupom p {
+    color: #CEB798;
+    padding-top: 10px;
+}
+
+.box_esquerda_ativacao_cupom {
+    float: left;
+    width: 500px;
+    min-height: 150px;
+}
+
+.box_esquerda_ativacao_cupom .input_ativar_cupom {
+    border: 1px solid #000;
+    background-color: #333333;
+    color: #fff;
+    width: 292px;
+    height: 25px;
+    margin-left: 32px;
+    margin-top: 20px;
+    padding: 0px 5px 1px;
+    font-size: 9pt;
+}
+
+/*LOJA - ATIVAR CASH*/
+.min_height_epay {
+    min-height: 280px !important;
+}
+
+.min_height_eprepag {
+    min-height: 240px !important;
+}
+
+.box_direita_ativacao_cash .logo_qiwi_epay_ongame {
+    margin-top: 30px !important;
+    margin-left: 0px !important;
+}
+
+.box_direita_ativacao_cash .logo_eprepag {
+    margin-top: 10px !important;
+    margin-left: 40px !important;
+}
+
+.box_conteudo .artigo .table-valorescash {
+    width: 680px !important;
+    background: #0F0F0F !important;
+    margin: 15px auto 40px auto !important;
+    border: none !important;
+}
+
+.box_conteudo .artigo .table-valorescash tr:nth-child(even) {
+    background: #181818 !important;
+}
+
+.box_conteudo .artigo .table-valorescash tr:first-child th {
+    background-color: #403E3F !important;
+    font-size: 9pt;
+}
+
+.box_conteudo .artigo .table-valorescash tr th {
+    height: 24px !important;
+    border: none !important;
+    background-color: #323232;
+    color: #fff !important;
+    border-left: #0F0F0F solid 1px !important;
+}
+
+.box_conteudo .artigo .table-valorescash tr td {
+    height: 24px !important;
+    border: none !important;
+    color: #fff !important;
+    font-weight: bold;
+    border-left: #0F0F0F solid 1px !important;
+    width: 50%;
+}
+
+/* ------  Início - browser-detect ------- */
+#browser-update * {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+#browser-update {
+    background-color: #F9EDBE;
+    border: 1px solid #F0C36D;
+    display: none;
+}
+
+#browser-update .warning {
+    color: #DD4B39;
+    font-size: 25px;
+    padding: 5px 0;
+    text-align: center;
+}
+
+#browser-update p {
+    padding: 5px 0;
+    text-align: center;
+}
+
+#browser-update ul {
+    height: 86px;
+    margin: 5px auto;
+    position: relative;
+    width: 336px;
+}
+
+#browser-update ul li {
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+    width: 64px;
+    cursor: pointer;
+}
+
+#browser-update ul li a {
+    width: 100%;
+    float: left;
+    height: 100%;
+}
+
+#browser-update ul li a img {
+    border: none;
+}
+
+#browser-update ul li a span {
+    float: left;
+    width: 100%;
+}
+
+/* ------  Início - browser-detect ------- */
+.botao_voltar_ao_topo {
+    background: url(btn_topo.png) no-repeat scroll 0 0;
+    position: fixed;
+    width: 48px;
+    height: 59px;
+    cursor: pointer;
+    margin: 0px 0px 0 -80px;
+    display: none;
+    z-index: 99999;
+}
+
+#rank {
+	padding:50px;
+}

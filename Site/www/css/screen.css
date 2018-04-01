@@ -1,0 +1,762 @@
+body {
+	background-image:url(../images/bg-top.jpg);
+	background-position: center top;
+	background-repeat:no-repeat;
+	background-color:#000019;
+	margin:0;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+	color:#fff;
+	font-family:calibri, verdana, arial;
+}
+a{
+	color:#fff;
+	margin-top:5px;
+	list-style:none;
+	font-family:calibri, verdana, arial;
+	text-decoration:none;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+	font-weight:bold;
+}
+a:hover{
+	color:#ffba00;
+	margin-top:5px;
+	list-style:none;
+	font-family:calibri, verdana, arial;
+	text-decoration:none;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+	font-weight:bold;
+}
+a:hover{ 
+	background-position:left bottom;
+}
+article, aside, dialog, figure, footer, header, 
+hgroup, nav, section, blockquote { 
+	display: block;
+	margin:0;
+}
+.bt-cancelar {
+	width:97px;
+	height:39px;
+	background:url(../images/bt-cancelar.jpg);
+	text-indent:-9999px;
+	float:right;
+	margin:0px;
+}
+.bt-cancelar a:hover{
+	width:97px;
+	height:39px;
+	background:url(../images/bt-cancelar.jpg);
+	text-indent:-9999px;
+	float:right;
+	margin:0px;
+}
+.pin {
+	width:33px;
+}
+#container {
+	width:960px;
+	margin:0 auto;
+}
+#captchbox{
+	width:220px;
+	float:left;
+	padding-top:15px;
+}
+#captchbox .bt{
+	float:right;
+	margin-top:10px;
+	padding:5px;
+}
+#captchbox .tb{
+	width:90px;
+	margin-top:10px;
+	border:none;
+	padding:5px;
+	
+}
+header {
+	height:295px;
+}
+header .logo  {
+	display: block;
+	background:url(../images/logo.jpg); 
+	width: 225px; 
+	height:146px; 
+	margin:0 auto;
+} 
+header .logo a{ 
+	display: block; 
+	width: 225px; 
+	height: 146px; 
+	text-indent:-9999px;
+	margin:0 auto; 
+	float:right;
+}
+nav {
+}
+nav ul li.bt-noticias{ 
+	width:30px; 
+}
+nav ul li.bt-noticias a{
+	background-image:url(../images/menu/bt-noticias.png);
+	width:30px;
+	height:5px;
+	margin-left:5px;
+}
+nav ul {
+	padding:0;
+	list-style:none;
+	margin:0;
+	margin-top:60px;
+}
+nav ul li a{ 
+	background-position:left top no-repeat;
+	height:28px;
+	display:block;
+	float:left;
+}
+nav ul li{height:19px;
+	display:block;
+	float:left;text-indent:-99999px;
+	overflow:hidden;
+}
+#sub{
+	background-image:url(../images/menu/bg-sub.png);
+	background-position:bottom left;
+	height:0px;
+	width:100%;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+	opacity:0.0;
+	filter:alpha(opacity=0)
+	color:#fff;
+	float:left;
+}
+
+#sub:hover{
+	background-image:url(../images/menu/bg-sub.png);
+	background-position:bottom left;
+	height:280px;
+	width:100%;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+	opacity:1.0;
+	filter:alpha(opacity=100)
+	color:#fff;
+	float:left;
+}
+.bt-postar {
+	background-image:url(../images/bt-npost.jpg);
+	background-repeat:no-repeat;
+	width:116px;
+	height:39px;
+	text-indent:-9999px;
+	margin-bottom:10px;
+	float:right;
+	margin-right:10px;
+}
+#sub .noticias{
+	width:50px;
+	height:10px;
+	float:left;
+}
+#sub .introducao{
+	width:10px;
+	height:10px;
+	float:left;
+}
+#sub ul{
+	color:#fff;
+	margin-top:10px;
+}
+#sub ul li{
+	color:#fff;
+	margin-top:2px;
+	margin-left:-7px;
+	list-style:none;
+}
+#sub ul li a{
+	color:#fff;
+	margin-top:5px;
+	list-style:none;
+	font-family:calibri, verdana, arial;
+	text-decoration:none;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+}
+#sub ul li a:hover{
+	color:#ffba00;
+	margin-top:5px;
+	list-style:none;
+	font-family:calibri, verdana, arial;
+	text-decoration:none;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+}
+/* FIM HEADER */
+/* CONTEUDO */
+#content {
+	
+}
+#loginBox{
+	background-image:url(../images/login/box.png);
+	background-repeat:no-repeat;
+	width:260px;
+	height:260px;
+	float:left;
+	background-position:center;
+}
+#loginBox .cont{
+	margin-top:12px;
+	padding:20px;
+}
+#loginBox .bt{
+	float:right;
+	margin-top:-30px;
+}
+#loginBox .inputs{
+	background-color:#b7b7c0;
+	border:none;
+	height:10px;
+	width:120px;
+	margin-bottom:10px;
+	color:#000;
+	font-weight:bold;
+	padding:10px;
+	
+}
+#loginBox .download{
+	width:245px;
+	height:95px;
+	margin:0 auto;
+	
+}
+#loginBox p.logout {
+	width:62px;
+	height:28px;
+	display:block;
+	float:right;
+}
+#loginBox p.logout a{
+	width:62px;
+	height:28px;
+	background-image:url(../images/login/logout.jpg);
+	background-repeat:no-repeat;
+	text-indent:-9999px;
+	display:block;
+	float:right;
+}
+#loginBox ul li.bt-alterar-senha{ 
+	width:118px; 
+}
+#loginBox ul li.bt-alterar-senha a{
+	background-image:url(../images/login/bt-alterar.png);
+	width:118px;
+	height:38px;
+	margin:0;
+}
+#loginBox ul li.bt-alterar-dados{ 
+	width:118px; 
+}
+#loginBox ul li.bt-alterar-dados a{
+	background-image:url(../images/login/bt-alterar-dados.png);
+	width:118px;
+	height:38px;
+	margin:0;
+}
+#loginBox ul li.bt-gerar-pin{ 
+	width:118px; 
+}
+#loginBox ul li.bt-gerar-pin a{
+	background-image:url(../images/login/bt-gerar-pin.png);
+	width:118px;
+	height:38px;
+	margin:0;
+}
+#loginBox ul li.bt-ferramentas{ 
+	width:118px; 
+}
+#loginBox ul li.bt-ferramentas a{
+	background-image:url(../images/login/bt-ferramentas.png);
+	width:118px;
+	height:38px;
+	margin:0;
+}
+#loginBox ul li.bt-update-ranking{ 
+	width:118px; 
+}
+#loginBox ul li.bt-update-ranking a{
+	background-image:url(../images/login/bt-update-ranking.png);
+	width:118px;
+	height:38px;
+	margin:0;
+}
+#loginBox ul {
+	padding:0;
+	list-style:none;
+	margin:0;
+	margin-top:10px;
+}
+#loginBox ul li a{ 
+	height:38px;
+	display:block;
+	float:left;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+	color:#fff;
+	opacity:0.5;
+	filter:alpha(opacity=5);
+}
+#loginBox ul li{
+	height:38px;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+}
+#loginBox .cash{
+	height:10px;
+	width:200px;
+	float:left;
+	margin-top:10px;
+}
+#donatePromo{
+	background-image:url(../images/box.png);
+	width:450px;
+	height:270px;
+	float:left;
+	background-position:center;
+}
+#Historia .cont{
+	
+}
+#Historia{
+	background-image:url(../images/Box-maior.png);
+	width:450px;
+	height:270px;
+	float:left;
+	background-position:center;
+}
+#donatePromo .cont{
+	padding:20px;
+}
+#BoxEsquerdo{
+	background-image:url(../images/login/box.png);
+	background-repeat:no-repeat;
+	width:257px;
+	height:260px;
+	float:left;
+}
+#noticias{
+	background-image:url(../images/box.png);
+	width:400px;
+	height:200px;
+	float:left;
+	background-position:center;
+}
+#noticias .cont{
+	padding:20px;
+}
+#noticias .noticiabox{
+	width:390px;
+	height:20px;
+	padding:5px;
+	border-bottom:1px #1a1c68 dashed;
+}
+#noticias .data{
+	width:180px;
+	height:10px;
+	padding-right:5px;
+	float:right;
+}
+#noticias .noticia{
+	width:35px;
+	height:18px;
+	background-image:url(module/ne.jpg);
+	float:left;
+	margin-top:6px;
+	margin-right:6px;
+}
+#noticias .event{
+	width:35;
+	height:18px;
+	background-image:url(module/ev.jpg);
+	float:left;
+	margin-top:6px;
+	margin-right:6px;
+}
+#noticias .update{
+	width:35px;
+	height:18px;
+	background-image:url(module/up.jpg);
+	float:left;
+	margin-top:6px;
+	margin-right:6px;
+}
+#ranking{
+	background-image:url(../images/box-ranking.png);
+	width:250px;
+	height:457px;
+	float:right;
+	background-position:center;
+}
+#ranking .cont{
+	padding:30px;
+	margin-top:70px;
+}
+#ranking .nome{
+	width:50px;
+	height:22px;
+	float:left;
+	padding-top:5px;
+}
+#ranking .level{
+	width:30px;
+	height:22px;
+	float:right;
+	margin-right:10px;
+	padding-top:10px;
+}
+#minicontainer{
+	background-image:url(../images/bg-boxs.png);
+	width:692px;
+	float:right;
+	margin-left:7px;
+	background-position:center;
+}
+#minicontainer .id{
+	height:20px;
+	float:left;
+	width:43px;
+	font-size:12px;
+	color:#6b6ba5;
+
+}
+#minicontainer .status{
+	width:18px;
+	float:left;
+	color:transparent;
+}
+#minicontainer .post{
+	padding:5px;
+	border-bottom:1px #1a1c68 dashed;
+	background-image:url(../images/bg-boxs.png);
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+}
+#minicontainer .post:hover{
+	padding:5px;
+	border-bottom:1px #1a1c68 dashed;
+	background-image:url(../images/bg-boxs.png);
+	background:#090936;
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+}
+#minicontainer #usershot {
+}
+#minicontainer .vizualizacoes{
+	height:20px;
+	float:right;
+	margin-right:10px;
+	width:70px;
+	font-size:10px;
+}
+#minicontainer .data{
+	height:20px;
+	float:right;
+	margin-right:10px;
+	
+}
+#minicontainer .data1{
+	height:10px;
+	float:right;
+	margin-right:180px;
+	
+}
+
+#minicontainer .forumtop{
+	height:50px;
+	background-image:url(../images/topforum.jpg);
+}
+#minicontainer .forumfixo{
+	background-image:url(../images/bg-boxs.png);
+	border:1px #1a1c68 dashed;
+	border-radius: 10px;
+	margin-bottom:5px;
+	padding:5px;
+}
+#minicontainer .autor{
+	height:30px;
+	float:right;
+	margin-right:50px;
+	width:80px;
+	font-size:11px;
+	text-align:center;
+}
+#minicontainer .bt-postar{
+	float:right;
+	margin-right:10px;
+}
+.red a{
+	color:red;
+}
+#minicontainer .cont{
+	padding:5px;
+	
+}
+#minicontainer .minifoto{
+	width:50px;
+	height:50px;
+	background:red;
+}
+#minicontainer #comentarios{
+	width:620px;
+	margin:0 auto;
+}
+#minicontainer #comentarios .comentario{
+	height:70px;
+	margin-bottom:10px;
+	height:100%;
+}
+#minicontainer #comentarios .cont{
+	padding:10px;
+	clear:both;
+}
+#minicontainer #comentarios .top{
+	width:100%;
+	height:15px;
+	padding:5px;
+	float:left;
+	border-bottom:1px #1a1c68 dashed;
+	border-top:1px #1a1c68 dashed;
+	background:#09092d;
+}
+#minicontainer #comentarios .autor{
+	width:50px;
+	float:left;
+}
+#minicontainer #comentarios .data{
+	width:90px;
+	float:right;
+}
+#minicontainer #novocomentario{
+	width:620px;
+	height:150px;
+	margin:0 auto;
+}
+#minicontainer #novocomentario .textarea{
+	width:620px;
+	height:100px;
+	margin:0 auto;
+	background:#00001a;
+	color:#fff;
+	border-color:#1a1c68;
+	font-family:calibri, verdana, arial;
+}
+#minicontainer .textareanovo{
+	background:#00001a;
+	width:100%;
+	height:300px;
+	color:#fff;
+	border:1px solid #1a1c68;
+	font-family:calibri, verdana, arial;
+	font-size:17px;
+}
+#minicontainer .titulonovo{
+	background:#00001a;
+	width:50%;
+	margin-bottom:15px;
+	padding:5px;
+	color:#fff;
+	border:1px solid #1a1c68;
+	font-family:calibri, verdana, arial;
+}
+#minicontainer .bt-forumlist {
+	background-image:url(../images/bt-forumlist.jpg);
+	background-repeat:no-repeat;
+	width:116px;
+	height:39px;
+	text-indent:-9999px;
+	margin-bottom:10px;
+	float:right;
+	margin-right:10px;
+}
+#minicontainer .bt-usershotlist {
+	background-image:url(../images/bt-usershotlist.jpg);
+	background-repeat:no-repeat;
+	width:116px;
+	height:39px;
+	text-indent:-9999px;
+	margin-bottom:10px;
+	float:right;
+	margin-right:10px;
+}
+#minicontainer #busca{
+	width:440px;
+	height:10px;
+	margin:0 auto;
+	padding:30px;
+}
+#minicontainer #busca .input{
+	background:#00001a;
+	color:#fff;
+	border:1px solid #1a1c68;
+	font-family:calibri, verdana, arial;
+	padding:5px;
+}
+#minicontainer #busca .bt-buscar{
+	background:url(../images/bt-buscar.jpg);
+	height:39px;
+	border:none;
+	text-indent:-9999px;
+	width:79px;
+	opacity:0.5;
+	filter:alpha(opacity=5)
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+}
+#minicontainer #busca .bt-buscar:hover{
+	background:url(../images/bt-buscar.jpg);
+	height:39px;
+	border:none;
+	text-indent:-9999px;
+	width:79px;
+	opacity:1.0;
+	filter:alpha(opacity=10)
+	transition:all 2s; 
+	-moz-transition:all 2s;
+	-o-transition:all 2s; 
+	-webkit-transition:all 2s;
+}
+#minicontainer .h2forumlivre{
+	background:url(../images/FORUM-LIVRE.png) no-repeat;
+	width:295px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+	
+}
+#minicontainer .h2forumscreen{
+	background:url(../images/top-forumscreen.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2eventos{
+	background:url(../images/Eventos.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2personagens{
+	background:url(../images/Personagens.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2monstros{
+	background:url(../images/Monstros.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2itens{
+	background:url(../images/Itens.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2quests{
+	background:url(../images/Quests.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2guiabasico{
+	background:url(../images/Guia-Basico.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2guiaintermediario{
+	background:url(../images/Guia-Intermediario.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2guiaavancado{
+	background:url(../images/Guia-Avancado.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2pvp{
+	background:url(../images/pvp.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2itemmalll{
+	background:url(../images/ItemMall.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .h2updates{
+	background:url(../images/Update.png) no-repeat;
+	width:436px;
+	height:67px;
+	text-indent:-9999px;
+	margin:0 auto;
+}
+#minicontainer .texto {
+	margin:20px 20px;
+	
+	width:100%;
+}
+#minicontainer .foto {
+	margin:0 auto;
+	width:100%;
+	display:block;
+}
+footer{
+	width:100%;
+	height:432px;
+	background-image:url(../images/footer.jpg);
+	clear:both;
+}

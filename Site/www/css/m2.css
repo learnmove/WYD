@@ -1,0 +1,3903 @@
+/*------------------------- INÍCIO Classes gerais --------------------/**/
+body{
+    background-color: #000;
+}
+
+ol.lista-personalizada, ol.lista-personalizada li{
+    list-style: decimal inside;
+    padding-left: 15px;
+    color: #D81823;
+}
+
+ul.lista-personalizada, ul.lista-personalizada li{
+    list-style: disc inside;
+    padding-left: 15px;
+    color: #D81823;
+}
+
+.fonteBranca{
+    color:#fff !important;
+}
+.italico{font-style:italic !important;}
+.fonteAmarela{
+    color:#B19A1A !important;
+}
+.fonteColor_1{color:#CEB798;}
+.fonteColor_2{color:#D81823 !important;}
+.fonteColor_3{color:#CEB798;}
+.fonteColor_4{color:#00000;}
+.negrito{
+    font-weight: bold !important;
+}
+.semNegrito{
+    font-weight: normal !important;
+}
+.semSublinhado{text-decoration:none !important;}
+.box_passo_2,.box_passo_3,.box_passo_4,.box_passo_5,.box_passo_6,.box_passo_7,.box_passo_8,.box_passo_9{
+	display:none !important;
+}
+.sublinhado{
+	text-decoration:underline;
+}
+.sem_borda{border:0px;}
+.text_center{
+    text-align: center !important;
+}
+.margin-bottom{
+    margin-bottom: 15px;
+}
+.padding-top{
+    padding-top: 15px;
+}
+.float_left{float:left;}
+.espaco_esquerdo{margin-left: 20px;}
+#conteudo{
+    border:none;
+}
+.link{
+    cursor: pointer;
+}
+.padding_10_0{padding:10px 0;}
+.espaco_esquerdo_tabela_leopold_monstro{
+    margin-left: 100px;
+}
+.espaco_esquerdo_tabela_promocao_1{
+    margin-left: 200px;
+}
+.espaco_esquerdo_tabela_promocao_2{
+    margin-left: 150px;
+}
+.espaco_esquerdo_tabela_armas{
+    margin-left: 246px;
+}
+.espaco_esquerdo a{
+    color: #D81823!important;
+}
+.espaco_esquerdo b{
+}
+.img_central{display: table;margin: 0 auto;}
+.centralizar{
+    text-align: center;
+}
+.centralizar_1{   
+    margin-left:250px;
+}
+.centralizar_2{
+    margin-left:315px;
+}
+.centralizar_3{
+    margin-left:160px;
+}
+.centralizar_4{
+    margin-left:130px;
+}
+.centralizar-skills{
+    text-align: center;
+    float:left;
+    margin-left:20px;
+}
+.alinhar_direita{
+    float: right;
+}
+.alinhar_esquerdo{
+    float: left;
+}
+.espaco_titulo_20{margin-left:20px;margin-top:7px;}
+/*INICIO - Tabelas guia do jogo*/
+.sem_fundo{background:none !important;}
+.titulo_table thead tr td{
+	background-color:#3F3F3F;
+	color:#CEB798 !important;
+	font-weight:bold;
+}.titulo_table tbody tr td{color:#CEB798 !important;}
+/*FIM - Tabelas guia do jogo*/
+.texto_esquerdo{text-align:left !important;}
+.texto_direita{text-align:right !important;}
+.vermelho{
+    color: red !important;
+}
+.azul{
+    color: blue;
+}
+.img_centro {
+    margin: 7px 0;
+    border: 3px solid #B19A18;
+}
+.bot_altura_19 {
+    float:left;
+}
+.margin-centro{
+    margin-left: 200px;
+}
+.margin-top {
+    margin-top: 15px;
+}
+.padding-bottom{
+    padding-bottom: 15px;
+}
+.botao_posicao_anterior{    
+    width: 242px;
+    height: 53px;
+    border: 0px solid green;
+}
+.botao_posicao_listar{
+    float: left;
+    width: 242px;
+    height: 53px;
+    border: 0px solid green;
+}
+.botao_posicao_proximo{
+    float: left;
+    width: 242px;
+    height: 53px;
+    border: 0px solid green;
+}
+.posicao_imagem{
+    margin:-3px 0 0 0px;
+    float:left;
+}
+/*------------------------- FIM classes gerais ---------------------/**/
+/*---------------------------- INÍCIO Menu -------------------------/**/
+#conteudo #menu {
+    color:#CEB798!important;
+    top:4px;
+}
+
+#conteudo #menu a{
+    color:#e1e1e0;
+    text-decoration:none;
+    padding-top: 2px;   
+    font-weight: bold;
+    text-shadow: 0px 0px  4px #2E0200, 0px 0px  4px #2E0200, 0px 0px 5px #2E0200;
+}
+#menu a:hover{
+    color:#fff!important;
+    text-shadow: none!important;
+    text-shadow: 0px 0px  1px #fff!important;
+}
+#menu_noticia{   
+    width:59px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:30px;
+    color: #CEB798;
+    text-decoration:none;
+    font-weight: bold;
+}
+
+#menu_guia{    
+    width:115px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:39px;    
+}
+#menu_ranking{    
+    width:57px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:41px;    
+}
+#menu_comunidade{    
+    width:92px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:50px;    
+}
+#menu_reliquia{    
+    width:92px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:50px;    
+}
+#menu_download{   
+    width:81px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:50px;    
+}
+#menu_suporte{    
+    width:70px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:50px;
+    border:0px solid blue;
+}
+#menu_loja{    
+    width:35px;
+    height:16px;
+    position: relative;
+    float:left;
+    display:block;
+    margin-top:10px;
+    margin-left:50px;    
+}
+#menu_barra{
+    position:absolute;
+    width:998px;
+    margin:0 auto;
+    background-color:#262525;
+    border:1px solid #2a2a2a;
+    height:20px;
+    z-index:1000;
+    display:none;
+}
+#menu_barra ul{
+    margin:0;
+    padding:0 0px;
+    display:none;
+}
+#menu_barra li{
+    display:block;
+    float:left;
+    margin: 1px 4px 4px -1px;
+    padding: 0 3px;
+    list-style: disc !important; 
+    color:#CEB798;  
+}
+#menu_barra li a{
+    color:#CEB798;
+    text-decoration:none;
+}
+#menu_barra li a:hover{
+    color:#D81823;
+}
+#menu_barra #barra_0{
+    margin-left:19px;
+}
+#menu_barra #barra_1{
+    margin-left:111px;
+}
+#menu_barra #barra_2{
+    margin-left:235px;
+}
+#menu_barra #barra_3{
+    margin-left:380px;
+}
+#menu_barra #barra_4{
+    margin-left:530px;
+}
+#menu_barra #barra_5{
+    margin-left:696px;
+}
+#menu_barra #barra_6{
+    margin-left:780px;
+}
+#menu_barra #barra_7{
+    margin-left:690px;
+}
+#conteudo #logotipo{
+	width: 335px;
+	height: 107px;
+	margin-top: 12px;
+	margin-right: auto;
+	margin-bottom: 51px;
+	margin-left: 330px;
+}
+.tabela_padrao{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+.tabela_padrao thead tr td{
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: solid 1px #444;
+    background: #403E3F;
+    font-weight: 800;
+}
+.tabela_padrao tr td{
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: solid 1px #444;
+    padding: 6px;
+}
+.tabela_padrao .texto_centralizado{
+    text-align:center;
+}
+/*-------------------------- FIM Menu -------------------------/**/
+/*---------------------------------- INÍCIO CONTEÚDO -------------------------------/**/
+/*-------------- INÍCIO BOX_DIREITO --------------/**/
+/*novo_login*/
+#conteudo #centro #direito #login{
+    background: #000;
+    border: 1px solid #2a2a2a;
+}
+#new_login .titulo_conteudo {
+    width:238px;
+}
+#new_login .titulo_conteudo #criar_conta{
+    float:right;
+    width:100px;
+    height:20px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_bt_criarconta.jpg) no-repeat scroll 0 0;
+    margin: 5px 5px 0 0;
+}
+#new_login .titulo_conteudo #logout{
+    float:right;
+    width:70px;
+    height:20px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_bt_logout.jpg) no-repeat scroll 0 0;
+    margin: 5px 5px 0 0;
+}
+#new_login .titulo_conteudo #criar_conta:hover, #new_login .titulo_conteudo #logout:hover{
+    background-position:0px -20px;
+}
+#new_login .artigo {
+    width: 100%;
+}
+.artigo p{
+   color: #CEB798;
+    margin: 12px 15px;
+}
+.artigo b{
+    color: #CEB798;
+}
+.data_artigo{
+    float: left;
+    border: 0px solid #CEB798;
+    padding: 4px 0 7px 0px;
+    float: left;
+    font-weight: bold;
+    color: #D81823;
+    width: 720px;
+}
+.data_artigo span{
+    color: #D81823;
+    font-weight: normal;
+}
+#new_login .artigo #btLogar{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_bt_ok.jpg) no-repeat scroll 0 0;
+    float:right;
+    width:54px;
+    height:54px;
+    margin-top:-21px;
+    margin-right:5px;
+}
+#new_login .artigo #btLogar:hover{
+    background-position:0 -54px;
+}
+#new_login .artigo #lembrar_senha{
+    margin-left:20px;
+    width: 218px;
+    float: left;
+    color:#585757;
+    padding-top: 7px;
+    text-decoration: underline;
+    display: block;
+}
+#new_login .artigo #lembrar_senha:hover{color:#D81823 !important;}
+#new_login .artigo #lembrar_senha img{
+    margin: 0 3px 0 0;
+}
+#new_login .artigo p{
+    margin: 10px 0 7px 20px;
+}
+#new_login .artigo .opcoes_logout{
+    flot: left;
+    margin-left: 30px;
+    width: 200px!important;
+}
+#new_login .artigo .opcoes_logout a{
+    flot: left;
+    color: #CEB798;
+    text-decoration:none;
+}
+#new_login .artigo .opcoes_logout a:hover{
+    color: #D81823;
+    text-decoration:underline;
+}
+#new_login .artigo .opcoes_logout li img{
+    margin-right: 5px;
+}
+#new_login .artigo input{
+    background:#262525;
+    float:left;
+    border:none;
+    padding:4px;
+    color:#585757;
+    margin-top:10px;  
+    margin-left:20px; 
+    width:144px; 
+}
+#new_login .artigo #conectar_facebook{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_bt_facebook.png) no-repeat scroll 0 0;
+    float:left;
+    width:186px;
+    height:24px;
+    display:block;     
+    margin-left:26px;
+    margin-top:10px;
+    left:0;
+}
+#new_login .artigo #conectar_facebook:hover{
+    background-position:0 -24px;
+}
+#cboxLoadedContent{
+    border: 1px solid #2a2a2a;
+    color: orange;
+    width:238px;
+    height: 50px;
+    background: #0F0F0F!important;
+}
+#cboxLoadedContent #btLogar {
+    margin-right:25px !important;
+}
+#cboxLoadedContent #criar_conta {
+    margin-right: 39px !important;
+}
+#cboxLoadedContent .titulo_conteudo {
+    width: 250px!important;
+}
+/*FIM -LOGIN*/
+/*DOWNLOAD*/
+#btDownload a{
+    position: relative;
+    float:left;
+    margin: 0px;
+    background: url(https://imagem.ongame.net/site_novo/m2/global/metin2_bt_download.gif) top center no-repeat;
+    height: 60px;
+    position: relative;
+    width: 240px;
+}
+
+
+#btDownload a:hover{
+
+}
+.margin-left-20{
+    margin-left: 20px;
+}
+.margin-top-10{
+    margin-top: 10px;   
+}
+.float-left{
+    float: left;
+}
+.margin-bottom-10{
+    margin-bottom
+}
+
+/*FIM DOWNLOAD*/
+/*Box SERVER TIME*/
+#box_server_time{
+    width: 238px;
+    float: left;
+    margin-top: 12px;
+    border: 1px solid #262525;
+}
+#cronometro{
+	color: #ffffff !important;
+}
+#artigo_server_time{
+	text-align: center;
+	width: 238px;
+	padding: 10px 0;
+	min-height: 30px;
+	color: #fff;
+}
+/*FIM Box SERVER TIME*/
+
+/*FIM DOWNLOAD*/
+/*facebook*/
+#conteudo #centro #direito #box_facebook{
+    border:none;
+    background-color: #262525;
+    margin-top: 10px;
+}
+/*fim facebook*/
+/*BANNER INTERNA*/
+#conteudo #centro #direito #banner_eventos{
+    width:240px;
+    right:0px;
+    border:none;    
+    margin: 10px 0 0 0;
+}
+#banner_eventos #banner_interno{
+    margin:0;
+    padding:0;
+    width:240px;
+    height:200px;
+}
+#banner_eventos #cycle-control{
+    position: relative; 
+    float:right;   
+    height:13px;
+    margin-top:-19px;
+    z-index:1000; 
+}
+#banner_eventos #cycle-control a{
+    width:13px;
+    height:13px;
+    background-image: url(ico_banner.gif);
+    background-position: 0 0;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    cursor:pointer;
+    display:block;
+    float:left;
+    margin: 0 3px;
+    color:#CEB798;
+    text-decoration: none;
+    text-align:center;
+}
+#banner_eventos #cycle-control .activeSlide{
+    background-position:0 -13px;
+}
+#banner_eventos #cycle-control a:hover{
+    background-position:0 -13px;
+}
+/*FIM - BANNER*/
+/*---ENQUETE---*/
+#conteudo #centro #direito #box_enquete{
+    border: 1px solid #262525;
+    width: 239px;
+}
+#conteudo #centro #direito #box_enquete #enquete_header{
+    float:left;
+    width:239px;
+    height:30px;
+    display:block;
+}
+#box_enquete p, #box_enquete span{
+    float:left;
+    color:#CEB798;
+}
+#box_enquete label{
+    color:#CEB798;
+}
+#box_enquete p{
+    color:#CEB798;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+#box_enquete input{
+    margin-right:10px;    
+}
+#box_enquete #enquete_conteudo, #box_enquete #enquete_resultado{
+    width:210px;
+    height:140px;
+    padding: 8px 15px 0 15px;
+    float:left;   
+}
+#box_enquete #enquete_conteudo span, #box_enquete #enquete_resultado span{
+    width:210px;
+    margin: -1px;
+    padding: 0;
+}
+#box_enquete #enquete_resultado, #btMostraEnquete{
+    display:none;
+}
+#box_enquete #btResultEnquete, #box_enquete #btMostraEnquete{
+    text-align:right !important;
+    color:#333;
+    width: 232px;
+    text-decoration:underline;
+    cursor:pointer;
+}
+#box_enquete #enquete_resultado li{
+    width:100%;
+    color:#CEB798;      
+}
+.enquente_resp_linha{
+    margin:2px 0;
+    padding:0;
+}
+.enquete_pergunta{
+    position:relative;
+    float:left;
+    width:130px;
+    display:block;
+    color:#CEB798;   
+}
+.enquete_votos{
+    position:relative;
+    float:left;    
+    display:block;
+    color:#CEB798;
+    width:30px;
+}
+.enquete_porcento{
+    position:relative;
+    float:left;
+    display:block;
+    color:#CEB798;
+}
+/*---FIM ENQUETE---*/
+/*Início quickmenu */
+#conteudo #centro #direito #box_quick_menu{
+    border: 1px solid #262525;
+    background-color: #000;
+    height:155px;
+    width:238px;
+}
+#conteudo #centro #direito #quick_header{
+    float:left;
+    width:239px;
+    height:30px;
+}
+    
+#conteudo #centro #direito #box_quick_menu li{
+    float: left;
+}
+#b1_quick{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_forum.jpg") no-repeat 
+    scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    width: 116px;
+    margin: 0px;
+    border-right: #333 solid 1px;
+}
+#b1_quick:hover{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_forum_over.gif") no-repeat scroll 0 0 transparent;
+}
+#b2_quick{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_download.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    width: 121px;
+}
+#b2_quick:hover{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_download_over.gif") no-repeat scroll 0 0 transparent;
+}
+#b3_quick{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_guia.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    width: 116px;
+    margin: 0px;
+    border-right: #333 solid 1px;
+    border-top: #333 solid 1px;
+    border-bottom: #333 solid 1px;
+}
+#b3_quick:hover{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_guia_over.gif") no-repeat scroll 0 0 transparent;
+}
+#b4_quick{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_ranking.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 40px;
+    width: 121px;
+    margin: 0px;
+    border-top: #333 solid 1px;
+    border-bottom: #333 solid 1px;
+}
+#b4_quick:hover{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_ranking_over.gif") no-repeat scroll 0 0 transparent;
+    
+}
+#b5_quick{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_loja.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 39px;
+    width: 116px;
+    margin: 0px;
+    border-right: #333 solid 1px;
+}
+#b5_quick:hover{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_loja_over.gif") no-repeat scroll 0 0 transparent;
+}
+#b6_quick{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_suporte.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 39px;
+    width: 121px;
+    margin: 0px;
+}
+#b6_quick:hover{
+    background: url("https://imagem.ongame.net/site_novo/m2/global/quick_menu/metin2_suporte_over.gif") no-repeat scroll 0 0 transparent;
+}
+/*Fim QuickMenu */
+/*------------------------------------- FIM BOX_DIREITO ----------------------------------------/**/
+/*--------------------- INÍCIO conteúdo generico usado em varias páginas --------------------/**/
+#conteudo #centro{
+    background-color: #0F0F0F;
+    float: left;
+    border: 1px solid red;
+    position: relative;
+    min-height: 235px;
+    border: 1px solid #2E2C2D;
+    padding: 15px 10px;
+    width: 979px;    
+}
+#conteudo #centro #meio{
+    width: 730px;
+    min-height: 600px; 
+}
+#conteudo #centro #meio .titulo{
+    width: 100%;    
+    height: 30px;
+    border-bottom: 1px solid #D81823;
+}
+#conteudo #centro #meio .titulo img{
+    float: left;
+    margin-top: 5px;
+}
+#conteudo #centro #meio .titulo h1{
+    float: left;
+    text-transform: uppercase;
+    color: #CEB798;
+	font-size:11pt; 
+    font-weight:bold;
+    margin-top: 4px;
+    margin-left: 3px;
+}
+#conteudo #centro #meio .titulo h1 span{
+    color: #D81823;
+}
+#conteudo #centro #meio #breadcrumbs{
+    height: 32px;
+    float: right;
+}
+#conteudo #centro #meio #breadcrumbs li{
+    float:left;
+    padding:6px 4px;
+    color:#CEB798;
+}
+#conteudo #centro #meio #breadcrumbs span{
+    color:#CEB798;  
+}
+#breadcrumbs li a:link, #breadcrumbs li a:visited{
+    text-decoration:none;
+    color:#CEB798;
+}
+#conteudo #centro #meio #breadcrumbs li a:hover {
+    color: #D81823;
+    text-decoration:underline;
+}
+#conteudo #centro #meio #breadcrumbs li:last-child a{
+    text-decoration:underline;
+    color: #D81823;
+}
+#conteudo #centro #meio .box_conteudo {
+    width:728px;
+    float: left;
+    border: 1px solid #2A2A2A;
+    min-height: 50px;
+	margin-bottom:7px;	
+	margin-top:7px;
+}
+.box_conteudo .titulo_conteudo {
+    width:727px;
+    height: 30px;
+    float: left;
+    border-bottom: 1px solid #262525;
+	padding-top: 3px;
+}
+.box_conteudo .titulo_conteudo span {
+    float: left;
+    color: #CEB798;
+    font-weight: 800;
+}
+.box_conteudo .titulo_conteudo h2 {
+    float: left;
+    color: #D81823;
+}
+.box_conteudo .titulo_conteudo p{
+    float: left;
+    margin: 7px 6px 0px 15px;
+}
+.box_conteudo .artigo {
+    width:727px;
+    float: left;
+    min-height: 50px;
+	padding-bottom: 10px;
+}
+.box_conteudo .artigo p{
+    color: #CEB798;
+    margin: 12px 15px;
+}
+.box_conteudo .artigo a{
+    color: #D81823;
+    cursor: pointer;
+}
+.box_conteudo .artigo a:hover{
+    color: #D81823;
+    text-decoration:underline;  
+}
+.box_conteudo .artigo a:hover span{
+    color:#D81823;
+    text-decoration: underline;
+}
+/*Estrutura da div titulo da página*/
+#centro #meio #titulo_da_pagina{
+    border: 1px solid red;    
+    position: relative;
+    width: 685px;
+    height: 25px;
+}
+/*Estrutura das divs meio*/
+#centro #meio #box_meio_1{
+    border: 1px solid black;
+    position: relative;
+    width: 685px;
+    height: 163px;
+    margin: 10px auto;
+}
+#centro #meio #box_meio_2{
+    border: 1px solid black;
+    position: relative;
+    width: 685px;
+    height: 150px;
+    margin: 10px auto;
+}
+#centro #meio #box_meio_3{
+    border: 1px solid blue;
+    position: relative;
+    width: 585px;
+    height: 100px;
+    margin: 10px auto;
+}
+#centro #meio #box_meio_4{
+    border: 1px solid black;
+    position: relative;
+    width: 685px;
+    height: 180px;
+    margin: 10px auto;
+}
+/*----------- FIM conteúdo generico usado em varias páginas -----------/**/
+/*------------------------ INÍCIO conteúdo home --------------------/**/
+/*BANNER HOME*/
+#centro #meio #banner{
+    border: 1px solid #2a2a2a;
+    background:#000;
+    width:727px;
+}
+#banner #banner_home{
+    margin:0;
+    padding: 0;   
+}
+#banner #banner_home .banner_img{
+    position:relative;
+    float:left;
+    width:727px;
+    height:233px;
+}
+#banner #banner_home li{
+    width:727px;
+    height:233px;
+}
+#banner #banner_home li .box_texto{
+    background:#000;    
+    position: absolute; 
+    float:right;
+    bottom:3px; 
+    right:0px; 
+    padding: 15px;
+    padding-top: 115px; 
+    width: 200px;
+    height: 100px;
+    display:block;
+    opacity: 0.8;
+    filter:alpha(opacity=80);   
+}
+#banner #banner_home .box_texto p{
+    color:#CEB798;
+    padding:4px 0;
+}
+#banner #cycle-control{
+    position: relative; 
+    float:right;   
+    height:13px;
+    margin-top:-19px;
+    z-index:1000; 
+}
+#banner #cycle-control a{
+    width:13px;
+    height:13px;
+    background-image: url(ico_banner.gif);
+    background-position: 0 0;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    cursor:pointer;
+    display:block;
+    float:left;
+    margin: 0 3px;
+    color:#CEB798;
+    text-decoration: none;
+    text-align:center;
+}
+#banner #cycle-control .activeSlide{
+    background-position:0 -13px;
+}
+#banner #cycle-control a:hover{
+    background-position:0 -13px;
+}
+#banner .jcarousel-container,#banner .jcarousel-clip,#banner .jcarousel-list, #banner .jcarousel-item{
+    width:727px;
+    height:230px;    
+}
+#banner .jcarousel-clip{
+    overflow:hidden; 
+}
+/*FIM BANNER*/
+/*NOTÍCIAS HOME*/
+#centro #meio #noticias {
+    width:726px;
+    border: 1px solid #2a2a2a;
+    height: 228px;
+}
+#centro #meio #noticias .titulo_conteudo ul {
+    float:left;
+    margin-left: 0px;
+}
+#centro #meio #noticias .titulo_conteudo li {
+    float:left;
+}
+#centro #meio #noticias .titulo_conteudo li img{
+    margin: 0;
+}
+#centro #meio #noticias .titulo_conteudo a {
+    padding: 7px 10px 7px 8px;
+    float: left;
+    color: #CEB798;
+    font-weight:bold;
+    text-decoration: none;
+}
+#centro #meio #noticias .titulo_conteudo a:hover {
+    color: #D81823;
+}
+#centro #meio #noticias_menu{
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    position: relative;
+    margin: auto;
+    width: 726px;
+    height: 30px; 
+}
+/*FIM DE NOTICIAS HOME*/
+/*Estrutura da div noticias_menu (SUBMENU)*/
+#noticias_conteudo1, #noticias_conteudo2, #noticias_conteudo3, #noticias_conteudo4{
+    display:none;
+}
+#centro #meio #noticias .noticia_linha{
+    float: left;
+    position:relative;
+    width: 727px;
+    border-bottom:1px solid #2a2a2a;
+    height: 54px;
+    padding:5px 0;
+}
+#centro #meio #noticias .noticia_linha a{
+    text-decoration:none;
+}
+.noticia_linha img{
+    margin:5px 10px 37px 10px;
+    float: left;
+}
+.noticia_linha span{
+    float: left;
+}
+.noticia_linha span .noticia_titulo{
+    float: left;
+    width: 528px;
+    font-weight:bold;
+    color:#CEB798;
+    margin: 0px;
+}
+.noticia_linha span .data_noticia_home{
+    float: right;
+    width: 120px;
+    font-weight:bold;
+    color:#CEB798 ;
+}
+.noticia_linha .conteudo_noticia_home{
+    float: left;
+    width: 633px;
+    color:#CEB798;
+    padding-right: 15px;
+    padding-top: 3px;
+    
+}
+/*FIM NOTICIAS - HOME*/
+/*GM RECOMENDA HOME*/
+#centro #meio #box_3{
+    border:1px solid #2a2a2a;
+    display: block;
+    float: left;
+    height: 155px;
+     margin: 10px 0 0;
+    position: relative;
+    width: 727px;
+}
+}
+#header_gmrecomenda{
+    width:100%;
+    height:30px;
+    position:relative;
+    float:left;
+}
+#gm_recomenda{
+     width:100%;
+	height:113px;
+    position:relative;
+    float:left;
+    display:block;
+    top:10px;
+}
+#gm_recomenda .jcarousel-container{    
+    padding:5px;
+}
+#gm_recomenda .jcarousel-container,#gm_recomenda .jcarousel-clip,#gm_recomenda .jcarousel-list{
+    width:520px;
+    height:110px;
+}
+#gm_recomenda .jcarousel-clip{
+    overflow:hidden;  
+    margin:0 auto;  
+    
+}
+#gm_recomenda .jcarousel-item{
+    width:168px;
+    height:108px;
+    border:1px solid #2a2a2a;
+    margin-right: 4px;    
+}
+#gm_recomenda .jcarousel-item p{
+    text-align: center;
+    text-transform: uppercase;
+    padding:0;
+    line-height: 11px;
+    
+}
+/*FIM GM RECOMENDA HOME*/
+
+/*------------------------ INÍCIO conteúdo Pag Notícias --------------------/**/
+.data_conteudo{
+    border: 0px solid #CEB798;
+    margin: 0 4px 0 0px;
+    float: right;
+}
+.titulo_noticia_lista{
+    float: left;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.menu_noticia_relacionada{
+    float:left;
+}
+.redes_sociais{
+    border: 0px solid white;
+    width: 727px;
+    height: 30px;
+    margin-top: 15px;
+    text-align: center;
+    float: left;
+    position: relative;
+}
+.redes_sociais ul{
+    border: 0px solid red;
+    margin: 0px auto auto 25px;
+    float: left;            
+}
+.redes_sociais li{
+    border: 0px solid green;
+    color: #CEB798;
+    float: left;
+    display: inline;            
+    width: 100px;
+    height: 40px;
+}
+.botoes{
+    border: 0px solid white;
+    width: 727px;
+    height: 30px;    
+    text-align: center;
+    float: left;
+    position: relative;
+}
+.botao_anterior{
+    float:right;
+    width:70px;
+    height:20px;
+    margin-top:10px;
+    margin-right: 15px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/noticia/metin2_bt_anterior.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.botao_listar{
+    float:right;
+    width:70px;
+    height:20px;
+    margin-top:10px;
+    margin-right: 15px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/noticia/metin2_bt_listar.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.botao_proximo{
+    float:right;
+    width:70px;
+    height:20px;
+    margin-top:10px;
+    margin-right: 15px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/noticia/metin2_bt_proximo.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.botao_anterior:hover,.botao_listar:hover,.botao_proximo:hover{
+    background-position: 0px -21px;
+}
+.bot_anterior {
+    position: relative;
+    float:left;
+    margin: 10px 15px;
+    width:70px;
+    height:20px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/bot_anterior.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_listar {
+    position: relative;
+    float:left;
+    margin: 15px 0px 15px 87px;
+    width:70px;
+    height:20px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/bot_listar.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_proximo {
+    position: relative;
+    margin: 15px 15px;
+    float:right;
+    width:70px;
+    height:20px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/bot_proximo.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_anterior:hover, .bot_listar:hover, .bot_proximo:hover, #bt_continuar:hover{
+    background-position:0px -20px;
+}
+.img_categoria{
+    width: 58px;
+    height: 13px;
+    float: left;
+    margin-right: 10px;
+}
+#bt_continuar {
+    position: relative;
+    margin: 10px 20px;
+    float:right;
+    width:70px;
+    height:20px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/fansites/metin2_bt_continuar.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.msg_erro{
+    color: red!important;
+}
+/*INICIO - Box Notícias*/
+.data_titulo{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/barra_menu.gif) no-repeat;    
+    border: 0px solid #CEB798;
+    width: 60px;
+    height: 30px;
+    padding: 8px 25px 0 55px;
+    float: right;
+    font-weight: bold;    
+    color:#D81823;
+}
+#conteudo #centro #meio #box_busca_noticias{
+    width:727px;
+    float: left;
+    border: 1px solid #2A2A2A; 
+    min-height: 30px;
+    margin-bottom: 18px; 
+}
+#conteudo #centro #meio #box_busca_noticias #busca_noticias_img a{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/noticia/lista/metin2_bt_buscar.jpg);
+    width:70px;
+    height: 20px;
+    float: left; 
+    float: right;
+    margin: 5px 5px 0 0;
+}
+#conteudo #centro #meio #box_busca_noticias #busca_noticias_img a:hover{
+    background-position: -70px -20px;
+}
+#conteudo #centro #meio #box_busca_noticias .busca_noticias{
+    border: 1px solid #000;/*#2A2A2A*/;
+    background-color: #252324;
+    color:#666666;
+    width: 634px;
+    height: 20px; 
+    float: left;
+    margin: 4px 0 0 5px;              
+}
+.view{
+    border: none !important;
+    border-bottom: 1px solid #262525 !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: red!important;
+    width: 689px !important;
+}
+.view p, .view div{
+    color: #CEB798 !important;
+}
+/*FIM - Box Notícias*/
+/*INICIO - Box Eventos*/
+.linha_evento{
+    color:#CEB798;
+}
+.linha_evento .box_info_eventos{
+    border: 0px solid #CEB798;
+    width: 705px;
+    height: 70px;        
+}
+.linha_evento .box_info_eventos .img_eventos{
+    float: left;
+    margin: 7px 0 0 0px;
+}
+.ul_lista_eventos{
+    border: 0px solid #CEB798;
+    margin: 8px 0 0px 10px;
+    float: left;    
+}
+.ul_lista_noticias li{
+    border-bottom: 1px solid #2A2A2A;
+    margin: 0px;
+    padding: 5px 0 5px 0;
+    text-decoration: none;
+}
+.artigo .ul_lista_noticias li span{
+    color: #CEB798;
+}
+.ul_lista_eventos li{
+    border: 0px;    
+    padding: 0px 0 0px 0;
+    color: #CEB798 !important;
+    text-decoration: none;
+    width:460px;
+}
+.img_eventos_status{
+    border: 0px solid red;
+    width: 80px;
+    height: 25px;
+    float: right;
+    margin: -55px 11px 0 0;
+}
+.titulo_conteudo_view{
+    border-bottom: 1px solid #262525;
+    width:727px;
+    padding-left: 18px;
+    float: left;    
+    color: #CEB798;
+    font-weight: 800;
+    width: 709px !important;
+}
+/*FIM - Box Eventos*/
+/*------------------------ FIM conteúdo Pag Notícias --------------------/**/
+/*------------------------------------ início página RANKING --------------------------------------- */
+#conteudo #centro #meio #box_1{
+    border:1px solid #2a2a2a;
+    width:358px !important;   
+}
+#conteudo #centro #meio #ranking_personagem table, #conteudo #centro #meio #ranking_guilda table{
+    background: none;
+    width: 345px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_hd_ranking_tabela_novo.jpg) repeat-x scroll 100% 3px;
+    margin-left: 8px;
+    margin-top: 38px;
+	float:left;
+}
+#conteudo #centro #meio #ranking_personagem table thead tr td, #conteudo #centro #meio #ranking_guilda table thead tr td{
+    height:24px !important;
+    color: #fff;
+    font-weight:normal;
+}
+#conteudo #centro #meio #ranking_personagem table thead .td_titulo_nick, #conteudo #centro #meio #ranking_guilda table thead .td_titulo_nick{
+    padding-left: 5px;
+}
+#conteudo #centro #meio #ranking_personagem td, #conteudo #centro #meio #ranking_guilda td{
+    height:25px !important;
+    text-align: center;
+    border: none;
+}
+#conteudo #centro #meio #ranking_personagem .td_ico_rank, #conteudo #centro #meio #ranking_guilda .td_ico_rank{
+    padding-left: 4px;
+    width: 20px;
+    font-weight:bold;
+    text-align:center;
+    color: #fff !important;
+}
+#conteudo #centro #meio #ranking_personagem .td_nick, #conteudo #centro #meio #ranking_guilda .td_nick{
+   
+    color: #ddd;
+    border-right: 1px solid #0F0F0F;
+}
+#conteudo #centro #meio #ranking_personagem #ranking_header, #conteudo #centro #meio #ranking_guilda #ranking_header{
+    position:relative;
+    float:left;
+    width:358px;
+    height:30px;
+}
+#centro #meio #box_1 #ranking_header #btPersonagem{
+    background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_aba_personagem.png);
+    background-repeat: no-repeat;
+    float: right;
+    height: 24px;
+    margin-top: -3px;
+    position: relative;
+    right: 82px;
+    width: 80px; 
+}
+#centro #meio #box_1 #ranking_header{
+    width: 358px !important;
+}
+#centro #meio #box_1 #ranking_header #btPersonagem:hover{
+    background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_aba_personagem_over.png)!important;
+}
+#centro #meio #box_1 #ranking_header #btGuilda{
+    background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_aba_guilda.png);
+    background-repeat: no-repeat;
+    display: block;
+    float: right;
+    height: 24px;
+    margin-top: -3px;
+    position: relative;
+    right: -60px;
+    width: 63px;
+}
+#centro #meio #box_1 #ranking_header #btGuilda:hover{
+    background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_aba_guilda_over.png)!important;
+}
+#ranking_header #btPersonagem, #ranking_header #btGuilda{
+    cursor:pointer;
+}
+.tabela_ranking_home{margin-left:7px;}
+#centro #meio #box_1 #ranking_descricao{
+    position:relative;
+    color: #fff;
+}
+#centro #meio #box_1 #ranking_guilda{
+    display:none;
+}
+.box_menu_ranking{
+    border: 0px solid green/*#2A2A2A*/;
+    float: left;
+    padding: 24px 0 8px 15px;
+    width: 710px;
+}
+.box_menu_ranking #menuranking1{
+    border: 0px solid red;
+    float: left;
+    width: 170px;
+	margin-top:10px;
+}
+.box_menu_ranking #menuranking2{
+    border: 0px solid red;
+    float: left;    
+    width: 160px;
+	margin-top:10px;
+}
+.box_menu_ranking #menuranking3{
+    border: 0px solid red;
+    float: left;
+    width: 170px;
+	margin-top:10px;
+}
+.box_menu_ranking #menuranking4{
+    border: 0px solid red;
+    float: left;
+    width: 185px;
+	margin-top:10px;
+}
+.box_menu_ranking #menuranking5{
+    border: 0px solid red;
+    float: left;
+    width: 175px;
+	margin-top:10px;
+}
+.box_menu_ranking #menuranking6{
+    border: 0px solid red;
+    float: left;
+    width: 175px;
+	margin-top:10px;
+}
+#menuranking1 span{
+    float: left;
+    padding-right:6px;
+    padding-top:2px;
+}
+#menuranking2 span{
+    float: left;
+    padding-right:3px;
+    padding-top:2px;
+}
+#menuranking3 span{
+    float: left;
+    padding-right:3px;
+    padding-top:2px;
+}
+#menuranking4 span{
+    float: left;
+    padding-right:3px;
+    padding-top:2px;
+}
+#menuranking5 span{
+    float: left;
+    padding-right:3px;
+    padding-top:2px;
+}
+#menuranking6 span{
+    float: left;
+    padding-right:3px;
+    padding-top:2px;
+}
+#listaranking1{
+    border:0px solid purple !important;
+    float:left;
+    margin: 57px 0 0 69px;
+    width:100px;
+    cursor:pointer;     
+    position:absolute;
+    display:none;
+}
+#listaranking2{
+    border:0px solid purple !important;
+    float:left;
+    margin: 55px 0 0 222px;
+    width:100px;
+    cursor:pointer; 
+    position:absolute;
+    display:none;   
+}
+#listaranking3{
+    border:0px solid purple !important;
+    float:left;
+    margin: 56px 0 0 398px;
+    width:100px;
+    cursor:pointer; 
+    position:absolute;
+    display:none;   
+}
+#listaranking4{
+    border:0px solid purple !important;
+    float:left;
+    margin: 57px 0 0 561px;	
+    width:123px !important;
+    cursor:pointer; 
+    position:absolute;
+    display:none;   
+}
+#listaranking5{
+    border:0px solid purple !important;
+    float:left;
+    margin: 90px 0 0 63px;
+    width:100px;
+    cursor:pointer; 
+    position:absolute;
+    display:none;   
+}
+#listaranking6{
+    border:0px solid purple !important;
+    float:left;
+    margin: 90px 0 0 241px;
+    width:100px;
+    cursor:pointer; 
+    position:absolute;
+    display:none;   
+}
+.box_menu_ranking .box_individual_menu_ranking {
+    float: left;
+    width: 230px;
+}
+.box_menu_ranking .box_individual_menu_ranking p{
+    cursor:pointer;
+    float: left;
+    width: 100px;
+    height: 18px;
+    padding: 3px 0 0 3px;
+    background: url("ico_drop.gif") no-repeat scroll 0 0 #101010;
+    background-position: right center;
+    border: solid 1px #2C2C2C;
+    color: #ddd;
+}
+#menuranking4 p{
+    width: 131px;
+}
+.lista_ranking{     
+    width: 180px;
+    z-index:2;
+    position:absolute;  
+    margin-top:76px;
+    display:none;
+    width: 100px;
+    padding-bottom: 15px;
+}
+.lista_ranking li{
+    cursor:pointer;
+    width: 95px;
+    float: left;
+    padding: 3px 5px;
+    background: #212121;    
+    text-decoration:none;
+    color: #ddd;
+}
+.lista_ranking li a{
+    text-decoration:none;
+    color: #ddd;
+}
+.lista_ranking li:hover{
+    background: #181818;
+}
+/*Box notícias*/
+.box_conteudo #box_info_atualizacao_ranking{
+    width: 293px;
+    float: left;     
+    margin-top: 23px;
+    margin-left: 16px;
+}
+.box_conteudo #box_info_atualizacao_ranking p{
+    width: 268px;
+    color: #999;
+}
+.box_conteudo #box_busca_ranking{
+    border: 0px solid #2A2A2A;
+    width:322px;
+    float: right;     
+    margin-top: 9px;
+    margin-bottom: 18px;
+}
+.box_conteudo #box_busca_ranking span{
+    float: left;
+    margin-top: 1px;
+    width: 222px;
+}
+#box_busca_ranking #busca_ranking_img{
+    float: right;
+}
+#box_busca_ranking #busca_ranking_img a{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/noticia/lista/metin2_bt_buscar.jpg);
+    width:70px;
+    height: 20px;
+    float: right;    
+    margin: 2px 12px 0 15px;
+}
+#box_busca_ranking #busca_ranking_img a:hover{
+    background-position: -70px -20px;
+}
+#box_busca_ranking .busca_ranking{
+    border: 1px solid #000;/*#2A2A2A*/;
+    background-color: #252324;
+    color:#666666;
+    width: 222px;
+    height: 20px; 
+    float: right;
+}
+/*------------------ Início Pagina Reliquias ------------------ */
+#reliquias{
+    border: none!important;
+}
+.box_texto_reliquias_1 {
+    color: #FFFFFF;
+    float: left;
+    margin: 12px 0px;
+    width: 420px;
+}
+.img_reliquias_1 {
+    margin: 25px 2px;
+    float: right;
+}
+#box_guildas_reliquias{
+    width: 730px;
+    float: left;
+}
+#box_guildas_reliquias li{
+    float: left;
+    margin: 0 1px;
+}
+.thumb1{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_ellora_over.html) no-repeat scroll 0 0;
+}
+.thumb1:hover, .thumb1_hover{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_ellora.html) no-repeat scroll 0 0;
+}
+.thumb2{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_odeon_over.html) no-repeat scroll 0 0;
+}
+.thumb2:hover, .thumb2_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_odeon.html) no-repeat scroll 0 0;
+}
+.thumb3{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_tiberica_over.html) no-repeat scroll 0 0;
+}
+.thumb3:hover, .thumb3_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_tiberica.html) no-repeat scroll 0 0;
+}
+.thumb4{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_elsinore_over.html) no-repeat scroll 0 0;
+}
+.thumb4:hover, .thumb4_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_elsinore.html) no-repeat scroll 0 0;
+}
+.thumb5{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_basilica_over.html) no-repeat scroll 0 0;
+}
+.thumb5:hover, .thumb5_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_img_reliquia_basilica.html) no-repeat scroll 0 0;
+}
+#box_geral_tabelas li{
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+}
+.reliquias_tabelas{
+    float: left;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/bg_tabela_reliquias.html) repeat-x scroll 0 0 !important;
+}
+.reliquias_tabelas .altura_titulo td{
+    height: 29px!important;
+}
+.titulo_li_ranking{
+    width: 727px;
+    height: 17px;
+    float: left;
+    color: #fff;
+    padding: 8px 0;
+    font-weight: 800;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/bg_titulo_tabela_reliquias.html) repeat-x scroll 0 0;
+}
+.bot_exibir{
+    float:left;
+    width:11px;
+    height:11px;
+    margin: 3px 10px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_bt_mais.html) no-repeat scroll 0 0;
+}
+.bot_ocultar{
+    float:left;
+    width:11px;
+    height:11px;
+    margin: 3px 10px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/ranking/reliquias/aika_bt_mais.html) no-repeat scroll 0 0;
+    background-position:0px -11px;    
+}
+/*--------------------------------------------- FIM PAGINA RAKING --------------------------------------- */
+/*-------------------Início Página Fansite --------------------*/
+#conteudo #centro #meio #box_fansite {
+    width:727px;
+    float: left;
+    min-height: 50px;
+}
+.a_votar{
+    float:left;
+}
+.mini_menu {
+    float: left;
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+}
+.mini_menu #ordenar li, .mini_menu #ordenar li{
+    color: #CEB798 !important;
+    text-decoration: none!important;
+}
+.mini_menu #ordenar li, .mini_menu #ordenar li a{
+    margin: 0 5px;
+    color: #CEB798;
+    text-decoration: none;
+    float:left;
+}
+.mini_menu #ordenar li, .mini_menu #ordenar li .destaque{
+    margin: 0 5px;
+    color: #CEB798;
+    text-decoration: underline;
+    float:left;
+}
+.mini_menu #ordenar li a:hover{
+    color: #D81823;
+    text-decoration:underline;
+}
+.destaque a{
+    color: #AE9919 !important;
+    text-decoration:underline !important;
+}
+.box_fansite{
+    width: 715px;
+    height:120px;
+    border-bottom: 1px solid #2A2A2A;
+    padding: 0 0 0 15px;
+    float: left;
+    margin: 10px 0;
+}
+.box_fansite .thumb_funsite{
+    width: 150px;
+    height:100px;
+    float: left;
+}
+.box_fansite .conteudo_fansite {
+    width: 550px;
+    height:120px;
+    padding-left: 10px;
+    float: left;
+}
+.box_fansite .conteudo_fansite .esquerda{
+    float:left;
+    width: 390px;
+    height:50px;
+    color: #CEB798;
+}
+.box_fansite .conteudo_fansite .esquerda a{
+    color: #D81823;
+    width: 100%;
+    margin-bottom: 2px;
+    float:left;
+}
+.box_fansite .conteudo_fansite .direita{
+    float:left;
+    width: 155px;
+    padding-right: 5px;
+    height:50px;
+    color: #CEB798;
+    text-align: center;
+}
+.box_fansite .conteudo_fansite .direita .txt_fansite_redes_sociais{
+    position: relative;
+    float: right;
+    margin-right: 1px;
+    top: 5px;
+}
+.box_fansite .conteudo_fansite .txt_descricao{
+    float: left;
+    width: 100%;
+    min-height: 30px;
+}
+.box_fansite .conteudo_fansite .txt_descricao span{
+    color: #CEB798;
+}
+.box_fansite .conteudo_fansite .face{
+    float: right;
+    margin-right: 7px;
+}
+.paginacao_fansite{
+    float: left;
+    width: 730px;
+    padding: 15px 0 10px 0;
+    font-weight:bold;
+}
+.paginacao_fansite span{
+    color: #D81823;
+}
+.paginacao_fansite a{
+    color: #999;
+    text-decoration:none;
+}
+.paginacao_fansite a:hover{
+    color: #D81823;
+    text-decoration:underline;
+}
+.box_cadastro_fansite{
+    float: left;
+}
+.box_cadastro_fansite .info_inicial{
+    color: #CEB798;
+    padding: 15px 15px 20px 15px;
+    width: 700px;
+}
+.box_cadastro_fansite .info_inicial #msg_erro{
+    color: red;
+}
+.box_cadastro_fansite .titulo_cadastro_funsite h2{
+    color: #D81823;
+    padding: 0 15px 4px 15px;
+    border-bottom: 1px solid #262525;
+}
+.box_cadastro_fansite #novo_fansite{
+    padding-top: 10px;
+    float: left;
+    width: 730px;
+}
+.box_cadastro_fansite .campo{
+    float: left;
+    width: 140px;
+    height:25px;
+    padding: 7px 5px 3px 0;
+    text-align: right;
+    color: #CEB798;
+}
+.box_cadastro_fansite .input{
+    width: 560px;
+    float: left;
+    height:25px;
+    padding: 5px 0;
+}
+.box_cadastro_fansite .input input{
+    background-color: #252324;
+    border: 1px solid #000000;
+    color: #666666;
+    float: rigth;
+    height: 20px;
+    width: 563px;
+}
+.box_cadastro_fansite .input textarea{
+    background-color: #252324;
+    border: 1px solid #000000;
+    width: 563px;
+    color: #666;
+}
+.box_cadastro_fansite #termo_fansite{
+    width: 13px;
+    float: left;
+}
+.box_cadastro_fansite #txtRegra{
+    margin: 2px 0 0 7px;
+    float: left;
+}
+.fundo_input_tamanho_semfundo{
+    background: #fff !important;
+    border: 1px solid #000 !important;
+}
+.box_cadastro_fansite #campo_descricao, .box_cadastro_fansite #descricao_fansite{
+    height: 60px;
+}
+.box_cadastro_fansite #campo_imagem, .box_cadastro_fansite #input_imagem{
+    height: 60px;
+    margin-top: 20px;
+    
+}
+.box_cadastro_fansite #input_imagem i{
+    margin-top: 2px;
+    width: 560px;
+}
+.box_cadastro_fansite #regras{
+    border:none!important;
+    margin-top:50px;
+}
+.box_cadastro_fansite #regras .titulo_conteudo h2{
+    margin-left: 20px!important;
+}
+.box_cadastro_fansite #regras .artigo .regras_regras_e_aceite{
+    float: left;    
+    width: 580px;
+    height: 120px;
+    margin-left: 145px;
+}
+.box_cadastro_fansite #regras .artigo .regras_regras_e_aceite textarea{
+    float: left;    
+    width: 560px;
+    height: 80px;
+}
+.box_cadastro_fansite #regras .artigo .regras_regras_e_aceite .concordo_regras{
+    float: left;    
+    width: 580px;
+    padding: 6px 0;
+}
+.box_cadastro_fansite #regras .artigo .regras_regras_e_aceite .concordo_regras span{
+    color: #fff;
+}
+.box_cadastro_fansite #regras .artigo .captcha{
+    float: left;
+    width: 725px;
+}
+.box_cadastro_fansite #regras .artigo .captcha .campo{
+    text-align: right;
+    float: left;
+    width: 140px;
+    padding-right: 5px;
+    height: 180px;
+}
+.box_cadastro_fansite #regras .artigo .captcha .campo span{
+    float: right;
+    margin-top: 20px;
+    color: #fff;
+}
+.box_cadastro_fansite #regras .artigo .captcha #ct_captcha{
+    background: #252324;
+    width: 160px;
+    border: 1px solid #000;
+    color: #fff;
+}
+#bt_enviar {
+    background: url("../../imagem.ongame.net/site_novo/m2/global/fansites/metin2_bt_enviar.jpg") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 20px;
+    left: 0;
+    margin: 10px 20px;
+    position: relative;
+    width: 70px;
+}
+#bt_enviar:hover {
+    background-position:0px -20px;
+}
+    
+.sucesso_cadastro_fansite {
+    color: #CEB798;
+    margin-left: 15px;
+}
+#bt_novo a{
+    background: url("../../imagem.ongame.net/site_novo/m2/global/fansites/metin2_bt_novofansite.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 25px;
+    left: 0;
+    margin: 10px 10px 0px 175px;
+    position: relative;
+    width: 120px;
+}
+#bt_ver a{
+    background: url("../../imagem.ongame.net/site_novo/m2/global/fansites/metin2_bt_verfansites.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 25px;
+    left: 0;
+    margin: 10px 10px 0px 10px;
+    position: relative;
+    width: 120px;
+}
+#bt_ir_home a{
+    background: url("../../imagem.ongame.net/site_novo/m2/global/fansites/metin2_bt_ir_home.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 25px;
+    left: 0;
+    margin: 10px 10px 0px 10px;
+    position: relative;
+    width: 120px;
+}
+#bt_novo a:hover, #bt_ver a:hover, #bt_ir_home a:hover {
+    background-position:0px -25px;
+}
+/*-------------------FIM Página Fansite --------------------*/
+/*------------------------------------ início página CAMPEONATO --------------------------------------- */
+/*--------------CSS SEÇÃO CAMPEONATO-------------------*/
+/*INICIO - Imagem box campeonatos*/
+#conteudo #centro #meio #box_campeonatos_img{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/campeonatos/metin2_banner_campeonatos_main.html) no-repeat scroll 0 0;
+    width:729px;
+    float: left;
+    min-height: 200px;
+    margin-bottom: 18px;    
+}
+/*FIM - Imagem box campeonatos*/
+/*------------------------INICIO - Box Home Guerras------------------------*/
+.box_home_guerras{
+	float:left;
+	width:357px;
+	display:inline;
+}
+.lista_guerras_home{
+	margin-top:8px; 
+	width:360px;
+    height: 26px;
+}
+.lista_guerras_home li{
+	display:inline;
+	float:left;
+	margin-left:25px;
+}
+
+.lista_guerras_home li:first-child{
+    margin-left:78px;
+}
+/*.lista_guerras_home li{
+	display:inline;
+	float:left;
+	width:100px;
+	margin-left:20px;
+}*/
+.box_home_guerras_superior{
+	width:357px;
+	height: 83px; 
+	float:left;
+}
+.borda_separadora_guerras{
+	background-color:#2A2A2A;
+	margin-left:20px;
+	float:left;
+	width:320px;
+	height:1px;
+}
+.box_home_guerras_inferior{	
+	width:357px;
+	height: 83px; 
+	float:left;
+}
+.legenda_guerras_lembrete{
+	margin-right:19px;
+	margin-top:5px;
+	float:right;	
+	font-size:7pt;
+}
+.botao_plus_esquerdo{
+	background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_btn_mais.jpg);
+	background-repeat: no-repeat;
+	width:10px;
+	height:10px;
+	float:right;
+	margin:-26px 8px 0 0;
+}
+.botao_plus_esquerdo_guilda{
+	background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_btn_mais.jpg);
+	background-repeat: no-repeat;
+	width:10px;
+	height:10px;
+	float:right;
+	margin:-31px 8px 0 0;
+}
+.botao_plus_esquerdo_personagem:hover{background-position:0 -10px;}
+.botao_plus_esquerdo_guilda:hover{background-position:0 -10px;}
+.botao_plus_direito{
+	background-image:url(../../imagem.ongame.net/site_novo/m2/home/ranking/metin2_btn_mais.jpg);
+	background-repeat: no-repeat;
+	width:10px;
+	height:10px;
+	float:right;
+	margin:5px 7px 0 0;
+}
+.botao_plus_direito:hover{background-position:0 -10px;}
+/*------------------------FIM - Box Home Guerras------------------------*/
+/*INICIO - box lista de campeonatos*/
+#conteudo #centro #meio #box_lista_campeonatos{
+    width:727px;
+    float: left;
+    margin: 18px 0 0 0;
+    border: 1px solid #2A2A2A; 
+    min-height: 200px;
+}
+.ul_lista_noticias{
+    border: 0px solid #fff;
+    margin: 0px 0 0px 10px;
+    width: 705px;
+}
+.ul_lista_noticias li:last-child{
+    border-bottom: 0px solid #2A2A2A;    
+}
+.ul_lista_noticias a{
+    margin: 0px 0 0 5px;
+    padding: 5px 0 5px 0;
+    color: #fff !important;
+    text-decoration: none;
+}
+#centro #meio #box_2{
+    border:1px solid #2a2a2a;
+    float: right !important;
+    margin-right: 1px;
+    width:358px !important;
+}
+#centro #meio #box_2 .titulo_conteudo{
+    width:358px;
+}
+#centro #meio #box_2 .td_nome_campeonato{
+    width:150px;
+}
+#centro #meio #box_2 .td_geral{
+    padding-left: 5px;
+    border-left:1px solid #0F0F0F !important;
+}
+#centro #meio #box_2 #campeonato_conteudo{
+    float:left;
+    display: block;
+    width: 317px;
+    margin: 10px 10px 5px 19px; 
+}
+#campeonato_conteudo .td_geral span{
+    color: #ddd;
+}
+#centro #meio #box_2 #campeonato_conteudo .inscricao1{
+    color:#3fe40c;
+}
+#centro #meio #box_2 #campeonato_conteudo .inscricao2{
+    color:#f00;
+}
+.bot_camp_ant  {
+    float:left;
+    width:75px;
+    height:20px;
+    margin-top:6px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/campeonatos/bot_camp_ant.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_camp_ant  {
+    position: relative;
+    float:left;
+    width:124px;
+    height:19px;
+    margin:14px 0 0 15px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/campeonatos/bot_camp_ant.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_camp_listar  {
+    position: relative;
+    float:left;
+    width:108px;
+    height:19px;
+    margin:14px 172px 0 172px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/campeonatos/bot_camp_listar.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_camp_proximo  {
+    position: relative;
+    float:left;
+    width:117px;
+    height:19px;
+    margin:14px 0 0 0;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/campeonatos/bot_camp_proximo.html) no-repeat scroll 0 0;
+    left:0;
+}
+.bot_camp_ant:hover , .bot_camp_proximo:hover  , .bot_camp_listar:hover{
+    background-position:0px -19px;
+}
+/*------------------------------------ Fim página CAMPEONATO --------------------------------------- */
+
+/*------------------------------------ Inicio página IMPERADOR --------------------------------------- */
+#conteudo #centro #meio #conteudo_conteudo_imperador{
+    width:727px;
+    float: left;
+    border: 0px solid #2A2A2A !important; 
+    min-height: 200px;
+    margin: 0 0 15px 0;
+}
+#conteudo_imperador {
+    border: none!important;
+    margin-top: 10px;
+}
+#conteudo_imperador .artigo h3{
+    color: #CEB798;
+    margin: 20px 10px 0px;
+    float: left;
+    font-weight: 800;
+    width: 700px;   
+}
+#conteudo_imperador .artigo p{
+    color: #CEB798;
+    margin: 10px 10px;
+    float: left;
+    width: 700px;
+}
+.get_valores_span_imperador{
+	width: 40px;
+	height: 40px;
+	margin: 0 0 0 50px;
+}
+.table_imperador_candidatos{
+	background:none !important;
+	width:225px !important;
+	float:left;	
+	margin-bottom:30px;
+	margin-right:15px;
+}
+.table_imperador_candidatos td p{	
+	margin-left:0 !important;
+	margin-right:0 !important;
+	text-align:center;
+}
+.img_imperador_logo{
+	width:42px;
+	height:25px;
+	float:left;
+	margin-right: 5px;
+	margin-top:5px;
+}
+.margin_left_5{
+	margin-left:5px !important;
+}
+textarea{resize: none;}
+.table_imperador_candidatar{
+	background:none !important;
+	width:700px !important;
+	float:left;	
+}
+.table_imperador_candidatar td{border:none !important;}
+.busca_input_imperador{
+    border: 1px solid #000;/*#2A2A2A*/;
+    background-color: #252324;
+    color:#666666;
+	padding:5px;
+    float: left;
+    margin: 4px 0 0 5px;              
+}
+.img_imperador_imagem_forum{
+	background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_bt_imgforum.jpg);
+	width:100px;
+	height:20px;
+	float:left;
+}
+.img_imperador_imagem_forum:hover{background-position:0 -20px;}
+.img_imperador_imagem_enviar{
+	background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_bt_enviar.jpg);
+	width:70px;
+	height:20px;
+}.img_imperador_imagem_enviar:hover{background-position:0 -20px;}
+.img_imperador_candidatos_votacao{
+	float:left;
+	width:77px;
+	height:77px;
+}
+.img_imperador_candidatos_votacao_btn_votar{
+	background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_bt_votar.jpg);
+	margin-left:350px !important;
+	width:70px;
+	height:20px;
+	float:left;
+}.img_imperador_candidatos_votacao_btn_votar:hover{background-position:0 -20px;}
+.titulo_conteudo_votacao{
+	border-bottom:1px solid #2A2A2A;
+	height:80px !important; 
+}
+.lista_servidores_votacao{	
+	width:100%;
+	height:35px;
+}
+.lista_servidores_votacao li{
+	display:inline;
+	float:left;
+    margin-left:133px;
+}
+
+.votacao_servidor_yami{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_bt_yami.jpg);
+    background-position:0 0px;
+    width:164px;
+    height:38px;
+}
+.votacao_servidor_yami:hover{background-position:0 -38px !important;}
+
+.votacao_servidor_hikari{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_bt_hikari.jpg);
+    background-position:0 0px;
+    width:164px;
+    height:38px;
+}
+.votacao_servidor_hikari:hover{background-position:0 -38px !important;}
+
+.votacao_servidor_selection{background-position:0 -38px !important;}
+
+#box_busca_imperador{
+    width:727px;
+    float: left;
+    min-height: 30px;
+    margin-bottom: 18px;
+}
+#box_busca_imperador #busca_imperador_img a{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_bt_buscar.jpg);
+    width:70px;
+    height: 20px;
+    float: left;
+    margin: 5px 5px 0 20px;
+}
+#box_busca_imperador #busca_imperador_img a:hover{
+    background-position: -70px -20px;
+}
+#box_busca_imperador .busca_imperador{
+    border: 1px solid #000;/*#2A2A2A*/;
+    background-color: #252324;
+    color:#666666;
+    width: 180px;
+    height: 20px; 
+    float: left;
+    margin: 4px 0 0 5px;              
+}
+.table_hall_da_fama p{
+	margin:0 !important;
+	padding:5px !important;	
+	text-align:center;
+}
+.table_hall_da_fama thead tr td{height:33px !important;}
+.table_hall_da_fama tr td{height:37px !important;}
+.table_imperador_resultados{
+	background:none !important;
+	width:225px !important;
+	float:left;	
+	margin-bottom:30px;
+}
+.table_imperador_resultados td p{	
+	margin-left:0 !important;
+	margin-right:0 !important;
+	text-align:center;
+}
+.box_individual_imperador_resultados{
+    float: left;
+    width: 700px;
+	margin-bottom:20px;
+}
+.box_individual_imperador_resultados p{
+    cursor:pointer;
+    float: left;
+    width: 176px;
+    height: 18px;
+    padding: 3px 0 0 3px;
+    background: url(../../imagem.ongame.net/site_novo/m2/global/ico_drop.gif) no-repeat scroll 0 0 #101010;
+    background-position: right center;
+    border: solid 1px #2C2C2C;
+    color: #ddd;
+}
+.dimensoes_image_resultado{
+	width:200px;
+	height:150px !important;
+	margin:10px auto 10px 10px !important;
+	float:left;
+}
+.tamanho_div_imagem_candidato_imperador_forum{
+	height: 42px;
+}
+.imagem_candidato_imperador_forum{
+	height: 42px;
+	width: 42px;
+	margin: 0 0 0 11px;
+}
+
+.titulo-candidatos > div{
+    width: 42px;
+    height: 25px;
+    float: left;
+    margin-right: 8px;
+}
+
+.titulo-candidatos > div.ico_yami{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_ico_yami.jpg);
+}
+
+.titulo-candidatos > div.ico_hikari{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/imperador/metin2_ico_hikari.jpg);
+}
+
+.titulo-candidatos > p{
+    padding-top: 10px;    
+}
+
+/*------------------------------------ Fim página IMPERADOR --------------------------------------- */
+
+/*------------------------------------ INÍCIO Download --------------------------------------- */
+/*INICIO - Class Gerais download*/
+.icone_img{
+    margin: 8px 0 0 20px;
+    float:left;
+}
+.link_download{
+    width: 80px;
+    height: 20px;
+    margim-top: 50px;
+    float: left;
+}
+.link_download a{
+    background:url(downloads/mirrorsites/metin2_bt_downloadmini.html);
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    margin: 5px 0 0 5px;
+}
+.link_download a:hover{
+    background-position: -70px -20px;                
+}
+#conteudo #centro #meio #box_download{
+    background:url(imagem/metin2_area_download.jpg) no-repeat scroll 0 0;
+    width:727px;
+    float: left;
+    border: 1px solid #2A2A2A; 
+    min-height: 200px;
+    margin: 0 0 15px 0;
+}
+#conteudo #centro #meio #box_download #texto_download{
+    color: #fff;
+    margin: 30px 0 0 20px;    
+}
+#conteudo #centro #meio #box_download #link_download a{
+    background:url(imagem/metin2_bt_downloadjogo.gif) no-repeat scroll 0 0;
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    margin: 17px 0 0 20px;        
+}
+#conteudo #centro #meio #box_download #link_download a:hover{
+    background-position: 0px -70px;        
+}
+
+#conteudo #centro #meio #box_download #link_download p{
+	width: 290px;
+	height: 17px;
+	float: right;
+	color: #e04a4a;
+	font-weight: bold;
+	font-size: 8pt;
+	text-align: right;
+	padding-right: 10px;
+	padding-top: 51px;
+	padding-bottom: 2px;
+}
+
+#conteudo #centro #meio #box_download #link_download p:hover{
+	color: #950c0c;
+}
+/*FIM - Box download do jogo*/
+/*INICIO - Box mirror sites do jogo*/
+#conteudo #centro #meio #mirror_sites .artigo{
+    min-height: 98px;
+}
+#conteudo #centro #meio .box_conteudo #baixaki{
+    background:url(metin2_ico_baixaki.png) no-repeat;
+    width: 80px;
+    height: 55px;
+    float: left;
+    padding-top: 51px;
+    margin: 15px 20px 0 20px;    
+    border: 0px solid white;
+}
+#conteudo #centro #meio .box_conteudo #ziggi{
+    background:url(metin2_ico_ziggi.png) no-repeat;
+    width: 80px;
+    height: 55px;
+    float: left;
+    padding-top: 51px;
+    margin: 15px 20px 0 20px;    
+    border: 0px solid white;
+}
+#conteudo #centro #meio .box_conteudo #ultradownloads{
+    background:url(metin2_ico_ultradownloads.png) no-repeat;
+	background-position:21px 5px;
+    width: 80px;
+    height: 55px;
+    float: left;
+    padding-top: 51px;
+    margin: 15px 20px 0 20px;    
+    border: 0px solid white;
+}
+#conteudo #centro #meio .box_conteudo #superdownloads{
+    background:url(metin2_ico_superdownloads.png) no-repeat;
+    width: 80px;
+    height: 55px;
+    float: left;
+    padding-top: 51px;
+    margin: 15px 20px 0 20px;
+    border: 0px solid white;
+}
+#conteudo #centro #meio .box_conteudo #techtudo{
+    background:url(metin2_ico_techtudo.png) no-repeat;
+    width: 80px;
+    height: 55px;
+    padding-top: 51px;
+    float: left;
+    margin: 15px 20px 0 20px;
+    border: 0px solid white;
+}
+#conteudo #centro #meio .box_conteudo #torrent{
+    background:url(metin2_ico_torrent.png) no-repeat #1E1E1E;
+    float: left;
+    height: 50px;
+    margin: 15px 20px 0;
+    padding: 50px 10px 0;
+    width: 90px;
+	background-position:top, center; 	
+}
+
+.box_conteudo #torrent a{
+    margin-left: 10px;
+}
+
+#conteudo #centro #meio .box_conteudo #torrent .mais_recomendado{
+	float:left;
+	color:#fff;
+	width:100px;
+	height:20px;
+	margin:25px 0 0 -18px;
+}
+#conteudo #centro #meio .box_conteudo #torrent .mais_recomendado:hover{
+	text-decoration:underline;
+	color:#B71823;
+}
+/*FIM - Box mirror sites do jogo*/
+
+/*INICIO - Box download patch sites do jogo*/
+#conteudo #centro #meio #box_patchs .artigo{
+    min-height: 90px;
+}
+#conteudo #centro #meio .box_conteudo #box_patchs_jogo{
+    background:url(downloads/patchs/metin2_ico_patch.png) no-repeat;
+	/*background-position: -10px 0;*/
+	background-position: center;
+    width: 92px;
+    height: 34px;
+    float: left;
+    margin: 20px 20px 0 60px;    
+    border: 0px solid white;    
+}
+#conteudo #centro #meio .box_conteudo #box_patchs_xtrap{
+    background:url(downloads/patchs/metin2_ico_xtrap.png) no-repeat;
+    width: 44px;
+    height: 45px;
+    float: left;
+    margin: 20px 20px 0 60px;    
+    border: 0px solid white;    
+}
+#conteudo #centro #meio #box_download_patch #link_download_patchs a{
+    background:url(downloads/mirrorsites/metin2_bt_downloadmini.html);
+    float: left;
+    width: 70px;
+    height: 20px;
+    margin: 0px 0 0 -10px;
+}
+#conteudo #centro #meio #box_download_patch #link_download_patchs a:hover{
+    background-position: -70px -20px;    
+}
+.texto_versao{
+    color: #fff;
+    float: left;
+    width: 100px;
+    margin: 45px 0 0 0;
+    border: 0px solid red;
+}
+/*FIM - Box download patch sites do jogo*/
+/*INICIO - Box download drivers sites do jogo*/
+#conteudo #centro #meio #box_download_drivers{
+    width: 355px;
+}
+#conteudo #centro #meio #box_download_drivers .titulo_conteudo{
+    width: 355px;
+}
+#conteudo #centro #meio #box_download_drivers .artigo{
+    width: 355px;
+    min-height: 130px;
+}
+#conteudo #centro #meio #box_download_drivers #texto_drivers{
+    color: #fff;
+    margin: 10px 0 0 20px;
+}
+/*FIM - Box download drivers sites do jogo*/
+/*INICIO - Box download directx sites do jogo*/
+#conteudo #centro #meio #box_download_directx{
+    width: 355px;
+    margin-left: 15px;
+}
+#conteudo #centro #meio #box_download_directx .titulo_conteudo{
+    width: 355px;
+}
+#conteudo #centro #meio #box_download_directx .artigo{
+    width: 355px;
+    min-height: 143px;
+}
+#conteudo #centro #meio #box_download_directx #texto_directx{
+    color: #fff;
+    border: 0px solid #fff;
+    float: left;
+    width: 320px;
+    margin: 20px 0 0 20px;
+}
+/*FIM - Box download directx sites do jogo*/
+/*INICIO - Box download configurações sites do jogo*/
+#conteudo #centro #meio #box_download_configuracoes{
+    border: 1px solid #2A2A2A; 
+    width:727px;
+    float: left;    
+    min-height: 265px;  
+}
+#conteudo #centro #meio #box_download_configuracoes .titulo_conteudo{
+    width:727px;
+}
+#conteudo #centro #meio #box_download_configuracoes .artigo{
+    width:727px;
+}
+#conteudo #centro #meio #box_download_configuracoes .artigo table{
+    width:349px;
+    float: left;
+    margin: 15px 7px;
+    background: none;
+    border-collapse: collapse;
+}
+#conteudo #centro #meio #box_download_configuracoes .artigo table thead{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/bg_tabela_ranking.gif);
+    height: 30px;
+}
+#conteudo #centro #meio #box_download_configuracoes .artigo table tr td{
+    border: 1px solid #0F0F0F;
+    padding: 0px;
+    margin: 0px;
+    border-collapse: collapse;
+    height: 30px;
+}
+/*FIM - Box download configurações sites do jogo*/
+/*INICIO - Configurações das tabelas download*/
+.font_tabela thead{
+    background-color: #403E3F;            
+}
+.tabela_titulo_fundo{    
+    height: 25px;
+}
+.font_tabela_titulo{
+    font-weight: bold;
+    color: #fff;
+    margin: 5px;    
+}
+.font_tabela td{
+    color: #fff;            
+}
+.tabela_linha1{
+    padding: 6px 0 6px 5px;    
+}
+.tabela_linha2{
+    padding: 6px 0px 6px 0px;
+    background-color: #181818;
+}
+.borda_esquerda{
+    border-left:1px solid #000;
+}
+.borda_esquerda2{
+    border-left:1px solid #444;
+}
+.borda_direita{
+    border-right:1px solid #444;
+}
+.borda{
+    border-top:1px solid #444;
+    border-bottom:1px solid #444;
+    border-left:1px solid #444;
+    border-right:1px solid #444;
+}
+.borda_bottom{
+    border-bottom:1px solid #444;
+}
+/*FIM - Configurações das tabelas download*/
+/* ----------------------------- FIM - Página download  ------------------------------- */
+#conteudo #centro #meio .box_conteudo .artigo .meu_ranking {
+    background: none;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/bg_tabela_ranking.gif) repeat-x scroll 0 0;
+}
+#conteudo #centro #meio .box_conteudo .artigo .meu_ranking td{
+    width:115px;    
+}
+#conteudo #centro #meio .box_conteudo .artigo .meu_ranking .coluna_esquerda {
+    background: #212121;
+    font-weight: 800;
+}
+#conteudo #centro #meio .box_conteudo table {
+    border-collapse: collapse;
+    text-align: center;
+    cellpadding: 0px;
+    cellspacing: 0px;
+    width:100%;
+	margin:0 0 0 -1px !important;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/bg_tabela_ranking.gif) repeat-x scroll 0 0;
+}
+#conteudo #centro #meio .box_conteudo tr td {
+    border-collapse: collapse;
+    border: 1px solid #2A2A2A;
+    height: 38px;
+    color: #ffffff;
+}
+#conteudo #centro #meio .box_conteudo thead tr td{
+    font-weight: 800 !important; 
+    height: 28px !important;
+}
+#conteudo #centro #meio .ranking_geral {
+    margin-top: 20px; 
+}
+#conteudo #centro #meio .box_conteudo .artigo .wallpaper {
+    margin: 10px 13px 15px 13px; 
+    float: left;
+    width:215px;
+    height:186px;
+}
+#conteudo #centro #meio .box_conteudo .artigo .wallpaper img{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid #A4070E;  
+}
+#conteudo #centro #meio .box_conteudo .artigo .bot_1024x768 {
+    position: relative;
+    float:left;
+    width:75px;
+    height:20px;
+    margin-top:6px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_bot_1024x768.gif) no-repeat scroll 0 0;
+    left:0;
+}
+#conteudo #centro #meio .box_conteudo .artigo .bot_1280x960 {
+    position: relative;
+    float:right;
+    width:70px;
+    height:20px;
+    margin-top:6px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/metin2_bot_1280x960.gif) no-repeat scroll 0 0;
+    left:0;
+}
+#conteudo #centro #meio .box_conteudo .artigo .bot_1024x768:hover, #conteudo #centro #meio .box_conteudo .artigo .bot_1280x960:hover {
+    background-position:0px -20px;
+}
+#conteudo #centro #meio .navigation {
+    display: table;
+    float:left;
+    margin-top: 25px;
+    text-align: center;
+    width: 100%;
+    height:45px;
+}
+#conteudo #centro #meio .navigation p{
+    color: #CEB798;
+}
+#conteudo #centro #meio .navigation p a{
+    color: #CEB798;
+}
+#conteudo #centro #meio .navigation p a:hover{
+    color:#D81823;
+}
+.box_paginador{
+    display: block;
+    margin: auto;
+    width: 460px;
+}
+.paginas {
+    display: table;
+    margin: 0 auto;
+    padding: 0 10px;
+    font-weight: 800;
+    height:10px;
+}
+.paginas img{
+    margin: 4px 1px;
+}
+.paginas li {
+    display: inline;
+    color: #CEB798;
+    margin: 8px 3px;
+    float:left;
+}
+.paginas li .current {
+    background: url("images/bg-current.html") no-repeat scroll center bottom transparent;
+    color: #D81823;
+    text-decoration:underline;
+    td valign:top;
+}
+.paginas li a {
+    color: #CEB798;
+    text-decoration:none;
+    td valign:top;
+}
+.paginas li a:hover {
+    text-decoration:underline;
+    color:#D81823;
+}
+/* ----------------------------------- INICIO - Loja ----------------------------------------- */
+.lista_comprar_cash{
+    border: 0px solid white;    
+    width: 350px;
+    height: 50px;
+    margin: 15px 0 0 50px;    
+}
+.lista_comprar_cash li{    
+    color: #CEB798;
+    list-style-type: disc;
+}
+.img_compra_cash{
+    border: 0px solid white;
+    width: 727px;
+    height: 30px;    
+}
+.img_compra_cash li{
+    border: 0px solid red;
+    display: inline;
+    text-decoration: none;
+    color: #fff !important;
+    float: right;    
+    margin: 0 10px 15px 0px;
+    width: 120px;
+}
+.img_compra_cash li .ver_historico{
+    position: relative;
+    float:right;
+    width:120px;
+    height:25px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/bot_ver_historico.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.img_compra_cash li .ir_para_eprepag{
+    position: relative;
+    float:right;
+    width:120px;
+    height:25px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/metin2_bt_eprepag.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.img_compra_cash li .ir_para_eprepag:hover{
+	background-position: 0 -25px;
+}
+.img_compra_cash li .ir_para_ongameshop{
+    position: relative;
+    float:right;
+    width:120px;
+    height:25px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/bot_ongameshop.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.img_compra_cash li .encontrar_lanhouse{
+    position: relative;
+    float:right;
+    width:120px;
+    height:25px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/bot_encontrar_lanhouse.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.img_compra_cash li .bt_pontos_de_venda{
+    position: relative;
+    float:right;
+    width:120px;
+    height:25px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/bt_pontosdevenda.jpg) no-repeat scroll 0 0;
+    left:0;
+}
+.img_compra_cash li .ver_historico:hover, .img_compra_cash li .ir_para_ongameshop:hover, .img_compra_cash li .encontrar_lanhouse:hover, .img_compra_cash li .bt_pontos_de_venda:hover{
+    background-position:0px -25px;
+}
+.box_conteudo_ativar_cash{
+    width:727px;
+    float: left;
+    min-height: 50px;
+}
+.atualizar_captcha{
+    margin-left: 6px;
+    float: left;
+}
+.box_conteudo_ativar_cash .artigo {
+    width:727px;
+    float: left;
+    min-height: 50px;
+}
+.box_conteudo_ativar_cash .artigo p{
+    color: #FFF;
+    margin: 12px 15px;
+}
+#msg{
+    float: left;
+    color: red;
+    margin-left: 42px;
+}
+.input_ativar_cash{
+    border: 1px solid #000;
+    background-color: #333333;
+    color: #fff;
+    width: 410px;
+    height: 20px;    
+    margin: 0 0 0 15px;
+}
+.input_ativar_cash2{
+    border: 1px solid #000;
+    background-color: #333333;
+    float: left;
+    color: #fff;
+    width: 154px;
+    height: 20px;    
+    margin: 5px 0 0 6px;
+}
+.p_validacao{
+	width: 500px;
+}
+.validacao_logo{
+	float: right;
+	border: none;
+	margin: 15px 48px 0 0;
+}
+.box_verificacao{
+    float: left;
+    margin: 0 0 0 15px;
+}
+.box_verificacao p{
+    float: left ;
+}
+.img_botao_ativar_cash{
+    background: url(../../imagem.ongame.net/site_novo/m2/global/loja/metin2_bt_ativar.jpg);
+    border: 0px solid red;
+    width: 70px;
+    height: 20px;
+    float: right;
+    margin: 40px 25px 0 0;
+    cursor: pointer;
+}
+.img_botao_ativar_cash:hover {background-position: -70px -20px;}
+/*INICIO - tabela ver historico*/
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_loja table{
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/bg_historico.html);
+    width: 488px;
+    margin: 15px 115px;
+}
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_loja table thead tr td{
+    background: #403E3F;
+    height: 39px!important;
+    color: #fff;
+}
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_loja table td{
+    border: solid 1px #101010;
+}
+/*FIM - tabela ver historico*/
+/*INICIO - tabela historico detalhes*/
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_detalhes table{
+    background: none;
+    width: 480px;
+    margin: 15px 60px;
+}
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_detalhes table tbody .titulo_tabela_detalhes{
+    background: #403E3F;
+}
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_detalhes table td{
+    color: #fff;
+    padding-left: 6px;
+}
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_detalhes table .detalhes_td_coluna_esquerda{
+    background: #1F1F1F;
+    width: 220px;
+    text-align: left;
+}
+#conteudo #centro #meio .box_conteudo .artigo .box_tabela_detalhes table .detalhes_td_coluna_direita{
+    text-align: left;
+}
+#box_tabela_detalhes2 {
+    padding-left: 65px;
+    float: left;
+}
+/*FIM - tabela historico detalhes*/
+/* ----------------------------------- FIM - Loja ----------------------------------------- */
+/* -------------------------------- INÍCIO RODAPE  ------------------------------ */
+#rodape #rodape_conteudo ul li a:hover{
+    color: #D81823;
+}
+#rodape #rodape_assinatura .assinatura_ongame{
+	margin: 19px 0 0 100px;
+}
+#rodape #rodape_assinatura .assinatura_desenv{
+	margin: 10px 0 0 40px;
+}
+#rodape #rodape_assinatura p{
+	margin: 18px 0 0 80px;
+}
+/* -------------------------------- Fim RODAPE  ------------------------------ */
+/*ITEM MALL INICIO*/
+#box_shop_itemmall{
+    width: 730px;
+    float: left;
+}
+.thumb1{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_ellora_over.html) no-repeat scroll 0 0;
+}
+.thumb1:hover, .thumb1_hover{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_ellora.html) no-repeat scroll 0 0;
+}
+.thumb2{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_odeon_over.html) no-repeat scroll 0 0;
+}
+.thumb2:hover, .thumb2_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_odeon.html) no-repeat scroll 0 0;
+}
+.thumb3{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_tiberica_over.html) no-repeat scroll 0 0;
+}
+.thumb3:hover, .thumb3_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_tiberica.html) no-repeat scroll 0 0;
+}
+.thumb4{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_elsinore_over.html) no-repeat scroll 0 0;
+}
+.thumb4:hover, .thumb4_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_elsinore.html) no-repeat scroll 0 0;
+}
+.thumb5{
+    float:left;
+    width:144px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_basilica_over.html) no-repeat scroll 0 0;
+}
+.thumb5:hover, .thumb5_hover{
+    float:left;
+    width:143px;
+    height:71px;
+    background:url(../../imagem.ongame.net/site_novo/m2/global/loja/item/aika_img_reliquia_basilica.html) no-repeat scroll 0 0;
+}
+#conteudo #centro #meio #box_item_mall {
+    width:727px;
+    float: left;
+    min-height: 50px;
+}
+.box_item_mall .thumb_item_mall{
+    width: 150px;
+    height:100px;
+    float: left;
+}
+.box_item_mall .conteudo_item_mall {
+    width: 550px;
+    height:120px;
+    padding-left: 10px;
+    float: left;
+}
+.box_fitem_mall .conteudo_item_mall .txt_descricao{
+    float: left;
+    width: 100%;
+    min-height: 30px;
+}
+.paginacao_item_mall{
+    float: left;
+    width: 730px;
+    padding: 15px 0 10px 0;
+    font-weight:bold;
+}
+.paginacao_item_mall span{
+    color: #D81823;
+}
+.paginacao_item_mall a{
+    color: #999;
+    text-decoration:none;
+}
+.paginacao_item_mall a:hover{
+    color: #D81823;
+    text-decoration:underline;
+}
+/*ITEM MALL FIM*/
+/*----------------------------------- Início Guia do jogo --------------------------------------- */
+
+/*----------------------------------- Início SubMenu Imperador --------------------------------------- */
+.box_menu_imperador {
+    width:692px;
+    float: left;
+    padding: 20px 15px;
+}
+.box_individual_menu_imperador{
+    float: left;
+    width: 230px;
+}
+.box_individual_menu_imperador p{
+    cursor:pointer;
+    float: left;
+    width: 176px;
+    height: 18px;	
+    padding: 3px 0 0 3px;
+    background: url("ico_drop.gif") no-repeat scroll 0 0 #101010;
+    background-position: right center;
+    border: solid 1px #2C2C2C;
+    color: #ddd;
+}
+.tamanho_personagem{
+    width: 400px !important;
+}
+.box_menu_imperador span{
+    float: left;
+    padding: 3px 5px 0 0;
+}
+.box_menu_imperador #menu1{
+	display: block;
+	width:320px;
+}
+.box_menu_imperador #menu2{
+	display: block;
+	width:320px;
+	margin-left:50px;
+}
+.box_menu_imperador #menu3{
+	display: block;
+	width:600px;
+}
+.lista_imperador{    
+    background: blue;
+    width: 180px;
+    z-index:2;
+    position:absolute;  
+    margin-top:76px;
+    display:none;    
+}
+.lista_imperador li{
+    cursor:pointer;
+    float: left;
+    padding: 3px 5px;
+    background: #212121;
+    width: 171px;
+    text-decoration:none;
+    color: #ddd;
+}
+.lista_imperador li a{
+    text-decoration:none;
+    color: #ddd;
+}
+.lista_imperador li:hover{
+    background: #181818;
+}
+
+
+#lista_imperador_1{
+    margin-left:89px;
+	margin-top:55px;	
+}
+#lista_imperador_2{
+    margin-left:442px;
+	margin-top:55px;	
+}
+#lista_imperador_3{
+	margin-left:111px;
+	margin-top:102px;	
+}
+
+.lista_imperador{
+	border:0px solid red;
+	margin:55px 0 0 30px !important;
+}
+.box_menu_imperador_resultado{
+	border: 0px solid #2A2A2A;
+	width:692px;
+    float: left;    
+    padding: 20px 15px;
+}
+/*----------------------------------- Fim SubMenu Imperador --------------------------------------- */
+
+/*--------------------- Guia do jogo - Início menu ------------------ */
+#conteudo_guia_do_jogo .titulo_conteudo {
+    padding: 5px 10px 0;
+    width: 705px;
+}
+.box_menu_guia_do_jogo {
+    width:692px;
+    float: left;
+    border: 1px solid #2A2A2A;
+    padding: 20px 15px;
+}
+.box_menu_guia_do_jogo span{
+    float: left;
+    padding: 3px 5px 0 0;
+}
+#menu3, #menu2 {
+    display: none;
+}
+.box_individual_menu{
+    float: left;
+    width: 230px;
+}
+.box_individual_menu p{
+    cursor:pointer;
+    float: left;
+    width: 176px;
+    height: 18px;
+    padding: 3px 0 0 3px;
+    background: url(ico_drop.gif) no-repeat scroll 0 0 #101010;
+    background-position: right center;
+    border: solid 1px #2C2C2C;
+    color: #ddd;
+}
+.lista_guia{    
+    background: blue;
+    width: 180px;
+    z-index:2;
+    position:absolute;  
+    margin-top:76px;
+    display:none;
+    
+}
+.lista_guia li{
+    cursor:pointer;
+    float: left;
+    padding: 3px 5px;
+    background: #212121;
+    width: 171px;
+    text-decoration:none;
+    color: #ddd;
+}
+.lista_guia li a{
+    text-decoration:none;
+    color: #ddd;
+}
+.lista_guia li:hover{
+    background: #181818;
+}
+.lista1{
+   margin-left: 52px;  
+}
+.lista2{
+    margin-left:280px;  
+}
+.lista3{
+    margin-left: 517px; 
+}
+/*--------------------- Guia do jogo - Fim menu ------------------ */
+/*--------------------- Guia do jogo - Início Configurações genéricas ------------------ */
+#conteudo_guia_do_jogo {
+    border: none!important;
+    margin-top: 10px;
+}
+#conteudo_guia_do_jogo .artigo h3{
+    color: #ffffff;
+    margin: 20px 10px 0px;
+    float: left;
+    font-weight: 800;
+    width: 700px;   
+}
+#conteudo_guia_do_jogo .artigo p{
+    color: #ffffff;
+    margin: 10px 10px;
+    float: left;
+    width: 700px;
+}
+#conteudo_guia_do_jogo .artigo p b{
+    color: #ffffff;
+}
+#conteudo_guia_do_jogo .artigo .img_central{
+    display: table;
+    margin: 0 auto;
+}
+#conteudo_guia_do_jogo .artigo .box_2_img{
+    width: 700px;
+    display: table;
+    margin: 0 auto;
+}
+#conteudo_guia_do_jogo .artigo .box_2_img .img1{
+    width: 50%;
+    float: left;
+}
+#conteudo_guia_do_jogo .artigo .box_2_img .img1 img{
+    display: table;
+    margin: 0 auto;
+}
+#conteudo_guia_do_jogo .artigo .box_2_img .img2{
+    width: 50%;
+    float: left;
+}
+#conteudo_guia_do_jogo .artigo .box_2_img .img2 img{
+    display: table;
+    margin: 0 auto;
+}
+#box_passo_2,#box_passo_3,#box_passo_4,#box_passo_5,#box_passo_6, #box_passo_7, #box_passo_8{
+	display:none;
+}
+.box_conteudo .artigo .tabela_220{
+	width:220px !important;
+	margin-left:250px;
+}
+.box_conteudo .artigo .tabela_650{
+	width:650px !important;
+	margin-left:15px;
+}
+#box_menu_passos{	
+	height:60px;
+	width:720px;
+	float:left;
+}
+#passo1{    
+    background:url(metin2_bt_passo1.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left;   	
+}
+#passo2{    
+    background:url(imagem/metin2_bt_passo2.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left;   
+}
+#passo3{    
+    background:url(imagem/metin2_bt_passo3.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left;   
+}
+#passo4{    
+    background:url(imagem/metin2_bt_passo4.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left;   
+}
+#passo5{
+    background:url(imagem/metin2_bt_passo5.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left;   
+}
+#passo6{
+    background:url(imagem/metin2_bt_passo6.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left;   
+}
+#passo7{
+    background:url(imagem/metin2_bt_passo7.png) no-repeat scroll 0 0;
+    width: 118px;
+    height: 25px; 
+    float: left; 
+	margin-top:10px;
+}
+#passo1:hover, #passo2:hover, #passo3:hover, #passo4:hover, #passo5:hover, #passo6:hover, #passo7:hover{background-position:  0 -25px;}
+.passo_ativo{
+    background-position: 0 -25px !important;
+}
+/*--------------------- Guia do jogo - Fim Configurações genéricas ------------------ */
+/*---------- Guia do jogo - Início Configurações específicas de uma página ---------- */
+/*---- Guia do jogo - Início página história ------ */
+
+#conteudo_guia_do_jogo .artigo .h3_historia1{
+    margin-top: 50px;
+    width: 490px;
+}
+#conteudo_guia_do_jogo .artigo .txt_historia_1{
+    float: left;
+    width: 490px;
+}
+#conteudo_guia_do_jogo .artigo .img_historia_1{
+    float: right;
+}
+#conteudo_guia_do_jogo .artigo .img_historia_2{
+    float: left;
+    margin-top: 30px;
+}
+#conteudo_guia_do_jogo .artigo .h3_historia2{
+    margin-top: 70px;
+    width: 390px;
+    float:right;
+}
+#conteudo_guia_do_jogo .artigo .txt_historia_2{
+    float:right;
+    width: 390px;
+}
+#conteudo_guia_do_jogo .artigo .box_reino_historia{
+    float: left;
+    width: 450px;
+    heigth: 100px;
+    margin-left: 160px;
+    background: #3C0000;
+    margin-top: 10px;
+}
+#conteudo_guia_do_jogo .artigo .box_reino_historia img{
+    float: left;
+    margin: 10px;
+}
+#conteudo_guia_do_jogo .artigo .box_reino_historia h3{
+    float: left;
+    margin: 10px 10px 6px 2px;
+    width: 287px;
+}
+#conteudo_guia_do_jogo .artigo .box_reino_historia p{
+    float: left;
+    margin: 0 10px 10px 2px;
+    width: 287px;
+}
+#conteudo_guia_do_jogo .artigo .box_historia3{
+    float: left;
+    margin-top: 30px;
+}
+#conteudo_guia_do_jogo .artigo .box_historia3 h3{
+    float: left;
+    margin-top: 40px;
+    width: 375px;
+}
+#conteudo_guia_do_jogo .artigo .box_historia3 p{
+    float: left;
+    width: 375px;
+}
+/*---- Guia do jogo - Fim página história ------ */
+/*---- Guia do jogo - Início página status ------ */
+#conteudo_guia_do_jogo .artigo #box_2_img_hp{
+    width: 500px;
+    margin-bottom: 13px;
+}
+#conteudo_guia_do_jogo .artigo #box_2_img_hp p{
+    width: 85%;
+    margin-left: 20px;
+}
+/*---- Guia do jogo - Fim página status ------ */
+/*------------ Guia do jogo - FIM Configurações específicas de uma página ------------ */
+/*------- Guia do Jogo Dungeons -------*/
+.dungeons_torre_do_diabo .box_img_1{
+	float: left;
+	width:265px;	
+	padding-left:16px;
+}
+.dungeons_torre_do_diabo .box_img_1 p{
+	margin-left:0;
+}
+.dungeons_torre_do_diabo .box_img_2{	
+	float: left;
+	padding-left:120px;
+	width:305px;	
+	height:430px;
+}
+.dungeons_torre_do_diabo .box_img_2 p{
+	margin-left:0;
+}
+.dungeons_torre_do_diabo .imagem_centro_1{
+	padding-left:150px;
+}
+.dungeons_torre_do_diabo_1 .imagem_centro_1{
+	padding-left:110px;
+}
+.dungeons_torre_do_diabo_1 .imagem_centro_2{
+	padding-left:150px;
+}
+.dungeons_torre_do_diabo_2 .imagem_centro_1{
+	padding-left:150px;
+}
+.dungeons_torre_do_diabo_3 .imagem_centro_1{
+	padding-left:110px;
+}
+.dungeons_torre_do_diabo_3 .imagem_centro_2{
+	padding-left:180px;
+}
+.dungeons_torre_do_diabo_4 .imagem_centro_1{
+	padding-left:110px;
+	padding-bottom:50px;
+}
+.dungeons_torre_do_diabo_4 .imagem_centro_2{
+	padding-left:180px;
+}
+.dungeons_torre_do_diabo_5 .imagem_centro_1{
+	padding-left:200px;
+}
+.dungeons_torre_do_diabo_6 .imagem_centro_1{
+	padding-left:130px;
+}
+.dungeons_torre_do_diabo_6 .imagem_centro_2{
+	padding-left:200px;
+}
+.dungeons_torre_do_diabo_6 .imagem_centro_3{
+	position:absolute;
+}
+.dungeons_torre_do_diabo_7 .imagem_centro_1{
+	padding-left:130px;
+}
+.dungeons_torre_do_diabo_7 .imagem_centro_2{
+	padding-left:210px;
+}
+.dungeons_torre_do_diabo_8 .imagem_centro_1{
+	padding-left:130px;
+}
+.dungeons_torre_do_diabo_8 .imagem_centro_2{
+	float:left;
+	padding-left:145px;
+}
+.dungeons_torre_do_diabo_8 .imagem_centro_3{	
+	padding-left:25px;
+}
+.dungeons_torre_do_diabo_8 .imagem_centro_4{	
+	padding-left:225px;
+}
+.dungeons_torre_do_diabo_9 .imagem_centro_1{
+	padding-left:130px;
+	padding-top:20px;
+}
+.dungeons_torre_do_diabo_9 .imagem_centro_2{	
+	padding-left:145px;
+	padding-top:20px;
+}
+.dungeons_torre_do_diabo_9 .imagem_centro_3{	
+	padding-left:230px;
+	padding-top:20px;
+}
+/*INICIO - CAVERNA DEMONÍACA - GUIA AVANÇADO*/
+.dungeons_caverna_demoniaca .imagem_centro_1{
+	padding-left:230px;
+	padding-top:20px;	
+}
+.dungeons_caverna_demoniaca .imagem_centro_2{
+	padding-left:130px;
+	padding-top:20px;	
+}
+.dungeons_caverna_demoniaca .imagem_centro_3{
+	padding-left:345px;
+	padding-top:20px;	
+}
+.dungeons_caverna_demoniaca .legenda_1{	
+	padding-left:280px;
+}
+.dungeons_caverna_demoniaca .legenda_2{	
+	padding-left:250px;
+}
+.dungeons_caverna_demoniaca ul{
+	padding-left: 40px;		
+}
+.dungeons_caverna_demoniaca ul li{
+	list-style-type:disc;
+}
+.avancado_dungeons_calabouco_de_am_heh .img_centro_1{margin:0px 0 0 260px;}
+.avancado_dungeons_calabouco_de_am_heh .img_centro_2{margin:0px 0 0 100px;}
+.avancado_sistema_de_cintos .img_centro_1{margin:0px 0 0 260px;}
+.avancado_sistema_de_cintos .img_centro_2{margin:-10px 0 0 20px;float:left;position:absolute;}
+.avancado_sistema_de_cintos .img_centro_3{margin:-10px 0 0 20px;float:left;position:absolute;}
+.avancado_sistema_de_cintos .img_centro_4{margin:0px 0 0 140px;}
+.avancado_sistema_de_cintos .img_centro_5{margin:0px 0 0 280px;}
+.avancado_sistema_de_cintos .img_centro_6{margin:0px 0 0 300px;}
+.avancado_sistema_de_cintos .posicionamento_img_sitema_de_cintos{margin-top:20px !important;margin-bottom:30px !important;}
+/*FIM - CAVERNA DEMONÍACA - GUIA AVANÇADO*/
+/*Skills - Intermediário*/
+.tabela_icone {
+    margin: 0;
+    width: 70px !important;
+	float:left;
+}
+.tabela_nome {
+    margin: 0 0 0 5px !important;
+    width: 70px !important;
+	float:left;
+}
+.tabela_icone td, .tabela_descricao td, .sub_tabela_1 td, .sub_tabela_2 td, .sub_tabela_3 td, .tabela_nome td {color:#CEB798 !important;}
+.tabela_descricao {
+    margin: 0 0 0 5px !important;     
+	float:left;
+    width: 540px !important;
+}
+.aumentar_tamanho_1{
+    height: 139px !important;
+}
+.aumentar_tamanho_2{
+    height: 120px !important;
+}
+.aumentar_tamanho_3{
+    height: 40px !important;
+}
+.aumentar_tamanho_4{
+    height: 237px !important;
+}
+.aumentar_tamanho_6 {
+    height: 99px !important;
+}
+/*GUIA AVANÇADO - MAPAS*/
+.lista_mapa_imagens li{
+	width:230px;	
+	text-align:center;
+	margin-left:10px;
+	float:left;
+}
+/*----------------------------------- Fim Guia do jogo --------------------------------------- */
+/*----------------------------------- INICIO FORUM NICKNAME --------------------------------------- */
+#conteudo #centro .titulo_nickname{
+	width: 726px;
+	height: 30px;
+	border-bottom: 1px solid #16C427;
+}
+#conteudo #centro .titulo_nickname img{
+	float: left;
+	margin-top: 5px;
+}
+#conteudo #centro .titulo_nickname h1{
+	float: left; 
+	color: #CEB798;
+	font-weight: bold;
+	font-size: 11pt;
+	text-transform: uppercase;
+	margin-top: 4px;
+	margin-left: 3px;
+}
+#dados_usuario {
+    margin-top: 20px;
+    padding-left: 15px;
+}
+#dados_usuario tr td, #dados_usuario tr td h2 {
+    color: #CEB798!important;
+    float: left;
+}
+#dados_usuario input{
+    border: 1px solid black;
+    background-color: #252324;
+    color: #999;
+    width: 150px;
+    height: 20px;
+    float: left;
+}
+#botao_ok{
+    background: url("../../imagem.ongame.net/site_novo/metin2/forum/button_ok.gif") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 27px;
+    margin: 5px 5px 0 0;
+    width: 27px;
+}
+#botao_cancelar{
+    background: url("../../imagem.ongame.net/site_novo/metin2/forum/button_cancel.gif") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 27px;
+    margin: 5px 5px 0 0;
+    width: 97px;
+}
+#botao_ok:hover, #botao_cancelar:hover{
+    background-position: 0 -27px;
+}
+/*----------------------------------- FIM FORUM NICKNAME --------------------------------------- */
+
+.lista_mercados{
+	width:100%;
+	margin-left:12px;
+}
+.lista_mercados li{
+	display:inline;
+	cursor:pointer;
+	padding-right: 10px;
+}
+.mercado-ativo img{
+	border:2px solid #D81823;
+}
+
+#conteudo_pagina_oculto{display:none;}
+#conteudo_pagina_exibido{display:block;}
+
+/*----------------------------- Início Pag alterar senha --------------------------- */
+
+#pag-alterar-senha{
+    border: none!important;
+}
+
+#pag-alterar-senha *{
+    font-size: 10pt;
+}
+
+#pag-alterar-senha .box-alteracao{
+    width: 265px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#pag-alterar-senha .box-alteracao .titulo-campo{
+    padding: 6px 0;
+    font-weight: bold;
+    float: left;
+    color: #CEB798;
+    font-size: 10pt;
+    font-weight: bold;
+    width: 100%;
+}
+
+#pag-alterar-senha .box-alteracao input{
+    background: none repeat scroll 0% 0% #262525;
+    float: left;
+    font-size: 12pt;
+    border: medium none;
+    padding: 6px 8px;
+    color: #585757;
+    width: 215px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+#pag-alterar-senha span.status{
+    background: none repeat scroll 0% 0% #262525;
+    float: left;
+    width: 22px;
+    height: 22px;
+    margin-top: 4px;
+}
+
+#pag-alterar-senha span.status.erro{
+    background:url("../../imagem.ongame.net/site_novo/m2/global/ico-erro.png") no-repeat center;
+}
+
+#pag-alterar-senha span.status.sucesso{
+    background:url("../../imagem.ongame.net/site_novo/m2/global/ico-sucesso.png") no-repeat center;
+}
+
+#pag-alterar-senha .box-alteracao button{
+    margin-top: 15px;
+    width: 139px;
+    height: 28px;
+    background-image: url("../../imagem.ongame.net/site_novo/m2/global/M2_senha_personagem_bot%e3oconfirmar.html");
+    border: none;
+    cursor: pointer;
+}
+
+#pag-alterar-senha .box-alteracao button:hover{
+    background-position: 0 -28px;
+}
+
+#pag-alterar-senha #box-mensagem{
+    float: left;
+    width: 360px;
+    padding: 12px 15px 8px 12px;
+    border: dotted 2px #a00;
+    margin: 40px 0 0 20px;
+    color: #CEB798;
+}
+
+#pag-alterar-senha #box-mensagem span.status{
+    margin: 2px 10px 0 0;
+}
+
+#pag-alterar-senha #box-mensagem .texto{
+    float: left;
+    width: 325px;
+    margin: 0px;
+}
+
+#pag-alterar-senha #box-mensagem p{
+    padding: 0px 0px 8px 0px;
+    margin: 0px;
+}
+
+#mensagem-sucesso *{
+    font-size: 10pt;
+}
+
+#mensagem-sucesso h3{
+    float: left;
+}
+
+#mensagem-sucesso h3 p{
+    float: left;
+    font-size: 13px;
+}
+
+#mensagem-sucesso h3 span.status{
+    float: left;
+}
+
+#mensagem-sucesso p{
+    float: left;
+    font-weight: normal;
+    clear: both;
+}
+
+.guiadown {
+	position:relative;
+	padding:8px;
+	border:2px solid red;
+	font-size:90%;
+	color:#CCCCCC;
+	padding-right:32px;
+	border:1px solid #2a2a2a;
+	cursor:hand;
+	display:inline-block;
+	cursor:pointer;
+	margin-left:4px;
+	z-index:100;
+}
+.guiadownmin {
+}
+.guiadown:after {
+	content:"\f078";
+	font-family: FontAwesome;
+	color:#385758;
+	position:absolute;
+	left:100%;
+	top:0;
+	padding-top:5px;
+	height:22px;
+	text-align:center;
+	border-left:1px solid #2A2A2A;
+
+	width:25px;
+	margin-left:-25px;
+}
+.guiadown ul{
+	display:none;
+	position:absolute;
+	top:20px;
+	background-color:#1a1a1a;
+	border:1px solid #2a2a2a;
+	border-top:0px solid transparent;
+	margin-top:10px;
+	left:-1px;
+	white-space: nowrap;
+
+}
+.guiadown ul li {
+	padding-left:7px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:7px;
+	top:0;
+	text-align:left;
+}
+.guiadown ul li:hover{
+	background-color:#373737;
+}
+.guiadown ul li.active{
+	font-weight:700;
+	
+}
+.guiadown ul li a {
+	display:block;
+	width:100%;
+}
+.minspan {
+	font-size:85%;
+	color:gray;
+	margin-left:20px;
+}
+#guiacanvas {
+	margin-top:40px;
+	text-align:center;
+}
+#guiacanvas h1 {
+	font-size:120%;
+	width:100%;
+	font-weight:700;
+	padding-bottom:2px;
+}
+#guiacanvas div.conteudo {
+	line-height:normal;
+	text-align:left;
+	margin-top:5px;
+	padding:20px;
+}
+#guiacanvas div.conteudo strong {
+	font-weight:700;
+
+}
+#guiacanvas div.conteudo p {
+	padding-top:10px;
+}
+#guiacanvas div.conteudo img {
+	max-width:700px;
+}
+#guiaload {
+	position:absolute;
+	width:16px;
+	margin:0 auto;
+}
+#guiapaginas {
+	display:inline;
+}
+
