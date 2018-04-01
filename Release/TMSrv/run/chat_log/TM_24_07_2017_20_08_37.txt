@@ -1,0 +1,4 @@
+24.07.2017.20.10.08 IP: 192.168.1.108 FUTURO chat_kingdom, teste : @@teste reino:0 
+24.07.2017.20.10.15 IP: 192.168.1.108 FUTURO chat_kingdom, teste : @@online reino:0 
+24.07.2017.20.10.29 IP: 192.168.1.108 FUTURO chat_kingdom, teste : @@/armia reino:0 
+24.07.2017.20.10.43 IP: 192.168.1.108 FUTURO chat_kingdom, teste : @@teste reino:0 

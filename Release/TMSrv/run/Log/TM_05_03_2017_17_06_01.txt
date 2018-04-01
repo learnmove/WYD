@@ -1,0 +1,56 @@
+[05/03/2017][17:06:05]  -system sys,start server 
+[05/03/2017][17:06:06] IP: 25.1.3.227 ADMIN CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][17:06:14] IP: 25.1.3.227 ADMIN sta,Login char:EOQe exp:4000000000 level:1010 conn:1 money:106290262, store:0 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 100 2227 2062 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid: 426 2472 2082 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid: 609 2560 1994 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 790 2454 1834 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 798 2535 1833 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 803 2481 1824 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 945 2658 2092 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1169 2276 1748 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1171 2276 1737 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1208 2194 1668 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1250 2255 1621 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1296 1954 1622 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1298 1977 1622 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1446 1826 1694 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1768 171 3773 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1819 244 3787 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1822 250 3747 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1924 428 3752 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 1934 436 3788 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2115 456 3878 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2307 952 4001 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2356 860 4047 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2426 2308 2124 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2500 832 3956 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2608 1070 3736 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2874 1217 4023 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 2938 1359 4072 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3576 773 3985 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid: 3849 2137 1635 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3852 2115 1636 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3853 2087 1633 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3863 2123 1613 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid: 3864 2138 1624 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid: 3868 2068 1595 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3871 2104 1596 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3878 2139 1579 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3887 2058 1552 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 3892 2148 1550 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[05/03/2017][17:06:17]  -system err,No empty mobgrid(1): 5965 3392 1088 
+[05/03/2017][17:06:17]  ADMIN etc,changecity city:2 X:2459 Y:2002 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 230 2366 2148 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 467 2534 2094 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 679 2592 2040 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 697 2644 2016 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 715 2630 1938 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 797 2526 1832 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 939 2598 2090 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 1061 2346 1700 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid: 1201 2200 1732 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 1297 1971 1620 
+[05/03/2017][17:06:29]  -system err,No empty mobgrid(1): 1405 1

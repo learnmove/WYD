@@ -1,0 +1,4 @@
+01.04.2018.11.55.13 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Evolucao price:5250 item: Pedra_da_Imortalidade : 1742.0.0.0.0.0.0 
+01.04.2018.11.55.14 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Evolucao price:7350 item: Sephirot(TransKnight) : 1760.0.0.0.0.0.0 
+01.04.2018.11.55.37 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow Montaria price:892500 item: Sleipnir : 2388.100.100.120.60.100.0 
+01.04.2018.11.55.39 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:10 Item: Sleipnir : 2388.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 

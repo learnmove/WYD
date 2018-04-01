@@ -1,0 +1,200 @@
+[05/03/2017][17:19:20]  -system sys,start server 
+[05/03/2017][17:19:30] IP: 189.13.226.146 ADMIN CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 30 2180 2082 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 148 2296 2114 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 261 2344 2158 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 328 2321 2218 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 332 2358 2220 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 337 2318 2224 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 368 2387 2254 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 498 2450 2038 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 605 2533 1938 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 679 2592 2040 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 708 2642 2004 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1036 2356 1748 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 1122 2323 1611 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1171 2276 1737 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1174 2276 1708 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1179 2273 1748 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1180 2258 1748 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1227 2268 1737 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1274 2004 1604 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1283 2004 1564 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1298 1979 1620 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1307 1950 1648 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1318 1994 1668 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1401 1884 1677 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1433 1840 1736 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1771 181 3773 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1774 184 3758 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1909 384 3768 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1924 429 3752 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1935 427 3784 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1945 462 3758 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 1963 496 3812 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2019 596 3772 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2068 708 3778 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2086 750 3809 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2287 1005 4005 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2302 932 4033 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2307 952 4002 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2494 824 3932 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2608 1070 3737 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2634 1073 3797 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 2997 1495 4007 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3114 1466 3757 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3194 1264 1722 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3375 1299 1678 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3832 2393 2118 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 3840 804 4058 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3852 2112 1636 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3855 2061 1635 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3860 2087 1610 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 3864 2138 1623 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 3865 2050 1617 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3871 2107 1594 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3879 2139 1566 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3889 2095 1550 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3890 2117 1552 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 3891 2134 1552 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid: 3894 2038 1572 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 5655 3348 1618 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 5965 3390 1088 
+[05/03/2017][17:19:32]  -system err,No empty mobgrid(1): 5971 3388 1086 
+[05/03/2017][17:19:36] IP: 189.13.226.146 ADMIN sta,Login char:EOQe exp:4000000000 level:1010 conn:1 money:106290262, store:0 
+[05/03/2017][17:19:38]  ADMIN etc,changecity city:2 X:2460 Y:2000 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 230 2366 2148 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 332 2358 2220 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 520 2510 2019 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 604 2522 1950 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 700 2661 2004 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid: 1181 2250 1748 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 1201 2200 1732 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 1261 2178 1606 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 1297 1969 1624 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid: 1379 1956 1730 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 1401 1890 1678 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 1447 1830 1678 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 1934 435 3788 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 2019 596 3771 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 2050 682 3788 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 2973 1463 3986 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 3852 2114 1634 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 3860 2087 1610 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 3871 2106 1594 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 3879 2138 1565 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 3889 2098 1551 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 5965 3391 1088 
+[05/03/2017][17:19:44]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 230 2363 2148 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 605 2533 1938 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 1060 2335 1700 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 1298 1979 1623 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 1401 1887 1676 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 2633 1064 3810 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 3510 1338 4032 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 3586 778 4064 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 3792 2233 3628 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 3852 2113 1637 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 3871 2102 1596 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 4064 3668 2770 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 4106 3543 2894 
+[05/03/2017][17:19:56]  -system err,No empty mobgrid(1): 5971 3388 1089 
+[05/03/2017][17:20:01] IP: 189.13.226.146 ADMIN adm +teleport 2100 2100 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 1061 2341 1700 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 1065 2370 1688 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 1205 2195 1700 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 1297 1970 1623 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 1401 1890 1677 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 2019 596 3770 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][17:20:08]  -system err,No empty mobgrid(1): 5971 3388 1085 
+[05/03/2017][17:20:13] IP: 189.13.226.146 ADMIN etc,charlogout conn:1 name:EOQe 
+[05/03/2017][17:20:16] IP: 168.181.139.83 ADMIN CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[05/03/2017][17:20:20] IP: 168.181.139.83 ADMIN clo,fd 11-0 
+[05/03/2017][17:20:20]  -system err,No empty mobgrid(1): 1298 1976 1620 
+[05/03/2017][17:20:20]  -system err,No empty mobgrid(1): 1401 1884 1677 
+[05/03/2017][17:20:20]  -system err,No empty mobgrid(1): 2814 1746 1628 
+[05/03/2017][17:20:20]  -system err,No empty mobgrid(1): 3194 1264 1722 
+[05/03/2017][17:20:20]  -system err,No empty mobgrid(1): 3852 2113 1636 
+[05/03/2017][17:20:21]  -system err,GridMulticast mobidx,pos 
+[05/03/2017][17:20:25] IP: 189.13.226.146 ADMIN CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][17:20:29] IP: 189.13.226.146 ADMIN sta,Login char:EOQe exp:4000000000 level:1010 conn:1 money:104752762, store:0 
+[05/03/2017][17:20:30]  ADMIN etc,changecity city:2 X:2460 Y:2004 
+[05/03/2017][17:20:32]  -system err,No empty mobgrid(1): 2245 404 4046 
+[05/03/2017][17:20:32]  -system err,No empty mobgrid: 2745 1710 1826 
+[05/03/2017][17:20:32]  -system err,No empty mobgrid(1): 3453 2391 2101 
+[05/03/2017][17:20:56]  -system err,No empty mobgrid(1): 1297 1968 1624 
+[05/03/2017][17:20:56]  -system err,No empty mobgrid(1): 3455 2417 2122 
+[05/03/2017][17:21:02] IP: 189.13.226.146 ADMIN etc,reqteleport char:EOQe X:1045 Y:1709 price:700 
+[05/03/2017][17:21:07] IP: 189.13.226.146 ADMIN etc,reqteleport char:EOQe X:2116 Y:2100 price:0 
+[05/03/2017][17:21:08]  ADMIN etc,changecity city:0 X:2116 Y:2100 
+[05/03/2017][17:21:08]  -system err,No empty mobgrid(1): 1298 1982 1622 
+[05/03/2017][17:21:20]  -system err,No empty mobgrid(1): 1297 1969 1623 
+[05/03/2017][17:21:20]  -system err,No empty mobgrid(1): 1709 143 3797 
+[05/03/2017][17:21:20]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][17:21:32]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][17:21:44]  -system err,No empty mobgrid(1): 1297 1967 1622 
+[05/03/2017][17:21:56]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][17:22:08]  -system err,No empty mobgrid(1): 1297 1972 1623 
+[05/03/2017][17:22:08]  -system err,No empty mobgrid(1): 3453 2392 2101 
+[05/03/2017][17:22:32] IP: 177.39.204.178 WALLACER13 CNFAccountLogin Mac: 812394551.-1378333794.-1614894986.-299591001 
+[05/03/2017][17:22:32]  -system err,No empty mobgrid(1): 1297 1966 1623 
+[05/03/2017][17:22:32]  -system err,GridMulticast mobidx,pos 
+[05/03/2017][17:22:38] IP: 177.39.204.178 WALLACER13 sta,Login char:Maldito exp:4004462724 level:399 conn:2 money:1989679791, store:0 
+[05/03/2017][17:22:40]  WALLACER13 etc,changecity city:0 X:2087 Y:2099 
+[05/03/2017][17:22:44]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[05/03/2017][17:22:56]  -system err,No empty mobgrid(1): 1297 1966 1620 
+[05/03/2017][17:22:57] IP: 189.13.226.146 ADMIN etc,pkmode 1 
+[05/03/2017][17:22:58] IP: 189.13.226.146 ADMIN etc,msg_attack attacker:1 name:EOQe target:2 name:Maldito dam:2568 x:2127 y:2145 
+[05/03/2017][17:22:58] IP: 189.13.226.146 ADMIN etc,msg_attack attacker:1 name:EOQe target:2 name:Maldito dam:2245 x:2127 y:2145 
+[05/03/2017][17:22:59] IP: 189.13.226.146 ADMIN etc,msg_attack attacker:1 name:EOQe target:2 name:Maldito dam:2391 x:2127 y:2145 
+[05/03/2017][17:23:08] IP: 177.39.204.178 WALLACER13 etc,restart char:Maldito hp:2 
+[05/03/2017][17:23:08]  WALLACER13 etc,changecity city:0 X:2088 Y:2098 
+[05/03/2017][17:23:18]  ADMIN etc,changecity city:0 X:2124 Y:2144 
+[05/03/2017][17:23:20]  -system err,No empty mobgrid(1): 1297 1966 1624 
+[05/03/2017][17:23:44]  -system err,No empty mobgrid(1): 1297 1972 1620 
+[05/03/2017][17:23:44]  -system err,No empty mobgrid(1): 3453 2392 2101 
+[05/03/2017][17:24:00]  -system etc,nightmare_mystic clear -17:24 
+[05/03/2017][17:24:08]  -system err,No empty mobgrid(1): 1297 1972 1620 
+[05/03/2017][17:24:20]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][17:24:32]  -system err,No empty mobgrid(1): 1297 1972 1621 
+[05/03/2017][17:24:56]  -system err,No empty mobgrid(1): 1297 1968 1624 
+[05/03/2017][17:25:20]  -system err,No empty mobgrid(1): 1297 1970 1623 
+[05/03/2017][17:25:44]  -system err,No empty mobgrid(1): 1297 1971 1622 
+[05/03/2017][17:26:09]  -system err,No empty mobgrid(1): 1297 1972 1622 
+[05/03/2017][17:26:22] IP: 189.13.226.146 ADMIN adm +reloadnpc 
+[05/03/2017][17:26:29] IP: 189.13.226.146 ADMIN adm +kill Runas_Joias 
+[05/03/2017][17:26:29] IP: 189.13.226.146 ADMIN MobName:EOQe dropou o item: Jóia_da_Absorção:3204 0.0.0.0.0.0 do mob:Runas Joias 
+[05/03/2017][17:26:29] IP: 189.13.226.146 ADMIN MobName:EOQe dropou o item: Jóia_da_Armazenagem:3207 0.0.0.0.0.0 do mob:Runas Joias 
+[05/03/2017][17:26:29] IP: 189.13.226.146 ADMIN MobName:EOQe dropou o item: Thurisaz:5112 0.0.0.0.0.0 do mob:Runas Joias 
+[05/03/2017][17:26:33]  -system err,No empty mobgrid(1): 1297 1966 1623 
+[05/03/2017][17:26:41] IP: 189.13.226.146 ADMIN adm +kill Acessorios6 
+[05/03/2017][17:26:41] IP: 189.13.226.146 ADMIN MobName:EOQe dropou o item: Pergaminho_do_Perdão:3343 0.0.0.0.0.0 do mob:Acessorios6 
+[05/03/2017][17:26:45]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][17:26:57]  -system err,No empty mobgrid(1): 1297 1966 1620 
+[05/03/2017][17:27:21]  -system err,No empty mobgrid(1): 1297 1966 1624 
+[05/03/2017][17:27:45]  -system err,No empty mobgrid(1): 1297 1972 1624 
+[05/03/2017][17:27:57]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][17:28:09]  -system err,No empty mobgrid(1): 1297 1967 1620 
+[05/03/2017][17:28:12] IP: 189.13.226.146 ADMIN adm +reloadnpc 
+[05/03/2017][17:28:21]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][17:28:22] IP: 189.13.226.146 ADMIN adm +kill Acessorios6 
+[05/03/2017][17:28:48] IP: 189.13.226.146 ADMIN adm +reloadnpc 
+[05/03/2017][17:28:50] IP: 189.13.226.146 ADMIN adm +kill Acessorios6 
+[05/03/2017][17:28:52] IP: 189.13.226.146 ADMIN adm +reloadnpc 
+[05/03/2017][17:29:00]  -system etc,nightmare_arcan clear -17:29 
+[05/03/2017][17:29:09] IP: 189.13.226.146 ADMIN sel_npc,npc:Acessorios6 price:1950000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+[05/03/2017][17:29:32] IP: 189.13.226.146 ADMIN adm +reloadnpc 
+[05/03/2017][17:29:34] IP: 189.13.226.146 ADMIN adm +kill Acessorios6 
+[05/03/2017][17:29:34] IP: 189.13.226.146 ADMIN MobName:EOQe dropou o item: Pesadelo_(M/Grupo):3325 0.0.0.0.0.0 do mob:Acessorios6 
+[05/03/2017][17:30:14] IP: 168.181.139.83 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[05/03/2017][17:30:21]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][17:30:21] IP: 168.181.139.83 CYBER sta,Login char:iCyber exp:4000015624 level:399 conn:3 money:1929295017, store:0 
+[05/03/2017][17:30:23]  CYBER etc,changecity city:2 X:2453 Y:2002 
+[05/03/2017][17:30:26]  -system etc,mount ressurect index:2388 vit:119 - 120 

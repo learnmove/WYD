@@ -1,0 +1,26 @@
+01.04.2018.12.22.44 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow Montaria price:1575000 item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+01.04.2018.12.22.45 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+01.04.2018.12.29.40 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.60.30.43.250 
+01.04.2018.12.29.42 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:1 DstSlot:2 Item: 
+01.04.2018.12.29.44 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:2 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: Cythera_Mística : 3502.0.0.0.0.0.0 
+01.04.2018.12.29.47 IP: 25.80.207.79 [GM]Fokus- deleteitem,  Cythera_Mística : 3502.0.0.0.0.0.0 
+01.04.2018.12.30.01 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 
+01.04.2018.12.30.03 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 
+01.04.2018.12.30.27 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.54.18.43.250 
+01.04.2018.12.30.28 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.54.18.43.250 
+01.04.2018.12.30.30 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Ração_de_Pantera_Negra(P) : 3464.69.20.54.18.43.250 DstType:0 DstSlot:8 Item: 
+01.04.2018.12.30.31 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Ração_de_Pantera_Negra(P) : 3464.69.20.54.18.43.250 DstType:0 DstSlot:10 Item: 
+01.04.2018.12.30.50 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.3.120.60.20.43.250 
+01.04.2018.12.30.55 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.3.120.60.20.43.250 
+01.04.2018.12.30.57 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Ração_de_Pantera_Negra(P) : 3464.3.120.60.20.43.250 DstType:0 DstSlot:9 Item: 
+01.04.2018.12.30.58 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Ração_de_Pantera_Negra(P) : 3464.3.120.60.20.43.250 DstType:0 DstSlot:11 Item: 
+01.04.2018.12.31.56 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios3 price:52500 item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 
+01.04.2018.12.31.59 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios3 price:1260 item: Traje_Natalino(30dias) : 4159.0.0.0.0.0.0 
+01.04.2018.12.32.02 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Traje_Natalino(30dias) : 4159.106.2.110.5.109.18 DstType:0 DstSlot:12 Item: 
+01.04.2018.12.32.03 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 DstType:0 DstSlot:13 Item: 
+01.04.2018.12.32.30 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios4 price:315 item: Feijão_Mágico(Prateado) : 3410.61.5.0.0.0.0 
+01.04.2018.12.32.31 IP: 25.80.207.79 FOKUS1 useitem,paint success 3507+27 - (61,0,0) 
+01.04.2018.12.32.34 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:12 Item: Traje_Natalino(30dias) : 4159.106.2.110.5.109.18 DstType:1 DstSlot:7 Item: 
+01.04.2018.12.33.43 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:7 Item: Traje_Natalino(30dias) : 4159.106.2.110.5.109.18 DstType:0 DstSlot:12 Item: 
+01.04.2018.12.36.05 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:11 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:9 Item: 
+01.04.2018.12.36.07 IP: 25.80.207.79 [GM]Fokus- deleteitem,  Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 

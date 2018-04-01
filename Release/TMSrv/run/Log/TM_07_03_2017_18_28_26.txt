@@ -1,0 +1,1020 @@
+[07/03/2017][18:28:29] IP: 201.17.211.212 BADFIVE123 etc,get mantle 3191 - sapphire:0 
+[07/03/2017][18:28:51] IP: 189.13.226.146 WELMAL sta,Login char:CRAZY exp:10504159 level:1010 conn:1 money:1997459375, store:0 
+[07/03/2017][18:28:54]  WELMAL etc,changecity city:0 X:2099 Y:2103 
+[07/03/2017][18:28:58] IP: 177.39.204.178 WALLACER137 clo,fd 22-2 
+[07/03/2017][18:28:58] IP: 177.39.204.178 WALLACER137 etc,charlogout conn:3 name:Maldito 
+[07/03/2017][18:29:00]  -system etc,nightmare_arcan clear -18:29 
+[07/03/2017][18:29:03] IP: 189.13.226.146 WELMAL adm +notice Sim amigo 
+[07/03/2017][18:29:03]  -system not  Sim amigo 
+[07/03/2017][18:29:12]  -system etc,set citizen server:1 name:CRAZY conn:1 
+[07/03/2017][18:29:14]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[07/03/2017][18:29:16]  BADFIVE123 etc,changecity city:1 X:2501 Y:1709 
+[07/03/2017][18:29:17] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:1046 Y:1726 price:700 
+[07/03/2017][18:29:18] IP: 189.13.226.146 WELMAL sys,guild medal value:3 count:3 
+[07/03/2017][18:29:21] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:2481 Y:1716 price:0 
+[07/03/2017][18:29:22]  BOBS20 etc,changecity city:1 X:2481 Y:1716 
+[07/03/2017][18:29:28] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:1971 Y:1713 price:0 
+[07/03/2017][18:29:29] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1045 Y:1718 price:700 
+[07/03/2017][18:29:41] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:2116 Y:2102 price:0 
+[07/03/2017][18:29:41]  BADFIVE123 etc,changecity city:0 X:2116 Y:2102 
+[07/03/2017][18:29:47]  -system etc,set citizen server:1 name:-PARAD1SE- conn:4 
+[07/03/2017][18:29:51] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:1046 Y:1725 price:700 
+[07/03/2017][18:29:52] IP: 189.45.123.83 MANEJO CNFAccountLogin Mac: 859423508.1608401992.-1551144654.-2113389136 
+[07/03/2017][18:29:55] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:2482 Y:1716 price:0 
+[07/03/2017][18:29:55]  LILITH etc,changecity city:1 X:2482 Y:1716 
+[07/03/2017][18:29:58] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:1044 Y:1717 price:700 
+[07/03/2017][18:29:59] IP: 189.13.226.146 WELMAL etc,abandonar 3 9 
+[07/03/2017][18:30:00] IP: 189.45.123.83 MANEJO etc,createchar name:N3R0 3 13 
+[07/03/2017][18:30:01] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:3651 Y:3111 price:0 
+[07/03/2017][18:30:01] IP: 179.125.130.230 LILITH cra point: 1  type: 5 
+[07/03/2017][18:30:02]  LILITH etc,changecity city:3 X:3651 Y:3111 
+[07/03/2017][18:30:03] IP: 189.45.123.83 MANEJO sta,Login char:N3R0 exp:0 level:0 conn:3 money:2000000000, store:0 
+[07/03/2017][18:30:07] IP: 189.13.226.146 WELMAL sys,guild medal value:4 count:4 
+[07/03/2017][18:30:12]  -system etc,carbuncle buff name:N3R0 conn:3 
+[07/03/2017][18:30:17]  MANEJO etc,changecity city:5 X:2112 Y:2049 
+[07/03/2017][18:30:28] IP: 201.17.211.212 BADFIVE123 etc,kingdom command 7  
+[07/03/2017][18:30:28] IP: 189.13.226.146 WELMAL adm +notice Criem :3 
+[07/03/2017][18:30:28]  -system not  Criem :3 
+[07/03/2017][18:30:37] IP: 201.17.211.212 BADFIVE123 sys,guild medal value:5 count:5 
+[07/03/2017][18:30:42] IP: 201.17.211.212 BADFIVE123 etc,abandonar 5 9 
+[07/03/2017][18:30:43] IP: 186.241.107.22 BOBS20 etc,msg_attack attacker:9 name:SodaNois target:7332 name:Averest  dam:3896 x:1740 y:1826 
+[07/03/2017][18:30:44] IP: 186.241.107.22 BOBS20 etc,msg_attack attacker:9 name:SodaNois target:7332 name:Averest  dam:3770 x:1740 y:1826 
+[07/03/2017][18:30:47] IP: 201.17.211.212 BADFIVE123 sys,guild medal value:6 count:6 
+[07/03/2017][18:31:10] IP: 189.13.226.146 WELMAL adm +notice Usem /guildinfo 
+[07/03/2017][18:31:10]  -system not  Usem /guildinfo 
+[07/03/2017][18:31:19] IP: 186.241.107.22 BOBS20 etc,king_arch name:SodaNois class:1 mortalface:11 mortalslot:0 
+[07/03/2017][18:31:19] IP: 186.241.107.22 BOBS20 etc,arch create name:SodaNois slot:1 
+[07/03/2017][18:31:24] IP: 186.241.107.22 BOBS20 sta,Login char:SodaNois exp:0 level:0 conn:9 money:2000000000, store:0 
+[07/03/2017][18:31:25]  BOBS20 etc,changecity city:0 X:2092 Y:2100 
+[07/03/2017][18:31:32] IP: 179.34.31.119 LUCIO sel_npc,npc:Evolucao price:2193 item: Pedra_da_Fúria : 3020.0.0.0.0.0.0 
+[07/03/2017][18:31:37] IP: 189.13.226.146 WELMAL adm +notice Tem guild? 
+[07/03/2017][18:31:37]  -system not  Tem guild? 
+[07/03/2017][18:31:39]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[07/03/2017][18:31:39] IP: 189.13.226.146 WELMAL etc,reqteleport char:CRAZY X:1046 Y:1724 price:700 
+[07/03/2017][18:31:45] IP: 189.13.226.146 WELMAL etc,reqteleport char:CRAZY X:3650 Y:3110 price:0 
+[07/03/2017][18:31:45]  WELMAL etc,changecity city:3 X:3650 Y:3110 
+[07/03/2017][18:31:51] IP: 189.115.114.220 ZAYCO2808 clo,fd 22-2 
+[07/03/2017][18:31:51] IP: 189.115.114.220 ZAYCO2808 etc,charlogout conn:5 name:Support 
+[07/03/2017][18:31:54] IP: 189.13.226.146 WELMAL etc,reqteleport char:CRAZY X:1054 Y:1711 price:0 
+[07/03/2017][18:31:59] IP: 189.13.226.146 WELMAL etc,reqteleport char:CRAZY X:2116 Y:2101 price:0 
+[07/03/2017][18:31:59]  WELMAL etc,changecity city:0 X:2116 Y:2101 
+[07/03/2017][18:32:07] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:800000000 level:39 conn:2 money:1922566288, store:0 
+[07/03/2017][18:32:08]  LILITH etc,changecity city:3 X:3662 Y:3135 
+[07/03/2017][18:32:09] IP: 201.17.211.212 BADFIVE123 clo,fd 22-2 
+[07/03/2017][18:32:09] IP: 201.17.211.212 BADFIVE123 etc,charlogout conn:4 name:-PARAD1SE- 
+[07/03/2017][18:32:14] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:1054 Y:1710 price:0 
+[07/03/2017][18:32:14] IP: 177.39.204.178 WALLACER137 CNFAccountLogin Mac: 812394551.-1378333794.-1614894986.-299591001 
+[07/03/2017][18:32:15]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[07/03/2017][18:32:21] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:800000000 level:39 conn:4 money:1578245423, store:0 
+[07/03/2017][18:32:22] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:2457 Y:2016 price:0 
+[07/03/2017][18:32:23]  LILITH etc,changecity city:2 X:2457 Y:2016 
+[07/03/2017][18:32:23]  WALLACER137 etc,changecity city:0 X:2088 Y:2106 
+[07/03/2017][18:32:24] IP: 189.13.226.146 WELMAL adm +notice Todos os originais do Br 
+[07/03/2017][18:32:24]  -system not  Todos os originais do Br 
+[07/03/2017][18:32:42] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:1044 Y:1710 price:700 
+[07/03/2017][18:32:48] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:1166 Y:1721 price:0 
+[07/03/2017][18:32:53] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:1046 Y:1726 price:700 
+[07/03/2017][18:32:57] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:2481 Y:1716 price:0 
+[07/03/2017][18:32:58]  LUCIO etc,changecity city:1 X:2481 Y:1716 
+[07/03/2017][18:32:59] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:800000000 level:39 conn:2 money:1922566288, store:0 
+[07/03/2017][18:32:59] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1044 Y:1724 price:700 
+[07/03/2017][18:33:00]  LILITH etc,changecity city:2 X:2465 Y:2005 
+[07/03/2017][18:33:01] IP: 189.13.226.146 WELMAL adm +notice /king /kingdom 
+[07/03/2017][18:33:01]  -system not  /king /kingdom 
+[07/03/2017][18:33:02] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:2116 Y:2102 price:0 
+[07/03/2017][18:33:03]  CYBER etc,changecity city:0 X:2116 Y:2102 
+[07/03/2017][18:33:04] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:1046 Y:1708 price:700 
+[07/03/2017][18:33:05] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:1971 Y:1712 price:0 
+[07/03/2017][18:33:09] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1045 Y:1725 price:700 
+[07/03/2017][18:33:09] IP: 179.125.130.230 LILITH etc,reqteleport char:Lilith X:2116 Y:2102 price:0 
+[07/03/2017][18:33:10]  LILITH etc,changecity city:0 X:2116 Y:2102 
+[07/03/2017][18:33:12] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:2482 Y:1716 price:0 
+[07/03/2017][18:33:12]  CYBER etc,changecity city:1 X:2482 Y:1716 
+[07/03/2017][18:33:20] IP: 168.181.139.83 CYBER etc,king command 0  
+[07/03/2017][18:33:28] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1969 Y:1713 price:0 
+[07/03/2017][18:33:31] IP: 189.13.226.146 WELMAL adm +level 199 
+[07/03/2017][18:33:38] IP: 189.13.226.146 WELMAL adm +set level 199 
+[07/03/2017][18:33:39]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[07/03/2017][18:33:51]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[07/03/2017][18:33:55] IP: 189.45.123.83 MANEJO etc,king command 0  
+[07/03/2017][18:33:57] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:8942 name:Anciao Ciclops dam:2436 x:1877 y:1724 
+[07/03/2017][18:33:58] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:8942 name:Anciao Ciclops dam:4345 x:1877 y:1724 
+[07/03/2017][18:33:59] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:8942 name:Anciao Ciclops dam:2412 x:1877 y:1724 
+[07/03/2017][18:34:11] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:1045 Y:1726 price:700 
+[07/03/2017][18:34:34] IP: 189.45.123.83 MANEJO etc,king command 0  
+[07/03/2017][18:34:38] IP: 179.34.31.119 LUCIO lindy,unlock lv354 
+[07/03/2017][18:34:39]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[07/03/2017][18:34:39] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:2482 Y:1717 price:0 
+[07/03/2017][18:34:39]  MANEJO etc,changecity city:1 X:2482 Y:1717 
+[07/03/2017][18:34:46] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:1969 Y:1712 price:0 
+[07/03/2017][18:34:48] IP: 179.34.31.119 LUCIO accept_party,ANAO aceitou party de TK-MAGO. 
+[07/03/2017][18:34:51]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[07/03/2017][18:35:03] IP: 179.34.31.119 LUCIO sta,Login char:ANAO exp:0 level:0 conn:7 money:1998380746, store:0 
+[07/03/2017][18:35:04]  LUCIO etc,changecity city:1 X:2494 Y:1720 
+[07/03/2017][18:35:05] IP: 189.45.123.83 MANEJO etc,pkmode 1 
+[07/03/2017][18:35:13] IP: 168.181.139.83 CYBER lindy,unlock lv354 
+[07/03/2017][18:35:14] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:1046 Y:1717 price:700 
+[07/03/2017][18:35:18] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:2118 Y:2102 price:0 
+[07/03/2017][18:35:19]  LUCIO etc,changecity city:0 X:2118 Y:2102 
+[07/03/2017][18:35:20] IP: 201.17.211.212 BADFIVE123 CNFAccountLogin Mac: -838874041.1397704535.-1546892782.-959533156 
+[07/03/2017][18:35:23] IP: 179.125.130.230 LILITH etc,kingdom command 0  
+[07/03/2017][18:35:35] IP: 201.17.211.212 BADFIVE123 sta,Login char:-PARAD1SE- exp:2624000000 level:369 conn:5 money:1575157408, store:0 
+[07/03/2017][18:35:36] IP: 187.4.213.191 DANODANO1 CNFAccountLogin Mac: 277579523.628313041.-1470615319.134366016 
+[07/03/2017][18:35:38]  BADFIVE123 etc,changecity city:0 X:2090 Y:2107 
+[07/03/2017][18:35:40] IP: 189.13.226.146 WELMAL adm +notice Me da 30s faço isso. 
+[07/03/2017][18:35:40]  -system not  Me da 30s faço isso. 
+[07/03/2017][18:35:51] IP: 187.4.213.191 DANODANO1 etc,createchar name:Cavalinho 10 13 
+[07/03/2017][18:35:55] IP: 187.4.213.191 DANODANO1 sta,Login char:Cavalinho exp:0 level:0 conn:10 money:2000000000, store:0 
+[07/03/2017][18:35:58] IP: 168.181.139.83 CYBER lindy,unlock lv369 
+[07/03/2017][18:36:00] IP: 187.4.213.191 DANODANO1 etc,msg_attack attacker:10 name:Cavalinho target:8864 name:Porco dam:28 x:2108 y:2044 
+[07/03/2017][18:36:01] IP: 187.4.213.191 DANODANO1 etc,msg_attack attacker:10 name:Cavalinho target:8864 name:Porco dam:28 x:2111 y:2041 
+[07/03/2017][18:36:03] IP: 187.4.213.191 DANODANO1 etc,msg_attack attacker:10 name:Cavalinho target:8865 name:Porco dam:27 x:2109 y:2045 
+[07/03/2017][18:36:03]  LUCIO etc,applybonus name:ANAO bonustype:2 skillpos:8 
+[07/03/2017][18:36:04] IP: 187.4.213.191 DANODANO1 etc,msg_attack attacker:10 name:Cavalinho target:8865 name:Porco dam:28 x:2111 y:2041 
+[07/03/2017][18:36:08]  DANODANO1 etc,changecity city:0 X:2113 Y:2059 
+[07/03/2017][18:36:12] IP: 189.13.226.146 WELMAL adm +notice Foi uma boa ideia. kk 
+[07/03/2017][18:36:12]  -system not  Foi uma boa ideia. kk 
+[07/03/2017][18:36:14]  LUCIO etc,applybonus name:ANAO bonustype:2 skillpos:9 
+[07/03/2017][18:36:16]  LUCIO etc,applybonus name:ANAO bonustype:2 skillpos:10 
+[07/03/2017][18:36:22] IP: 168.181.139.83 CYBER sta,Login char:TK-MAGO exp:0 level:0 conn:6 money:1987959428, store:0 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  CYBER etc,changecity city:1 X:2495 Y:1717 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:25]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:26]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1045 Y:1718 price:700 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:27]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:28]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:29]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30] IP: 189.45.123.83 MANEJO etc,king_arch name:N3R0 class:3 mortalface:11 mortalslot:0 
+[07/03/2017][18:36:30] IP: 189.45.123.83 MANEJO etc,arch create name:N3R0 slot:1 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:30]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:33] IP: 189.45.123.83 MANEJO sta,Login char:N3R0 exp:0 level:0 conn:3 money:2000000000, store:0 
+[07/03/2017][18:36:34] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:2118 Y:2102 price:0 
+[07/03/2017][18:36:34] IP: 179.125.130.230 LILITH etc,get mantle 3198 - sapphire:0 
+[07/03/2017][18:36:34]  CYBER etc,changecity city:0 X:2118 Y:2102 
+[07/03/2017][18:36:34]  MANEJO etc,changecity city:0 X:2089 Y:2094 
+[07/03/2017][18:36:34] IP: 179.125.130.230 LILITH etc,msg_attack attacker:2 name:Lilith target:7659 name:Cav. Real  dam:13668 x:1739 y:1877 
+[07/03/2017][18:36:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38] IP: 201.17.211.212 BADFIVE123 etc,kingdom command 7  
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:800000000 level:39 conn:2 money:1908022433, store:0 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LILITH etc,changecity city:0 X:2099 Y:2107 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special2 
+[07/03/2017][18:36:51]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[07/03/2017][18:36:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:57]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:58]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:36:59]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:02] IP: 189.13.226.146 WELMAL adm +notice Perdão, maioria wins. 
+[07/03/2017][18:37:02]  -system not  Perdão, maioria wins. 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special0 
+[07/03/2017][18:37:33]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:33]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:33]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:33]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:33]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:33]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:34]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:35]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:36]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:37]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:38]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:39]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:40]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:41]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:42]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:43]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:44]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:45]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:46]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:47]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:48]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49] IP: 168.181.139.83 CYBER etc,kingdom command 0  
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:49]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:50]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:51]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:52]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:53]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:54]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:55]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:56]  LUCIO etc,applybonus name:ANAO bonustype:1 special3 
+[07/03/2017][18:37:56] IP: 201.17.211.212 BADFIVE123 lindy,unlock lv369 
+[07/03/2017][18:37:59] IP: 168.181.139.83 CYBER etc,king command 0  
+[07/03/2017][18:38:00]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:01]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:02]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:03]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:04]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:05]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:06]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:07]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:08]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:09]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:10]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:11]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:12]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:13]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:14]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:15]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:16]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:17]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:18] IP: 201.17.211.212 BADFIVE123 etc,kingdom command 7  
+[07/03/2017][18:38:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:18]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:19]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:20]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:21]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:22]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:23]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:24]  LUCIO etc,applybonus name:ANAO bonustype:1 special1 
+[07/03/2017][18:38:35]  BADFIVE123 etc,changecity city:0 X:2097 Y:2102 
+[07/03/2017][18:38:44]  LUCIO etc,applybonus name:ANAO bonustype:2 skillpos:13 
+[07/03/2017][18:38:51] IP: 168.181.139.83 CYBER etc,get mantle 3198 - sapphire:0 
+[07/03/2017][18:38:54]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:200 
+[07/03/2017][18:38:55]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:200 
+[07/03/2017][18:38:56]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:200 
+[07/03/2017][18:38:57] IP: 201.17.211.212 -PARAD1SE- etc,inviteguild guild:6 target_name:Maldito 
+[07/03/2017][18:38:57]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:200 
+[07/03/2017][18:38:58]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:200 
+[07/03/2017][18:39:00]  -system etc,nightmare_normal clear -18:39 
+[07/03/2017][18:39:05]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:3 pontos:200 
+[07/03/2017][18:39:06] IP: 168.181.139.83 CYBER sta,Login char:TK-MAGO exp:800000000 level:39 conn:6 money:1926752253, store:0 
+[07/03/2017][18:39:08]  CYBER etc,changecity city:0 X:2095 Y:2097 
+[07/03/2017][18:39:09]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:09]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:10]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:12]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:12]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:12]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:12]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:12]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:13]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:13]  LUCIO etc,applybonus name:ANAO bonustype:0 detail:2 pontos:1 
+[07/03/2017][18:39:39]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[07/03/2017][18:40:53] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:1046 Y:1725 price:700 
+[07/03/2017][18:40:55] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:2118 Y:2100 price:0 
+[07/03/2017][18:40:56]  MANEJO etc,changecity city:0 X:2118 Y:2100 
+[07/03/2017][18:41:07] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:1045 Y:1724 price:700 
+[07/03/2017][18:41:10] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:2482 Y:1717 price:0 
+[07/03/2017][18:41:10]  MANEJO etc,changecity city:1 X:2482 Y:1717 
+[07/03/2017][18:41:11]  -system etc,set citizen server:1 name:TK-MAGO conn:6 
+[07/03/2017][18:41:16] IP: 179.34.31.119 LUCIO sel_npc,npc:Refinacoes price:1706 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+[07/03/2017][18:41:17] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:1045 Y:1718 price:700 
+[07/03/2017][18:41:18] IP: 179.34.31.119 LUCIO sel_npc,npc:Refinacoes price:1706 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+[07/03/2017][18:41:19] IP: 189.13.226.146 WELMAL adm +createkefra 
+[07/03/2017][18:41:20] IP: 189.45.123.83 MANEJO etc,reqteleport char:N3R0 X:2458 Y:2016 price:0 
+[07/03/2017][18:41:21] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:1044 Y:1724 price:700 
+[07/03/2017][18:41:21]  MANEJO etc,changecity city:2 X:2458 Y:2016 
+[07/03/2017][18:41:24] IP: 179.181.55.253 FABIOSOGOD CNFAccountLogin Mac: 64323896.836583544.-1679638595.-593683426 
+[07/03/2017][18:41:25] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:2458 Y:2017 price:0 
+[07/03/2017][18:41:26]  BOBS20 etc,changecity city:2 X:2458 Y:2017 
+[07/03/2017][18:41:27]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[07/03/2017][18:41:28] IP: 168.181.139.83 CYBER sys,guild medal value:7 count:7 
+[07/03/2017][18:41:33] IP: 179.181.55.253 FABIOSOGOD etc,createchar name:Duke 11 13 
+[07/03/2017][18:41:36] IP: 179.181.55.253 FABIOSOGOD sta,Login char:Duke exp:0 level:0 conn:11 money:2000000000, store:0 
+[07/03/2017][18:41:39] IP: 179.181.55.253 FABIOSOGOD etc,msg_attack attacker:11 name:Duke target:2394 name:Porco dam:28 x:2109 y:2045 
+[07/03/2017][18:41:40] IP: 179.181.55.253 FABIOSOGOD etc,msg_attack attacker:11 name:Duke target:2394 name:Porco dam:28 x:2109 y:2045 
+[07/03/2017][18:41:40] IP: 179.181.55.253 FABIOSOGOD MobName:Duke dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[07/03/2017][18:41:40] IP: 179.181.55.253 FABIOSOGOD MobName:Duke dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[07/03/2017][18:41:41] IP: 168.181.139.83 CYBER etc,abandonar 7 9 
+[07/03/2017][18:41:42] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:1045 Y:1710 price:700 
+[07/03/2017][18:41:45] IP: 187.4.213.191 DANODANO1 etc,kingdom command 0  
+[07/03/2017][18:41:46] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:2116 Y:2100 price:0 
+[07/03/2017][18:41:47]  BOBS20 etc,changecity city:0 X:2116 Y:2100 
+[07/03/2017][18:41:48]  FABIOSOGOD etc,changecity city:0 X:2112 Y:2053 
+[07/03/2017][18:41:55] IP: 201.17.211.212 BADFIVE123 sta,Login char:-PARAD1SE- exp:0 level:0 conn:5 money:1569070033, store:0 
+[07/03/2017][18:41:57]  BADFIVE123 etc,changecity city:0 X:2090 Y:2099 
+[05/03/2017][18:42:11] IP: 168.181.139.83 CYBER sys,guild medal value:8 count:8 

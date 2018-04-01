@@ -1,0 +1,25 @@
+12.11.2017.16.45.53 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:3 Item: DstType:0 DstSlot:12 Item: 
+12.11.2017.16.46.24 IP: 192.168.1.108 ADMIN buy_npc,npc:Trajes price:1260 item: Death_Shadow : 4192.0.0.0.0.0.0 
+12.11.2017.16.46.44 IP: 192.168.1.108 ADMIN buy_npc,npc:Acessorios3 price:1260 item: Traje_Armadura_Real : 4171.0.0.0.0.0.0 
+12.11.2017.16.46.46 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:13 Item: Traje_Armadura_Real : 4171.106.13.110.12.109.17 DstType:0 DstSlot:12 Item: 
+12.11.2017.16.47.08 IP: 192.168.1.108 ADMIN tradingitem, SrcType:0 SrcSlot:14 Item: Sleipnir : 2388.146.98.120.60.100.0 DstType:1 DstSlot:9 Item: 
+12.11.2017.16.47.17 IP: 192.168.1.108 ADMIN *** Item combine ehre. *** 
+12.11.2017.16.47.17 IP: 192.168.1.108 ADMIN err,No empty mobgrid: 2743 1703 1826 Sleipnir : 2388.146.98.120.60.100.0 Death_Shadow : 4192.0.0.0.0.0.0 
+12.11.2017.16.47.17 IP: 192.168.1.108 ADMIN *** ------------------- *** 
+12.11.2017.16.47.17 IP: 192.168.1.108 *** Combine ehre sucess *** ADMIN  Sleipnir : 2388.146.98.120.60.100.13 
+12.11.2017.16.47.19 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:9 Item: Sleipnir : 2388.146.98.120.60.100.13 DstType:0 DstSlot:14 Item: 
+12.11.2017.16.48.50 IP: 192.168.1.108 ADMIN useitem,joia_pvp joia:3209 
+12.11.2017.16.48.53 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:313 
+12.11.2017.16.48.55 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:314 
+12.11.2017.16.48.55 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:315 
+12.11.2017.16.48.55 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:316 
+12.11.2017.16.48.55 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:317 
+12.11.2017.16.48.55 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:318 
+12.11.2017.16.48.56 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:319 
+12.11.2017.16.48.56 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:320 
+12.11.2017.16.48.56 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:321 
+12.11.2017.16.48.56 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:322 
+12.11.2017.16.48.57 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:323 
+12.11.2017.16.48.57 IP: 192.168.1.108 ADMIN useitem,poeira_de_fada classmaster:2 level:324 
+12.11.2017.16.49.22 IP: 192.168.1.108 ADMIN tradingitem, SrcType:0 SrcSlot:12 Item: Traje_Armadura_Real : 4171.106.13.110.12.109.17 DstType:1 DstSlot:9 Item: 
+12.11.2017.16.49.23 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:4 Item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 DstType:0 DstSlot:13 Item: 

@@ -1,0 +1,3 @@
+[05/03/2017][16:50:14]  -system sys,start server 
+[05/03/2017][16:50:18]  -system err wsareaddb fail 
+[05/03/2017][16:50:21]  -system reconnect DB fail. 

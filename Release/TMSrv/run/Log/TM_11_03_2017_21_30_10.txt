@@ -1,0 +1,173 @@
+[11/03/2017][21:30:13]  -system sys,start server 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 62 2215 2063 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 70 2219 2063 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 100 2227 2062 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 328 2321 2218 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 337 2318 2223 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 442 2488 2054 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 545 2488 1950 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 575 2450 1951 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 602 2543 1943 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 673 2618 1978 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 792 2472 1836 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 802 2476 1820 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 908 2612 2078 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 1179 2274 1748 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 1304 1960 1644 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1830 279 3790 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1968 409 3815 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 1995 560 3802 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2220 420 4027 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2253 974 4075 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2307 952 4002 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2542 930 3804 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 3860 2086 1616 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 3864 2138 1623 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 3868 2074 1595 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 3885 2048 1574 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid: 5770 3409 1534 
+[11/03/2017][21:30:25]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 70 2224 2063 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 324 2368 2213 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 337 2324 2224 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 601 2543 1954 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 796 2513 1836 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid: 1229 2268 1719 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 1293 1945 1573 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 1405 1877 1758 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 1467 2192 1487 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid: 1871 321 3744 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 1934 435 3788 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 1968 410 3815 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2019 596 3770 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2086 749 3809 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2287 1003 4004 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2523 799 3889 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2601 1030 3762 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2617 1077 3753 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2635 1068 3786 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 2641 1128 3762 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3869 2085 1596 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3873 2133 1595 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3878 2139 1583 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 4036 3622 2822 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/03/2017][21:30:37]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][21:30:45] IP: 192.168.1.110 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 62 2210 2064 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 259 2361 2160 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 337 2318 2224 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid: 1122 2323 1611 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 1298 1976 1624 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 1968 411 3815 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 2627 1049 3814 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 2642 1128 3755 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 3586 780 4064 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 3605 2448 4009 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 3852 2116 1635 
+[11/03/2017][21:30:49]  -system err,No empty mobgrid(1): 3891 2133 1552 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 1061 2345 1700 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid: 1193 2209 1734 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid: 1229 2270 1719 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 1293 1944 1576 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 1968 410 3814 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 2229 488 4042 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 2231 488 4036 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 2541 926 3810 
+[11/03/2017][21:31:01]  -system err,No empty mobgrid(1): 3589 758 4066 
+[11/03/2017][21:31:03] IP: 192.168.1.110 CYBER etc,createchar name:HT-DANO 1 13 
+[11/03/2017][21:31:07] IP: 192.168.1.110 CYBER sta,Login char:HT-DANO exp:0 level:0 conn:1 money:2000000000, store:0 
+[11/03/2017][21:31:09]  CYBER etc,changecity city:0 X:2099 Y:2104 
+[11/03/2017][21:31:13]  -system err,No empty mobgrid(1): 62 2211 2063 
+[11/03/2017][21:31:13]  -system err,No empty mobgrid(1): 1298 1982 1622 
+[11/03/2017][21:31:13]  -system err,No empty mobgrid(1): 1542 2244 1303 
+[11/03/2017][21:31:25]  -system err,No empty mobgrid(1): 1061 2345 1700 
+[11/03/2017][21:31:25]  -system err,No empty mobgrid(1): 1297 1967 1624 
+[11/03/2017][21:31:25]  -system err,No empty mobgrid(1): 3605 2448 4009 
+[11/03/2017][21:31:49]  -system err,No empty mobgrid(1): 1297 1971 1620 
+[11/03/2017][21:31:51] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2376 name:Porco dam:34 x:2109 y:2046 
+[11/03/2017][21:31:52] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2376 name:Porco dam:34 x:2109 y:2046 
+[11/03/2017][21:31:56] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2375 name:Porco dam:34 x:2113 y:2043 
+[11/03/2017][21:31:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2375 name:Porco dam:34 x:2113 y:2043 
+[11/03/2017][21:31:59] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2373 name:Porco dam:35 x:2120 y:2041 
+[11/03/2017][21:32:00] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2373 name:Porco dam:37 x:2120 y:2041 
+[11/03/2017][21:32:01]  -system err,No empty mobgrid(1): 3605 2448 4009 
+[11/03/2017][21:32:02] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2374 name:Porco dam:34 x:2120 y:2042 
+[11/03/2017][21:32:03] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:2374 name:Porco dam:34 x:2119 y:2038 
+[11/03/2017][21:32:03] IP: 192.168.1.110 CYBER lvl HT-DANO level up to 1 
+[11/03/2017][21:32:07] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:7601 name:Porco dam:34 x:2125 y:2038 
+[11/03/2017][21:32:09] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HT-DANO target:7601 name:Porco dam:34 x:2125 y:2038 
+[11/03/2017][21:32:13]  -system err,No empty mobgrid(1): 1297 1971 1624 
+[11/03/2017][21:32:22] IP: 192.168.1.110 CYBER sta,Login char:HT-DANO exp:640 level:1 conn:1 money:2000000000, store:0 
+[11/03/2017][21:32:37]  -system err,No empty mobgrid(1): 1297 1970 1623 
+[11/03/2017][21:32:37]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[11/03/2017][21:32:38] IP: 192.168.1.110 CYBER clo,fd 22-2 
+[11/03/2017][21:32:38] IP: 192.168.1.110 CYBER etc,charlogout conn:1 name:HT-DANO 
+[11/03/2017][21:33:18] IP: 192.168.1.110 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[11/03/2017][21:33:25]  -system err,No empty mobgrid(1): 2245 404 4046 
+[11/03/2017][21:33:28] IP: 192.168.1.110 CYBER sta,Login char:HT-DANO exp:640 level:1 conn:1 money:2000000000, store:0 
+[11/03/2017][21:33:30]  CYBER etc,changecity city:0 X:2095 Y:2104 
+[11/03/2017][21:33:54] IP: 192.168.1.110 CYBER sta,Login char:TK-MAGO exp:4000000010 level:199 conn:1 money:1286184068, store:0 
+[11/03/2017][21:34:19] IP: 192.168.1.110 CYBER etc,reqteleport char:TK-MAGO X:2117 Y:2100 price:0 
+[11/03/2017][21:34:19]  CYBER etc,changecity city:0 X:2117 Y:2100 
+[11/03/2017][21:34:25] IP: 192.168.1.110 CYBER etc,abandonar 10 0 
+[11/03/2017][21:35:01]  -system err,No empty mobgrid(1): 5677 3401 1618 
+[11/03/2017][21:35:01]  -system err,No empty mobgrid: 5769 3409 1538 
+[11/03/2017][21:35:01]  -system err,No empty mobgrid: 5770 3408 1532 
+[11/03/2017][21:35:01]  -system err,No empty mobgrid: 5771 3411 1531 
+[11/03/2017][21:35:01]  -system err,No empty mobgrid(1): 5965 3393 1087 
+[11/03/2017][21:35:10] IP: 192.168.1.110 CYBER sta,Login char:TK-MAGO exp:4000000010 level:199 conn:1 money:1286184068, store:0 
+[11/03/2017][21:35:11]  CYBER etc,changecity city:0 X:2087 Y:2094 
+[11/03/2017][21:35:13]  -system err,No empty mobgrid(1): 5677 3401 1618 
+[11/03/2017][21:35:13]  -system err,No empty mobgrid(1): 5965 3390 1089 
+[11/03/2017][21:35:25]  -system err,No empty mobgrid(1): 5965 3390 1089 
+[11/03/2017][21:35:37]  -system err,No empty mobgrid(1): 5965 3391 1089 
+[11/03/2017][21:35:37] IP: 192.168.1.110 CYBER sta,Login char:HT-DANO exp:640 level:1 conn:1 money:2000000000, store:0 
+[11/03/2017][21:35:39]  CYBER etc,changecity city:0 X:2094 Y:2104 
+[11/03/2017][21:35:49]  -system err,No empty mobgrid(1): 5965 3392 1089 
+[11/03/2017][21:35:54] IP: 192.168.1.110 CYBER sta,Login char:HT-DANO exp:640 level:1 conn:1 money:2000000000, store:0 
+[11/03/2017][21:35:55]  CYBER etc,changecity city:0 X:2100 Y:2096 
+[11/03/2017][21:36:19] IP: 192.168.1.110 CYBER sta,Login char:HT-DANO exp:640 level:1 conn:1 money:2000000000, store:0 
+[11/03/2017][21:36:20]  CYBER etc,changecity city:0 X:2090 Y:2099 
+[11/03/2017][21:36:30] IP: 192.168.1.110 CYBER clo,fd 22-2 
+[11/03/2017][21:36:30] IP: 192.168.1.110 CYBER etc,charlogout conn:1 name:HT-DANO 

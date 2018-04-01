@@ -1,0 +1,840 @@
+06.03.2017.16.35.18 IP: 177.204.47.51 HALLANEU useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.35.23 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:1 
+06.03.2017.16.35.24 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:2 
+06.03.2017.16.35.24 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:3 
+06.03.2017.16.35.24 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:4 
+06.03.2017.16.35.25 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:5 
+06.03.2017.16.35.25 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:6 
+06.03.2017.16.35.25 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:7 
+06.03.2017.16.35.25 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:8 
+06.03.2017.16.35.26 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:9 
+06.03.2017.16.35.26 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:10 
+06.03.2017.16.35.26 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:11 
+06.03.2017.16.35.26 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:12 
+06.03.2017.16.35.27 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:13 
+06.03.2017.16.35.27 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:14 
+06.03.2017.16.35.27 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:15 
+06.03.2017.16.35.27 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:16 
+06.03.2017.16.35.27 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:17 
+06.03.2017.16.35.28 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:18 
+06.03.2017.16.35.28 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:19 
+06.03.2017.16.35.28 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:20 
+06.03.2017.16.35.28 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:21 
+06.03.2017.16.35.29 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:22 
+06.03.2017.16.35.29 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:23 
+06.03.2017.16.35.29 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:24 
+06.03.2017.16.35.29 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:25 
+06.03.2017.16.35.29 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:26 
+06.03.2017.16.35.30 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:27 
+06.03.2017.16.35.30 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:28 
+06.03.2017.16.35.30 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:29 
+06.03.2017.16.35.31 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:30 
+06.03.2017.16.35.31 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:31 
+06.03.2017.16.35.32 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:32 
+06.03.2017.16.35.32 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:33 
+06.03.2017.16.35.33 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:34 
+06.03.2017.16.35.33 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:35 
+06.03.2017.16.35.34 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:36 
+06.03.2017.16.35.34 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:37 
+06.03.2017.16.35.35 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:38 
+06.03.2017.16.35.36 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.71.100.43.229 
+06.03.2017.16.35.36 IP: 177.64.158.36 OMOURAJOAO useitem,poeira_de_fada classmaster:3 level:39 
+06.03.2017.16.35.37 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.71.100.43.229 
+06.03.2017.16.35.50 IP: 177.64.158.36 OMOURAJOAO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.36.00 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+06.03.2017.16.36.00 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+06.03.2017.16.36.01 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+06.03.2017.16.36.05 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.2.120.43.250 
+06.03.2017.16.36.05 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Sephirot(BeastMaster) : 1762.0.0.0.0.0.0 DstType:0 DstSlot:11 Item: 
+06.03.2017.16.36.07 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:7 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 
+06.03.2017.16.36.08 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:131250 item: Brinco_de_Titã : 592.2.120.69.20.43.250 
+06.03.2017.16.36.12 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:131250 item: Brinco_de_Hercules : 595.2.120.3.120.43.250 
+06.03.2017.16.36.15 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios price:131250 item: Brinco_de_Zeus : 593.2.120.26.20.43.250 
+06.03.2017.16.36.19 IP: 187.104.69.155 FmTesTBU deleteitem,  Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 
+06.03.2017.16.36.21 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios2 price:525000 item: Baú_de_Experiência : 4140.61.5.0.0.0.0 
+06.03.2017.16.36.22 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios2 price:210000 item: Frango_Assado : 3314.61.5.0.0.0.0 
+06.03.2017.16.36.23 IP: 187.104.69.155 LULIPE useitem,item bauexp time 900 
+06.03.2017.16.36.23 IP: 187.104.69.155 LULIPE useitem,item bauexp time 1800 
+06.03.2017.16.36.24 IP: 187.104.69.155 LULIPE useitem,item bauexp time 2700 
+06.03.2017.16.36.24 IP: 187.104.69.155 LULIPE useitem,item frango time 1800 
+06.03.2017.16.36.31 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios3 price:1050 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+06.03.2017.16.36.31 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios3 price:1050 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+06.03.2017.16.36.32 IP: 187.104.69.155 FmTesTBU deleteitem,  
+06.03.2017.16.36.33 IP: 187.104.69.155 FmTesTBU deleteitem,  
+06.03.2017.16.36.33 IP: 187.104.69.155 FmTesTBU deleteitem,  
+06.03.2017.16.36.33 IP: 187.104.69.155 FmTesTBU deleteitem,  
+06.03.2017.16.36.33 IP: 187.104.69.155 FmTesTBU deleteitem,  
+06.03.2017.16.36.34 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios3 price:52500 item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 
+06.03.2017.16.36.36 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:4 Item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 DstType:0 DstSlot:13 Item: 
+06.03.2017.16.36.39 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios3 price:1260 item: Conjunto_Real(Azul)(30dias) : 4172.106.30.107.0.0.0 
+06.03.2017.16.36.40 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:4 Item: DstType:0 DstSlot:12 Item: 
+06.03.2017.16.36.49 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios3 price:1260 item: Conjunto_Valquíria(30dias) : 4152.106.30.0.0.0.0 
+06.03.2017.16.36.51 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Martin  price:3465000 item: Pedido_de_Caça(Kefra) : 3436.61.100.0.0.0.0 
+06.03.2017.16.36.53 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:4 Item: DstType:0 DstSlot:12 Item: 
+06.03.2017.16.36.53 IP: 189.72.123.56 BENEGAO buy_npc,npc:Evolucao price:9450 item: Pedra_da_Fúria : 3020.0.0.0.0.0.0 
+06.03.2017.16.36.54 IP: 189.72.123.56 BENEGAO useitem,furystone quest90 fail 
+06.03.2017.16.36.55 IP: 189.72.123.56 BENEGAO buy_npc,npc:Evolucao price:9450 item: Pedra_da_Fúria : 3020.0.0.0.0.0.0 
+06.03.2017.16.36.56 IP: 189.72.123.56 BENEGAO useitem,furystone quest90 fail 
+06.03.2017.16.36.57 IP: 177.64.158.36 OMOURAJOAO *** Item combine odin. *** 
+06.03.2017.16.36.57 IP: 177.64.158.36 OMOURAJOAO useitem,furystone quest90 fail Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.36.57 IP: 177.64.158.36 OMOURAJOAO *** ------------------- *** 
+06.03.2017.16.36.57 IP: 177.64.158.36 OMOURAJOAO *** Combine odin fail *** 
+06.03.2017.16.36.58 IP: 189.72.123.56 BENEGAO buy_npc,npc:Evolucao price:9450 item: Pedra_da_Fúria : 3020.0.0.0.0.0.0 
+06.03.2017.16.36.59 IP: 189.72.123.56 BENEGAO useitem,furystone quest90 sucess 
+06.03.2017.16.37.03 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:90 
+06.03.2017.16.37.03 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:91 
+06.03.2017.16.37.04 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:92 
+06.03.2017.16.37.04 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:93 
+06.03.2017.16.37.04 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:94 
+06.03.2017.16.37.04 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:95 
+06.03.2017.16.37.04 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:96 
+06.03.2017.16.37.05 IP: 187.104.69.155 LULIPE buy_npc,npc:Shadow I price:105000 item: Poção_Divina(30dias) : 3381.0.0.0.0.0.0 
+06.03.2017.16.37.05 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:97 
+06.03.2017.16.37.05 IP: 187.104.69.155 LULIPE buy_npc,npc:Shadow I price:157500 item: Poção_Sephira_(30dias) : 3363.0.0.0.0.0.0 
+06.03.2017.16.37.06 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:98 
+06.03.2017.16.37.06 IP: 187.104.69.155 LULIPE buy_npc,npc:Shadow I price:157500 item: Poção_de_Saúde(30dias) : 3366.0.0.0.0.0.0 
+06.03.2017.16.37.06 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:99 
+06.03.2017.16.37.06 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:100 
+06.03.2017.16.37.07 IP: 187.104.69.155 LULIPE buy_npc,npc:Shadow I price:420000 item: Poção_Poderosa : 3431.61.255.0.0.0.0 
+06.03.2017.16.37.07 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:101 
+06.03.2017.16.37.07 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:102 
+06.03.2017.16.37.07 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:103 
+06.03.2017.16.37.07 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Creta price:15000 item: Pergaminho_Retorno_10x : 411.61.10.0.0.0.0 
+06.03.2017.16.37.07 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:104 
+06.03.2017.16.37.07 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:105 
+06.03.2017.16.37.08 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:106 
+06.03.2017.16.37.08 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:107 
+06.03.2017.16.37.08 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:108 
+06.03.2017.16.37.08 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:109 
+06.03.2017.16.37.09 IP: 187.104.69.155 LULIPE buy_npc,npc:Shadow I price:52500 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+06.03.2017.16.37.09 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:110 
+06.03.2017.16.37.09 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:111 
+06.03.2017.16.37.09 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:112 
+06.03.2017.16.37.09 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:113 
+06.03.2017.16.37.10 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:114 
+06.03.2017.16.37.10 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:115 
+06.03.2017.16.37.10 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:116 
+06.03.2017.16.37.10 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:117 
+06.03.2017.16.37.11 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:118 
+06.03.2017.16.37.11 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:119 
+06.03.2017.16.37.11 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:120 
+06.03.2017.16.37.11 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:121 
+06.03.2017.16.37.12 IP: 187.104.69.155 LULIPE useitem,item vigor 
+06.03.2017.16.37.12 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:122 
+06.03.2017.16.37.12 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:123 
+06.03.2017.16.37.12 IP: 187.104.69.155 LULIPE useitem,poção_kappa affectslot:3 value:0 time:80 
+06.03.2017.16.37.12 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:124 
+06.03.2017.16.37.12 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:125 
+06.03.2017.16.37.12 IP: 187.104.69.155 LULIPE useitem,item divine type: 2 
+06.03.2017.16.37.13 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:126 
+06.03.2017.16.37.13 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:127 
+06.03.2017.16.37.13 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:128 
+06.03.2017.16.37.13 IP: 177.204.47.51 HALLANEU useitem,mistery stone change god2god 
+06.03.2017.16.37.14 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:129 
+06.03.2017.16.37.14 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:130 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:131 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:132 
+06.03.2017.16.37.15 IP: 177.64.158.36 OMOURAJOAO useitem,recall 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:133 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:134 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:135 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:136 
+06.03.2017.16.37.15 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:137 
+06.03.2017.16.37.16 IP: 187.104.69.155 LULIPE buy_npc,npc:Shadow I price:105 item: Chocolate_do_Amor : 1739.0.0.0.0.0.0 
+06.03.2017.16.37.16 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:138 
+06.03.2017.16.37.16 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:139 
+06.03.2017.16.37.16 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:140 
+06.03.2017.16.37.17 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:141 
+06.03.2017.16.37.17 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:142 
+06.03.2017.16.37.17 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:143 
+06.03.2017.16.37.18 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:144 
+06.03.2017.16.37.18 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:145 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:146 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:147 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:148 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:149 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:150 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:151 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:152 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:153 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:154 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:155 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:156 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:157 
+06.03.2017.16.37.20 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:158 
+06.03.2017.16.37.21 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:159 
+06.03.2017.16.37.21 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:160 
+06.03.2017.16.37.21 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:161 
+06.03.2017.16.37.21 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:162 
+06.03.2017.16.37.22 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:163 
+06.03.2017.16.37.22 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:164 
+06.03.2017.16.37.22 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:165 
+06.03.2017.16.37.23 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:166 
+06.03.2017.16.37.23 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:167 
+06.03.2017.16.37.23 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:168 
+06.03.2017.16.37.23 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:169 
+06.03.2017.16.37.24 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:170 
+06.03.2017.16.37.24 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:171 
+06.03.2017.16.37.24 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:172 
+06.03.2017.16.37.24 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:173 
+06.03.2017.16.37.24 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:174 
+06.03.2017.16.37.25 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:175 
+06.03.2017.16.37.25 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:176 
+06.03.2017.16.37.25 IP: 177.204.47.51 HALLANEU useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.37.25 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:177 
+06.03.2017.16.37.25 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:178 
+06.03.2017.16.37.25 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:179 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:180 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:181 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:182 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:183 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:184 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:185 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:186 
+06.03.2017.16.37.27 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:187 
+06.03.2017.16.37.28 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:188 
+06.03.2017.16.37.28 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:189 
+06.03.2017.16.37.28 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:190 
+06.03.2017.16.37.28 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:191 
+06.03.2017.16.37.28 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:192 
+06.03.2017.16.37.28 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:193 
+06.03.2017.16.37.29 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:194 
+06.03.2017.16.37.29 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:195 
+06.03.2017.16.37.29 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:196 
+06.03.2017.16.37.29 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:197 
+06.03.2017.16.37.29 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:198 
+06.03.2017.16.37.30 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:199 
+06.03.2017.16.37.30 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:199 
+06.03.2017.16.37.30 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:199 
+06.03.2017.16.37.30 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:199 
+06.03.2017.16.37.31 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:199 
+06.03.2017.16.37.31 IP: 189.72.123.56 BENEGAO useitem,poeira_de_fada classmaster:3 level:199 
+06.03.2017.16.37.58 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:105 item: Jóia_da_Magia : 3209.61.255.0.0.0.0 
+06.03.2017.16.37.59 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:105 item: Jóia_da_Precisão : 3208.61.255.0.0.0.0 
+06.03.2017.16.38.00 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:105 item: Jóia_da_Armazenagem : 3207.61.255.0.0.0.0 
+06.03.2017.16.38.01 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:105 item: Jóia_do_Poder : 3206.61.255.0.0.0.0 
+06.03.2017.16.38.01 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:0 item: Jóia_da_Proteção : 3205.61.255.0.0.0.0 
+06.03.2017.16.38.03 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:0 item: Jóia_da_Absorção : 3204.61.255.0.0.0.0 
+06.03.2017.16.38.03 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:0 item: Jóia_da_Recuperação : 3203.61.255.0.0.0.0 
+06.03.2017.16.38.04 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:0 item: Jóia_da_Revelação : 3202.61.255.0.0.0.0 
+06.03.2017.16.38.05 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:0 item: Jóia_da_Resistência : 3201.61.255.0.0.0.0 
+06.03.2017.16.38.06 IP: 187.104.69.155 LULIPE buy_npc,npc:Runas Joias price:0 item: Jóia_da_Sagacidade : 3200.61.255.0.0.0.0 
+06.03.2017.16.38.07 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3209 
+06.03.2017.16.38.07 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3208 
+06.03.2017.16.38.08 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3207 
+06.03.2017.16.38.08 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3204 
+06.03.2017.16.38.08 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3205 
+06.03.2017.16.38.09 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3206 
+06.03.2017.16.38.09 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3203 
+06.03.2017.16.38.09 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3202 
+06.03.2017.16.38.10 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3201 
+06.03.2017.16.38.10 IP: 187.104.69.155 LULIPE useitem,joia_pvp joia:3200 
+06.03.2017.16.38.38 IP: 187.104.69.155 LULIPE buy_npc,npc:Arma Mortal2 price:577500 item: Arco_do_Guardião_(Anct) : 3622.2.81.43.251.0.0 
+06.03.2017.16.38.39 IP: 187.104.69.155 LULIPE buy_npc,npc:Arma Mortal2 price:577500 item: Asa_Draconiana(Anct) : 3602.2.81.43.251.0.0 
+06.03.2017.16.38.40 IP: 187.104.69.155 LULIPE buy_npc,npc:Arma Mortal2 price:577500 item: Asa_Draconiana(Anct) : 3602.2.81.43.251.0.0 
+06.03.2017.16.38.41 IP: 177.204.47.51 HALLANEU useitem,mistery stone change god2god 
+06.03.2017.16.38.46 IP: 187.104.69.155 LULIPE buy_npc,npc:Set Mortal DN price:168000 item: Túnica_Templária : 1361.2.30.71.70.43.250 
+06.03.2017.16.38.47 IP: 187.104.69.155 LULIPE buy_npc,npc:Set Mortal DN price:168000 item: Calça_Templária : 1362.2.30.71.70.43.250 
+06.03.2017.16.38.48 IP: 187.104.69.155 LULIPE buy_npc,npc:Set Mortal DN price:168000 item: Manoplas_Templárias : 1363.2.30.3.30.43.250 
+06.03.2017.16.38.48 IP: 187.104.69.155 LULIPE buy_npc,npc:Set Mortal DN price:168000 item: Botas_Templárias : 1364.2.30.74.18.43.250 
+06.03.2017.16.39.01 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.39.01 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:630 item: Coral : 2443.0.0.0.0.0.0 
+06.03.2017.16.39.02 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:630 item: Diamante : 2441.0.0.0.0.0.0 
+06.03.2017.16.39.03 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:630 item: Esmeralda : 2442.0.0.0.0.0.0 
+06.03.2017.16.39.07 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:17 Item: Pergaminho_Retorno_10x : 411.61.9.0.0.0.0 DstType:1 DstSlot:0 Item: 
+06.03.2017.16.39.08 IP: 187.104.69.155 LULIPE buy_npc,npc:Acessorios6 price:315 item: Pergaminho_da_Água(M)LV1 : 777.61.120.0.0.0.0 
+06.03.2017.16.39.09 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.39.11 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.39.12 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.39.12 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:37 Item: Pergaminho_da_Água(M)LV1 : 777.61.120.0.0.0.0 DstType:1 DstSlot:9 Item: 
+06.03.2017.16.39.26 IP: 177.204.47.51 HALLANEU *** Item combine ehre. *** 
+06.03.2017.16.39.26 IP: 177.204.47.51 HALLANEU chat, FmTesTBU : onde vende? Garnet : 2444.0.0.0.0.0.0 Diamante : 2441.0.0.0.0.0.0 Coral : 2443.0.0.0.0.0.0 
+06.03.2017.16.39.26 IP: 177.204.47.51 HALLANEU *** ------------------- *** 
+06.03.2017.16.39.26 IP: 177.204.47.51 *** Combine ehre sucess *** HALLANEU  Mestre_de_Akelonia : 3198.43.9.0.0.0.0 
+06.03.2017.16.39.35 IP: 187.104.69.155 LULIPE buy_npc,npc:Evolucao price:5250 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+06.03.2017.16.39.36 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:1 
+06.03.2017.16.39.37 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:2 
+06.03.2017.16.39.37 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:3 
+06.03.2017.16.39.37 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:4 
+06.03.2017.16.39.38 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:5 
+06.03.2017.16.39.38 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:6 
+06.03.2017.16.39.40 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:7 
+06.03.2017.16.39.41 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:8 
+06.03.2017.16.39.41 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:9 
+06.03.2017.16.39.41 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:10 
+06.03.2017.16.39.42 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:11 
+06.03.2017.16.39.42 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:12 
+06.03.2017.16.39.42 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:13 
+06.03.2017.16.39.43 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:14 
+06.03.2017.16.39.43 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:15 
+06.03.2017.16.39.43 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:16 
+06.03.2017.16.39.44 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:17 
+06.03.2017.16.39.44 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:18 
+06.03.2017.16.39.44 IP: 177.204.47.51 HALLANEU buy_npc,npc:Set BM price:186900 item: Armadura_da_Destruição : 1506.43.250.2.42.71.90 
+06.03.2017.16.39.46 IP: 177.204.47.51 HALLANEU buy_npc,npc:Set BM price:186900 item: Calça_da_Destruição : 1507.43.250.2.42.71.90 
+06.03.2017.16.39.48 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:19 
+06.03.2017.16.39.49 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:20 
+06.03.2017.16.39.49 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:21 
+06.03.2017.16.39.49 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:22 
+06.03.2017.16.39.50 IP: 177.204.47.51 HALLANEU buy_npc,npc:Set BM price:184800 item: Manoplas_da_Derstruição : 1508.43.250.2.42.72.42 
+06.03.2017.16.39.51 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:23 
+06.03.2017.16.39.51 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:24 
+06.03.2017.16.39.51 IP: 177.204.47.51 HALLANEU buy_npc,npc:Set BM price:182700 item: Botas_da_Destruição : 1509.43.250.74.18.2.42 
+06.03.2017.16.39.51 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:25 
+06.03.2017.16.39.52 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:26 
+06.03.2017.16.39.52 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:27 
+06.03.2017.16.39.52 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:28 
+06.03.2017.16.39.52 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:29 
+06.03.2017.16.39.53 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:21 Item: Botas_da_Destruição : 1509.43.250.74.18.2.42 DstType:0 DstSlot:5 Item: 
+06.03.2017.16.39.55 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Armadura_da_Destruição : 1506.43.250.2.42.71.90 DstType:0 DstSlot:2 Item: 
+06.03.2017.16.39.57 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:20 Item: Calça_da_Destruição : 1507.43.250.2.42.71.90 DstType:0 DstSlot:3 Item: 
+06.03.2017.16.39.59 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:25 Item: Manoplas_da_Derstruição : 1508.43.250.2.42.72.42 DstType:0 DstSlot:4 Item: 
+06.03.2017.16.39.59 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.40.01 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.40.02 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:30 
+06.03.2017.16.40.02 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:31 
+06.03.2017.16.40.02 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:32 
+06.03.2017.16.40.03 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:16 Item: Mannaz : 5129.0.0.0.0.0.0 DstType:1 DstSlot:26 Item: 
+06.03.2017.16.40.05 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.40.07 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:16 Item: Thurisaz : 5112.0.0.0.0.0.0 DstType:1 DstSlot:27 Item: 
+06.03.2017.16.40.09 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.40.10 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.40.11 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.40.12 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.40.15 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:33 
+06.03.2017.16.40.15 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.40.15 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:34 
+06.03.2017.16.40.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:35 
+06.03.2017.16.40.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:36 
+06.03.2017.16.40.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:37 
+06.03.2017.16.40.16 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.40.17 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.40.19 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:16 Item: Ansuz : 5110.0.0.0.0.0.0 DstType:1 DstSlot:28 Item: 
+06.03.2017.16.40.22 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.40.22 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 DstType:1 DstSlot:29 Item: 
+06.03.2017.16.40.23 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.40.24 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:15 Item: Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 DstType:1 DstSlot:24 Item: 
+06.03.2017.16.40.26 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.40.27 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.40.28 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.40.28 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:38 
+06.03.2017.16.40.28 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:39 
+06.03.2017.16.40.30 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.40.30 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.40.30 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:40 
+06.03.2017.16.40.30 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.2.120.43.250 
+06.03.2017.16.40.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:41 
+06.03.2017.16.40.31 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.40.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:42 
+06.03.2017.16.40.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:43 
+06.03.2017.16.40.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:44 
+06.03.2017.16.40.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:45 
+06.03.2017.16.40.32 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.40.32 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: 
+06.03.2017.16.40.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:46 
+06.03.2017.16.40.32 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.40.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:47 
+06.03.2017.16.40.33 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.40.34 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:48 
+06.03.2017.16.40.34 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:49 
+06.03.2017.16.40.35 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:50 
+06.03.2017.16.40.35 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:51 
+06.03.2017.16.40.35 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:52 
+06.03.2017.16.40.35 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:53 
+06.03.2017.16.40.36 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:54 
+06.03.2017.16.40.36 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:55 
+06.03.2017.16.40.36 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:56 
+06.03.2017.16.40.36 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.40.36 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:57 
+06.03.2017.16.40.42 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios price:131250 item: Brinco_de_Titã : 592.2.120.69.20.43.250 
+06.03.2017.16.40.42 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.40.43 IP: 200.185.197.183 IGORDINO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.40.43 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Hagalaz : 5119.0.0.0.0.0.0 
+06.03.2017.16.40.44 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:58 
+06.03.2017.16.40.44 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Brinco_de_Titã : 592.2.120.69.20.43.250 DstType:0 DstSlot:8 Item: 
+06.03.2017.16.40.44 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Mannaz : 5129.0.0.0.0.0.0 DstType:1 DstSlot:16 Item: 
+06.03.2017.16.40.44 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:59 
+06.03.2017.16.40.45 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:60 
+06.03.2017.16.40.45 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:61 
+06.03.2017.16.40.45 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:62 
+06.03.2017.16.40.45 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:63 
+06.03.2017.16.40.45 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:64 
+06.03.2017.16.40.46 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:65 
+06.03.2017.16.40.46 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:66 
+06.03.2017.16.40.46 IP: 177.64.158.36 OMOURAJOAO useitem,sealofwarrior 19 
+06.03.2017.16.40.46 IP: 177.64.158.36 OMOURAJOAO useitem,sealofwarrior 29 
+06.03.2017.16.40.47 IP: 177.64.158.36 OMOURAJOAO useitem,sealofwarrior 39 
+06.03.2017.16.40.47 IP: 177.64.158.36 OMOURAJOAO useitem,sealofwarrior 49 
+06.03.2017.16.40.47 IP: 177.64.158.36 OMOURAJOAO useitem,sealofwarrior 59 
+06.03.2017.16.40.48 IP: 177.64.158.36 OMOURAJOAO useitem,sealofwarrior 69 
+06.03.2017.16.40.48 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:67 
+06.03.2017.16.40.48 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:68 
+06.03.2017.16.40.48 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:69 
+06.03.2017.16.40.49 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:70 
+06.03.2017.16.40.49 IP: 187.104.69.155 LULIPE useitem,water scroll M 0 
+06.03.2017.16.40.49 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.71.100.43.229 
+06.03.2017.16.40.51 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.40.53 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Thurisaz : 5112.0.0.0.0.0.0 DstType:1 DstSlot:17 Item: 
+06.03.2017.16.40.56 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Pedra_Espiritual : 633.69.20.71.100.43.229 DstType:0 DstSlot:10 Item: 
+06.03.2017.16.40.57 IP: 177.64.158.36 OMOURAJOAO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.41.03 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.41.05 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Ansuz : 5110.0.0.0.0.0.0 DstType:1 DstSlot:18 Item: 
+06.03.2017.16.41.06 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.41.07 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.41.09 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.41.12 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.41.16 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:24 Item: Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 DstType:1 DstSlot:59 Item: 
+06.03.2017.16.41.17 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:1 Item: Resto_de_Lactolerium : 420.61.2.59.63.59.93 DstType:1 DstSlot:8 Item: 
+06.03.2017.16.41.19 IP: 177.64.158.36 T-VeronicA deleteitem,  Resto_de_Lactolerium : 420.61.2.59.63.59.93 
+06.03.2017.16.41.21 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:29 Item: Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 DstType:1 DstSlot:54 Item: 
+06.03.2017.16.41.31 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.41.31 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.41.32 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.41.34 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.41.34 IP: 200.185.197.183 IGORDINO skill delay skillnum: -195067329--195067329 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.41.34 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.41.34 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.41.37 IP: 187.19.4.117 SK-JESSICA deleteitem,  Pacote_Safiras(10) : 4131.0.0.0.0.0.0 
+06.03.2017.16.41.38 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.41.38 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.41.40 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.41.41 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:40 Item: Pergaminho_Selado : 4127.0.0.0.0.0.0 DstType:1 DstSlot:31 Item: 
+06.03.2017.16.41.42 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.41.43 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:40 Item: Pergaminho_Selado : 4127.0.0.0.0.0.0 DstType:1 DstSlot:36 Item: 
+06.03.2017.16.41.44 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.41.44 IP: 200.185.197.183 IGORDINO tradingitem, SrcType:1 SrcSlot:40 Item: Pergaminho_Selado : 4127.0.0.0.0.0.0 DstType:1 DstSlot:36 Item: Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.41.44 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.41.44 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.41.44 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.41.45 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.41.46 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:0 item: Emblema_da_Proteção : 4043.0.0.0.0.0.0 
+06.03.2017.16.41.47 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:31500 item: Força_Espectral : 671.0.0.0.0.0.0 
+06.03.2017.16.41.48 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:11550 item: Concentração : 670.0.0.0.0.0.0 
+06.03.2017.16.41.48 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:1575 item: Ressurreição : 669.0.0.0.0.0.0 
+06.03.2017.16.41.51 IP: 187.19.4.117 PALLASX3 useitem,skillbook index:670 
+06.03.2017.16.41.51 IP: 187.19.4.117 PALLASX3 useitem,skillbook index:671 
+06.03.2017.16.41.52 IP: 187.19.4.117 PALLASX3 useitem,skillbook index:669 
+06.03.2017.16.41.55 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.41.55 IP: 200.185.197.183 IGORDINO etc,changecity city:0 X:2118 Y:2101 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.41.55 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.41.55 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.42.02 IP: 187.104.69.155 LULIPE useitem,water scroll M 0 
+06.03.2017.16.42.08 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.42.08 IP: 200.185.197.183 IGORDINO lvl FmTesTBU level up to 104 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.42.08 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.42.08 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.42.11 IP: 187.19.4.117 PALLASX3 useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.42.13 IP: 177.64.158.36 OMOURAJOAO *** Item combine odin. *** 
+06.03.2017.16.42.13 IP: 177.64.158.36 OMOURAJOAO lvl FmTesTBU level up to 110 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Hagalaz : 5119.0.0.0.0.0.0 
+06.03.2017.16.42.13 IP: 177.64.158.36 OMOURAJOAO *** ------------------- *** 
+06.03.2017.16.42.13 IP: 177.64.158.36 OMOURAJOAO *** Combine odin fail *** 
+06.03.2017.16.42.16 IP: 177.204.47.51 HALLANEU buy_npc,npc:Arma SemiDeus price:682500 item: Balmung(Anct) : 2494.2.81.42.30.43.250 
+06.03.2017.16.42.17 IP: 177.204.47.51 HALLANEU buy_npc,npc:Arma SemiDeus price:682500 item: Balmung(Anct) : 2494.2.81.42.30.43.250 
+06.03.2017.16.42.19 IP: 177.204.47.51 HALLANEU buy_npc,npc:Arma SemiDeus price:315000 item: Hophlon : 1711.3.81.4.120.43.250 
+06.03.2017.16.42.20 IP: 177.204.47.51 HALLANEU buy_npc,npc:Arma SemiDeus price:682500 item: Hermai(Anct) : 2794.2.81.42.30.43.250 
+06.03.2017.16.42.24 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:16 Item: Hermai(Anct) : 2794.2.81.42.30.43.250 DstType:0 DstSlot:6 Item: 
+06.03.2017.16.42.27 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:25 Item: Hophlon : 1711.3.81.4.120.43.250 DstType:0 DstSlot:7 Item: 
+06.03.2017.16.42.31 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Balmung(Anct) : 2494.2.81.42.30.43.250 DstType:0 DstSlot:6 Item: Hermai(Anct) : 2794.2.81.42.30.43.250 
+06.03.2017.16.42.32 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:20 Item: Balmung(Anct) : 2494.2.81.42.30.43.250 DstType:0 DstSlot:7 Item: Hophlon : 1711.3.81.4.120.43.250 
+06.03.2017.16.42.37 IP: 177.64.158.36 OMOURAJOAO useitem,recall 
+06.03.2017.16.42.38 IP: 200.185.197.183 IGORDINO useitem,recall 
+06.03.2017.16.42.48 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.42.51 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.42.52 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.42.53 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.42.57 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.42.59 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.43.01 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.43.02 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.43.03 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.43.03 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.43.04 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.43.06 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.43.07 IP: 200.185.197.183 IGORDINO tradingitem, SrcType:1 SrcSlot:41 Item: Pergaminho_Selado : 4127.0.0.0.0.0.0 DstType:1 DstSlot:37 Item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.43.14 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.43.15 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.43.16 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.19 IP: 200.185.197.183 IGORDINO tradingitem, SrcType:1 SrcSlot:38 Item: Ansuz : 5110.0.0.0.0.0.0 DstType:1 DstSlot:43 Item: 
+06.03.2017.16.43.20 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.43.20 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.43.20 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.20 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.43.20 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.43.21 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.43.22 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.43.25 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.43.26 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.43.28 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.30 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.43.31 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.43.35 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+06.03.2017.16.43.36 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.43.37 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.43.37 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:25 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 DstType:0 DstSlot:9 Item: 
+06.03.2017.16.43.38 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.43.38 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.39 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:166 
+06.03.2017.16.43.40 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.43.40 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:167 
+06.03.2017.16.43.40 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.43.41 IP: 187.104.69.155 LULIPE useitem,water scroll M 0 
+06.03.2017.16.43.42 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.43.43 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.46 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.49 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.43.50 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.43.51 IP: 200.185.197.183 IGORDINO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.43.52 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.52 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.53 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+06.03.2017.16.43.55 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:25 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 DstType:0 DstSlot:11 Item: 
+06.03.2017.16.43.56 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.57 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.57 IP: 177.64.158.36 OMOURAJOAO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.43.58 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.58 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.59 IP: 189.13.226.146 WELMAL buy_npc,npc:Acessorios2 price:630 item: Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.43.59 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.43.59 IP: 187.19.4.117 PALLASX3 lvl FmTesTBU level up to 181 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.43.59 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.43.59 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.44.01 IP: 200.185.197.183 IGORDINO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.44.10 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+06.03.2017.16.44.11 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+06.03.2017.16.44.13 IP: 177.204.47.51 HALLANEU useitem,change jewel success 2492+27 - (0,0,0) 
+06.03.2017.16.44.14 IP: 177.204.47.51 HALLANEU useitem,change jewel success 2492+27 - (0,0,0) 
+06.03.2017.16.44.18 IP: 187.19.4.117 PALLASX3 useitem,recall 
+06.03.2017.16.44.18 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:20 Item: Hophlon : 1711.3.81.4.120.43.250 DstType:0 DstSlot:7 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 
+06.03.2017.16.44.21 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Hermai(Anct) : 2794.2.81.42.30.43.250 DstType:0 DstSlot:6 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 
+06.03.2017.16.44.23 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+06.03.2017.16.44.23 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+06.03.2017.16.44.25 IP: 177.204.47.51 HALLANEU useitem,change jewel success 2792+27 - (0,0,0) 
+06.03.2017.16.44.27 IP: 177.204.47.51 HALLANEU useitem,change jewel success 1711+27 - (0,0,0) 
+06.03.2017.16.44.29 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+06.03.2017.16.44.30 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+06.03.2017.16.44.30 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+06.03.2017.16.44.31 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+06.03.2017.16.44.33 IP: 177.204.47.51 HALLANEU useitem,change jewel success 1509+27 - (0,0,0) 
+06.03.2017.16.44.34 IP: 177.204.47.51 HALLANEU useitem,change jewel success 1507+27 - (0,0,0) 
+06.03.2017.16.44.34 IP: 189.13.226.146 WELMAL *** Item combine ehre. *** 
+06.03.2017.16.44.34 IP: 189.13.226.146 WELMAL useitem,change jewel success 1507+27 - (0,0,0) Garnet : 2444.0.0.0.0.0.0 Garnet : 2444.0.0.0.0.0.0 Garnet : 2444.0.0.0.0.0.0 
+06.03.2017.16.44.34 IP: 189.13.226.146 WELMAL *** ------------------- *** 
+06.03.2017.16.44.34 IP: 189.13.226.146 *** Combine ehre sucess *** WELMAL  Mestre_de_Akelonia : 3198.0.0.0.0.0.0 
+06.03.2017.16.44.35 IP: 177.204.47.51 HALLANEU useitem,change jewel success 1508+27 - (0,0,0) 
+06.03.2017.16.44.37 IP: 177.204.47.51 HALLANEU useitem,change jewel success 1506+27 - (0,0,0) 
+06.03.2017.16.44.44 IP: 177.64.158.36 OMOURAJOAO *** Item combine odin. *** 
+06.03.2017.16.44.44 IP: 177.64.158.36 OMOURAJOAO lvl FmTesTBU level up to 229 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.44.44 IP: 177.64.158.36 OMOURAJOAO *** ------------------- *** 
+06.03.2017.16.44.44 IP: 177.64.158.36 OMOURAJOAO *** Combine odin fail *** 
+06.03.2017.16.44.46 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.44.48 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.44.49 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.44.49 IP: 200.185.197.183 IGORDINO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.44.49 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.44.49 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.44.50 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Mannaz : 5129.0.0.0.0.0.0 DstType:1 DstSlot:16 Item: 
+06.03.2017.16.44.54 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.44.55 IP: 187.104.69.155 LULIPE useitem,water scroll M 0 
+06.03.2017.16.44.56 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Thurisaz : 5112.0.0.0.0.0.0 DstType:1 DstSlot:17 Item: 
+06.03.2017.16.44.59 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.00 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.45.00 IP: 200.185.197.183 IGORDINO lvl FmTesTBU level up to 232 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.00 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.45.00 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.45.02 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:20 Item: Ansuz : 5110.0.0.0.0.0.0 DstType:1 DstSlot:18 Item: 
+06.03.2017.16.45.04 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.45.05 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.45.07 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.45.11 IP: 200.185.197.183 IGORDINO *** Item combine odin. *** 
+06.03.2017.16.45.11 IP: 200.185.197.183 IGORDINO lvl FmTesTBU level up to 245 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.11 IP: 200.185.197.183 IGORDINO *** ------------------- *** 
+06.03.2017.16.45.11 IP: 200.185.197.183 IGORDINO *** Combine odin fail *** 
+06.03.2017.16.45.12 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.16 IP: 177.64.158.36 OMOURAJOAO useitem,recall 
+06.03.2017.16.45.18 IP: 187.19.4.117 SK-JESSICA deleteitem,  Emblema_da_Proteção : 4043.0.0.0.0.0.0 
+06.03.2017.16.45.21 IP: 187.19.4.117 SK-JESSICA deleteitem,  Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.45.21 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.45.22 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.45.23 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.45.25 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.45.25 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:3 Item: Brinco_de_Hercules : 595.2.120.3.120.43.250 DstType:0 DstSlot:8 Item: 
+06.03.2017.16.45.27 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:35 Item: Mannaz : 5129.0.0.0.0.0.0 DstType:1 DstSlot:31 Item: 
+06.03.2017.16.45.28 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.45.30 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:35 Item: Thurisaz : 5112.0.0.0.0.0.0 DstType:1 DstSlot:32 Item: 
+06.03.2017.16.45.30 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.45.31 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.31 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.45.33 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:35 Item: Ansuz : 5110.0.0.0.0.0.0 DstType:1 DstSlot:33 Item: 
+06.03.2017.16.45.33 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.45.34 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.45.35 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.45.35 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.45.36 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:40 Item: Mannaz : 5129.0.0.0.0.0.0 DstType:1 DstSlot:36 Item: 
+06.03.2017.16.45.45 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.45.46 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:40 Item: Thurisaz : 5112.0.0.0.0.0.0 DstType:1 DstSlot:37 Item: 
+06.03.2017.16.45.48 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.50 IP: 187.19.4.117 PALLASX3 tradingitem, SrcType:1 SrcSlot:40 Item: Ansuz : 5110.0.0.0.0.0.0 DstType:1 DstSlot:38 Item: 
+06.03.2017.16.45.51 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.45.52 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.45.52 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.45.55 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.45.58 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.46.03 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.46.04 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.46.04 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.46.05 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.46.07 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.46.07 IP: 187.104.69.155 LULIPE useitem,water scroll M 0 
+06.03.2017.16.46.07 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.46.07 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.46.10 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.46.13 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.46.13 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.46.16 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.16 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.17 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.18 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.18 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.19 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.20 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:24 Item: Poeira_de_Lactolerium : 413.61.207.0.0.0.0 DstType:1 DstSlot:59 Item: 
+06.03.2017.16.46.22 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.23 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.30 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.46.30 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.46.33 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:31500 item: Força_Espectral : 671.0.0.0.0.0.0 
+06.03.2017.16.46.37 IP: 187.19.4.117 SK-JESSICA deleteitem,  Força_Espectral : 671.0.0.0.0.0.0 
+06.03.2017.16.46.38 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.40 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.41 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.46.43 IP: 177.64.158.36 OMOURAJOAO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.46.46 IP: 187.19.4.117 PALLASX3 buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.47.01 IP: 187.19.4.117 PALLASX3 useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.47.08 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.09 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.09 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.10 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.10 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.11 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.13 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.14 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.14 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.15 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.47.23 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:4 Item: Manoplas_da_Derstruição : 1508.43.253.2.42.72.42 DstType:1 DstSlot:30 Item: 
+06.03.2017.16.47.23 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:2 Item: Armadura_da_Destruição : 1506.43.253.2.42.71.90 DstType:1 DstSlot:35 Item: 
+06.03.2017.16.47.24 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:3 Item: Calça_da_Destruição : 1507.43.253.2.42.71.90 DstType:1 DstSlot:40 Item: 
+06.03.2017.16.47.25 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:5 Item: Botas_da_Destruição : 1509.43.253.74.18.2.42 DstType:1 DstSlot:31 Item: 
+06.03.2017.16.47.26 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:7 Item: Hophlon : 1711.3.81.4.120.43.251 DstType:1 DstSlot:36 Item: 
+06.03.2017.16.47.26 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:6 Item: Hermai(Anct) : 2792.2.81.42.30.43.251 DstType:1 DstSlot:41 Item: 
+06.03.2017.16.47.27 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:1 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:1 DstSlot:32 Item: 
+06.03.2017.16.47.37 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:2 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 DstType:0 DstSlot:11 Item: 
+06.03.2017.16.47.38 IP: 187.104.69.155 LULIPE useitem,water scroll M 0 
+06.03.2017.16.47.39 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:1 Item: Pedra_Espiritual : 633.69.20.71.100.43.229 DstType:0 DstSlot:10 Item: 
+06.03.2017.16.47.41 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:11 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 DstType:0 DstSlot:9 Item: 
+06.03.2017.16.47.50 IP: 177.64.158.36 OMOURAJOAO *** Item combine odin. *** 
+06.03.2017.16.47.50 IP: 177.64.158.36 OMOURAJOAO etc,msg_attack attacker:8 name:FmTesTBU target:9305 name:Elfo Negro  dam:4928 x:1247 y:3677 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.47.50 IP: 177.64.158.36 OMOURAJOAO *** ------------------- *** 
+06.03.2017.16.47.50 IP: 177.64.158.36 OMOURAJOAO *** Combine odin fail *** 
+06.03.2017.16.47.51 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:31 Item: Botas_da_Destruição : 1509.43.253.74.18.2.42 DstType:0 DstSlot:5 Item: 
+06.03.2017.16.47.52 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:30 Item: Manoplas_da_Derstruição : 1508.43.253.2.42.72.42 DstType:0 DstSlot:4 Item: 
+06.03.2017.16.47.53 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:35 Item: Armadura_da_Destruição : 1506.43.253.2.42.71.90 DstType:0 DstSlot:2 Item: 
+06.03.2017.16.47.53 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:32 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: 
+06.03.2017.16.47.54 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:36 Item: Hophlon : 1711.3.81.4.120.43.251 DstType:0 DstSlot:7 Item: 
+06.03.2017.16.47.55 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:41 Item: Hermai(Anct) : 2792.2.81.42.30.43.251 DstType:0 DstSlot:6 Item: 
+06.03.2017.16.47.55 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:40 Item: Calça_da_Destruição : 1507.43.253.2.42.71.90 DstType:0 DstSlot:3 Item: 
+06.03.2017.16.48.06 IP: 177.64.158.36 OMOURAJOAO *** Item combine odin. *** 
+06.03.2017.16.48.06 IP: 177.64.158.36 OMOURAJOAO etc,msg_attack attacker:8 name:FmTesTBU target:9300 name:Elfo Negro  dam:3350 x:1250 y:3677 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.48.06 IP: 177.64.158.36 OMOURAJOAO *** ------------------- *** 
+06.03.2017.16.48.06 IP: 177.64.158.36 OMOURAJOAO *** Combine odin fail *** 
+06.03.2017.16.48.07 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.08 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.08 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.48.08 IP: 187.19.4.117 PALLASX3 etc,msg_attack attacker:8 name:FmTesTBU target:9299 name:Elfo Negro  dam:3184 x:1249 y:3677 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.48.08 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.48.08 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.48.09 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.09 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.10 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.10 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.11 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.11 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.12 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.12 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.13 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.13 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.14 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.14 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.15 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios6 price:16800000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+06.03.2017.16.48.26 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:6 Item: Hermai(Anct) : 2792.2.81.42.30.43.251 DstType:1 DstSlot:25 Item: 
+06.03.2017.16.48.27 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.48.27 IP: 187.19.4.117 PALLASX3 etc,msg_attack attacker:8 name:FmTesTBU target:9293 name:Elfo Negro  dam:3084 x:1254 y:3684 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.48.27 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.48.27 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.48.27 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:2 Item: Armadura_da_Destruição : 1506.43.253.2.42.71.90 DstType:1 DstSlot:16 Item: 
+06.03.2017.16.48.29 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:4 Item: Manoplas_da_Derstruição : 1508.43.253.2.42.72.42 DstType:1 DstSlot:21 Item: 
+06.03.2017.16.48.29 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:3 Item: Calça_da_Destruição : 1507.43.253.2.42.71.90 DstType:1 DstSlot:26 Item: 
+06.03.2017.16.48.30 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:5 Item: Botas_da_Destruição : 1509.43.253.74.18.2.42 DstType:1 DstSlot:17 Item: 
+06.03.2017.16.48.31 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:7 Item: Hophlon : 1711.3.81.4.120.43.251 DstType:1 DstSlot:22 Item: 
+06.03.2017.16.48.32 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:0 SrcSlot:1 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:1 DstSlot:27 Item: 
+06.03.2017.16.49.01 IP: 189.13.226.146 WELMAL tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.52.78.120.59.13.0 DstType:1 DstSlot:14 Item: 
+06.03.2017.16.49.03 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:27 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: 
+06.03.2017.16.49.03 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:22 Item: Hophlon : 1711.3.81.4.120.43.251 DstType:0 DstSlot:7 Item: 
+06.03.2017.16.49.04 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:17 Item: Botas_da_Destruição : 1509.43.253.74.18.2.42 DstType:0 DstSlot:5 Item: 
+06.03.2017.16.49.04 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:16 Item: Armadura_da_Destruição : 1506.43.253.2.42.71.90 DstType:0 DstSlot:2 Item: 
+06.03.2017.16.49.05 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:21 Item: Manoplas_da_Derstruição : 1508.43.253.2.42.72.42 DstType:0 DstSlot:4 Item: 
+06.03.2017.16.49.07 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:25 Item: Hermai(Anct) : 2792.2.81.42.30.43.251 DstType:0 DstSlot:6 Item: 
+06.03.2017.16.49.08 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:26 Item: Calça_da_Destruição : 1507.43.253.2.42.71.90 DstType:0 DstSlot:3 Item: 
+06.03.2017.16.49.11 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:3 Item: Calça_Flamejante : 1222.43.253.60.14.3.70 DstType:1 DstSlot:1 Item: 
+06.03.2017.16.49.12 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.49.12 IP: 187.19.4.117 PALLASX3 etc,applybonus name:MiOjOoO bonustype:0 detail:3 pontos:100 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.49.12 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.49.12 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.49.12 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:4 Item: Manoplas_Flamejantes : 1223.43.253.60.14.3.70 DstType:1 DstSlot:2 Item: 
+06.03.2017.16.49.14 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:5 Item: Botas_Flamejantes : 1224.43.253.60.14.3.70 DstType:1 DstSlot:3 Item: 
+06.03.2017.16.49.15 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:2 Item: Armadura_Flamejante : 1221.43.253.60.14.3.70 DstType:1 DstSlot:4 Item: 
+06.03.2017.16.49.16 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:7 Item: Hophlon : 1711.3.81.4.120.43.251 DstType:1 DstSlot:9 Item: 
+06.03.2017.16.49.17 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:6 Item: Neorion(Anct) : 2860.60.36.4.120.43.251 DstType:1 DstSlot:13 Item: 
+06.03.2017.16.49.19 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:0 SrcSlot:1 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:1 DstSlot:12 Item: 
+06.03.2017.16.49.38 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:3 Item: Brinco_de_Athena : 591.70.20.60.20.43.250 DstType:0 DstSlot:8 Item: Brinco_de_Hecate : 594.3.120.60.20.43.250 
+06.03.2017.16.49.57 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.49.57 IP: 187.19.4.117 PALLASX3 chat, ZePikeno : vai n Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.49.57 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.49.57 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.49.58 IP: 177.64.158.36 OMOURAJOAO useitem,joia_pvp joia:3200 
+06.03.2017.16.50.00 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 DstType:0 DstSlot:6 Item: Hermai(Anct) : 2792.2.81.42.30.43.251 
+06.03.2017.16.50.04 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:20 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 DstType:0 DstSlot:7 Item: Hophlon : 1711.3.81.4.120.43.251 
+06.03.2017.16.50.13 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:20 Item: Hophlon : 1711.3.81.4.120.43.251 DstType:0 DstSlot:7 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 
+06.03.2017.16.50.15 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:15 Item: Hermai(Anct) : 2792.2.81.42.30.43.251 DstType:0 DstSlot:6 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 
+06.03.2017.16.50.15 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:298 
+06.03.2017.16.50.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:299 
+06.03.2017.16.50.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:300 
+06.03.2017.16.50.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:301 
+06.03.2017.16.50.16 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:302 
+06.03.2017.16.50.17 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:303 
+06.03.2017.16.50.17 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:304 
+06.03.2017.16.50.17 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:305 
+06.03.2017.16.50.18 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:306 
+06.03.2017.16.50.18 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:307 
+06.03.2017.16.50.18 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:308 
+06.03.2017.16.50.18 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:309 
+06.03.2017.16.50.18 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:310 
+06.03.2017.16.50.19 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:311 
+06.03.2017.16.50.19 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:312 
+06.03.2017.16.50.19 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:313 
+06.03.2017.16.50.20 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:314 
+06.03.2017.16.50.20 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:315 
+06.03.2017.16.50.20 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:316 
+06.03.2017.16.50.20 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:317 
+06.03.2017.16.50.21 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:318 
+06.03.2017.16.50.21 IP: 177.64.158.36 OMOURAJOAO useitem,recall 
+06.03.2017.16.50.21 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:319 
+06.03.2017.16.50.21 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:320 
+06.03.2017.16.50.21 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:321 
+06.03.2017.16.50.22 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:322 
+06.03.2017.16.50.22 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:323 
+06.03.2017.16.50.22 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:324 
+06.03.2017.16.50.22 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:325 
+06.03.2017.16.50.23 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:326 
+06.03.2017.16.50.23 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:0 Item: Svadilfari : 2387.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+06.03.2017.16.50.24 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:0 Item: DstType:0 DstSlot:14 Item: Svadilfari : 2387.100.100.120.60.100.0 
+06.03.2017.16.50.25 IP: 187.104.69.155 LULIPE tradingitem, SrcType:1 SrcSlot:0 Item: Svadilfari : 2387.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+06.03.2017.16.50.32 IP: 189.13.226.146 WELMAL tradingitem, SrcType:1 SrcSlot:14 Item: Tigre_de_Fogo : 2379.52.78.120.59.13.0 DstType:0 DstSlot:14 Item: 
+06.03.2017.16.50.39 IP: 189.13.226.146 WELMAL useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.50.44 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios4 price:315 item: Feijão_Mágico(Verde) : 3409.61.5.0.0.0.0 
+06.03.2017.16.50.49 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios4 price:315 item: Feijão_Mágico(Amarelo) : 3415.61.5.0.0.0.0 
+06.03.2017.16.50.51 IP: 177.204.47.51 HALLANEU useitem,paint success 3507+27 - (61,0,0) 
+06.03.2017.16.50.52 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:327 
+06.03.2017.16.50.53 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:328 
+06.03.2017.16.50.53 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:329 
+06.03.2017.16.50.53 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:330 
+06.03.2017.16.50.53 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:331 
+06.03.2017.16.50.54 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:2 Item: Cythera_Mística : 3502.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: 
+06.03.2017.16.50.54 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:332 
+06.03.2017.16.50.54 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:333 
+06.03.2017.16.50.54 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:334 
+06.03.2017.16.50.54 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:335 
+06.03.2017.16.50.55 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:7 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.15 DstType:1 DstSlot:2 Item: 
+06.03.2017.16.50.55 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:336 
+06.03.2017.16.50.55 IP: 177.204.47.51 HALLANEU buy_npc,npc:Acessorios4 price:315 item: Feijão_Mágico(Preto) : 3411.61.5.0.0.0.0 
+06.03.2017.16.50.55 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:337 
+06.03.2017.16.50.55 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:338 
+06.03.2017.16.50.55 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:339 
+06.03.2017.16.50.55 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.50.55 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:340 
+06.03.2017.16.50.56 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:341 
+06.03.2017.16.50.56 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.50.56 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:342 
+06.03.2017.16.50.56 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:343 
+06.03.2017.16.50.57 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.50.57 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:344 
+06.03.2017.16.50.57 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:345 
+06.03.2017.16.50.57 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:346 
+06.03.2017.16.50.57 IP: 177.204.47.51 HALLANEU useitem,paint success 1506+27 - (61,0,0) 
+06.03.2017.16.50.57 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:347 
+06.03.2017.16.50.57 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:348 
+06.03.2017.16.50.58 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:349 
+06.03.2017.16.50.59 IP: 177.204.47.51 HALLANEU useitem,paint success 1508+27 - (61,0,0) 
+06.03.2017.16.51.00 IP: 187.19.4.117 PALLASX3 *** Item combine odin. *** 
+06.03.2017.16.51.00 IP: 187.19.4.117 PALLASX3 useitem,paint success 1508+27 - (61,0,0) Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.51.00 IP: 187.19.4.117 PALLASX3 *** ------------------- *** 
+06.03.2017.16.51.00 IP: 187.19.4.117 PALLASX3 *** Combine odin fail *** 
+06.03.2017.16.51.00 IP: 177.204.47.51 HALLANEU useitem,paint success 1507+27 - (61,0,0) 
+06.03.2017.16.51.01 IP: 177.204.47.51 HALLANEU useitem,paint success 1509+27 - (61,0,0) 
+06.03.2017.16.51.02 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:7350 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+06.03.2017.16.51.02 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.51.03 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Refinacoes price:4200 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+06.03.2017.16.51.10 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3209 
+06.03.2017.16.51.11 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3208 
+06.03.2017.16.51.11 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3206 
+06.03.2017.16.51.12 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3204 
+06.03.2017.16.51.12 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3205 
+06.03.2017.16.51.12 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3202 
+06.03.2017.16.51.13 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:19 Item: Selo_do_Guerreiro : 4146.61.248.0.0.0.0 DstType:1 DstSlot:27 Item: 
+06.03.2017.16.51.13 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3201 
+06.03.2017.16.51.13 IP: 177.204.47.51 HALLANEU useitem,joia_pvp joia:3200 
+06.03.2017.16.51.14 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:16 Item: Poção_Poderosa : 3431.61.255.0.0.0.0 DstType:1 DstSlot:28 Item: 
+06.03.2017.16.51.16 IP: 177.64.158.36 OMOURAJOAO tradingitem, SrcType:1 SrcSlot:21 Item: Poção_Poderosa : 3431.61.255.0.0.0.0 DstType:1 DstSlot:29 Item: 
+06.03.2017.16.51.27 IP: 177.204.47.51 HALLANEU buy_npc,npc:Shadow I price:105 item: Chocolate_do_Amor : 1739.0.0.0.0.0.0 
+06.03.2017.16.51.28 IP: 177.204.47.51 HALLANEU buy_npc,npc:Shadow I price:105 item: Chocolate_do_Amor : 1739.0.0.0.0.0.0 
+06.03.2017.16.51.31 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.51.32 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+06.03.2017.16.51.36 IP: 177.204.47.51 HALLANEU useitem,poção_kappa affectslot:6 value:0 time:80 
+06.03.2017.16.51.37 IP: 187.104.69.155 LULIPE useitem,water scroll A 0 
+06.03.2017.16.51.39 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.51.39 IP: 177.204.47.51 HALLANEU tradingitem, SrcType:1 SrcSlot:12 Item: Dragão_Vermelho : 2380.131.69.120.60.100.13 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.11 
+06.03.2017.16.51.40 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+06.03.2017.16.51.41 IP: 177.204.47.51 HALLANEU useitem,ração mount:8 
+06.03.2017.16.51.45 IP: 177.204.47.51 HALLANEU useitem,item vigor 
+06.03.2017.16.51.45 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.51.46 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+06.03.2017.16.51.46 IP: 177.204.47.51 HALLANEU buy_npc,npc:Shadow I price:157500 item: Poção_de_Saúde(30dias) : 3366.0.0.0.0.0.0 
+06.03.2017.16.51.48 IP: 177.204.47.51 HALLANEU buy_npc,npc:Shadow I price:157500 item: Poção_de_Saúde(30dias) : 3366.0.0.0.0.0.0 
+06.03.2017.16.51.49 IP: 177.204.47.51 HALLANEU buy_npc,npc:Shadow I price:157500 item: Poção_Sephira_(30dias) : 3363.0.0.0.0.0.0 
+06.03.2017.16.51.53 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.51.54 IP: 177.64.158.36 OMOURAJOAO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+06.03.2017.16.52.09 IP: 177.64.158.36 OMOURAJOAO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+06.03.2017.16.52.27 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:353 
+06.03.2017.16.52.27 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:354 
+06.03.2017.16.52.28 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:355 
+06.03.2017.16.52.28 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:356 
+06.03.2017.16.52.28 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:357 
+06.03.2017.16.52.28 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:358 
+06.03.2017.16.52.29 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:359 
+06.03.2017.16.52.29 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:360 
+06.03.2017.16.52.29 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:361 
+06.03.2017.16.52.29 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:362 
+06.03.2017.16.52.29 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:363 
+06.03.2017.16.52.30 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:364 
+06.03.2017.16.52.30 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:365 
+06.03.2017.16.52.30 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:366 
+06.03.2017.16.52.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:367 
+06.03.2017.16.52.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:368 
+06.03.2017.16.52.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:369 
+06.03.2017.16.52.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:370 
+06.03.2017.16.52.31 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:371 
+06.03.2017.16.52.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:372 
+06.03.2017.16.52.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:373 
+06.03.2017.16.52.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:374 
+06.03.2017.16.52.32 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:375 
+06.03.2017.16.52.33 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:376 
+06.03.2017.16.52.33 IP: 187.104.69.155 LULIPE useitem,poeira_de_fada classmaster:2 level:377 
+06.03.2017.16.52.41 IP: 187.104.69.155 LULIPE useitem,water scroll A 0 

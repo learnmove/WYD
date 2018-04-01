@@ -1,0 +1,1076 @@
+[05/03/2017][18:03:49]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][18:03:54]  LILITH etc,changecity city:0 X:2113 Y:2052 
+[05/03/2017][18:04:00]  -system etc,nightmare_mystic clear -18:4 
+[05/03/2017][18:04:01]  -system err,No empty mobgrid(1): 1297 1972 1622 
+[05/03/2017][18:04:01]  -system err,No empty mobgrid(1): 4036 3621 2824 
+[05/03/2017][18:04:01]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][18:04:13]  -system err,No empty mobgrid(1): 1298 1978 1624 
+[05/03/2017][18:04:25]  -system err,No empty mobgrid(1): 1297 1970 1624 
+[05/03/2017][18:04:37]  -system err,No empty mobgrid(1): 1298 1978 1623 
+[05/03/2017][18:04:37]  -system err,No empty mobgrid(1): 4036 3621 2823 
+[05/03/2017][18:04:49]  -system err,No empty mobgrid(1): 1297 1972 1620 
+[05/03/2017][18:04:49]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[05/03/2017][18:05:10] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:2389 name:Porco dam:29 x:2112 y:2044 
+[05/03/2017][18:05:11] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:2389 name:Porco dam:28 x:2109 y:2041 
+[05/03/2017][18:05:13]  -system err,No empty mobgrid(1): 1297 1969 1621 
+[05/03/2017][18:05:13]  -system err,No empty mobgrid(1): 3453 2394 2101 
+[05/03/2017][18:05:13]  -system err,No empty mobgrid(1): 4036 3623 2822 
+[05/03/2017][18:05:37]  -system err,No empty mobgrid(1): 1297 1967 1622 
+[05/03/2017][18:05:58] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:2391 name:Porco dam:28 x:2110 y:2040 
+[05/03/2017][18:05:59] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:2391 name:Porco dam:27 x:2109 y:2041 
+[05/03/2017][18:06:01]  -system err,No empty mobgrid(1): 1297 1971 1620 
+[05/03/2017][18:06:01] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:7803 name:Porco dam:42 x:2110 y:2046 
+[05/03/2017][18:06:02] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:7803 name:Porco dam:28 x:2110 y:2046 
+[05/03/2017][18:06:04] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:7908 name:Porco dam:28 x:2110 y:2039 
+[05/03/2017][18:06:05] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:7908 name:Porco dam:28 x:2110 y:2039 
+[05/03/2017][18:06:25]  -system err,No empty mobgrid(1): 1297 1970 1622 
+[05/03/2017][18:06:31] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:7943 name:Porco dam:29 x:2111 y:2046 
+[05/03/2017][18:06:32] IP: 189.13.226.146 WELMAL etc,msg_attack attacker:1 name:CRAZY target:7943 name:Porco dam:28 x:2109 y:2042 
+[05/03/2017][18:06:37]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][18:06:42] IP: 189.13.226.146 WELMAL adm +set level 1010 
+[05/03/2017][18:06:46]  WELMAL etc,changecity city:0 X:2112 Y:2055 
+[05/03/2017][18:07:13]  -system err,No empty mobgrid(1): 1297 1970 1622 
+[05/03/2017][18:07:16] IP: 201.17.211.212 BADFIVE123 CNFAccountLogin Mac: -838874041.1397704535.-1546892782.-959533156 
+[05/03/2017][18:07:28] IP: 189.13.226.146 WELMAL adm +set level 1010 
+[05/03/2017][18:07:36] IP: 201.17.211.212 BADFIVE123 etc,createchar name:-PARAD1SE- 4 13 
+[05/03/2017][18:07:37]  -system err,No empty mobgrid(1): 1297 1969 1620 
+[05/03/2017][18:07:40] IP: 201.17.211.212 BADFIVE123 sta,Login char:-PARAD1SE- exp:0 level:0 conn:4 money:2000000000, store:0 
+[05/03/2017][18:07:42] IP: 177.39.204.178 WALLACER137 etc,kingdom command 0  
+[05/03/2017][18:07:51]  BADFIVE123 etc,changecity city:0 X:2113 Y:2056 
+[05/03/2017][18:08:57] IP: 177.39.204.178 WALLACER137 etc,get mantle 546 - sapphire:0 
+[05/03/2017][18:09:00]  -system etc,nightmare_arcan clear -18:9 
+[05/03/2017][18:09:02] IP: 177.39.204.178 WALLACER137 etc,king_arch name:Maldito class:1 mortalface:1 mortalslot:0 
+[05/03/2017][18:09:02] IP: 177.39.204.178 WALLACER137 etc,arch create name:Maldito slot:1 
+[05/03/2017][18:09:06] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:0 level:0 conn:3 money:2000000000, store:0 
+[05/03/2017][18:09:08]  WALLACER137 etc,changecity city:0 X:2090 Y:2093 
+[05/03/2017][18:09:18] IP: 189.13.226.146 WELMAL adm +teleport 1757 1613 
+[05/03/2017][18:09:31] IP: 189.13.226.146 WELMAL adm +teleport 1757 1640 
+[05/03/2017][18:09:37] IP: 189.13.226.146 WELMAL adm +teleport 1757 1680 
+[05/03/2017][18:09:43] IP: 189.13.226.146 WELMAL adm +teleport 1757 1690 
+[05/03/2017][18:09:54] IP: 189.13.226.146 WELMAL adm +teleport 1757 1685 
+[05/03/2017][18:10:05] IP: 189.13.226.146 WELMAL adm +teleport 1757 1640 
+[05/03/2017][18:10:10] IP: 189.13.226.146 WELMAL adm +teleport 1757 1630 
+[05/03/2017][18:10:16] IP: 179.125.130.230 LILITH etc,kingdom command 0  
+[05/03/2017][18:10:49]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][18:10:58] IP: 179.125.130.230 LILITH etc,king_arch name:Lilith class:0 mortalface:31 mortalslot:0 
+[05/03/2017][18:10:58] IP: 179.125.130.230 LILITH etc,arch create name:Lilith slot:1 
+[05/03/2017][18:11:01] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:0 level:0 conn:2 money:2000000000, store:0 
+[05/03/2017][18:11:01]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[05/03/2017][18:11:03]  LILITH etc,changecity city:0 X:2086 Y:2100 
+[05/03/2017][18:11:15] IP: 189.13.226.146 WELMAL adm +teleport 1757 1640 
+[05/03/2017][18:11:18] IP: 189.13.226.146 WELMAL adm +teleport 1757 1620 
+[05/03/2017][18:11:23] IP: 189.13.226.146 WELMAL adm +teleport 1757 1650 
+[05/03/2017][18:11:26] IP: 189.13.226.146 WELMAL adm +teleport 1757 1610 
+[05/03/2017][18:11:31] IP: 189.13.226.146 WELMAL adm +teleport 1757 1600 
+[05/03/2017][18:11:35] IP: 189.13.226.146 WELMAL adm +teleport 1757 1590 
+[05/03/2017][18:11:42] IP: 189.13.226.146 WELMAL adm +teleport 1757 1550 
+[05/03/2017][18:12:59] IP: 189.13.226.146 WELMAL adm +set item 3330 
+[05/03/2017][18:12:59] IP: 189.13.226.146 CRAZY - Set Item Carry [3330 0:0:0:0:0:0] -system 
+[05/03/2017][18:13:13] IP: 189.13.226.146 WELMAL etc,king_arch name:CRAZY class:1 mortalface:11 mortalslot:0 
+[05/03/2017][18:13:13] IP: 189.13.226.146 WELMAL etc,arch create name:CRAZY slot:1 
+[05/03/2017][18:13:18] IP: 186.241.107.22 BOBS20 CNFAccountLogin Mac: 317392233.-612807937.-1723514751.636680940 
+[05/03/2017][18:13:22] IP: 189.13.226.146 WELMAL sta,Login char:CRAZY exp:0 level:0 conn:1 money:2000000000, store:0 
+[05/03/2017][18:13:23]  WELMAL etc,changecity city:0 X:2086 Y:2106 
+[05/03/2017][18:13:38]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][18:13:44] IP: 177.39.204.178 WALLACER137 etc,kingdom command 0  
+[05/03/2017][18:13:48] IP: 201.17.211.212 BADFIVE123 etc,deposito no bau D:1990000000 R:1990000000 
+[05/03/2017][18:13:49] IP: 186.241.107.22 BOBS20 etc,createchar name:SodaNois 5 13 
+[05/03/2017][18:13:53] IP: 186.241.107.22 BOBS20 sta,Login char:SodaNois exp:0 level:0 conn:5 money:2000000000, store:0 
+[05/03/2017][18:13:58] IP: 168.181.139.83 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[05/03/2017][18:14:06] IP: 177.39.204.178 WALLACER137 lindy,unlock lv354 
+[05/03/2017][18:14:17] IP: 168.181.139.83 CYBER etc,createchar name:TK-MAGO 6 13 
+[05/03/2017][18:14:21] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1044 Y:1725 price:700 
+[05/03/2017][18:14:22] IP: 168.181.139.83 CYBER sta,Login char:TK-MAGO exp:0 level:0 conn:6 money:2000000000, store:0 
+[05/03/2017][18:14:25] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:2480 Y:1716 price:0 
+[05/03/2017][18:14:26]  BADFIVE123 etc,changecity city:1 X:2480 Y:1716 
+[05/03/2017][18:14:30] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:7993 name:Porco dam:29 x:2108 y:2045 
+[05/03/2017][18:14:31] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:7993 name:Porco dam:29 x:2108 y:2045 
+[05/03/2017][18:14:32] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:2390 name:Porco dam:29 x:2111 y:2045 
+[05/03/2017][18:14:33] IP: 168.181.139.83 CYBER etc,msg_attack attacker:6 name:TK-MAGO target:2390 name:Porco dam:29 x:2111 y:2045 
+[05/03/2017][18:14:33] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1970 Y:1713 price:0 
+[05/03/2017][18:14:36] IP: 177.39.204.178 WALLACER137 lindy,unlock lv369 
+[05/03/2017][18:14:36]  CYBER etc,changecity city:0 X:2112 Y:2059 
+[05/03/2017][18:14:44] IP: 179.34.31.119 LUCIO CNFAccountLogin Mac: -925247206.1723617082.-1402208721.-983984881 
+[05/03/2017][18:14:48] IP: 201.17.211.212 BADFIVE123 etc,msg_attack attacker:4 name:-PARAD1SE- target:2235 name:Anciao Ciclops dam:4630 x:1912 y:1722 
+[05/03/2017][18:14:51] IP: 201.17.211.212 BADFIVE123 etc,msg_attack attacker:4 name:-PARAD1SE- target:2235 name:Anciao Ciclops dam:6943 x:1912 y:1722 
+[05/03/2017][18:14:56] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:4000000000 level:399 conn:3 money:1989058228, store:0 
+[05/03/2017][18:14:58]  WALLACER137 etc,changecity city:0 X:2095 Y:2102 
+[05/03/2017][18:14:59] IP: 179.34.31.119 LUCIO etc,createchar name:ANAO 7 13 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:02] IP: 186.241.107.22 BOBS20 clo,fd 22-2 
+[05/03/2017][18:15:02] IP: 186.241.107.22 BOBS20 etc,charlogout conn:5 name:SodaNois 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:02]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:03]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:04]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:05]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:05]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:05]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:05]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:05]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:05]  BADFIVE123 etc,applybonus name:-PARAD1SE- bonustype:0 detail:2 pontos:1 
+[05/03/2017][18:15:09] IP: 201.17.211.212 BADFIVE123 etc,msg_attack attacker:4 name:-PARAD1SE- target:2261 name:Orc Medico dam:10432 x:1872 y:1727 
+[05/03/2017][18:15:11] IP: 201.17.211.212 BADFIVE123 etc,msg_attack attacker:4 name:-PARAD1SE- target:2260 name:Anciao Ciclops dam:16968 x:1877 y:1726 
+[05/03/2017][18:15:12] IP: 179.34.31.119 LUCIO etc,createchar name:LUCIO 7 13 
+[05/03/2017][18:15:16] IP: 179.34.31.119 LUCIO sta,Login char:ANAO exp:0 level:0 conn:7 money:2000000000, store:0 
+[05/03/2017][18:15:22] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:7944 name:Porco dam:28 x:2110 y:2040 
+[05/03/2017][18:15:23] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:7944 name:Porco dam:29 x:2110 y:2040 
+[05/03/2017][18:15:28] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:2387 name:Porco dam:29 x:2120 y:2040 
+[05/03/2017][18:15:29] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:2387 name:Porco dam:27 x:2120 y:2040 
+[05/03/2017][18:15:31]  -system etc,carbuncle buff name:ANAO conn:7 
+[05/03/2017][18:15:32]  -system etc,carbuncle buff name:ANAO conn:7 
+[05/03/2017][18:15:36] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:2416 name:Porco dam:29 x:2125 y:2028 
+[05/03/2017][18:15:37] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:2416 name:Porco dam:29 x:2125 y:2028 
+[05/03/2017][18:15:38] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:2410 name:Porco dam:28 x:2125 y:2027 
+[05/03/2017][18:15:47] IP: 189.13.226.146 WELMAL adm +set item 3330 
+[05/03/2017][18:15:47] IP: 189.13.226.146 CRAZY - Set Item Carry [3330 0:0:0:0:0:0] -system 
+[05/03/2017][18:15:50]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][18:15:52]  LUCIO etc,changecity city:0 X:2112 Y:2056 
+[05/03/2017][18:16:25] IP: 201.17.211.212 BADFIVE123 etc,king_arch name:-PARAD1SE- class:3 mortalface:1 mortalslot:0 
+[05/03/2017][18:16:25] IP: 201.17.211.212 BADFIVE123 etc,arch create name:-PARAD1SE- slot:1 
+[05/03/2017][18:16:26]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][18:16:30] IP: 201.17.211.212 BADFIVE123 sta,Login char:-PARAD1SE- exp:0 level:0 conn:4 money:2000000000, store:0 
+[05/03/2017][18:16:32]  BADFIVE123 etc,changecity city:0 X:2086 Y:2098 
+[05/03/2017][18:16:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][18:16:56] IP: 201.17.211.212 BADFIVE123 sel_npc,npc:Shadow Montaria price:9750 item: Javali : 2361.100.100.120.60.100.0 
+[05/03/2017][18:17:18] IP: 189.13.226.146 WELMAL adm +set item 3330 61 120 
+[05/03/2017][18:17:18] IP: 189.13.226.146 CRAZY - Set Item Carry [3330 61:120:0:0:0:0] -system 
+[05/03/2017][18:17:26]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][18:17:27] IP: 189.13.226.146 WELMAL adm +reloadnpc 
+[05/03/2017][18:17:33] IP: 189.13.226.146 WELMAL adm +kill Acessorios5 
+[05/03/2017][18:17:33] IP: 189.13.226.146 WELMAL MobName:CRAZY dropou o item: Barra_de_Mithril_(Dano):3027 61.5.0.0.0.0 do mob:Acessorios5 
+[05/03/2017][18:17:47] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:0 level:0 conn:3 money:1986970303, store:0 
+[05/03/2017][18:17:48]  WALLACER137 etc,changecity city:0 X:2099 Y:2101 
+[05/03/2017][18:17:50] IP: 189.13.226.146 WELMAL adm +set level 1010 
+[05/03/2017][18:18:02]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][18:18:41] IP: 177.39.204.178 WALLACER137 etc,kingdom command 0  
+[05/03/2017][18:18:54] IP: 189.115.114.220 ZAYCO2808 CNFAccountLogin Mac: 1063753860.2015972889.-1806794167.1810911483 
+[05/03/2017][18:19:00]  -system etc,nightmare_normal clear -18:19 
+[05/03/2017][18:19:02] IP: 189.13.226.146 WELMAL adm +teleport 1757 1613 
+[05/03/2017][18:19:07] IP: 189.13.226.146 WELMAL adm +teleport 1757 1580 
+[05/03/2017][18:19:10] IP: 179.125.130.230 LILITH etc,kingdom command 0  
+[05/03/2017][18:19:10] IP: 189.13.226.146 WELMAL adm +teleport 1757 1590 
+[05/03/2017][18:19:17] IP: 189.13.226.146 WELMAL adm +teleport 1757 1700 
+[05/03/2017][18:19:17] IP: 189.115.114.220 ZAYCO2808 etc,createchar name:Support 5 13 
+[05/03/2017][18:19:21] IP: 189.13.226.146 WELMAL adm +teleport 1757 1750 
+[05/03/2017][18:19:22] IP: 189.115.114.220 ZAYCO2808 sta,Login char:Support exp:0 level:0 conn:5 money:2000000000, store:0 
+[05/03/2017][18:19:24] IP: 177.39.204.178 WALLACER137 etc,get mantle 3197 - sapphire:0 
+[05/03/2017][18:19:29] IP: 179.125.130.230 LILITH lindy,unlock lv354 
+[05/03/2017][18:19:32]  ZAYCO2808 etc,changecity city:0 X:2112 Y:2055 
+[05/03/2017][18:19:41] IP: 189.13.226.146 WELMAL adm +teleport 1757 1800 
+[05/03/2017][18:19:55] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:800000000 level:39 conn:3 money:1982970303, store:0 
+[05/03/2017][18:19:57]  WALLACER137 etc,changecity city:0 X:2088 Y:2097 
+[05/03/2017][18:20:04] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1046 Y:1724 price:700 
+[05/03/2017][18:20:07]  -system etc,set citizen server:1 name:Maldito conn:3 
+[05/03/2017][18:20:07] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:2481 Y:1718 price:0 
+[05/03/2017][18:20:08]  BADFIVE123 etc,changecity city:1 X:2481 Y:1718 
+[05/03/2017][18:20:12] IP: 177.39.204.178 WALLACER137 sys,guild medal value:1 count:1 
+[05/03/2017][18:20:12] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1044 Y:1716 price:700 
+[05/03/2017][18:20:16] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:2117 Y:2100 price:0 
+[05/03/2017][18:20:16]  BADFIVE123 etc,changecity city:0 X:2117 Y:2100 
+[05/03/2017][18:20:33] IP: 179.125.130.230 LILITH lindy,unlock lv369 
+[05/03/2017][18:20:57] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:4000000000 level:399 conn:2 money:1976034888, store:0 
+[05/03/2017][18:20:59]  LILITH etc,changecity city:0 X:2086 Y:2096 
+[05/03/2017][18:21:12] IP: 186.207.139.153 GUGUPMG12 CNFAccountLogin Mac: -644133196.721375221.-1982165080.1833553592 
+[05/03/2017][18:21:26] IP: 177.39.204.178 WALLACER137 etc,abandonar 1 9 
+[05/03/2017][18:21:26] IP: 186.207.139.153 GUGUPMG12 etc,createchar name:ZePikeno 8 13 
+[05/03/2017][18:21:30] IP: 186.207.139.153 GUGUPMG12 sta,Login char:ZePikeno exp:0 level:0 conn:8 money:2000000000, store:0 
+[05/03/2017][18:21:35] IP: 186.207.139.153 GUGUPMG12 etc,msg_attack attacker:8 name:ZePikeno target:2392 name:Porco dam:42 x:2110 y:2039 
+[05/03/2017][18:21:36] IP: 177.39.204.178 WALLACER137 sys,guild medal value:2 count:2 
+[05/03/2017][18:21:36] IP: 186.207.139.153 GUGUPMG12 etc,msg_attack attacker:8 name:ZePikeno target:2392 name:Porco dam:29 x:2110 y:2039 
+[05/03/2017][18:21:38] IP: 168.181.139.83 CYBER etc,deposito no bau D:100000000 R:100000000 
+[05/03/2017][18:21:38]  LILITH etc,applybonus name:Lilith bonustype:0 detail:3 pontos:200 
+[05/03/2017][18:21:39]  LILITH etc,applybonus name:Lilith bonustype:0 detail:3 pontos:200 
+[05/03/2017][18:21:40]  LILITH etc,applybonus name:Lilith bonustype:0 detail:3 pontos:200 
+[05/03/2017][18:21:41]  -system etc,carbuncle buff name:ZePikeno conn:8 
+[05/03/2017][18:21:41]  LILITH etc,applybonus name:Lilith bonustype:0 detail:3 pontos:200 
+[05/03/2017][18:21:42]  LILITH etc,applybonus name:Lilith bonustype:0 detail:3 pontos:200 
+[05/03/2017][18:21:46]  GUGUPMG12 etc,changecity city:0 X:2112 Y:2052 
+[05/03/2017][18:21:46] IP: 186.241.107.22 BOBS20 CNFAccountLogin Mac: 317392233.-612807937.-1723514751.636680940 
+[05/03/2017][18:21:47]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:48]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:48]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:49]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][18:21:50]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:51]  LILITH etc,applybonus name:Lilith bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:21:52]  LILITH etc,applybonus name:Lilith bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:21:53]  LILITH etc,applybonus name:Lilith bonustype:0 detail:2 pontos:200 
+[05/03/2017][18:21:53] IP: 186.241.107.22 BOBS20 sta,Login char:SodaNois exp:0 level:0 conn:9 money:2000000000, store:0 
+[05/03/2017][18:21:54]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:55]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:200 
+[05/03/2017][18:21:55]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:57] IP: 201.17.211.212 BADFIVE123 sel_npc,npc:Acessorios3 price:292 item: Conjunto_Real(Vermelho)(30dias) : 4171.106.30.107.0.0.0 
+[05/03/2017][18:21:57]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:57] IP: 186.241.107.22 BOBS20 etc,msg_attack attacker:9 name:SodaNois target:8944 name:Porco dam:27 x:2108 y:2041 
+[05/03/2017][18:21:57]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:57]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:58] IP: 186.241.107.22 BOBS20 etc,msg_attack attacker:9 name:SodaNois target:8944 name:Porco dam:29 x:2108 y:2041 
+[05/03/2017][18:21:58] IP: 186.241.107.22 BOBS20 MobName:SodaNois dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[05/03/2017][18:21:58]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:21:59]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:00]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:01]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1045 Y:1724 price:700 
+[05/03/2017][18:22:02] IP: 186.207.139.153 GUGUPMG12 etc,reqteleport char:ZePikeno X:1045 Y:1726 price:700 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:02]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  BOBS20 etc,changecity city:0 X:2112 Y:2055 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:03]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:04]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:05]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:2482 Y:1716 price:0 
+[05/03/2017][18:22:06]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:06]  CYBER etc,changecity city:1 X:2482 Y:1716 
+[05/03/2017][18:22:06] IP: 186.207.139.153 GUGUPMG12 etc,reqteleport char:ZePikeno X:2481 Y:1717 price:0 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  GUGUPMG12 etc,changecity city:1 X:2481 Y:1717 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:07]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:08]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:09]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:10]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:11]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:12]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:13]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:14]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:15]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:16]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1970 Y:1711 price:0 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:17]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:18]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:19]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:20]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:21]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:22]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:23]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:24]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:24]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:24]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:24]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:24]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:24]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:25]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:26]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:27]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:28]  LILITH etc,applybonus name:Lilith bonustype:0 detail:0 pontos:1 
+[05/03/2017][18:22:28] IP: 189.13.226.146 WELMAL adm +not teste. 
+[05/03/2017][18:22:34] IP: 189.115.114.220 ZAYCO2808 etc,motion motion:27 parm:0 notused:0 
+[05/03/2017][18:22:39] IP: 189.13.226.146 WELMAL adm +noticia Testando, 1...2...3 
+[05/03/2017][18:22:48] IP: 186.207.139.153 GUGUPMG12 etc,reqteleport char:ZePikeno X:1044 Y:1716 price:700 
+[05/03/2017][18:22:51]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:53] IP: 186.207.139.153 GUGUPMG12 etc,reqteleport char:ZePikeno X:2118 Y:2101 price:0 
+[05/03/2017][18:22:53]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:53]  GUGUPMG12 etc,changecity city:0 X:2118 Y:2101 
+[05/03/2017][18:22:53]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:53]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:53]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:53]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:54]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:55]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:56]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:57]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:58]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:59]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:59]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:59]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:59]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:59]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:22:59]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:00]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:01]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:02]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:03]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04] IP: 189.13.226.146 WELMAL adm +notice Testando, 1...2...3 
+[05/03/2017][18:23:04]  -system not  Testando, 1...2...3 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:04]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:05]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:06]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:07]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:08]  LILITH etc,applybonus name:Lilith bonustype:1 special2 
+[05/03/2017][18:23:11] IP: 189.13.226.146 WELMAL adm +notice Olá meus amigos. 
+[05/03/2017][18:23:11]  -system not  Olá meus amigos. 
+[05/03/2017][18:23:13] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:1046 Y:1724 price:700 
+[05/03/2017][18:23:19] IP: 189.13.226.146 WELMAL adm +notice Vamos aguardar a galera 
+[05/03/2017][18:23:19]  -system not  Vamos aguardar a galera 
+[05/03/2017][18:23:21]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:9 
+[05/03/2017][18:23:21] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:2480 Y:1717 price:0 
+[05/03/2017][18:23:21]  LUCIO etc,changecity city:1 X:2480 Y:1717 
+[05/03/2017][18:23:22]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:11 
+[05/03/2017][18:23:23]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:8 
+[05/03/2017][18:23:24]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:10 
+[05/03/2017][18:23:25]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:12 
+[05/03/2017][18:23:26]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:13 
+[05/03/2017][18:23:26] IP: 189.13.226.146 WELMAL adm +notice Quando tivermos um bom numer 
+[05/03/2017][18:23:26]  -system not  Quando tivermos um bom numer 
+[05/03/2017][18:23:26]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:14 
+[05/03/2017][18:23:28]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:15 
+[05/03/2017][18:23:35] IP: 189.13.226.146 WELMAL adm +notice Vou alterar a data 
+[05/03/2017][18:23:35]  -system not  Vou alterar a data 
+[05/03/2017][18:23:35] IP: 168.181.139.83 CYBER etc,king_arch name:TK-MAGO class:0 mortalface:1 mortalslot:0 
+[05/03/2017][18:23:35] IP: 168.181.139.83 CYBER etc,arch create name:TK-MAGO slot:1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:37]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:38]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:38]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:38]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:38]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:38]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][18:23:38]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39] IP: 168.181.139.83 CYBER sta,Login char:TK-MAGO exp:0 level:0 conn:6 money:2000000000, store:0 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:39]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40] IP: 179.34.31.119 LUCIO etc,reqteleport char:ANAO X:1969 Y:1711 price:0 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:40]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:41] IP: 189.13.226.146 WELMAL adm +notice Para voces criarem guilds. 
+[05/03/2017][18:23:41]  -system not  Para voces criarem guilds. 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:42]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:43]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  CYBER etc,changecity city:0 X:2090 Y:2097 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:44]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:45]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46] IP: 177.39.204.178 WALLACER137 etc,abandonar 2 9 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:46]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47] IP: 189.13.226.146 WELMAL adm +notice Pois como sabem, 
+[05/03/2017][18:23:47]  -system not  Pois como sabem, 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:47]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:48]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:49]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:50]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:51]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:52]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:53]  LILITH etc,applybonus name:Lilith bonustype:1 special1 
+[05/03/2017][18:23:54] IP: 189.13.226.146 WELMAL adm +notice Domingo nao se cria :v 
+[05/03/2017][18:23:54]  -system not  Domingo nao se cria :v 
+[05/03/2017][18:24:00]  -system etc,nightmare_mystic clear -18:24 
+[05/03/2017][18:24:12] IP: 189.13.226.146 WELMAL adm +set reloadfile 
+[05/03/2017][18:24:14]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][18:24:18] IP: 189.13.226.146 WELMAL adm +reloadfile 
+[05/03/2017][18:24:26]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][18:24:31] IP: 189.13.226.146 WELMAL adm +reloadfiles 
+[05/03/2017][18:24:42] IP: 186.207.139.153 GUGUPMG12 etc,pkmode 1 
+[05/03/2017][18:24:43] IP: 189.115.114.220 ZAYCO2808 etc,reqteleport char:Support X:1045 Y:1725 price:700 
+[05/03/2017][18:24:45] IP: 179.125.130.230 LILITH clo,fd 22-2 
+[05/03/2017][18:24:45] IP: 179.125.130.230 LILITH etc,charlogout conn:2 name:Lilith 
+[05/03/2017][18:24:48] IP: 189.115.114.220 ZAYCO2808 etc,reqteleport char:Support X:2456 Y:2018 price:0 
+[05/03/2017][18:24:48]  ZAYCO2808 etc,changecity city:2 X:2456 Y:2018 
+[05/03/2017][18:24:57] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1045 Y:1724 price:700 
+[05/03/2017][18:25:00] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:2482 Y:1716 price:0 
+[05/03/2017][18:25:01]  BADFIVE123 etc,changecity city:1 X:2482 Y:1716 
+[05/03/2017][18:25:08] IP: 189.13.226.146 WELMAL adm +notice Com dano :v 
+[05/03/2017][18:25:08]  -system not  Com dano :v 
+[05/03/2017][18:25:11] IP: 179.125.130.230 LILITH CNFAccountLogin Mac: 1336161469.1233993732.-2097786006.-799657933 
+[05/03/2017][18:25:12] IP: 189.13.226.146 WELMAL adm +notice Brincadeira. 
+[05/03/2017][18:25:12]  -system not  Brincadeira. 
+[05/03/2017][18:25:17] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:4000000000 level:399 conn:2 money:1925986713, store:0 
+[05/03/2017][18:25:18]  LILITH etc,changecity city:0 X:2100 Y:2104 
+[05/03/2017][18:25:20] IP: 179.34.31.119 LUCIO etc,msg_attack attacker:7 name:ANAO target:7616 name:Torre Guardia dam:1 x:1685 y:1575 
+[05/03/2017][18:25:20] IP: 189.13.226.146 WELMAL adm +notice Voces vao criar guild logo. 
+[05/03/2017][18:25:20]  -system not  Voces vao criar guild logo. 
+[05/03/2017][18:25:24] IP: 201.17.211.212 BADFIVE123 etc,reqteleport char:-PARAD1SE- X:1969 Y:1713 price:0 
+[05/03/2017][18:25:26]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][18:25:28]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:3 
+[05/03/2017][18:25:29]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:5 
+[05/03/2017][18:25:33] IP: 179.34.31.119 LUCIO etc,king_arch name:ANAO class:0 mortalface:1 mortalslot:0 
+[05/03/2017][18:25:33] IP: 179.34.31.119 LUCIO etc,arch create name:ANAO slot:2 
+[05/03/2017][18:25:38] IP: 189.13.226.146 WELMAL adm +notice Já estamos providenciando 
+[05/03/2017][18:25:38]  -system not  Já estamos providenciando 
+[05/03/2017][18:25:38]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][18:25:39] IP: 179.34.31.119 LUCIO sta,Login char:ANAO exp:0 level:0 conn:7 money:2000000000, store:0 
+[05/03/2017][18:25:40]  LILITH etc,applybonus name:Lilith bonustype:2 skillpos:4 
+[05/03/2017][18:25:40]  LUCIO etc,changecity city:0 X:2100 Y:2104 
+[05/03/2017][18:25:44] IP: 189.13.226.146 WELMAL adm +notice Os "7 full barra" 
+[05/03/2017][18:25:44]  -system not  Os "7 full barra" 
+[05/03/2017][18:25:45] IP: 201.17.211.212 BADFIVE123 etc,msg_attack attacker:4 name:-PARAD1SE- target:5244 name:Anciao Ciclops  dam:8832 x:1901 y:1722 
+[05/03/2017][18:25:48] IP: 189.13.226.146 WELMAL etc,get mantle 546 - sapphire:0 
+[05/03/2017][18:25:52] IP: 179.125.130.230 LILITH cra point: 10  type: 30 
+[05/03/2017][18:25:52] IP: 179.125.130.230 LILITH skill delay skillnum: -217568250--217568250 
+[05/03/2017][18:26:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][18:26:05]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:05]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:05]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:05]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:05]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:05]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:06]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:07]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:07]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:07]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:07]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:07]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:07]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:08]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09] IP: 189.115.114.220 ZAYCO2808 etc,king_arch name:Support class:2 mortalface:21 mortalslot:0 
+[05/03/2017][18:26:09] IP: 189.115.114.220 ZAYCO2808 etc,arch create name:Support slot:1 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:09]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:10]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:11]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:12]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13] IP: 189.115.114.220 ZAYCO2808 sta,Login char:Support exp:0 level:0 conn:5 money:2000000000, store:0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:13]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  ZAYCO2808 etc,changecity city:0 X:2095 Y:2098 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:14]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:15]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:16]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:17]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:18]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:19]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:20]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:21]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:22]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:23]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:24]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:24]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:24]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:42]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:43]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:44]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:45]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:46]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:46]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:46]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:46]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:46]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:46]  LILITH etc,applybonus name:Lilith bonustype:1 special0 
+[05/03/2017][18:26:58] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:1045 Y:1725 price:700 
+[05/03/2017][18:27:03] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:2456 Y:2018 price:0 
+[05/03/2017][18:27:04]  BOBS20 etc,changecity city:2 X:2456 Y:2018 
+[05/03/2017][18:27:11] IP: 201.17.211.212 BADFIVE123 lindy,unlock lv354 
+[05/03/2017][18:27:24] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:0 level:0 conn:2 money:1925986713, store:0 
+[05/03/2017][18:27:26]  LILITH etc,changecity city:0 X:2096 Y:2103 
+[05/03/2017][18:27:26]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][18:27:31] IP: 189.13.226.146 WELMAL adm +notice As 18:30 vou liberar 
+[05/03/2017][18:27:31]  -system not  As 18:30 vou liberar 
+[05/03/2017][18:27:37] IP: 189.13.226.146 WELMAL adm +notice para criarem guild. 
+[05/03/2017][18:27:37]  -system not  para criarem guild. 
+[05/03/2017][18:27:38]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][18:27:50] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:1044 Y:1709 price:700 
+[05/03/2017][18:27:55] IP: 186.241.107.22 BOBS20 etc,reqteleport char:SodaNois X:2117 Y:2101 price:0 
+[05/03/2017][18:27:55]  BOBS20 etc,changecity city:0 X:2117 Y:2101 
+[05/03/2017][18:27:59] IP: 189.13.226.146 WELMAL adm +notice 4 safiras. 
+[05/03/2017][18:27:59]  -system not  4 safiras. 

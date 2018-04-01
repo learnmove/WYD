@@ -1,0 +1,334 @@
+[01/04/2018][01:02:24]  -system sys,start server 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 62 2215 2063 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 70 2219 2063 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 100 2227 2062 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 328 2321 2218 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 337 2318 2223 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 442 2488 2054 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 545 2488 1950 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 575 2450 1951 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 602 2543 1943 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 673 2618 1978 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 792 2472 1836 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 802 2476 1820 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 908 2612 2078 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 1179 2274 1748 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 1304 1960 1644 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1830 279 3790 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1968 409 3815 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 1995 560 3802 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2086 750 3809 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2220 420 4027 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2253 974 4075 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2307 952 4002 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2542 930 3804 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 3860 2086 1616 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 3864 2138 1623 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 3868 2074 1595 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 3885 2048 1574 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid: 5770 3409 1534 
+[01/04/2018][01:02:36]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 70 2224 2063 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 324 2368 2213 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 337 2324 2224 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 601 2543 1954 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 796 2513 1836 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid: 1229 2268 1719 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 1293 1945 1573 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 1405 1877 1758 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 1467 2192 1487 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid: 1871 321 3744 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 1934 435 3788 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 1968 410 3815 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2019 596 3770 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2086 749 3809 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2287 1003 4004 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2523 799 3889 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2601 1030 3762 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2617 1077 3753 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2635 1068 3786 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 2641 1128 3762 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3869 2085 1596 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3873 2133 1595 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3878 2139 1583 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 4036 3622 2822 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][01:02:48]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 259 2360 2160 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 1296 1953 1621 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 1298 1982 1620 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 3792 2232 3628 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 3852 2113 1636 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 3904 3661 3067 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 4106 3541 2896 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][01:03:00]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid: 1193 2209 1732 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 1229 2267 1719 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 1231 2255 1735 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 1293 1945 1572 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 1345 1984 1723 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 2086 750 3809 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 2229 488 4042 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid: 2743 1703 1826 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 3235 1378 1855 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 3852 2112 1635 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 3891 2134 1551 
+[01/04/2018][01:03:12]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid(1): 1292 1956 1561 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid: 1296 1952 1621 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid(1): 1298 1977 1623 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid: 1364 1986 1752 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid(1): 2814 1746 1628 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid(1): 3514 1317 4043 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid(1): 3891 2135 1551 
+[01/04/2018][01:03:24]  -system err,No empty mobgrid(1): 4036 3624 2821 
+[01/04/2018][01:03:36]  -system err,No empty mobgrid(1): 3511 1332 4041 
+[01/04/2018][01:03:36]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[01/04/2018][01:03:36]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[01/04/2018][01:03:36]  -system err,No empty mobgrid(1): 4106 3540 2896 
+[01/04/2018][01:03:48]  -system err,No empty mobgrid(1): 1298 1978 1620 
+[01/04/2018][01:04:00]  -system err,No empty mobgrid(1): 3831 2406 2117 
+[01/04/2018][01:04:00]  -system err,No empty mobgrid(1): 4036 3621 2824 
+[01/04/2018][01:04:00]  -system etc,nightmare_mystic clear -1:4 
+[01/04/2018][01:04:12]  -system err,No empty mobgrid(1): 1298 1978 1622 
+[01/04/2018][01:04:12]  -system err,No empty mobgrid(1): 2748 1710 1826 
+[01/04/2018][01:04:12]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[01/04/2018][01:04:12]  -system err,No empty mobgrid(1): 4106 3542 2894 
+[01/04/2018][01:04:24]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][01:04:36]  -system err,No empty mobgrid(1): 1298 1977 1620 
+[01/04/2018][01:04:36]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][01:04:36]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][01:04:50] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][01:05:00]  -system err,No empty mobgrid(1): 1298 1976 1620 
+[01/04/2018][01:05:02] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:1188660812 level:1010 conn:1 money:1942551126, store:0 
+[01/04/2018][01:05:06]  DECO etc,changecity city:0 X:2095 Y:2099 
+[01/04/2018][01:05:12]  -system err,No empty mobgrid: 2743 1703 1826 
+[01/04/2018][01:05:24]  -system err,No empty mobgrid(1): 1298 1978 1621 
+[01/04/2018][01:05:24]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][01:05:30] IP: 25.5.216.68 DECO adm +set restar 
+[01/04/2018][01:05:48]  -system err,No empty mobgrid(1): 1298 1980 1623 
+[01/04/2018][01:05:50]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:51]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:52]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:53]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:53]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:54]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:55]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:55]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:56]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:56]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:57]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:58]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:58]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:05:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:00]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][01:06:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:18]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:1 
+[01/04/2018][01:06:38] IP: 25.5.216.68 DECO adm +set str 3200 
+[01/04/2018][01:06:41] IP: 25.5.216.68 DECO adm +set str 32000 
+[01/04/2018][01:06:51] IP: 25.5.216.68 DECO adm +set dex 32000 
+[01/04/2018][01:06:59] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:1045 Y:1725 price:700 
+[01/04/2018][01:07:34] IP: 25.5.216.68 DECO adm +set hp 64000 
+[01/04/2018][01:07:41] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:5761 name:Tauron dam:136758 x:1162 y:1727 
+[01/04/2018][01:07:42] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:5760 name:Tauron dam:130618 x:1160 y:1725 
+[01/04/2018][01:07:44] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:5759 name:Tauron dam:135418 x:1159 y:1724 
+[01/04/2018][01:07:48]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][01:07:58] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:3640 name:Tauron dam:148832 x:1163 y:1714 
+[01/04/2018][01:08:03] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:3642 name:Tauron dam:144808 x:1164 y:1712 
+[01/04/2018][01:08:04] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:3641 name:Tauron dam:135642 x:1164 y:1715 
+[01/04/2018][01:08:11] IP: 25.5.216.68 DECO adm +set str 64000 
+[01/04/2018][01:08:12]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][01:08:13] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8259 name:Tauron dam:64154 x:1165 y:1716 
+[01/04/2018][01:08:14] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8258 name:Tauron dam:64276 x:1165 y:1717 
+[01/04/2018][01:08:15] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8257 name:Tauron dam:59008 x:1164 y:1716 
+[01/04/2018][01:08:21] IP: 25.5.216.68 DECO adm +set str 33000 
+[01/04/2018][01:08:30] IP: 25.5.216.68 DECO adm +set str 0 
+[01/04/2018][01:08:35] IP: 25.5.216.68 DECO adm +set str 32000 
+[01/04/2018][01:08:37] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8315 name:Tauron dam:139442 x:1165 y:1716 
+[01/04/2018][01:08:38] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8314 name:Tauron dam:136898 x:1165 y:1717 
+[01/04/2018][01:08:39] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8313 name:Tauron dam:136898 x:1164 y:1716 
+[01/04/2018][01:08:41] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8228 name:Tauron dam:125596 x:1160 y:1724 
+[01/04/2018][01:08:42] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8227 name:Tauron dam:146150 x:1161 y:1724 
+[01/04/2018][01:08:43] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8226 name:Tauron dam:138154 x:1159 y:1724 
+[01/04/2018][01:08:48] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:5762 name:Tauron dam:139442 x:1159 y:1732 
+[01/04/2018][01:08:48]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][01:08:49] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:5763 name:Tauron dam:147490 x:1161 y:1734 
+[01/04/2018][01:08:52] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:5764 name:Tauron dam:139410 x:1162 y:1735 
+[01/04/2018][01:08:57] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8342 name:Tauron dam:130618 x:1159 y:1724 
+[01/04/2018][01:09:00]  -system etc,nightmare_arcan clear -1:9 
+[01/04/2018][01:09:00] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8344 name:Tauron dam:144808 x:1160 y:1724 
+[01/04/2018][01:09:01] IP: 25.5.216.68 DECO etc,msg_attack attacker:1 name:TESTEEE target:8343 name:Tauron dam:126852 x:1160 y:1725 
+[01/04/2018][01:09:07] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][01:09:07] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 

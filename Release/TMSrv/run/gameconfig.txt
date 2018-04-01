@@ -1,0 +1,30 @@
+Drop Item Event Settings:
+   evindex 1   evdelete 0   evon 0   evitem 475   evrate 1000   evstart 1 11 2000 0
+Etc Event Settings:
+   double 100   deadpoint 1   dungeonevent 1   statsapphire 30    battleroyal 0
+Billing Settings:
+   billmode 0   freeexp 100   charselbill 0    potioncount 1   partybonus 100   guildboard -1
+Item Drop Bonus Settings:
+    50  50  50  50  50  50  50  50    50  50  50  50  50  50  50  50
+    50  50  50  50  50  50  50  50    50  50  50  50  50  50  50  50
+    50  50  50  50  50  50  50  50    50  50  50  50  50  50  50  50
+    50  50  50  50  50  50  50  50    50  50  50  50  50  50  50  50
+Treasure Settings:
+4900   413   0  0  0  0     413   0  0  0  0     413   0  0  0  0     413   0  0  0  0     413   0  0  0  0   
+       30                   60                   260                  500                  1000 
+4901   412   0  0  0  0     412   0  0  0  0     412   0  0  0  0     412   0  0  0  0     412   0  0  0  0   
+       30                   60                   260                  560                  1000 
+4902   419   0  0  0  0     419   0  0  0  0     419   0  0  0  0     419   0  0  0  0     419   0  0  0  0   
+       30                   250                  280                  660                  1000 
+4903   420   0  0  0  0     420   0  0  0  0     420   0  0  0  0     420   0  0  0  0     420   0  0  0  0   
+       30                   60                   260                  560                  1000 
+4904   413   0  0  0  0     413   0  0  0  0     413   0  0  0  0     413   0  0  0  0     413   0  0  0  0   
+       30                   60                   260                  560                  1000 
+487    412   0  0  0  0     412   0  0  0  0     412   0  0  0  0     412   0  0  0  0     412   0  0  0  0   
+       30                   60                   260                  560                  1000 
+488    413   0  0  0  0     413   0  0  0  0     413   0  0  0  0     413   0  0  0  0     413   0  0  0  0   
+       30                   60                   260                  560                  1000 
+489    412   0  0  0  0     412   0  0  0  0     412   0  0  0  0     412   0  0  0  0     412   0  0  0  0   
+       30                   60                   260                  560                  1000 
+Etc Settings:
+   partydif 150   kefrastatus 10   GTorreHour 20    RVRHour 15    DropItem 0   BRHour 19   maxNightmare 3   PotionDelay 500

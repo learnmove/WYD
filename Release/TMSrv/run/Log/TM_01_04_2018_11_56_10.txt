@@ -1,0 +1,188 @@
+[01/04/2018][11:56:28]  -system sys,start server 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 65 2222 2108 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 100 2226 2063 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 223 2350 2128 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 328 2318 2223 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 534 2484 1966 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 536 2515 2012 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 700 2665 2004 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 797 2526 1833 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 798 2535 1832 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 883 2575 2059 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1006 2369 1744 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 1179 2272 1748 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1186 2211 1748 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 1198 2209 1690 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1230 2250 1735 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1296 1954 1621 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 1300 1960 1635 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1448 1822 1760 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1456 1817 1678 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1556 2272 1252 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1871 319 3744 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1913 380 3740 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1914 388 3764 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 1968 411 3815 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2019 596 3772 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2500 832 3954 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2553 912 3753 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2663 2348 2196 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 2869 1196 4022 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2938 1359 4072 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2948 1384 3992 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2974 1473 3986 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 2997 1495 4007 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3045 1371 3799 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3060 1379 3745 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3102 1442 3772 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3306 1536 1701 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3375 1300 1678 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3486 491 3888 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3792 2231 3627 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3832 2393 2117 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3852 2116 1635 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3860 2087 1610 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3871 2102 1596 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3872 2118 1596 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3873 2136 1594 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3875 2122 1568 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3879 2138 1568 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3880 2087 1566 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3885 2052 1574 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3886 2055 1586 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3887 2062 1551 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 3889 2098 1552 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 5768 3407 1539 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 5770 3408 1533 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 5771 3409 1530 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid: 5772 3409 1525 
+[01/04/2018][11:56:40]  -system err,No empty mobgrid(1): 5971 3392 1088 
+[01/04/2018][11:56:52] IP: 25.5.216.68 DECO clo,fd 2-0 
+[01/04/2018][11:56:52] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 100 2229 2063 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 604 2522 1951 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 615 2572 2024 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 688 2618 2024 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 793 2484 1836 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid: 795 2506 1836 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 883 2575 2062 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 1053 2335 1746 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 1065 2369 1685 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid: 1229 2269 1719 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 1297 1969 1625 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 1415 1867 1693 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 1713 157 3819 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 1968 409 3814 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 2075 724 3736 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 2949 1405 4056 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 3511 1332 4039 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 3715 3778 3538 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 3860 2086 1615 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 3872 2114 1596 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid: 3879 2138 1567 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 3880 2086 1563 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid: 3886 2054 1586 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 3887 2063 1551 
+[01/04/2018][11:56:52]  -system err,No empty mobgrid(1): 4036 3622 2821 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 883 2575 2058 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid: 1198 2209 1692 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 1296 1954 1622 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 1300 1959 1633 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 1968 409 3814 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 2544 917 3803 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 3110 1466 3794 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 3514 1317 4041 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 3586 780 4065 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 3605 2450 4010 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 3860 2087 1610 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 3872 2116 1595 
+[01/04/2018][11:57:04]  -system err,No empty mobgrid(1): 4106 3540 2898 
+[01/04/2018][11:57:07] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1885548264, store:0 
+[01/04/2018][11:57:10]  DECO etc,changecity city:0 X:2088 Y:2097 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 100 2228 2063 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 883 2575 2063 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid: 1289 1975 1557 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 1297 1970 1622 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 1968 411 3815 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 3375 1302 1678 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 3511 1333 4040 
+[01/04/2018][11:57:16]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:57:28]  -system err,No empty mobgrid(1): 100 2226 2063 
+[01/04/2018][11:57:28]  -system err,No empty mobgrid: 1198 2209 1691 
+[01/04/2018][11:57:28]  -system err,No empty mobgrid(1): 1968 410 3814 
+[01/04/2018][11:57:28]  -system err,No empty mobgrid(1): 3715 3778 3537 
+[01/04/2018][11:57:28]  -system err,No empty mobgrid(1): 4036 3623 2821 
+[01/04/2018][11:57:40]  -system err,No empty mobgrid(1): 1065 2370 1688 
+[01/04/2018][11:57:40]  -system err,No empty mobgrid(1): 1297 1969 1623 
+[01/04/2018][11:57:40]  -system err,No empty mobgrid(1): 1968 408 3815 
+[01/04/2018][11:57:40]  -system err,No empty mobgrid(1): 3511 1332 4042 
+[01/04/2018][11:57:40]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][11:57:52]  -system err,No empty mobgrid(1): 3375 1298 1678 
+[01/04/2018][11:57:52]  -system err,No empty mobgrid(1): 3498 687 3731 
+[01/04/2018][11:58:04]  -system err,No empty mobgrid(1): 1297 1968 1625 
+[01/04/2018][11:58:04]  -system err,No empty mobgrid(1): 3511 1332 4042 
+[01/04/2018][11:58:28]  -system err,No empty mobgrid(1): 1297 1967 1624 
+[01/04/2018][11:58:28]  -system err,No empty mobgrid(1): 3375 1298 1678 
+[01/04/2018][11:58:28]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[01/04/2018][11:58:40]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][11:58:52]  -system err,No empty mobgrid(1): 1297 1969 1621 
+[01/04/2018][11:59:00]  -system etc,nightmare_normal clear -11:59 
+[01/04/2018][11:59:04]  -system err,No empty mobgrid(1): 3375 1302 1678 
+[01/04/2018][11:59:16]  -system err,No empty mobgrid(1): 1297 1968 1620 
+[01/04/2018][11:59:16]  -system err,No empty mobgrid(1): 3511 1333 4040 
+[01/04/2018][11:59:40]  -system err,No empty mobgrid(1): 1297 1970 1624 
+[01/04/2018][11:59:40]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[01/04/2018][12:00:04]  -system err,No empty mobgrid(1): 3511 1332 4041 
+[01/04/2018][12:00:16]  -system err,No empty mobgrid(1): 3498 687 3731 
+[01/04/2018][12:00:28]  -system err,No empty mobgrid(1): 1297 1972 1622 
+[01/04/2018][12:00:28]  -system err,No empty mobgrid(1): 3511 1332 4040 
+[01/04/2018][12:00:52]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][12:01:06] IP: 25.80.207.79 FOKUS1 CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][12:01:12] IP: 25.80.207.79 FOKUS1 sta,Login char:[GM}Fokus- exp:0 level:399 conn:2 money:1999094900, store:0 
+[01/04/2018][12:01:15]  FOKUS1 etc,changecity city:0 X:2096 Y:2093 
+[01/04/2018][12:01:28] IP: 25.80.207.79 FOKUS1 etc,kingdom command 0  
+[01/04/2018][12:01:28]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][12:01:52]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][12:02:12] IP: 25.80.207.79 FOKUS1 etc,king_arch name:[GM}Fokus- class:0 mortalface:1 mortalslot:0 
+[01/04/2018][12:02:12] IP: 25.80.207.79 FOKUS1 etc,arch create name:[GM}Fokus- slot:1 
+[01/04/2018][12:02:16] IP: 25.80.207.79 FOKUS1 sta,Login char:[GM}Fokus- exp:0 level:0 conn:2 money:2000000000, store:0 
+[01/04/2018][12:02:20]  FOKUS1 etc,changecity city:0 X:2097 Y:2106 
+[01/04/2018][12:02:40]  -system err,No empty mobgrid(1): 3498 687 3732 
+[01/04/2018][12:03:04]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][12:03:48] IP: 25.80.207.79 FOKUS1 clo,fd 22-2 
+[01/04/2018][12:03:48] IP: 25.80.207.79 FOKUS1 etc,charlogout conn:2 name:[GM}Fokus- 
+[01/04/2018][12:03:52]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][12:04:00]  -system etc,nightmare_mystic clear -12:4 
+[01/04/2018][12:04:40]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[01/04/2018][12:05:28]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][12:05:38] IP: 25.5.216.68 DECO adm +set reloadnpc 
+[01/04/2018][12:05:40]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][12:05:47] IP: 25.5.216.68 DECO adm +set reloadnpc 
+[01/04/2018][12:06:08] IP: 25.5.216.68 DECO adm +set reloadnpc 
+[01/04/2018][12:06:08] IP: 25.5.216.68 DECO adm +set reloadnpc 
+[01/04/2018][12:06:14] IP: 25.5.216.68 DECO adm +set reload 
+[01/04/2018][12:06:16]  -system err,No empty mobgrid(1): 2748 1710 1826 
+[01/04/2018][12:06:28]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][12:06:30] IP: 25.5.216.68 DECO adm +set reloadnpc 
+[01/04/2018][12:06:41] IP: 25.80.207.79 FOKUS1 CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][12:06:48] IP: 25.5.216.68 DECO adm +reloadnpc 
+[01/04/2018][12:06:58] IP: 25.5.216.68 DECO adm +reboot 
+[01/04/2018][12:06:58]  -system not AVISO: Servidor será reiniciado após 1 minuto. 
+[01/04/2018][12:07:01] IP: 25.80.207.79 FOKUS1 sta,Login char:[GM]Fokus- exp:0 level:399 conn:2 money:2000000000, store:0 
+[01/04/2018][12:07:05]  FOKUS1 etc,changecity city:0 X:2086 Y:2105 
+[01/04/2018][12:07:08] IP: 25.5.216.68 DECO adm  
+[01/04/2018][12:07:08]  -system not AVISO: Para salvar seu progresso é recomendável sair do jogo. 
+[01/04/2018][12:07:16]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][12:07:18]  -system not AVISO: Reinicialização em 30 segundos. 
+[01/04/2018][12:07:21] IP: 25.5.216.68 DECO clo,fd 11-0 
+[01/04/2018][12:07:28]  -system not AVISO: Reinicialização em 20 segundos. 
+[01/04/2018][12:07:28] IP: 25.80.207.79 FOKUS1 clo,fd 22-2 
+[01/04/2018][12:07:28] IP: 25.80.207.79 FOKUS1 etc,charlogout conn:2 name:[GM]Fokus- 
+[01/04/2018][12:07:38]  -system not AVISO: Reinicialização em 10 segundos. 
+[01/04/2018][12:07:48]  -system not AVISO: Reiniciando... 
+[01/04/2018][12:07:52]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][12:07:57]  -system sys,server down complete 

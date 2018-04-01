@@ -1,0 +1,123 @@
+01.04.2018.12.53.06 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.71.90.43.250 DstType:0 DstSlot:11 Item: Pedra_Espiritual : 633.2.120.71.100.43.255 
+01.04.2018.12.53.22 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.12.53.23 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.12.53.24 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.12.53.32 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 
+01.04.2018.12.53.33 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 
+01.04.2018.12.53.33 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 
+01.04.2018.12.53.35 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:2 Item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 DstType:0 DstSlot:8 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+01.04.2018.12.53.37 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:8 Item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 DstType:0 DstSlot:11 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.71.90.43.250 
+01.04.2018.12.53.39 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:3 Item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 DstType:0 DstSlot:9 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+01.04.2018.12.53.44 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 
+01.04.2018.12.53.50 IP: 25.5.216.68 TESTEEE deleteitem,  Ração_de_Pantera_Negra(P) : 3464.2.120.71.90.43.250 
+01.04.2018.12.53.51 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:10 Item: Pedra_Espiritual : 633.2.120.71.100.43.229 DstType:1 DstSlot:8 Item: 
+01.04.2018.12.57.10 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:13 Item: Ração_de_Pantera_Negra(P) : 3464.69.20.70.20.43.250 DstType:0 DstSlot:10 Item: 
+01.04.2018.12.59.34 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios6 price:210 item: Pesadelo_(N/Grupo) : 3324.0.0.0.0.0.0 
+01.04.2018.13.00.03 IP: 25.5.216.68 [ADM]Deco~ deleteitem,  Bastão_Serpente : 977.43.1.74.15.59.0 
+01.04.2018.13.00.37 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:31500 item: Força_Espectral : 671.0.0.0.0.0.0 
+01.04.2018.13.00.38 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:11550 item: Concentração : 670.0.0.0.0.0.0 
+01.04.2018.13.00.38 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:1575 item: Ressurreição : 669.0.0.0.0.0.0 
+01.04.2018.13.00.39 IP: 25.5.216.68 DECO useitem,skillbook index:669 
+01.04.2018.13.00.39 IP: 25.5.216.68 DECO useitem,skillbook index:670 
+01.04.2018.13.00.40 IP: 25.5.216.68 DECO useitem,skillbook index:671 
+01.04.2018.13.01.07 IP: 25.5.216.68 DECO buy_npc,npc:Martin  price:3465000 item: Pedido_de_Caça(Kefra) : 3436.61.100.0.0.0.0 
+01.04.2018.13.01.14 IP: 25.5.216.68 DECO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+01.04.2018.13.01.30 IP: 25.5.216.68 [ADM]Deco~ deleteitem,  Resto_de_Lactolerium : 420.59.199.59.62.59.160 
+01.04.2018.13.01.33 IP: 25.5.216.68 [ADM]Deco~ deleteitem,  Resto_de_Lactolerium : 420.59.13.59.231.59.36 
+01.04.2018.13.02.10 IP: 25.5.216.68 [ADM]Deco~ deleteitem,  Resto_de_Lactolerium : 420.59.187.59.234.59.163 
+01.04.2018.13.02.12 IP: 25.5.216.68 [ADM]Deco~ deleteitem,  Resto_de_Lactolerium : 420.59.163.59.56.59.28 
+01.04.2018.13.22.17 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.13.22.18 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.13.22.20 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.13.22.20 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.13.22.23 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 DstType:0 DstSlot:8 Item: 
+01.04.2018.13.22.35 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1050 item: Ração_de_Pantera_Negra(P) : 3464.2.120.54.18.43.250 
+01.04.2018.13.22.37 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.54.18.43.250 DstType:0 DstSlot:10 Item: 
+01.04.2018.13.22.42 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:1 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 DstType:0 DstSlot:9 Item: 
+01.04.2018.13.22.44 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 DstType:0 DstSlot:11 Item: 
+01.04.2018.13.22.46 IP: 25.80.207.79 [GM]Fokus deleteitem,  Ração_de_Pantera_Negra(P) : 3464.2.120.3.120.43.250 
+01.04.2018.13.24.02 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Refinacoes price:31500 item: Força_Espectral : 671.0.0.0.0.0.0 
+01.04.2018.13.24.03 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Refinacoes price:11550 item: Concentração : 670.0.0.0.0.0.0 
+01.04.2018.13.24.04 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Refinacoes price:1575 item: Ressurreição : 669.0.0.0.0.0.0 
+01.04.2018.13.24.05 IP: 25.80.207.79 FOKUS1 useitem,skillbook index:669 
+01.04.2018.13.24.05 IP: 25.80.207.79 FOKUS1 useitem,skillbook index:670 
+01.04.2018.13.24.06 IP: 25.80.207.79 FOKUS1 useitem,skillbook index:671 
+01.04.2018.13.24.22 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:1 DstSlot:0 Item: 
+01.04.2018.13.24.24 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:1 DstSlot:5 Item: 
+01.04.2018.13.24.32 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Arma Cele Arch price:283500 item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 
+01.04.2018.13.24.33 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Arma Cele Arch price:283500 item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 
+01.04.2018.13.24.38 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:1 Item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 DstType:0 DstSlot:7 Item: 
+01.04.2018.13.24.39 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:10 Item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 DstType:0 DstSlot:7 Item: 
+01.04.2018.13.31.12 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios3 price:1260 item: Traje_de_H.Kalintz(30dias) : 4155.0.0.0.0.0.0 
+01.04.2018.13.31.15 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:10 Item: Traje_de_H.Kalintz(30dias) : 4155.106.2.110.5.109.18 DstType:0 DstSlot:12 Item: 
+01.04.2018.13.34.37 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Martin price:231000 item: [S]Caixa_Poção_de_Cura : 3322.61.120.0.0.0.0 
+01.04.2018.13.35.21 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Martin price:231000 item: [S]Caixa_Poção_de_Cura : 3322.61.120.0.0.0.0 
+01.04.2018.13.35.44 IP: 25.80.207.79 [GM]Fokus deleteitem,  [S]Caixa_Poção_de_Cura : 3322.61.95.0.0.0.0 
+01.04.2018.13.35.46 IP: 25.80.207.79 [GM]Fokus deleteitem,  [S]Caixa_Poção_de_Cura : 3322.61.114.0.0.0.0 
+01.04.2018.13.36.19 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+01.04.2018.13.36.28 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:12 Item: Traje_de_H.Kalintz(30dias) : 4155.106.2.110.5.109.18 DstType:1 DstSlot:1 Item: 
+01.04.2018.13.37.21 IP: 25.80.207.79 FOKUS1 useitem,change jewel success 3608+27 - (0,0,0) 
+01.04.2018.13.38.24 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+01.04.2018.13.39.17 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios2 price:1050000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+01.04.2018.13.39.22 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:6 Item: TransKnight : 7.0.0.0.0.0.0 DstType:1 DstSlot:10 Item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+01.04.2018.13.40.09 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:7 Item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 
+01.04.2018.13.40.10 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:7 Item: Unique_Shard : 1009.43.255.0.0.0.0 
+01.04.2018.13.40.13 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:6 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 
+01.04.2018.13.40.48 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 DstType:0 DstSlot:7 Item: Unique_Shard : 1009.43.255.0.0.0.0 
+01.04.2018.13.40.49 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:0 DstSlot:7 Item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 
+01.04.2018.13.40.51 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Machado_Gaoth(Anct) : 3605.2.81.42.30.43.250 DstType:0 DstSlot:7 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 
+01.04.2018.13.40.54 IP: 25.80.207.79 FOKUS1 useitem,change jewel success 3608+27 - (0,0,0) 
+01.04.2018.13.40.57 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:1 DstSlot:5 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 
+01.04.2018.13.43.47 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:1 DstSlot:3 Item: 
+01.04.2018.13.43.49 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:1 DstSlot:2 Item: 
+01.04.2018.13.43.51 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:7 Item: 
+01.04.2018.13.43.52 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:1 DstSlot:5 Item: 
+01.04.2018.13.46.50 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:10 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.54.18.43.250 DstType:1 DstSlot:18 Item: 
+01.04.2018.13.46.54 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:18 Item: Ração_de_Pantera_Negra(P) : 3464.2.120.54.18.43.250 DstType:0 DstSlot:10 Item: 
+01.04.2018.13.47.38 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:2 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:1 DstSlot:6 Item: 
+01.04.2018.13.47.40 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:6 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:1 DstSlot:11 Item: 
+01.04.2018.13.47.41 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:11 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:1 DstSlot:10 Item: TransKnight : 7.0.0.0.0.0.0 
+01.04.2018.13.47.45 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow Montaria price:1575000 item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+01.04.2018.13.47.48 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:6 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+01.04.2018.13.52.33 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:1 DstSlot:6 Item: 
+01.04.2018.13.53.41 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:6 Item: Unique_Claw : 1007.0.0.0.0.0.0 
+01.04.2018.13.53.42 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:0 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:7 Item: 
+01.04.2018.13.53.43 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:6 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+01.04.2018.13.53.49 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:10 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:0 DstSlot:7 Item: Unique_Shard : 1009.43.255.0.0.0.0 
+01.04.2018.13.53.50 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:3 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:0 DstSlot:7 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 
+01.04.2018.13.53.52 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:3 Item: Machado_Gaoth(Anct) : 3608.2.81.42.30.43.253 DstType:0 DstSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 
+01.04.2018.13.56.06 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:1 Item: Traje_de_H.Kalintz(30dias) : 4155.106.2.110.5.109.18 DstType:0 DstSlot:12 Item: 
+01.04.2018.13.57.30 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow I price:420000 item: Poção_Poderosa : 3431.61.255.0.0.0.0 
+01.04.2018.13.57.32 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow I price:157500 item: Poção_Sephira_(30dias) : 3363.0.0.0.0.0.0 
+01.04.2018.13.57.32 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow I price:105000 item: Poção_Divina(30dias) : 3381.0.0.0.0.0.0 
+01.04.2018.13.57.34 IP: 25.80.207.79 FOKUS1 useitem,item divine type: 2 
+01.04.2018.13.57.35 IP: 25.80.207.79 FOKUS1 useitem,poção_kappa affectslot:1 value:0 time:80 
+01.04.2018.13.57.36 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Shadow I price:157500 item: Poção_de_Saúde(30dias) : 3366.0.0.0.0.0.0 
+01.04.2018.13.57.37 IP: 25.80.207.79 FOKUS1 useitem,item vigor 
+01.04.2018.14.01.28 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:1 DstSlot:7 Item: 
+01.04.2018.14.02.53 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:7 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+01.04.2018.14.03.55 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:1 DstSlot:7 Item: 
+01.04.2018.14.04.04 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Ice_Binding_Book : 5509.0.0.0.0.0.0 DstType:1 DstSlot:8 Item: 
+01.04.2018.14.04.05 IP: 25.80.207.79 FOKUS1 useitem,skillbook index:5509 
+01.04.2018.14.05.15 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Seal_Master_Book : 5511.0.0.0.0.0.0 DstType:1 DstSlot:8 Item: 
+01.04.2018.14.05.17 IP: 25.80.207.79 [GM]Fokus deleteitem,  Botas_Elementais(M) : 1504.43.0.73.12.74.9 
+01.04.2018.14.05.21 IP: 25.80.207.79 [GM]Fokus deleteitem,  Seal_Master_Book : 5511.0.0.0.0.0.0 
+01.04.2018.14.05.37 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Weapon_Master_Book : 5505.0.0.0.0.0.0 DstType:1 DstSlot:2 Item: 
+01.04.2018.14.05.47 IP: 25.80.207.79 [GM]Fokus deleteitem,  Weapon_Master_Book : 5505.0.0.0.0.0.0 
+01.04.2018.14.07.41 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:7 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Final_Summon : 5429.0.0.0.0.0.0 
+01.04.2018.14.07.49 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:1 DstSlot:1 Item: 
+01.04.2018.14.08.34 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:12 Item: Traje_de_H.Kalintz(30dias) : 4155.106.2.110.5.109.18 DstType:1 DstSlot:6 Item: 
+01.04.2018.14.08.35 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Machado_Gaoth(Anct) : 3608.43.255.42.30.43.253 DstType:1 DstSlot:2 Item: 
+01.04.2018.14.08.36 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Machado_Gaoth(Anct) : 3608.43.255.42.30.43.253 DstType:1 DstSlot:12 Item: 
+01.04.2018.14.10.02 IP: 25.80.207.79 [GM]Fokus deleteitem,  Final_Summon : 5429.0.0.0.0.0.0 
+01.04.2018.14.10.06 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:1 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+01.04.2018.14.10.29 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:3 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:7 Item: 
+01.04.2018.14.10.30 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:10 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:0 DstSlot:7 Item: 
+01.04.2018.14.14.10 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:1 DstSlot:10 Item: 
+01.04.2018.14.14.17 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:13 Item: Nyerdes : 769.41.255.0.0.0.0 DstType:1 DstSlot:1 Item: 
+01.04.2018.14.14.24 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:1 DstSlot:7 Item: 
+01.04.2018.14.14.25 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:0 SrcSlot:6 Item: Unique_Shard : 1009.43.255.0.0.0.0 DstType:1 DstSlot:3 Item: 
+01.04.2018.14.17.06 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Martin  price:3465000 item: Pedido_de_Caça(Kefra) : 3436.61.100.0.0.0.0 
+01.04.2018.14.17.08 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Martin  price:2310000 item: Pedido_de_Caça(Nipple) : 3437.61.100.0.0.0.0 
+01.04.2018.14.17.16 IP: 25.80.207.79 FOKUS1 useitem,huntingscrolls itemindex:3437 warpid:9 tx:3660 ty:2773 
+01.04.2018.14.17.51 IP: 25.80.207.79 FOKUS1 useitem,huntingscrolls itemindex:3437 warpid:10 tx:3746 ty:2879 

@@ -1,0 +1,124 @@
+01.04.2018.10.34.26 IP: 25.5.216.68 DECO buy_npc,npc:Evolucao price:36750 item: Pedra_Ideal : 5338.0.0.0.0.0.0 
+01.04.2018.10.34.32 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:1 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:1 DstSlot:2 Item: 
+01.04.2018.10.34.35 IP: 25.5.216.68 DECO useitem,ideal stone used to make god 5 0 
+01.04.2018.10.37.38 IP: 25.5.216.68 DECO buy_npc,npc:Evolucao price:7350 item: Sephirot(Huntress) : 1763.0.0.0.0.0.0 
+01.04.2018.10.37.39 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:11 Item: Sephirot(Huntress) : 1763.0.0.0.0.0.0 DstType:0 DstSlot:11 Item: Pedra_Espiritual : 633.2.120.71.100.43.229 
+01.04.2018.10.37.40 IP: 25.5.216.68 DECO buy_npc,npc:Evolucao price:36750 item: Pedra_Ideal : 5338.0.0.0.0.0.0 
+01.04.2018.10.37.43 IP: 25.5.216.68 DECO useitem,ideal stone used to make god2 
+01.04.2018.10.37.46 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:11 Item: Pedra_Espiritual : 633.2.120.71.100.43.229 DstType:0 DstSlot:11 Item: 
+01.04.2018.10.38.08 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios3 price:1260 item: Traje_de_Valquíria(30dias) : 4152.0.0.0.0.0.0 
+01.04.2018.10.38.09 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:11 Item: Traje_de_Valquíria(30dias) : 4152.106.2.110.5.109.18 DstType:0 DstSlot:12 Item: 
+01.04.2018.10.38.39 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:945 item: Poeira_de_Lactolerium : 413.61.255.0.0.0.0 
+01.04.2018.10.38.45 IP: 25.5.216.68 TESTEEE splititem, itemindex:413 amount:255 num:10 
+01.04.2018.10.38.48 IP: 25.5.216.68 TESTEEE deleteitem,  Poeira_de_Lactolerium : 413.61.245.0.0.0.0 
+01.04.2018.10.38.49 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:31500 item: Força_Espectral : 671.0.0.0.0.0.0 
+01.04.2018.10.38.49 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:11550 item: Concentração : 670.0.0.0.0.0.0 
+01.04.2018.10.38.50 IP: 25.5.216.68 DECO buy_npc,npc:Refinacoes price:1575 item: Ressurreição : 669.0.0.0.0.0.0 
+01.04.2018.10.38.51 IP: 25.5.216.68 DECO useitem,skillbook index:671 
+01.04.2018.10.38.51 IP: 25.5.216.68 DECO useitem,skillbook index:669 
+01.04.2018.10.38.52 IP: 25.5.216.68 DECO useitem,skillbook index:670 
+01.04.2018.10.39.06 IP: 25.5.216.68 DECO buy_npc,npc:Runas Joias price:0 item: Sowilo : 5125.0.0.0.0.0.0 
+01.04.2018.10.39.08 IP: 25.5.216.68 DECO buy_npc,npc:Runas Joias price:0 item: Sowilo : 5125.0.0.0.0.0.0 
+01.04.2018.10.39.50 IP: 25.5.216.68 DECO *** Item combine ehre. *** 
+01.04.2018.10.39.50 IP: 25.5.216.68 DECO err,No empty mobgrid(1): 5841 3425 1460 Sowilo : 5125.0.0.0.0.0.0 Sowilo : 5125.0.0.0.0.0.0 Poeira_de_Lactolerium : 413.61.10.0.0.0.0 
+01.04.2018.10.39.50 IP: 25.5.216.68 DECO *** ------------------- *** 
+01.04.2018.10.39.50 IP: 25.5.216.68 *** Combine ehre sucess *** DECO  Pedra_Misteriosa : 4148.61.10.0.0.0.0 
+01.04.2018.10.39.52 IP: 25.5.216.68 DECO useitem,mistery stone change god2god 
+01.04.2018.10.43.38 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios2 price:525000 item: Baú_de_Experiência : 4140.61.5.0.0.0.0 
+01.04.2018.10.43.39 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios2 price:210000 item: Frango_Assado : 3314.61.5.0.0.0.0 
+01.04.2018.10.43.40 IP: 25.5.216.68 DECO useitem,item bauexp time 1594 
+01.04.2018.10.43.40 IP: 25.5.216.68 DECO useitem,item bauexp time 2494 
+01.04.2018.10.43.40 IP: 25.5.216.68 DECO useitem,item bauexp time 3394 
+01.04.2018.10.43.41 IP: 25.5.216.68 DECO useitem,item bauexp time 4294 
+01.04.2018.10.43.41 IP: 25.5.216.68 DECO useitem,item bauexp time 5194 
+01.04.2018.10.43.42 IP: 25.5.216.68 DECO useitem,item frango time 1800 
+01.04.2018.10.43.44 IP: 25.5.216.68 DECO useitem,item frango time 1800 
+01.04.2018.10.44.21 IP: 25.5.216.68 DECO buy_npc,npc:Shadow I price:420000 item: Poção_Poderosa : 3431.61.255.0.0.0.0 
+01.04.2018.10.44.23 IP: 25.5.216.68 DECO buy_npc,npc:Shadow I price:105000 item: Poção_Divina(30dias) : 3381.0.0.0.0.0.0 
+01.04.2018.10.44.25 IP: 25.5.216.68 DECO useitem,item divine type: 2 
+01.04.2018.10.44.27 IP: 25.5.216.68 DECO buy_npc,npc:Shadow I price:157500 item: Poção_Sephira_(30dias) : 3363.0.0.0.0.0.0 
+01.04.2018.10.44.28 IP: 25.5.216.68 DECO useitem,poção_kappa affectslot:8 value:0 time:80 
+01.04.2018.10.53.10 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:3 Item: Calça_Pele_de_Animal(A) : 1409.43.0.0.0.26.120 DstType:1 DstSlot:0 Item: 
+01.04.2018.10.53.11 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:4 Item: Luvas_Pele_de_Animal(A) : 1412.43.0.0.0.0.0 DstType:1 DstSlot:5 Item: 
+01.04.2018.10.53.15 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:5 Item: Sapatos_Pele_de_Animal(A) : 1415.43.0.0.0.0.0 DstType:1 DstSlot:10 Item: 
+01.04.2018.10.53.15 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:6 Item: Adaga : 861.43.0.0.0.0.0 DstType:1 DstSlot:1 Item: 
+01.04.2018.10.53.16 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:1 Item: Chapéu_Pele_de_Animal(A) : 1403.43.0.0.0.0.0 DstType:1 DstSlot:6 Item: 
+01.04.2018.10.53.23 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Chapéu_Pele_de_Animal(A) : 1403.43.0.0.0.0.0 
+01.04.2018.10.53.24 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Luvas_Pele_de_Animal(A) : 1412.43.0.0.0.0.0 
+01.04.2018.10.53.25 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Sapatos_Pele_de_Animal(A) : 1415.43.0.0.0.0.0 
+01.04.2018.10.53.27 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:1 Item: Adaga : 861.43.0.0.0.0.0 DstType:1 DstSlot:0 Item: Calça_Pele_de_Animal(A) : 1409.43.0.0.0.26.120 
+01.04.2018.10.53.29 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Adaga : 861.43.0.0.0.0.0 
+01.04.2018.10.53.30 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Calça_Pele_de_Animal(A) : 1409.43.0.0.0.26.120 
+01.04.2018.10.55.46 IP: 25.80.207.79 FOKUS buy_npc,npc:Shadow I price:105 item: Chocolate_do_Amor : 1739.0.0.0.0.0.0 
+01.04.2018.10.59.29 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:2 Item: Túnica_Guardiã : 1356.43.255.2.90.71.90 DstType:1 DstSlot:12 Item: 
+01.04.2018.10.59.30 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:3 Item: Calça_Guardiã : 1357.43.255.2.90.71.90 DstType:1 DstSlot:3 Item: 
+01.04.2018.10.59.31 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:5 Item: Botas_Guardiãs : 1359.43.255.71.90.2.90 DstType:1 DstSlot:8 Item: 
+01.04.2018.10.59.32 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:4 Item: Manoplas_Guardiãs : 1358.43.255.2.90.3.70 DstType:1 DstSlot:13 Item: 
+01.04.2018.10.59.32 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:6 Item: Skytalos(Anct) : 2554.2.120.42.30.43.255 DstType:1 DstSlot:4 Item: 
+01.04.2018.10.59.35 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:11 Item: Pedra_Espiritual : 633.2.120.71.100.43.255 DstType:1 DstSlot:9 Item: 
+01.04.2018.10.59.36 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:9 Item: Pedra_Espiritual : 633.2.120.71.100.43.255 DstType:0 DstSlot:11 Item: 
+01.04.2018.10.59.55 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:13 Item: Manoplas_Guardiãs : 1358.43.255.2.90.3.70 DstType:0 DstSlot:4 Item: 
+01.04.2018.10.59.56 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:12 Item: Túnica_Guardiã : 1356.43.255.2.90.71.90 DstType:0 DstSlot:2 Item: 
+01.04.2018.10.59.57 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:8 Item: Botas_Guardiãs : 1359.43.255.71.90.2.90 DstType:0 DstSlot:5 Item: 
+01.04.2018.10.59.57 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:3 Item: Calça_Guardiã : 1357.43.255.2.90.71.90 DstType:0 DstSlot:3 Item: 
+01.04.2018.10.59.58 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:4 Item: Skytalos(Anct) : 2554.2.120.42.30.43.255 DstType:0 DstSlot:6 Item: 
+01.04.2018.11.00.09 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:2 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: 
+01.04.2018.11.00.34 IP: 25.80.207.79 FOKUS buy_npc,npc:Arma SemiDeus price:682500 item: Caliburn(Anct) : 2732.2.81.42.30.43.250 
+01.04.2018.11.03.52 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:8 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: 
+01.04.2018.11.03.54 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:6 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:8 Item: 
+01.04.2018.11.03.56 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:4 Item: Braçadeira_de_Metal(Le) : 2234.0.0.0.0.0.0 DstType:1 DstSlot:7 Item: 
+01.04.2018.11.03.57 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:11 Item: Cria_de_Grifo_Sangrento : 2356.0.0.0.0.0.0 DstType:1 DstSlot:4 Item: 
+01.04.2018.11.03.58 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:9 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:14 Item: 
+01.04.2018.11.05.53 IP: 25.80.207.79 FOKUS buy_npc,npc:Arma SemiDeus price:682500 item: Caliburn(Anct) : 2732.2.81.42.30.43.250 
+01.04.2018.11.06.05 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Caliburn(Anct) : 2732.2.81.42.30.43.250 
+01.04.2018.11.07.47 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:14 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:23 Item: 
+01.04.2018.11.07.50 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 
+01.04.2018.11.12.43 IP: 25.5.216.68 DECO buy_npc,npc:Trajes price:1260 item: Death_Shadow : 4192.0.0.0.0.0.0 
+01.04.2018.11.12.45 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:3 Item: Cetro_Rithil(Anct) : 3729.0.0.0.0.0.0 DstType:1 DstSlot:16 Item: 
+01.04.2018.11.12.46 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:3 Item: DstType:1 DstSlot:27 Item: 
+01.04.2018.11.12.53 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:14 Item: Dragão_Vermelho : 2380.126.98.120.60.100.0 DstType:1 DstSlot:13 Item: 
+01.04.2018.11.13.01 IP: 25.5.216.68 DECO *** Item combine ehre. *** 
+01.04.2018.11.13.01 IP: 25.5.216.68 DECO ./npc/Judith Dragão_Vermelho : 2380.126.98.120.60.100.0 Death_Shadow : 4192.0.0.0.0.0.0 
+01.04.2018.11.13.01 IP: 25.5.216.68 DECO *** ------------------- *** 
+01.04.2018.11.13.01 IP: 25.5.216.68 *** Combine ehre sucess *** DECO  Dragão_Vermelho : 2380.126.98.120.60.100.13 
+01.04.2018.11.13.04 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:13 Item: Dragão_Vermelho : 2380.126.98.120.60.100.13 DstType:0 DstSlot:14 Item: 
+01.04.2018.11.13.32 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:7 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:23 Item: 
+01.04.2018.11.13.34 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:4 Item: Cetro_Rithil(Anct) : 3729.0.0.0.0.0.0 DstType:1 DstSlot:22 Item: 
+01.04.2018.11.13.35 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:5 Item: Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 DstType:1 DstSlot:18 Item: 
+01.04.2018.11.14.25 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Cetro_Rithil(Anct) : 3729.0.0.0.0.0.0 
+01.04.2018.11.14.26 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Cetro_Rithil(Anct) : 3729.0.0.0.0.0.0 
+01.04.2018.11.14.27 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 
+01.04.2018.11.14.28 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Cria_de_Hipogrifo : 2355.0.0.0.0.0.0 
+01.04.2018.11.16.17 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:13 Item: Tigre_de_Fogo : 2379.0.0.0.0.0.0 DstType:1 DstSlot:23 Item: 
+01.04.2018.11.16.20 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Tigre_de_Fogo : 2379.0.0.0.0.0.0 
+01.04.2018.11.18.24 IP: 25.80.207.79 FOKUS buy_npc,npc:Evolucao price:5250 item: Pedra_da_Imortalidade : 1742.0.0.0.0.0.0 
+01.04.2018.11.18.30 IP: 25.80.207.79 FOKUS buy_npc,npc:Evolucao price:7350 item: Sephirot(TransKnight) : 1760.0.0.0.0.0.0 
+01.04.2018.11.20.09 IP: 25.80.207.79 FOKUS buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.60.30.43.250 
+01.04.2018.11.20.11 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:25 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: 
+01.04.2018.11.20.21 IP: 25.80.207.79 FOKUS buy_npc,npc:Set Mortal MG price:168000 item: Manoplas_do_Corvo : 1513.3.30.60.10.43.250 
+01.04.2018.11.20.22 IP: 25.80.207.79 FOKUS buy_npc,npc:Set Mortal MG price:168000 item: Manoplas_Templárias : 1363.3.30.60.10.43.250 
+01.04.2018.11.20.23 IP: 25.80.207.79 FOKUS buy_npc,npc:Set Mortal MG price:168000 item: Calça_do_Corvo : 1512.3.30.60.10.43.250 
+01.04.2018.11.20.26 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:25 Item: Manoplas_do_Corvo : 1513.3.30.60.10.43.250 DstType:0 DstSlot:4 Item: 
+01.04.2018.11.20.30 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:21 Item: Calça_do_Corvo : 1512.3.30.60.10.43.250 DstType:0 DstSlot:3 Item: 
+01.04.2018.11.20.31 IP: 25.80.207.79 FOKUS buy_npc,npc:Set Mortal MG price:168000 item: Botas_do_Corvo : 1514.3.30.60.10.43.250 
+01.04.2018.11.20.32 IP: 25.80.207.79 FOKUS buy_npc,npc:Set Mortal MG price:168000 item: Armadura_do_Corvo : 1511.3.30.60.10.43.250 
+01.04.2018.11.20.36 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:25 Item: Botas_do_Corvo : 1514.3.30.60.10.43.250 DstType:0 DstSlot:5 Item: 
+01.04.2018.11.20.39 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:21 Item: Armadura_do_Corvo : 1511.3.30.60.10.43.250 DstType:0 DstSlot:2 Item: 
+01.04.2018.11.20.58 IP: 25.80.207.79 FOKUS buy_npc,npc:Acessorios3 price:1260 item: Traje_Natalino(30dias) : 4159.0.0.0.0.0.0 
+01.04.2018.11.21.01 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:25 Item: Traje_Natalino(30dias) : 4159.106.2.110.5.109.18 DstType:0 DstSlot:12 Item:  : 2256.0.0.0.0.0.0 
+01.04.2018.11.21.06 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:9 Item: Tigre_de_Fogo : 2379.0.0.0.0.0.0 DstType:1 DstSlot:19 Item: 
+01.04.2018.11.21.09 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Tigre_de_Fogo : 2379.0.0.0.0.0.0 
+01.04.2018.11.21.20 IP: 25.80.207.79 FOKUS buy_npc,npc:Acessorios3 price:52500 item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 
+01.04.2018.11.21.22 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:16 Item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 DstType:0 DstSlot:13 Item: 
+01.04.2018.11.22.05 IP: 25.80.207.79 FOKUS buy_npc,npc:Shadow Montaria price:892500 item: Svadilfari : 2387.100.100.120.60.100.0 
+01.04.2018.11.22.07 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:16 Item: Svadilfari : 2387.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.0.0.0.0.0.0 
+01.04.2018.11.24.30 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:12 Item: Traje_Natalino(30dias) : 4159.106.2.110.5.109.18 DstType:1 DstSlot:29 Item: 
+01.04.2018.11.27.11 IP: 25.80.207.79 FOKUS tradingitem, SrcType:0 SrcSlot:2 Item: Lâmina_Dupla : 959.0.0.0.0.0.0 DstType:1 DstSlot:22 Item: 
+01.04.2018.11.27.14 IP: 25.80.207.79 [Gm]FokusGay deleteitem,  Lâmina_Dupla : 959.0.0.0.0.0.0 
+01.04.2018.11.28.34 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Ração_de_Pantera_Negra(P) : 3464.7.99.9.99.43.255 DstType:0 DstSlot:11 Item: Pedra_Espiritual : 633.2.120.71.100.43.255 
+01.04.2018.11.28.36 IP: 25.5.216.68 DECO tradingitem, SrcType:0 SrcSlot:11 Item: Ração_de_Pantera_Negra(P) : 3464.7.99.9.99.43.255 DstType:1 DstSlot:0 Item: Pedra_Espiritual : 633.2.120.71.100.43.255 
+01.04.2018.11.29.29 IP: 25.5.216.68 DECO tradingitem, SrcType:1 SrcSlot:2 Item: Cythera_Arcana : 3507.3.120.2.120.43.255 DstType:0 DstSlot:1 Item: 
+01.04.2018.11.29.38 IP: 25.5.216.68 TESTEEE deleteitem,  Ração_de_Pantera_Negra(P) : 3464.7.99.9.99.43.255 
+01.04.2018.11.33.21 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:15 Item: Pedra_da_Imortalidade : 1742.0.0.0.0.0.0 DstType:0 DstSlot:10 Item: 
+01.04.2018.11.33.21 IP: 25.80.207.79 FOKUS tradingitem, SrcType:1 SrcSlot:20 Item: Sephirot(TransKnight) : 1760.0.0.0.0.0.0 DstType:0 DstSlot:11 Item: 
+01.04.2018.11.34.15 IP: 25.5.216.68 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.71.100.43.229 

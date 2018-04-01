@@ -1,0 +1,10 @@
+[06/03/2017][18:03:38]  -system err,No empty mobgrid: 1061 2344 1702 
+[06/03/2017][18:03:38]  -system err,No empty mobgrid(1): 1297 1970 1620 
+[06/03/2017][18:03:38]  -system err,No empty mobgrid(1): 3453 2394 2101 
+[06/03/2017][18:03:38]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[06/03/2017][18:03:38]  -system err,No empty mobgrid(1): 5677 3401 1618 
+[06/03/2017][18:03:39] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:0 level:0 conn:3 money:2000000000, store:0 
+[06/03/2017][18:03:40]  -system err,GridMulticast mobidx,pos 
+[06/03/2017][18:03:43] IP: 179.125.130.230 LILITH etc,createchar name:Lilith 2 13 
+[06/03/2017][18:03:47] IP: 179.125.130.230 LILITH sta,Login char:Lilith exp:0 level:0 conn:2 money:2000000000, store:0 
+[06/03/2017][18:03:47]  WALLACER137 etc,changecity city:0 X:2112 Y:2057 

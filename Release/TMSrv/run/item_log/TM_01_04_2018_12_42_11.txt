@@ -1,0 +1,14 @@
+01.04.2018.12.43.48 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Set TK price:5250 item: Tivas_Breastplate : 1238.43.250.2.42.71.90 
+01.04.2018.12.43.50 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Set TK price:5250 item: Tivas_Pants : 1239.43.250.2.70.71.90 
+01.04.2018.12.43.53 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Set TK price:5250 item: Tivas_Gloves : 1240.43.250.54.18.3.70 
+01.04.2018.12.43.54 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Set TK price:5250 item: Tivas_Boots : 1241.43.250.74.18.2.42 
+01.04.2018.12.44.01 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:1 Item: Tivas_Gloves : 1240.43.250.54.18.3.70 DstType:0 DstSlot:4 Item: 
+01.04.2018.12.44.02 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Tivas_Breastplate : 1238.43.250.2.42.71.90 DstType:0 DstSlot:2 Item: 
+01.04.2018.12.44.04 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:6 Item: Tivas_Boots : 1241.43.250.74.18.2.42 DstType:0 DstSlot:5 Item: TransKnight : 7.0.0.0.0.0.0 
+01.04.2018.12.44.05 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:10 Item: Tivas_Pants : 1239.43.250.2.70.71.90 DstType:0 DstSlot:3 Item: 
+01.04.2018.12.44.21 IP: 25.80.207.79 FOKUS1 useitem,paint success 3507+27 - (61,0,0) 
+01.04.2018.12.44.59 IP: 25.80.207.79 FOKUS1 useitem,paint success 3507+27 - (61,0,0) 
+01.04.2018.12.45.12 IP: 25.80.207.79 FOKUS1 buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.2.120.43.250 
+01.04.2018.12.45.14 IP: 25.80.207.79 FOKUS1 tradingitem, SrcType:1 SrcSlot:5 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: Cythera_Arcana : 3507.119.255.60.30.119.250 
+01.04.2018.12.45.20 IP: 25.80.207.79 FOKUS1 useitem,paint success 3507+5 - (61,0,0) 
+01.04.2018.12.45.32 IP: 25.80.207.79 FOKUS1 useitem,paint success 3507+5 - (61,0,0) 

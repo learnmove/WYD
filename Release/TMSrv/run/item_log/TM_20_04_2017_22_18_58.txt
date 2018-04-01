@@ -1,0 +1,2 @@
+20.04.2017.22.21.58 IP: 192.168.1.113 ADMIN buy_npc,npc:Acessorios2 price:525000 item: Baú_de_Experiência : 4140.61.5.0.0.0.0 
+20.04.2017.22.22.01 IP: 192.168.1.113 ADMIN useitem,item bauexp time 900 

@@ -1,0 +1,883 @@
+[01/04/2018][10:31:21]  -system sys,start server 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 62 2215 2063 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 70 2219 2063 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 100 2227 2062 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 328 2321 2218 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 337 2318 2223 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 442 2488 2054 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 545 2488 1950 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 575 2450 1951 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 602 2543 1943 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 673 2618 1978 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid: 792 2472 1836 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 802 2476 1820 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 908 2612 2078 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid: 1179 2274 1748 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid: 1304 1960 1644 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1830 279 3790 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1968 409 3815 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 1995 560 3802 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2086 750 3809 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2220 420 4027 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2253 974 4075 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2307 952 4002 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2542 930 3804 
+[01/04/2018][10:31:33]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid: 3860 2086 1616 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid: 3864 2138 1623 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid: 3868 2074 1595 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid: 3885 2048 1574 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid: 5770 3409 1534 
+[01/04/2018][10:31:34]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 70 2224 2063 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 324 2368 2213 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 337 2324 2224 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 601 2543 1954 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 796 2513 1836 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid: 1229 2268 1719 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 1293 1945 1573 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 1405 1877 1758 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 1467 2192 1487 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid: 1871 321 3744 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 1934 435 3788 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 1968 410 3815 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2019 596 3770 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2086 749 3809 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2287 1003 4004 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2523 799 3889 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2601 1030 3762 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2617 1077 3753 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2635 1068 3786 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 2641 1128 3762 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3869 2085 1596 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3873 2133 1595 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3878 2139 1583 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 4036 3622 2822 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][10:31:46]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 259 2360 2160 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 1296 1953 1621 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 1298 1982 1620 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 3792 2232 3628 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 3852 2113 1636 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 3904 3661 3067 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 4106 3541 2896 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[01/04/2018][10:31:57]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid: 1193 2209 1732 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 1229 2267 1719 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 1231 2255 1735 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 1293 1945 1572 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 1345 1984 1723 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 2086 750 3809 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 2229 488 4042 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid: 2743 1703 1826 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 3235 1378 1855 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 3852 2112 1635 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 3891 2134 1551 
+[01/04/2018][10:32:09]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid(1): 1292 1956 1561 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid: 1296 1952 1621 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid(1): 1298 1977 1623 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid: 1364 1986 1752 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid(1): 2814 1746 1628 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid(1): 3514 1317 4043 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid(1): 3891 2135 1551 
+[01/04/2018][10:32:22]  -system err,No empty mobgrid(1): 4036 3624 2821 
+[01/04/2018][10:32:34]  -system err,No empty mobgrid(1): 3511 1332 4041 
+[01/04/2018][10:32:34]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[01/04/2018][10:32:34]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[01/04/2018][10:32:34]  -system err,No empty mobgrid(1): 4106 3540 2896 
+[01/04/2018][10:32:46]  -system err,No empty mobgrid(1): 1298 1978 1620 
+[01/04/2018][10:32:58]  -system err,No empty mobgrid(1): 3831 2406 2117 
+[01/04/2018][10:32:58]  -system err,No empty mobgrid(1): 4036 3621 2824 
+[01/04/2018][10:33:10]  -system err,No empty mobgrid(1): 1298 1978 1622 
+[01/04/2018][10:33:10]  -system err,No empty mobgrid(1): 2748 1710 1826 
+[01/04/2018][10:33:10]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[01/04/2018][10:33:10]  -system err,No empty mobgrid(1): 4106 3542 2894 
+[01/04/2018][10:33:10] IP: 25.5.216.68 FOKUS CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:33:16] IP: 25.5.216.68 FOKUS sta,Login char:[Gm]FokusGay exp:2209 level:1010 conn:1 money:2000000000, store:0 
+[01/04/2018][10:33:19]  FOKUS etc,changecity city:0 X:2090 Y:2105 
+[01/04/2018][10:33:34]  -system err,No empty mobgrid(1): 1298 1980 1622 
+[01/04/2018][10:33:34]  -system err,No empty mobgrid(1): 4036 3623 2821 
+[01/04/2018][10:33:34]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:33:46]  -system err,No empty mobgrid(1): 3605 2450 4010 
+[01/04/2018][10:33:52] IP: 25.5.216.68 FOKUS clo,fd 11-0 
+[01/04/2018][10:33:58]  -system err,No empty mobgrid(1): 1298 1979 1621 
+[01/04/2018][10:34:01] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:34:10]  -system err,No empty mobgrid(1): 4036 3621 2821 
+[01/04/2018][10:34:12] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:1188660812 level:1010 conn:1 money:1942554274, store:0 
+[01/04/2018][10:34:15]  DECO etc,changecity city:0 X:2090 Y:2104 
+[01/04/2018][10:34:22]  -system err,No empty mobgrid(1): 1298 1976 1620 
+[01/04/2018][10:34:22]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:34:34]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][10:34:39] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:0 conn:1 money:1942517524, store:0 
+[01/04/2018][10:34:42]  DECO etc,changecity city:0 X:2099 Y:2100 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid: 5769 3410 1537 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid: 5770 3408 1533 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid: 5771 3408 1531 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid: 5772 3410 1524 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:35:10]  -system err,No empty mobgrid(1): 5971 3392 1088 
+[01/04/2018][10:35:22]  -system err,No empty mobgrid(1): 5971 3388 1087 
+[01/04/2018][10:35:34]  -system err,No empty mobgrid(1): 5971 3388 1087 
+[01/04/2018][10:35:43] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:0 conn:1 money:1942517524, store:0 
+[01/04/2018][10:35:45]  DECO etc,changecity city:0 X:2089 Y:2104 
+[01/04/2018][10:36:07] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:0 conn:1 money:1942517524, store:0 
+[01/04/2018][10:36:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:36:10]  DECO etc,changecity city:0 X:2100 Y:2094 
+[01/04/2018][10:36:21] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][10:36:21] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][10:36:22]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][10:36:22]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][10:37:01] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:37:11] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1942517524, store:0 
+[01/04/2018][10:37:13]  DECO etc,changecity city:0 X:2096 Y:2106 
+[01/04/2018][10:38:10]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][10:39:00]  -system etc,nightmare_normal clear -10:39 
+[01/04/2018][10:39:13] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:1046 Y:1725 price:700 
+[01/04/2018][10:39:18] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:2480 Y:1717 price:0 
+[01/04/2018][10:39:19]  DECO etc,changecity city:1 X:2480 Y:1717 
+[01/04/2018][10:39:25] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:1046 Y:1717 price:700 
+[01/04/2018][10:39:34]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:39:39] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:2456 Y:2017 price:0 
+[01/04/2018][10:39:40]  DECO etc,changecity city:2 X:2456 Y:2017 
+[01/04/2018][10:39:46]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][10:39:58]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][10:40:10] IP: 25.5.216.68 DECO clo,fd 11-0 
+[01/04/2018][10:40:47] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:41:03] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1942517524, store:0 
+[01/04/2018][10:41:06]  DECO etc,changecity city:0 X:2095 Y:2099 
+[01/04/2018][10:41:22]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][10:41:34]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][10:42:10]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][10:42:12] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1942517524, store:0 
+[01/04/2018][10:42:15]  DECO etc,changecity city:0 X:2098 Y:2097 
+[01/04/2018][10:42:30] IP: 25.5.216.68 DECO adm +set hp 10000000 
+[01/04/2018][10:44:00]  -system etc,nightmare_mystic clear -10:44 
+[01/04/2018][10:44:10]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:44:35] IP: 25.80.207.79 FOKUS CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][10:44:37] IP: 25.5.216.68 DECO adm +set hp 64000 
+[01/04/2018][10:44:46] IP: 25.80.207.79 FOKUS sta,Login char:[Gm]FokusGay exp:2209 level:1010 conn:2 money:2000000000, store:0 
+[01/04/2018][10:44:50]  FOKUS etc,changecity city:0 X:2086 Y:2102 
+[01/04/2018][10:45:34]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][10:45:43] IP: 25.80.207.79 FOKUS adm +se sanc 255 
+[01/04/2018][10:45:46]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:45:55] IP: 25.5.216.68 DECO clo,fd 11-0 
+[01/04/2018][10:46:36] IP: 25.80.207.79 FOKUS adm +setsanc 255 
+[01/04/2018][10:46:45] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:46:52] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:46:54]  DECO etc,changecity city:0 X:2098 Y:2107 
+[01/04/2018][10:47:12] IP: 25.80.207.79 FOKUS adm +setnotice 
+[01/04/2018][10:47:16] IP: 25.80.207.79 FOKUS adm +setnotice oi 
+[01/04/2018][10:47:22]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:47:25] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:47:28]  DECO etc,changecity city:0 X:2099 Y:2096 
+[01/04/2018][10:47:38] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][10:47:38] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][10:48:25] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:48:30] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:48:33]  DECO etc,changecity city:0 X:2100 Y:2104 
+[01/04/2018][10:49:00]  -system etc,nightmare_arcan clear -10:49 
+[01/04/2018][10:49:24] IP: 25.80.207.79 FOKUS adm comando 
+[01/04/2018][10:49:27] IP: 25.80.207.79 FOKUS adm comandos 
+[01/04/2018][10:49:30] IP: 25.5.216.68 DECO adm +restart 
+[01/04/2018][10:49:34]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][10:49:34]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][10:49:39] IP: 25.5.216.68 DECO adm +set restart 
+[01/04/2018][10:49:52] IP: 25.80.207.79 FOKUS adm  +setnotice oi 
+[01/04/2018][10:49:55] IP: 25.80.207.79 FOKUS adm  +setnotice oi 
+[01/04/2018][10:50:06] IP: 25.80.207.79 FOKUS adm +setsanc255 
+[01/04/2018][10:50:08] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:50:10]  DECO etc,changecity city:0 X:2090 Y:2105 
+[01/04/2018][10:50:19] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][10:50:19] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][10:50:40] IP: 25.80.207.79 FOKUS adm +set sanc 254 
+[01/04/2018][10:50:44] IP: 25.80.207.79 FOKUS adm +set sanc 255 
+[01/04/2018][10:50:58]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:50:58]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][10:50:58] IP: 25.80.207.79 FOKUS adm +set notice holha 
+[01/04/2018][10:51:10]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][10:51:16] IP: 25.80.207.79 FOKUS adm +set des 1000 
+[01/04/2018][10:51:40] IP: 25.80.207.79 FOKUS adm +set sanc 
+[01/04/2018][10:51:59] IP: 25.80.207.79 FOKUS adm +set noice 
+[01/04/2018][10:52:10]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:52:14] IP: 25.80.207.79 FOKUS adm +set 1 2255 
+[01/04/2018][10:52:14] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2255 0:0:0:0:0:0] -system 
+[01/04/2018][10:52:17] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:52:23] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:52:26]  DECO etc,changecity city:0 X:2096 Y:2103 
+[01/04/2018][10:52:26] IP: 25.80.207.79 FOKUS adm +set 3 
+[01/04/2018][10:52:26] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [0 0:0:0:0:0:0] -system 
+[01/04/2018][10:52:32] IP: 25.80.207.79 FOKUS adm +set 1 5 
+[01/04/2018][10:52:32] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [5 0:0:0:0:0:0] -system 
+[01/04/2018][10:52:34]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][10:52:40] IP: 25.80.207.79 FOKUS adm +set 1 2254 
+[01/04/2018][10:52:40] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2254 0:0:0:0:0:0] -system 
+[01/04/2018][10:52:45] IP: 25.80.207.79 FOKUS adm +set 1 2256 
+[01/04/2018][10:52:45] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2256 0:0:0:0:0:0] -system 
+[01/04/2018][10:52:48] IP: 25.80.207.79 FOKUS adm +set 1 22 
+[01/04/2018][10:52:48] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [22 0:0:0:0:0:0] -system 
+[01/04/2018][10:52:55] IP: 25.80.207.79 FOKUS adm +set 1 21 
+[01/04/2018][10:52:55] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [21 0:0:0:0:0:0] -system 
+[01/04/2018][10:53:03] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:53:06]  DECO etc,changecity city:0 X:2088 Y:2103 
+[01/04/2018][10:54:22]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][10:55:05] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:55:08]  DECO etc,changecity city:0 X:2098 Y:2106 
+[01/04/2018][10:55:10]  -system err,No empty mobgrid: 5769 3410 1537 
+[01/04/2018][10:55:10]  -system err,No empty mobgrid: 5770 3412 1533 
+[01/04/2018][10:55:10]  -system err,No empty mobgrid: 5771 3409 1529 
+[01/04/2018][10:55:10]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][10:55:10]  -system err,No empty mobgrid(1): 5971 3390 1086 
+[01/04/2018][10:55:22]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][10:56:22]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:56:33] IP: 25.80.207.79 FOKUS adm +set 10 2355 
+[01/04/2018][10:56:33] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][10:56:46] IP: 25.80.207.79 FOKUS adm +set 13 2256 
+[01/04/2018][10:56:46] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2256 0:0:0:0:0:0] -system 
+[01/04/2018][10:56:58] IP: 25.80.207.79 FOKUS adm +set 12 2356 
+[01/04/2018][10:56:58] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2356 0:0:0:0:0:0] -system 
+[01/04/2018][10:57:07] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][10:57:07] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][10:57:14] IP: 25.80.207.79 FOKUS adm +set 9 2378 
+[01/04/2018][10:57:14] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2378 0:0:0:0:0:0] -system 
+[01/04/2018][10:57:46]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:57:58]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:58:22]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][10:58:40] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][10:58:46]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][10:58:49] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][10:58:52]  DECO etc,changecity city:0 X:2091 Y:2106 
+[01/04/2018][10:59:00]  -system etc,nightmare_normal clear -10:59 
+[01/04/2018][10:59:22]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][10:59:46]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:00:30] IP: 25.5.216.68 DECO adm +set str 320 
+[01/04/2018][11:00:33] IP: 25.80.207.79 FOKUS sel_npc,npc:Arma SemiDeus price:23 item: Chocolate_do_Amor : 1739.0.0.0.0.0.0 
+[01/04/2018][11:00:35] IP: 25.5.216.68 DECO adm +set str 3200 
+[01/04/2018][11:00:38] IP: 25.80.207.79 FOKUS sel_npc,npc:Arma SemiDeus price:77187 item: Caliburn(Anct) : 2732.2.81.42.30.43.250 
+[01/04/2018][11:00:39] IP: 25.5.216.68 DECO adm +set str 32000 
+[01/04/2018][11:00:46] IP: 25.5.216.68 DECO adm +set int 32000 
+[01/04/2018][11:00:56] IP: 25.5.216.68 DECO adm +set dex 32000 
+[01/04/2018][11:00:57] IP: 25.80.207.79 FOKUS adm +set 1 34 
+[01/04/2018][11:00:57] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [34 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:06] IP: 25.80.207.79 FOKUS adm +set 1 46 
+[01/04/2018][11:01:06] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [46 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:08]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:22 
+[01/04/2018][11:01:09]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:21 
+[01/04/2018][11:01:10]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:13 
+[01/04/2018][11:01:10]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:14 
+[01/04/2018][11:01:11]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:11 
+[01/04/2018][11:01:13]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:10 
+[01/04/2018][11:01:13]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:8 
+[01/04/2018][11:01:14]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:12 
+[01/04/2018][11:01:16]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:9 
+[01/04/2018][11:01:16] IP: 25.80.207.79 FOKUS adm +set 1 40 
+[01/04/2018][11:01:16] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [40 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:17]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:6 
+[01/04/2018][11:01:18]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:5 
+[01/04/2018][11:01:18]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:4 
+[01/04/2018][11:01:19]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:0 
+[01/04/2018][11:01:19]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:1 
+[01/04/2018][11:01:20]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:2 
+[01/04/2018][11:01:21]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:3 
+[01/04/2018][11:01:21] IP: 25.80.207.79 FOKUS adm +set 1 22 
+[01/04/2018][11:01:21] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [22 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:22]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:01:22]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:7 
+[01/04/2018][11:01:24]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:20 
+[01/04/2018][11:01:24]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:16 
+[01/04/2018][11:01:25]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:17 
+[01/04/2018][11:01:26] IP: 25.80.207.79 FOKUS adm +set 1 23 
+[01/04/2018][11:01:26] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [23 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:26]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:19 
+[01/04/2018][11:01:29]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:18 
+[01/04/2018][11:01:31] IP: 25.80.207.79 FOKUS adm +set 1 24 
+[01/04/2018][11:01:31] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [24 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:35] IP: 25.80.207.79 FOKUS adm +set 1 21 
+[01/04/2018][11:01:35] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [21 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:41] IP: 25.80.207.79 FOKUS adm +set 1 12 
+[01/04/2018][11:01:41] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [12 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:46]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:01:48] IP: 25.80.207.79 FOKUS adm +set 1 1 
+[01/04/2018][11:01:48] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1 0:0:0:0:0:0] -system 
+[01/04/2018][11:01:56] IP: 25.5.216.68 DECO adm +set hp 10000 
+[01/04/2018][11:01:59] IP: 25.80.207.79 FOKUS adm +set 1 13 
+[01/04/2018][11:01:59] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [13 0:0:0:0:0:0] -system 
+[01/04/2018][11:02:07] IP: 25.80.207.79 FOKUS adm +set 1 23 
+[01/04/2018][11:02:07] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [23 0:0:0:0:0:0] -system 
+[01/04/2018][11:02:10]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][11:02:21] IP: 25.80.207.79 FOKUS adm +set 2 2355 
+[01/04/2018][11:02:21] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][11:02:22] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][11:02:22] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][11:02:31] IP: 25.80.207.79 FOKUS adm +set 2  
+[01/04/2018][11:02:31] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [0 0:0:0:0:0:0] -system 
+[01/04/2018][11:02:39] IP: 25.80.207.79 FOKUS adm +set 3 2344 
+[01/04/2018][11:02:39] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2344 0:0:0:0:0:0] -system 
+[01/04/2018][11:02:46] IP: 25.80.207.79 FOKUS adm +set 3  
+[01/04/2018][11:02:46] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [0 0:0:0:0:0:0] -system 
+[01/04/2018][11:02:52] IP: 25.80.207.79 FOKUS adm +set 5 2234 
+[01/04/2018][11:02:52] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2234 0:0:0:0:0:0] -system 
+[01/04/2018][11:03:08] IP: 25.80.207.79 FOKUS adm +set 8 2355 
+[01/04/2018][11:03:08] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][11:03:24] IP: 25.80.207.79 FOKUS adm +set 9 2355 
+[01/04/2018][11:03:24] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][11:03:35] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:03:39] IP: 25.80.207.79 FOKUS adm +set 15 2355 
+[01/04/2018][11:03:39] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][11:03:41] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][11:03:44]  DECO etc,changecity city:0 X:2099 Y:2094 
+[01/04/2018][11:03:46]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:03:46]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][11:03:58]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:58]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:58]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:58]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:03:59]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  -system etc,nightmare_mystic clear -11:4 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:00]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:01]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:02]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:03]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:04]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:05]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:06]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:07]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:08]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:09]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10] IP: 25.80.207.79 FOKUS adm +set 16 789 
+[01/04/2018][11:04:10] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [789 0:0:0:0:0:0] -system 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:10]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:11]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:12]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:13]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:14]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:15]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:16]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17] IP: 25.80.207.79 FOKUS adm +set 16 780 
+[01/04/2018][11:04:17] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [780 0:0:0:0:0:0] -system 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:17]  DECO etc,applybonus name:TESTEEE bonustype:0 detail:2 pontos:100 
+[01/04/2018][11:04:20] IP: 25.80.207.79 FOKUS adm +set 16 788 
+[01/04/2018][11:04:20] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [788 0:0:0:0:0:0] -system 
+[01/04/2018][11:04:27] IP: 25.5.216.68 DECO clo,fd 11-0 
+[01/04/2018][11:04:34]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][11:04:34] IP: 25.80.207.79 FOKUS adm +set 16 7 
+[01/04/2018][11:04:34] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [7 0:0:0:0:0:0] -system 
+[01/04/2018][11:05:22] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:05:22]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:05:22] IP: 25.80.207.79 FOKUS adm +set 1 27 
+[01/04/2018][11:05:22] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [27 0:0:0:0:0:0] -system 
+[01/04/2018][11:05:41] IP: 25.80.207.79 FOKUS adm +set 1 43 
+[01/04/2018][11:05:41] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [43 0:0:0:0:0:0] -system 
+[01/04/2018][11:05:45] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][11:05:48]  DECO etc,changecity city:0 X:2100 Y:2093 
+[01/04/2018][11:06:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:06:28] IP: 25.80.207.79 FOKUS adm +set 1 21 
+[01/04/2018][11:06:28] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [21 0:0:0:0:0:0] -system 
+[01/04/2018][11:06:37] IP: 25.80.207.79 FOKUS adm +set 1 43 
+[01/04/2018][11:06:37] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [43 0:0:0:0:0:0] -system 
+[01/04/2018][11:06:42] IP: 25.80.207.79 FOKUS adm +set 1 44 
+[01/04/2018][11:06:42] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [44 0:0:0:0:0:0] -system 
+[01/04/2018][11:06:51] IP: 25.80.207.79 FOKUS adm +set 1 42 
+[01/04/2018][11:06:51] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [42 0:0:0:0:0:0] -system 
+[01/04/2018][11:07:15] IP: 25.5.216.68 DECO accept_party,TESTEEE aceitou party de [Gm]FokusGay. 
+[01/04/2018][11:07:46]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:07:58]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][11:08:02] IP: 25.5.216.68 DECO etc,pkmode 1 
+[01/04/2018][11:08:03] IP: 25.5.216.68 DECO etc,pkmode 0 
+[01/04/2018][11:08:43] IP: 25.80.207.79 FOKUS adm +set 177 
+[01/04/2018][11:08:50] IP: 25.5.216.68 DECO clo,fd 11-0 
+[01/04/2018][11:08:52] IP: 25.80.207.79 FOKUS adm +set 1 177 
+[01/04/2018][11:08:52] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [177 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:00]  -system etc,nightmare_arcan clear -11:9 
+[01/04/2018][11:09:01] IP: 25.80.207.79 FOKUS adm +set 1 1 
+[01/04/2018][11:09:01] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:05] IP: 25.80.207.79 FOKUS adm +set 1 2 
+[01/04/2018][11:09:05] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:11] IP: 25.80.207.79 FOKUS adm +set 1 22 
+[01/04/2018][11:09:11] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [22 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:14] IP: 25.80.207.79 FOKUS adm +set 1 23 
+[01/04/2018][11:09:14] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [23 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:17] IP: 25.80.207.79 FOKUS adm +set 1 24 
+[01/04/2018][11:09:17] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [24 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:20] IP: 25.80.207.79 FOKUS adm +set 1 24 
+[01/04/2018][11:09:20] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [24 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:36] IP: 25.80.207.79 FOKUS adm +set 3 178 
+[01/04/2018][11:09:36] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [178 0:0:0:0:0:0] -system 
+[01/04/2018][11:09:41] IP: 25.80.207.79 FOKUS adm +set 3  
+[01/04/2018][11:09:41] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [0 0:0:0:0:0:0] -system 
+[01/04/2018][11:10:34] IP: 25.80.207.79 FOKUS adm +set 16 1720 
+[01/04/2018][11:10:34] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1720 0:0:0:0:0:0] -system 
+[01/04/2018][11:10:46]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:11:22]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][11:11:43] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:11:49] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1941100024, store:0 
+[01/04/2018][11:11:52]  DECO etc,changecity city:0 X:2091 Y:2107 
+[01/04/2018][11:12:33] IP: 25.80.207.79 FOKUS adm +set 4 3729 
+[01/04/2018][11:12:33] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [3729 0:0:0:0:0:0] -system 
+[01/04/2018][11:12:47] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:1045 Y:1724 price:700 
+[01/04/2018][11:12:51] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:2457 Y:2016 price:0 
+[01/04/2018][11:12:51]  DECO etc,changecity city:2 X:2457 Y:2016 
+[01/04/2018][11:12:53] IP: 25.80.207.79 FOKUS adm +set 5 3729 
+[01/04/2018][11:12:53] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [3729 0:0:0:0:0:0] -system 
+[01/04/2018][11:13:02] IP: 25.80.207.79 FOKUS adm +set 6 55 
+[01/04/2018][11:13:02] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [55 0:0:0:0:0:0] -system 
+[01/04/2018][11:13:05] IP: 25.80.207.79 FOKUS adm +set 6 5555 
+[01/04/2018][11:13:05] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [5555 0:0:0:0:0:0] -system 
+[01/04/2018][11:13:08] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:1046 Y:1709 price:700 
+[01/04/2018][11:13:11] IP: 25.80.207.79 FOKUS adm +set 6 2355 
+[01/04/2018][11:13:11] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][11:13:16] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:2116 Y:2101 price:0 
+[01/04/2018][11:13:16]  DECO etc,changecity city:0 X:2116 Y:2101 
+[01/04/2018][11:13:19] IP: 25.80.207.79 FOKUS adm +set 8 2355 
+[01/04/2018][11:13:19] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2355 0:0:0:0:0:0] -system 
+[01/04/2018][11:13:23]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:6 
+[01/04/2018][11:13:24]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:5 
+[01/04/2018][11:13:24]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:4 
+[01/04/2018][11:13:25]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:0 
+[01/04/2018][11:13:25]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:1 
+[01/04/2018][11:13:26]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:2 
+[01/04/2018][11:13:29]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:3 
+[01/04/2018][11:13:29]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:7 
+[01/04/2018][11:13:30]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:11 
+[01/04/2018][11:13:31]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:10 
+[01/04/2018][11:13:32]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:14 
+[01/04/2018][11:13:32]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:13 
+[01/04/2018][11:13:33]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:12 
+[01/04/2018][11:13:33]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:8 
+[01/04/2018][11:13:34]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:13:34]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][11:13:34]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:9 
+[01/04/2018][11:13:35]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:22 
+[01/04/2018][11:13:36]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:21 
+[01/04/2018][11:13:36]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:20 
+[01/04/2018][11:13:36]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:16 
+[01/04/2018][11:13:37]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:17 
+[01/04/2018][11:13:38]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:19 
+[01/04/2018][11:13:40]  DECO etc,applybonus name:TESTEEE bonustype:2 skillpos:18 
+[01/04/2018][11:13:44] IP: 25.80.207.79 FOKUS adm +set 7 3729 
+[01/04/2018][11:13:44] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [3729 0:0:0:0:0:0] -system 
+[01/04/2018][11:13:48] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:1045 Y:1726 price:700 
+[01/04/2018][11:13:55] IP: 25.5.216.68 DECO etc,reqteleport char:TESTEEE X:2117 Y:2101 price:0 
+[01/04/2018][11:13:56]  DECO etc,changecity city:0 X:2117 Y:2101 
+[01/04/2018][11:14:15] IP: 25.80.207.79 FOKUS adm +set 8 3605 
+[01/04/2018][11:14:15] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [3605 0:0:0:0:0:0] -system 
+[01/04/2018][11:14:58]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:15:06]  -system etc,set citizen server:1 name:TESTEEE conn:1 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid(1): 5655 3347 1618 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid: 5768 3407 1543 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid: 5770 3410 1536 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid: 5771 3408 1530 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid: 5772 3412 1526 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid(1): 5965 3391 1086 
+[01/04/2018][11:15:10]  -system err,No empty mobgrid(1): 5971 3391 1089 
+[01/04/2018][11:15:22]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][11:15:22]  -system err,No empty mobgrid(1): 5965 3393 1088 
+[01/04/2018][11:15:22]  -system err,No empty mobgrid(1): 5971 3391 1086 
+[01/04/2018][11:15:34]  -system err,No empty mobgrid(1): 5971 3388 1087 
+[01/04/2018][11:15:46]  -system err,No empty mobgrid(1): 5971 3389 1088 
+[01/04/2018][11:15:58]  -system err,No empty mobgrid(1): 5971 3389 1087 
+[01/04/2018][11:16:05] IP: 25.80.207.79 FOKUS adm +set 14 2379 
+[01/04/2018][11:16:05] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2379 0:0:0:0:0:0] -system 
+[01/04/2018][11:16:10]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][11:16:10]  -system err,No empty mobgrid(1): 5971 3388 1085 
+[01/04/2018][11:16:22]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[01/04/2018][11:16:34]  -system err,No empty mobgrid(1): 5971 3392 1087 
+[01/04/2018][11:16:46]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:17:03] IP: 25.80.207.79 FOKUS adm +set 10 2379 
+[01/04/2018][11:17:03] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2379 0:0:0:0:0:0] -system 
+[01/04/2018][11:17:10]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][11:17:14] IP: 25.80.207.79 FOKUS adm +set 15 2379 
+[01/04/2018][11:17:14] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [2379 0:0:0:0:0:0] -system 
+[01/04/2018][11:17:30] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][11:17:30] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][11:19:00]  -system etc,nightmare_normal clear -11:19 
+[01/04/2018][11:19:16] IP: 25.80.207.79 FOKUS adm +notce oi 
+[01/04/2018][11:19:21] IP: 25.80.207.79 FOKUS adm +notice oi 
+[01/04/2018][11:19:21]  -system not  oi 
+[01/04/2018][11:19:22]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:19:44] IP: 25.80.207.79 FOKUS adm +set move 2099 2102 
+[01/04/2018][11:19:57] IP: 25.80.207.79 FOKUS adm +move 2099 2102 
+[01/04/2018][11:19:58]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[01/04/2018][11:20:22]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][11:20:41] IP: 25.80.207.79 FOKUS sel_npc,npc:Set Mortal MG price:19000 item: Manoplas_Templárias : 1363.3.30.60.10.43.250 
+[01/04/2018][11:20:46]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[01/04/2018][11:21:34] IP: 25.80.207.79 FOKUS adm +set sanc 255 
+[01/04/2018][11:21:46]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:22:10] IP: 25.80.207.79 FOKUS sel_npc,npc:Shadow Montaria price:178125 item: Tigre_de_Fogo : 2379.0.0.0.0.0.0 
+[01/04/2018][11:24:00]  -system etc,nightmare_mystic clear -11:24 
+[01/04/2018][11:24:01] IP: 25.80.207.79 FOKUS adm +set 3 
+[01/04/2018][11:24:01] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [7 0:0:0:0:0:0] -system 
+[01/04/2018][11:24:20] IP: 25.80.207.79 FOKUS adm +set 3 1373 
+[01/04/2018][11:24:20] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1373 0:0:0:0:0:0] -system 
+[01/04/2018][11:24:34]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:27:08] IP: 25.80.207.79 FOKUS adm +set 3 959 
+[01/04/2018][11:27:08] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [959 0:0:0:0:0:0] -system 
+[01/04/2018][11:27:52] IP: 25.80.207.79 FOKUS adm +set 8 1005 
+[01/04/2018][11:27:52] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1005 0:0:0:0:0:0] -system 
+[01/04/2018][11:28:03] IP: 25.80.207.79 FOKUS adm +set sanc 255 
+[01/04/2018][11:28:14] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:28:20] IP: 25.80.207.79 FOKUS adm +set 8 1009 
+[01/04/2018][11:28:20] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1009 0:0:0:0:0:0] -system 
+[01/04/2018][11:28:22] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1886073264, store:0 
+[01/04/2018][11:28:25]  DECO etc,changecity city:0 X:2091 Y:2093 
+[01/04/2018][11:28:58] IP: 25.80.207.79 FOKUS adm +set 7 1000 
+[01/04/2018][11:28:58] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1000 0:0:0:0:0:0] -system 
+[01/04/2018][11:29:00]  -system etc,nightmare_arcan clear -11:29 
+[01/04/2018][11:29:09] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1886073264, store:0 
+[01/04/2018][11:29:10]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:29:12]  DECO etc,changecity city:0 X:2089 Y:2105 
+[01/04/2018][11:29:22]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][11:29:32] IP: 25.80.207.79 FOKUS adm +set 7 1011 
+[01/04/2018][11:29:32] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1011 0:0:0:0:0:0] -system 
+[01/04/2018][11:29:34]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:29:40] IP: 25.80.207.79 FOKUS adm +set 7 1009 
+[01/04/2018][11:29:40] IP: 25.80.207.79 [Gm]FokusGay - Set Item Equip [1009 0:0:0:0:0:0] -system 
+[01/04/2018][11:29:50] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][11:29:50] IP: 25.5.216.68 DECO etc,charlogout conn:1 name:TESTEEE 
+[01/04/2018][11:29:54] IP: 25.80.207.79 FOKUS adm +set sanc 255 
+[01/04/2018][11:30:39] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:30:44] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1886073264, store:0 
+[01/04/2018][11:30:47]  DECO etc,changecity city:0 X:2100 Y:2105 
+[01/04/2018][11:30:58]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:31:10]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:31:22]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:31:34]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][11:32:10]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:32:41] IP: 25.5.216.68 DECO etc,kingdom command 0  
+[01/04/2018][11:32:51] IP: 25.80.207.79 FOKUS adm +set Reset 
+[01/04/2018][11:32:58]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[01/04/2018][11:32:59] IP: 25.80.207.79 FOKUS adm +set reset 
+[01/04/2018][11:33:07] IP: 25.80.207.79 FOKUS adm +set restart 
+[01/04/2018][11:33:09] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:1 money:1886073264, store:0 
+[01/04/2018][11:33:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:33:12]  DECO etc,changecity city:0 X:2096 Y:2094 
+[01/04/2018][11:33:15] IP: 25.80.207.79 FOKUS etc,kingdom command 0  
+[01/04/2018][11:33:28] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:7227 name:Combatente  dam:1722 x:1704 y:1764 
+[01/04/2018][11:33:29] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:7227 name:Combatente  dam:1672 x:1704 y:1764 
+[01/04/2018][11:34:01] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:340 x:1750 y:1880 
+[01/04/2018][11:34:03] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:327 x:1750 y:1880 
+[01/04/2018][11:34:04] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:337 x:1750 y:1880 
+[01/04/2018][11:34:07] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:350 x:1749 y:1879 
+[01/04/2018][11:34:34]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:34:37] IP: 25.80.207.79 FOKUS adm +notice tem que clicar no rei?? 
+[01/04/2018][11:34:37]  -system not  tem que clicar no rei?? 
+[01/04/2018][11:34:46]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][11:34:48] IP: 25.5.216.68 DECO adm +notice sim 
+[01/04/2018][11:34:48]  -system not  sim 
+[01/04/2018][11:34:50] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:334 x:1750 y:1880 
+[01/04/2018][11:35:02] IP: 25.80.207.79 FOKUS adm +notice Não vai! 
+[01/04/2018][11:35:02]  -system not  Não vai! 
+[01/04/2018][11:35:05] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:344 x:1750 y:1880 
+[01/04/2018][11:35:06] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:347 x:1750 y:1880 
+[01/04/2018][11:35:07] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:357 x:1750 y:1880 
+[01/04/2018][11:35:08] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:354 x:1750 y:1880 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid(1): 5655 3347 1618 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid: 5769 3411 1538 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid: 5770 3412 1536 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid: 5771 3411 1531 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid: 5772 3411 1525 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid(1): 5965 3390 1089 
+[01/04/2018][11:35:10]  -system err,No empty mobgrid(1): 5971 3391 1087 
+[01/04/2018][11:35:22]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[01/04/2018][11:35:22] IP: 25.5.216.68 DECO adm +notice estranho 
+[01/04/2018][11:35:22]  -system not  estranho 
+[01/04/2018][11:35:23] IP: 25.80.207.79 FOKUS adm +notice me da lvl 400 
+[01/04/2018][11:35:23]  -system not  me da lvl 400 
+[01/04/2018][11:35:27] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:2 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:344 x:1750 y:1880 
+[01/04/2018][11:35:31] IP: 25.5.216.68 DECO adm +notice desloga 
+[01/04/2018][11:35:31]  -system not  desloga 
+[01/04/2018][11:35:34]  -system err,No empty mobgrid(1): 5971 3392 1088 
+[01/04/2018][11:35:40] IP: 25.80.207.79 FOKUS adm +notice faz assim  
+[01/04/2018][11:35:40]  -system not  faz assim  
+[01/04/2018][11:35:46]  -system err,No empty mobgrid(1): 5971 3390 1086 
+[01/04/2018][11:35:56] IP: 25.80.207.79 FOKUS adm +notice edita meu char pra arch e ajeita 
+[01/04/2018][11:35:56]  -system not  edita meu char pra arch e ajeita 
+[01/04/2018][11:35:58]  -system err,No empty mobgrid(1): 5971 3392 1087 
+[01/04/2018][11:36:04] IP: 25.80.207.79 FOKUS adm +notice meu nome kkkk 
+[01/04/2018][11:36:04]  -system not  meu nome kkkk 
+[01/04/2018][11:36:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:36:10]  -system err,No empty mobgrid(1): 5971 3388 1087 
+[01/04/2018][11:36:21] IP: 25.80.207.79 FOKUS adm +notice vou pegar todos os comando certinh 
+[01/04/2018][11:36:21]  -system not  vou pegar todos os comando certinh 
+[01/04/2018][11:36:22]  -system err,No empty mobgrid(1): 5971 3389 1088 
+[01/04/2018][11:36:29] IP: 25.80.207.79 FOKUS adm +notice blz 
+[01/04/2018][11:36:29]  -system not  blz 
+[01/04/2018][11:36:34]  -system err,No empty mobgrid(1): 5971 3391 1089 
+[01/04/2018][11:36:46]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[01/04/2018][11:36:49] IP: 25.5.216.68 DECO adm +notice kk blza 
+[01/04/2018][11:36:49]  -system not  kk blza 
+[01/04/2018][11:36:51] IP: 25.80.207.79 FOKUS clo,fd 22-2 
+[01/04/2018][11:36:51] IP: 25.80.207.79 FOKUS etc,charlogout conn:2 name:[Gm]FokusGay 
+[01/04/2018][11:36:58]  -system err,No empty mobgrid(1): 5971 3392 1089 
+[01/04/2018][11:37:10]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:37:10]  -system err,No empty mobgrid(1): 5971 3389 1088 
+[01/04/2018][11:37:22]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:37:22]  -system err,No empty mobgrid(1): 5971 3391 1088 
+[01/04/2018][11:37:34]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][11:37:34]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:37:34]  -system err,No empty mobgrid(1): 5971 3388 1086 
+[01/04/2018][11:37:46]  -system err,No empty mobgrid(1): 5971 3388 1089 
+[01/04/2018][11:37:58]  -system err,No empty mobgrid(1): 5971 3389 1086 
+[01/04/2018][11:38:34]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[01/04/2018][11:39:00]  -system etc,nightmare_normal clear -11:39 
+[01/04/2018][11:40:33] IP: 25.5.216.68 DECO clo,fd 11-0 
+[01/04/2018][11:40:39] IP: 25.5.216.68 FOKUS CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:40:45] IP: 25.5.216.68 FOKUS sta,Login char:[Gm]FokusGay exp:2209 level:399 conn:1 money:1997109110, store:0 
+[01/04/2018][11:40:48]  FOKUS etc,changecity city:0 X:2086 Y:2107 
+[01/04/2018][11:40:49] IP: 25.5.216.68 FOKUS etc,charlogout conn:1 name:[Gm]FokusGay 
+[01/04/2018][11:40:51] IP: 25.80.207.79 FOKUS CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][11:41:10]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[01/04/2018][11:41:25] IP: 25.80.207.79 FOKUS sta,Login char:[Gm]FokusGay exp:2209 level:399 conn:1 money:1997109110, store:0 
+[01/04/2018][11:41:28]  FOKUS etc,changecity city:0 X:2094 Y:2096 
+[01/04/2018][11:41:34]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[01/04/2018][11:41:52] IP: 25.80.207.79 FOKUS etc,charlogout conn:1 name:[Gm]FokusGay 
+[01/04/2018][11:41:55] IP: 25.5.216.68 FOKUS CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:42:28] IP: 25.5.216.68 FOKUS clo,fd 11-0 
+[01/04/2018][11:42:34]  -system err,No empty mobgrid: 2745 1710 1826 
+[01/04/2018][11:43:10]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:43:20] IP: 25.80.207.79 FOKUS CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][11:43:27] IP: 25.80.207.79 FOKUS sta,Login char:[Gm]FokusGay exp:2209 level:399 conn:1 money:1997109110, store:0 
+[01/04/2018][11:43:30]  FOKUS etc,changecity city:0 X:2087 Y:2098 
+[01/04/2018][11:43:40] IP: 25.80.207.79 FOKUS etc,kingdom command 0  
+[01/04/2018][11:43:52] IP: 25.5.216.68 DECO CNFAccountLogin Mac: 7086871.-1527429516.-2139805708.172737324 
+[01/04/2018][11:44:00]  -system etc,nightmare_mystic clear -11:44 
+[01/04/2018][11:44:07] IP: 25.5.216.68 DECO sta,Login char:TESTEEE exp:0 level:1011 conn:2 money:1885548264, store:0 
+[01/04/2018][11:44:09]  DECO etc,changecity city:0 X:2095 Y:2101 
+[01/04/2018][11:44:34]  -system err,No empty mobgrid: 2745 1710 1826 
+[01/04/2018][11:44:34] IP: 25.5.216.68 DECO adm +set reloardnpc 
+[01/04/2018][11:44:40] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:1 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:1 x:1749 y:1879 
+[01/04/2018][11:44:41] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:1 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:1 x:1749 y:1879 
+[01/04/2018][11:44:42] IP: 25.80.207.79 FOKUS etc,msg_attack attacker:1 name:[Gm]FokusGay target:1000 name:Rei Glantuar dam:1 x:1749 y:1879 
+[01/04/2018][11:44:43]  -system etc PK killer:Rei Glantuar(399,0) killed:[Gm]FokusGay(399,90) kingdom:0 war:0 
+[01/04/2018][11:44:43] IP: 25.5.216.68 DECO adm +set reloanpc 
+[01/04/2018][11:44:49] IP: 25.5.216.68 DECO adm +set reloadrnpc 
+[01/04/2018][11:44:52] IP: 25.80.207.79 FOKUS etc,restart char:[Gm]FokusGay hp:2 
+[01/04/2018][11:44:53]  FOKUS etc,changecity city:0 X:2091 Y:2096 
+[01/04/2018][11:44:54] IP: 25.5.216.68 DECO adm +set reloadnpc 
+[01/04/2018][11:45:34]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:45:44] IP: 25.80.207.79 FOKUS clo,fd 22-2 
+[01/04/2018][11:45:44] IP: 25.80.207.79 FOKUS etc,charlogout conn:1 name:[Gm]FokusGay 
+[01/04/2018][11:46:10]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[01/04/2018][11:46:54] IP: 25.80.207.79 FOKUS CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][11:47:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[01/04/2018][11:47:21] IP: 25.80.207.79 FOKUS etc,createchar name:Fokus 1 13 
+[01/04/2018][11:47:34] IP: 25.80.207.79 FOKUS clo,fd 11-0 
+[01/04/2018][11:47:45] IP: 25.80.207.79 FOKUS CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][11:48:02] IP: 25.80.207.79 FOKUS sta,Login char:[Gm]FokusGay exp:2209 level:399 conn:1 money:1997109110, store:0 
+[01/04/2018][11:48:03] IP: 25.5.216.68 DECO adm +set reloardnpc 
+[01/04/2018][11:48:05]  FOKUS etc,changecity city:0 X:2096 Y:2105 
+[01/04/2018][11:48:05] IP: 25.5.216.68 DECO adm +set reloardnpc 
+[01/04/2018][11:48:06] IP: 25.5.216.68 DECO adm +set reloardnpc 
+[01/04/2018][11:48:07] IP: 25.5.216.68 DECO adm +set reloardnpc 
+[01/04/2018][11:48:10]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][11:48:35] IP: 25.80.207.79 FOKUS clo,fd 22-2 
+[01/04/2018][11:48:35] IP: 25.80.207.79 FOKUS etc,charlogout conn:1 name:[Gm]FokusGay 
+[01/04/2018][11:48:58]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:49:00]  -system etc,nightmare_arcan clear -11:49 
+[01/04/2018][11:50:10] IP: 25.80.207.79 FOKUS1 CNFAccountLogin Mac: 2033827341.-1638183242.-2033065182.-1411387887 
+[01/04/2018][11:50:22]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[01/04/2018][11:50:31] IP: 25.80.207.79 FOKUS1 etc,createchar name:Fokus 1 13 
+[01/04/2018][11:50:34]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[01/04/2018][11:50:34]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[01/04/2018][11:50:41] IP: 25.80.207.79 FOKUS1 etc,createchar name:Fokus- 1 13 
+[01/04/2018][11:52:15] IP: 25.80.207.79 FOKUS1 clo,fd 11-0 
+[01/04/2018][11:53:03] IP: 25.5.216.68 DECO adm +set restart 
+[01/04/2018][11:53:09] IP: 25.5.216.68 DECO adm +restart 
+[01/04/2018][11:53:18] IP: 25.5.216.68 DECO adm +showtdown 
+[01/04/2018][11:53:24] IP: 25.5.216.68 DECO adm +reiniciar 
+[01/04/2018][11:53:31] IP: 25.5.216.68 DECO adm +set reiniciar 
+[01/04/2018][11:53:44] IP: 25.5.216.68 DECO clo,fd 22-2 
+[01/04/2018][11:53:44] IP: 25.5.216.68 DECO etc,charlogout conn:2 name:TESTEEE 

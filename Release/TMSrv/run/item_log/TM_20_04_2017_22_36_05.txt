@@ -1,0 +1,328 @@
+20.04.2017.22.40.46 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:4 Item: Luvas_de_Pano(A) : 1289.0.0.0.0.0.0 DstType:1 DstSlot:0 Item: 
+20.04.2017.22.40.46 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:2 Item: Túnica_de_Pano(A) : 1265.0.0.0.0.0.0 DstType:1 DstSlot:5 Item: 
+20.04.2017.22.40.47 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:3 Item: Saia_de_Pano(A) : 1277.0.0.0.0.0.0 DstType:1 DstSlot:10 Item: 
+20.04.2017.22.40.47 IP: 201.88.190.162 TESTE tradingitem, SrcType:0 SrcSlot:4 Item: Luvas_de_Pano(A) : 1289.0.0.0.0.0.0 DstType:1 DstSlot:0 Item: 
+20.04.2017.22.40.48 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:1 Item: Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: 
+20.04.2017.22.40.48 IP: 201.88.190.162 TESTE tradingitem, SrcType:0 SrcSlot:2 Item: Túnica_de_Pano(A) : 1265.0.0.0.0.0.0 DstType:1 DstSlot:5 Item: 
+20.04.2017.22.40.52 IP: 201.88.190.162 TESTE tradingitem, SrcType:0 SrcSlot:3 Item: Saia_de_Pano(A) : 1277.0.0.0.0.0.0 DstType:1 DstSlot:10 Item: 
+20.04.2017.22.40.54 IP: 201.88.190.162 TESTE tradingitem, SrcType:0 SrcSlot:5 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: 
+20.04.2017.22.41.05 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:5 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 DstType:1 DstSlot:6 Item: 
+20.04.2017.22.41.25 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:6 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 DstType:0 DstSlot:5 Item: 
+20.04.2017.22.41.27 IP: 201.88.190.162 TESTE tradingitem, SrcType:1 SrcSlot:1 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 DstType:0 DstSlot:5 Item: 
+20.04.2017.22.41.29 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:1 Item: Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 DstType:0 DstSlot:1 Item: 
+20.04.2017.22.41.30 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:0 Item: Luvas_de_Pano(A) : 1289.0.0.0.0.0.0 DstType:0 DstSlot:4 Item: 
+20.04.2017.22.41.30 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:5 Item: Túnica_de_Pano(A) : 1265.0.0.0.0.0.0 DstType:0 DstSlot:2 Item: 
+20.04.2017.22.41.31 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:10 Item: Saia_de_Pano(A) : 1277.0.0.0.0.0.0 DstType:0 DstSlot:3 Item: 
+20.04.2017.22.42.09 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:3 Item: Saia_de_Pano(A) : 1277.0.0.0.0.0.0 DstType:1 DstSlot:0 Item: 
+20.04.2017.22.42.10 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:5 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 DstType:1 DstSlot:5 Item: 
+20.04.2017.22.42.11 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:2 Item: Túnica_de_Pano(A) : 1265.0.0.0.0.0.0 DstType:1 DstSlot:10 Item: 
+20.04.2017.22.42.11 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:4 Item: Luvas_de_Pano(A) : 1289.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: 
+20.04.2017.22.42.12 IP: 192.168.1.113 CYBER tradingitem, SrcType:0 SrcSlot:1 Item: Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 DstType:1 DstSlot:6 Item: 
+20.04.2017.22.44.12 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:5 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 DstType:0 DstSlot:5 Item: 
+20.04.2017.22.45.35 IP: 192.168.1.113 CYBER buy_npc,npc:Evolucao price:5250 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+20.04.2017.22.45.36 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:37 
+20.04.2017.22.45.37 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:38 
+20.04.2017.22.45.37 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:39 
+20.04.2017.22.45.37 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:40 
+20.04.2017.22.45.38 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:41 
+20.04.2017.22.45.38 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:42 
+20.04.2017.22.45.38 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:43 
+20.04.2017.22.45.38 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:44 
+20.04.2017.22.45.38 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:45 
+20.04.2017.22.45.45 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:46 
+20.04.2017.22.45.45 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:47 
+20.04.2017.22.45.45 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:48 
+20.04.2017.22.45.47 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:49 
+20.04.2017.22.45.47 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:50 
+20.04.2017.22.45.47 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:51 
+20.04.2017.22.45.48 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:52 
+20.04.2017.22.45.48 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:53 
+20.04.2017.22.45.48 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:54 
+20.04.2017.22.45.48 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:55 
+20.04.2017.22.45.48 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:56 
+20.04.2017.22.45.49 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:57 
+20.04.2017.22.45.49 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:58 
+20.04.2017.22.45.49 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:59 
+20.04.2017.22.45.49 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:60 
+20.04.2017.22.45.50 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:61 
+20.04.2017.22.45.50 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:62 
+20.04.2017.22.45.50 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:63 
+20.04.2017.22.45.50 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:64 
+20.04.2017.22.45.51 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:65 
+20.04.2017.22.45.51 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:66 
+20.04.2017.22.45.51 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:67 
+20.04.2017.22.45.51 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:68 
+20.04.2017.22.45.52 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:69 
+20.04.2017.22.45.52 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:70 
+20.04.2017.22.45.52 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:71 
+20.04.2017.22.45.52 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:72 
+20.04.2017.22.45.53 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:73 
+20.04.2017.22.45.53 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:74 
+20.04.2017.22.45.53 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:75 
+20.04.2017.22.45.53 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:76 
+20.04.2017.22.45.54 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:77 
+20.04.2017.22.45.54 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:78 
+20.04.2017.22.45.54 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:79 
+20.04.2017.22.45.54 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:80 
+20.04.2017.22.45.54 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:81 
+20.04.2017.22.45.55 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:82 
+20.04.2017.22.45.55 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:83 
+20.04.2017.22.45.55 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:84 
+20.04.2017.22.45.55 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:85 
+20.04.2017.22.45.56 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:86 
+20.04.2017.22.45.56 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:87 
+20.04.2017.22.45.56 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:88 
+20.04.2017.22.45.56 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:89 
+20.04.2017.22.45.57 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:90 
+20.04.2017.22.45.57 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:91 
+20.04.2017.22.45.57 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:92 
+20.04.2017.22.45.57 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:93 
+20.04.2017.22.45.58 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:94 
+20.04.2017.22.45.58 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:95 
+20.04.2017.22.45.58 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:96 
+20.04.2017.22.45.58 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:97 
+20.04.2017.22.45.58 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:98 
+20.04.2017.22.45.59 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:99 
+20.04.2017.22.45.59 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:100 
+20.04.2017.22.45.59 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:101 
+20.04.2017.22.46.00 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:102 
+20.04.2017.22.46.00 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:103 
+20.04.2017.22.46.00 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:104 
+20.04.2017.22.46.00 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:105 
+20.04.2017.22.46.01 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:106 
+20.04.2017.22.46.01 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:107 
+20.04.2017.22.46.01 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:108 
+20.04.2017.22.46.01 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:109 
+20.04.2017.22.46.02 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:110 
+20.04.2017.22.46.02 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:111 
+20.04.2017.22.46.02 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:112 
+20.04.2017.22.46.02 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:113 
+20.04.2017.22.46.02 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:114 
+20.04.2017.22.46.03 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:115 
+20.04.2017.22.46.03 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:116 
+20.04.2017.22.46.03 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:117 
+20.04.2017.22.46.03 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:118 
+20.04.2017.22.46.04 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:119 
+20.04.2017.22.46.04 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:120 
+20.04.2017.22.46.04 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:121 
+20.04.2017.22.46.04 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:122 
+20.04.2017.22.46.05 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:123 
+20.04.2017.22.46.05 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:124 
+20.04.2017.22.46.05 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:125 
+20.04.2017.22.46.05 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:126 
+20.04.2017.22.46.06 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:127 
+20.04.2017.22.46.06 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:128 
+20.04.2017.22.46.06 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:129 
+20.04.2017.22.46.06 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:130 
+20.04.2017.22.46.07 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:131 
+20.04.2017.22.46.07 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:132 
+20.04.2017.22.46.07 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:133 
+20.04.2017.22.46.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:134 
+20.04.2017.22.46.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:135 
+20.04.2017.22.46.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:136 
+20.04.2017.22.46.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:137 
+20.04.2017.22.46.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:138 
+20.04.2017.22.46.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:139 
+20.04.2017.22.46.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:140 
+20.04.2017.22.46.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:141 
+20.04.2017.22.46.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:142 
+20.04.2017.22.46.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:143 
+20.04.2017.22.46.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:144 
+20.04.2017.22.46.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:145 
+20.04.2017.22.46.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:146 
+20.04.2017.22.46.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:147 
+20.04.2017.22.46.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:148 
+20.04.2017.22.46.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:149 
+20.04.2017.22.46.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:150 
+20.04.2017.22.46.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:151 
+20.04.2017.22.46.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:152 
+20.04.2017.22.46.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:153 
+20.04.2017.22.46.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:154 
+20.04.2017.22.46.13 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:155 
+20.04.2017.22.46.13 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:156 
+20.04.2017.22.46.18 IP: 192.168.1.113 CYBER buy_npc,npc:Shadow Montaria price:1575000 item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+20.04.2017.22.46.23 IP: 192.168.1.113 CYBER buy_npc,npc:Shadow Montaria price:294000 item: Dente_de_Sabre : 2365.100.100.120.60.100.0 
+20.04.2017.22.46.25 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:7 Item: Dente_de_Sabre : 2365.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+20.04.2017.22.46.31 IP: 192.168.1.113 CYBER buy_npc,npc:Runas Joias price:0 item: Jóia_da_Absorção : 3204.61.255.0.0.0.0 
+20.04.2017.22.46.33 IP: 192.168.1.113 CYBER useitem,joia_pvp joia:3204 
+20.04.2017.22.46.54 IP: 201.88.190.162 TESTE buy_npc,npc:Evolucao price:5250 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+20.04.2017.22.46.56 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:1 
+20.04.2017.22.46.56 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:2 
+20.04.2017.22.46.57 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:3 
+20.04.2017.22.46.57 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:4 
+20.04.2017.22.46.57 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:5 
+20.04.2017.22.46.58 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:6 
+20.04.2017.22.46.58 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:7 
+20.04.2017.22.46.58 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:8 
+20.04.2017.22.46.58 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:9 
+20.04.2017.22.46.58 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:10 
+20.04.2017.22.46.59 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:11 
+20.04.2017.22.46.59 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:12 
+20.04.2017.22.46.59 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:13 
+20.04.2017.22.46.59 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:14 
+20.04.2017.22.47.00 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:15 
+20.04.2017.22.47.00 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:16 
+20.04.2017.22.47.00 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:17 
+20.04.2017.22.47.00 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:18 
+20.04.2017.22.47.01 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:19 
+20.04.2017.22.47.01 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:20 
+20.04.2017.22.47.01 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:21 
+20.04.2017.22.47.01 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:22 
+20.04.2017.22.47.02 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:23 
+20.04.2017.22.47.02 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:24 
+20.04.2017.22.47.02 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:25 
+20.04.2017.22.47.02 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:26 
+20.04.2017.22.47.03 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:27 
+20.04.2017.22.47.03 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:28 
+20.04.2017.22.47.03 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:29 
+20.04.2017.22.47.03 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:30 
+20.04.2017.22.47.03 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:31 
+20.04.2017.22.47.04 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:32 
+20.04.2017.22.47.04 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:33 
+20.04.2017.22.47.04 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:34 
+20.04.2017.22.47.05 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:35 
+20.04.2017.22.47.05 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:36 
+20.04.2017.22.47.05 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:37 
+20.04.2017.22.47.05 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:38 
+20.04.2017.22.47.06 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:39 
+20.04.2017.22.47.06 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:40 
+20.04.2017.22.47.06 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:41 
+20.04.2017.22.47.06 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:42 
+20.04.2017.22.47.06 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:157 
+20.04.2017.22.47.06 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:43 
+20.04.2017.22.47.07 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:44 
+20.04.2017.22.47.07 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:158 
+20.04.2017.22.47.07 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:45 
+20.04.2017.22.47.07 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:46 
+20.04.2017.22.47.07 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:47 
+20.04.2017.22.47.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:159 
+20.04.2017.22.47.08 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:48 
+20.04.2017.22.47.08 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:49 
+20.04.2017.22.47.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:160 
+20.04.2017.22.47.08 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:50 
+20.04.2017.22.47.08 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:51 
+20.04.2017.22.47.08 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:161 
+20.04.2017.22.47.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:162 
+20.04.2017.22.47.09 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:52 
+20.04.2017.22.47.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:163 
+20.04.2017.22.47.09 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:53 
+20.04.2017.22.47.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:164 
+20.04.2017.22.47.09 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:54 
+20.04.2017.22.47.09 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:165 
+20.04.2017.22.47.09 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:55 
+20.04.2017.22.47.10 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:56 
+20.04.2017.22.47.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:166 
+20.04.2017.22.47.10 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:57 
+20.04.2017.22.47.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:167 
+20.04.2017.22.47.10 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:58 
+20.04.2017.22.47.10 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:168 
+20.04.2017.22.47.10 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:59 
+20.04.2017.22.47.10 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:60 
+20.04.2017.22.47.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:169 
+20.04.2017.22.47.11 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:61 
+20.04.2017.22.47.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:170 
+20.04.2017.22.47.11 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:62 
+20.04.2017.22.47.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:171 
+20.04.2017.22.47.11 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:63 
+20.04.2017.22.47.11 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:172 
+20.04.2017.22.47.12 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:64 
+20.04.2017.22.47.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:173 
+20.04.2017.22.47.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:174 
+20.04.2017.22.47.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:175 
+20.04.2017.22.47.12 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:176 
+20.04.2017.22.47.13 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:177 
+20.04.2017.22.47.13 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:178 
+20.04.2017.22.47.13 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:179 
+20.04.2017.22.47.13 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:180 
+20.04.2017.22.47.14 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:181 
+20.04.2017.22.47.14 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:182 
+20.04.2017.22.47.14 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:183 
+20.04.2017.22.47.14 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:184 
+20.04.2017.22.47.15 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:185 
+20.04.2017.22.47.15 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:186 
+20.04.2017.22.47.15 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:187 
+20.04.2017.22.47.16 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:65 
+20.04.2017.22.47.16 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:188 
+20.04.2017.22.47.16 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:66 
+20.04.2017.22.47.16 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:189 
+20.04.2017.22.47.16 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:67 
+20.04.2017.22.47.16 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:190 
+20.04.2017.22.47.16 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:68 
+20.04.2017.22.47.16 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:191 
+20.04.2017.22.47.17 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:192 
+20.04.2017.22.47.17 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:69 
+20.04.2017.22.47.17 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:70 
+20.04.2017.22.47.17 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:193 
+20.04.2017.22.47.17 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:194 
+20.04.2017.22.47.17 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:71 
+20.04.2017.22.47.17 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:195 
+20.04.2017.22.47.17 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:72 
+20.04.2017.22.47.17 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:196 
+20.04.2017.22.47.18 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:73 
+20.04.2017.22.47.18 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:197 
+20.04.2017.22.47.18 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:74 
+20.04.2017.22.47.18 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:75 
+20.04.2017.22.47.18 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:198 
+20.04.2017.22.47.18 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:76 
+20.04.2017.22.47.18 IP: 192.168.1.113 CYBER useitem,poeira_de_fada classmaster:2 level:199 
+20.04.2017.22.47.18 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:77 
+20.04.2017.22.47.19 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:78 
+20.04.2017.22.47.19 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:79 
+20.04.2017.22.47.21 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:80 
+20.04.2017.22.47.22 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:81 
+20.04.2017.22.47.22 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:82 
+20.04.2017.22.47.22 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:83 
+20.04.2017.22.47.22 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:84 
+20.04.2017.22.47.23 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:85 
+20.04.2017.22.47.24 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:86 
+20.04.2017.22.47.24 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:87 
+20.04.2017.22.47.25 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:88 
+20.04.2017.22.47.25 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:89 
+20.04.2017.22.47.26 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:90 
+20.04.2017.22.47.26 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:91 
+20.04.2017.22.47.26 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:92 
+20.04.2017.22.47.26 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:93 
+20.04.2017.22.47.27 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:94 
+20.04.2017.22.47.27 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:95 
+20.04.2017.22.47.29 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:96 
+20.04.2017.22.47.29 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:97 
+20.04.2017.22.47.31 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:98 
+20.04.2017.22.47.31 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:99 
+20.04.2017.22.47.31 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:100 
+20.04.2017.22.47.32 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:101 
+20.04.2017.22.47.32 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:102 
+20.04.2017.22.47.32 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:103 
+20.04.2017.22.47.32 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:104 
+20.04.2017.22.47.33 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:105 
+20.04.2017.22.47.33 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:106 
+20.04.2017.22.47.33 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:107 
+20.04.2017.22.47.33 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:108 
+20.04.2017.22.47.34 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:109 
+20.04.2017.22.47.34 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:110 
+20.04.2017.22.47.34 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:111 
+20.04.2017.22.47.34 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:112 
+20.04.2017.22.47.34 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:113 
+20.04.2017.22.47.35 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:114 
+20.04.2017.22.47.36 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:115 
+20.04.2017.22.47.36 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:116 
+20.04.2017.22.47.36 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:117 
+20.04.2017.22.47.37 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:118 
+20.04.2017.22.47.37 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:119 
+20.04.2017.22.47.37 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:120 
+20.04.2017.22.47.37 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:121 
+20.04.2017.22.47.37 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:122 
+20.04.2017.22.47.38 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:123 
+20.04.2017.22.47.38 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:124 
+20.04.2017.22.47.39 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:125 
+20.04.2017.22.47.40 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:126 
+20.04.2017.22.47.40 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:127 
+20.04.2017.22.47.44 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:128 
+20.04.2017.22.47.45 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:129 
+20.04.2017.22.47.45 IP: 201.88.190.162 TESTE useitem,poeira_de_fada classmaster:2 level:130 
+20.04.2017.22.47.49 IP: 192.168.1.113 CYBER buy_npc,npc:Acessorios3 price:1260 item: Conjunto_Real(Azul)(30dias) : 4172.0.0.0.0.0.0 
+20.04.2017.22.47.52 IP: 201.88.190.162 TESTE buy_npc,npc:Shadow Montaria price:294000 item: Dente_de_Sabre : 2365.100.100.120.60.100.0 
+20.04.2017.22.47.53 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:12 Item: Conjunto_Real(Azul)(30dias) : 4172.106.21.110.5.109.17 DstType:0 DstSlot:12 Item: 
+20.04.2017.22.48.12 IP: 192.168.1.113 CYBER buy_npc,npc:Acessorios3 price:1260 item: Conjunto_Valquíria(30dias) : 4152.0.0.0.0.0.0 
+20.04.2017.22.48.14 IP: 192.168.1.113 CYBER tradingitem, SrcType:1 SrcSlot:12 Item: Conjunto_Valquíria(30dias) : 4152.106.21.110.5.109.17 DstType:0 DstSlot:12 Item: Conjunto_Real(Azul)(30dias) : 4172.106.21.110.5.109.17 
+20.04.2017.22.48.26 IP: 201.88.190.162 TESTE buy_npc,npc:Shadow Montaria price:63000 item: Javali : 2361.100.100.120.60.100.0 
+20.04.2017.22.48.28 IP: 201.88.190.162 TESTE tradingitem, SrcType:1 SrcSlot:11 Item: Javali : 2361.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 

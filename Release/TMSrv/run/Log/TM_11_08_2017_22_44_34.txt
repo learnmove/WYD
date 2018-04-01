@@ -1,0 +1,183 @@
+[11/08/2017][22:44:37]  -system sys,start server 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 62 2215 2063 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 70 2219 2063 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 100 2227 2062 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 328 2321 2218 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 337 2318 2223 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 442 2488 2054 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 545 2488 1950 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 575 2450 1951 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 602 2543 1943 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 673 2618 1978 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 792 2472 1836 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 802 2476 1820 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 908 2612 2078 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 1179 2274 1748 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 1304 1960 1644 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1830 279 3790 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1968 409 3815 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 1995 560 3802 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2220 420 4027 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2253 974 4075 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2307 952 4002 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2542 930 3804 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 3860 2086 1616 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 3864 2138 1623 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 3868 2074 1595 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 3885 2048 1574 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid: 5770 3409 1534 
+[11/08/2017][22:44:49]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/08/2017][22:44:54] IP: 192.168.1.108 ADMIN CNFAccountLogin Mac: -1327610679.-2104213023.-2033555236.-2082929153 
+[11/08/2017][22:45:00] IP: 192.168.1.108 ADMIN sta,Login char:HT-te exp:848168570 level:312 conn:1 money:790505770, store:0 
+[11/08/2017][22:45:01]  ADMIN etc,changecity city:3 X:3666 Y:3124 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 442 2488 2054 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 797 2526 1833 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1032 2396 1689 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1053 2334 1745 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1181 2248 1748 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1297 1966 1622 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1405 1876 1758 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid: 1419 1862 1714 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1467 2192 1484 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 1934 435 3788 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 2050 682 3788 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid: 2869 1196 4022 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 2965 1417 4003 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid: 3169 1181 1715 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3850 2122 1629 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3855 2062 1636 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3869 2079 1595 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3873 2137 1595 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3874 2123 1583 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3886 2056 1586 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3887 2058 1551 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[11/08/2017][22:45:01]  -system err,No empty mobgrid(1): 4036 3621 2822 
+[11/08/2017][22:45:07] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:45:07] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:45:08] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:45:13] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:45:13] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 268 2364 2170 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid: 1122 2323 1610 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 1204 2195 1707 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 1298 1982 1622 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 2086 749 3809 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 2544 918 3804 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 2633 1069 3814 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 3051 1397 3789 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 3458 2384 2117 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 3586 778 4064 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 3792 2232 3628 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 3869 2084 1596 
+[11/08/2017][22:45:13]  -system err,No empty mobgrid(1): 3891 2130 1552 
+[11/08/2017][22:45:14] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:45:14] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:45:14] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:45:16] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:4183 name:Lobo Polar dam:5650 x:3639 y:3065 
+[11/08/2017][22:45:18] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:4183 name:Lobo Polar dam:5844 x:3641 y:3064 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 1061 2340 1700 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 1205 2195 1703 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 1297 1967 1622 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 2079 740 3744 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 2523 799 3889 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid: 2743 1703 1826 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 2965 1418 4002 
+[11/08/2017][22:45:25]  -system err,No empty mobgrid(1): 3511 1332 4040 
+[11/08/2017][22:45:37]  -system err,No empty mobgrid(1): 2086 750 3808 
+[11/08/2017][22:45:37]  -system err,No empty mobgrid(1): 4036 3621 2822 
+[11/08/2017][22:45:45] IP: 192.168.1.108 ADMIN clo,fd 22-2 
+[11/08/2017][22:45:45] IP: 192.168.1.108 ADMIN etc,charlogout conn:1 name:HT-te 
+[11/08/2017][22:45:49]  -system err,No empty mobgrid(1): 1061 2343 1700 
+[11/08/2017][22:45:49]  -system err,No empty mobgrid(1): 1205 2194 1704 
+[11/08/2017][22:45:49]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/08/2017][22:45:49]  -system err,No empty mobgrid(1): 3511 1333 4041 
+[11/08/2017][22:46:01]  -system err,No empty mobgrid(1): 1204 2195 1708 
+[11/08/2017][22:46:01]  -system err,No empty mobgrid(1): 2086 749 3809 
+[11/08/2017][22:46:01]  -system err,No empty mobgrid(1): 2756 1746 1826 
+[11/08/2017][22:46:01]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[11/08/2017][22:46:13]  -system err,No empty mobgrid: 1061 2344 1702 
+[11/08/2017][22:46:13]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[11/08/2017][22:46:13]  -system err,No empty mobgrid(1): 3511 1332 4039 
+[11/08/2017][22:46:37]  -system err,No empty mobgrid(1): 1297 1972 1623 
+[11/08/2017][22:46:37]  -system err,No empty mobgrid: 2699 1749 1787 
+[11/08/2017][22:46:56] IP: 192.168.1.108 ADMIN CNFAccountLogin Mac: -1327610679.-2104213023.-2033555236.-2082929153 
+[11/08/2017][22:47:01]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[11/08/2017][22:47:01] IP: 192.168.1.108 ADMIN sta,Login char:HT-te exp:848168570 level:312 conn:1 money:790505770, store:0 
+[11/08/2017][22:47:02]  ADMIN etc,changecity city:3 X:3661 Y:3133 
+[11/08/2017][22:47:10] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1055 Y:1711 price:0 
+[11/08/2017][22:47:12] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:47:13] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:47:14] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:47:15] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:47:29] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5759 name:Tauron dam:5508 x:1161 y:1702 
+[11/08/2017][22:47:30] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5759 name:Tauron dam:5452 x:1161 y:1702 
+[11/08/2017][22:47:31] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5759 name:Tauron dam:5312 x:1161 y:1702 
+[11/08/2017][22:47:32] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5759 name:Tauron dam:5284 x:1161 y:1702 
+[11/08/2017][22:47:33] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5759 name:Tauron dam:8192 x:1161 y:1702 
+[11/08/2017][22:47:34] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5759 name:Tauron dam:5424 x:1161 y:1702 
+[11/08/2017][22:47:36] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5757 name:Tauron dam:5452 x:1156 y:1703 
+[11/08/2017][22:47:38] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5757 name:Tauron dam:5452 x:1156 y:1703 
+[11/08/2017][22:47:39] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5757 name:Tauron dam:5396 x:1156 y:1703 
+[11/08/2017][22:47:40] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5757 name:Tauron dam:5452 x:1150 y:1701 
+[11/08/2017][22:47:41] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5757 name:Tauron dam:5312 x:1150 y:1701 
+[11/08/2017][22:47:42] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5757 name:Tauron dam:5508 x:1150 y:1701 
+[11/08/2017][22:47:46] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5767 name:Tauron dam:5536 x:1156 y:1720 
+[11/08/2017][22:47:47] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5767 name:Tauron dam:5480 x:1150 y:1717 
+[11/08/2017][22:47:49]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/08/2017][22:47:49] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5767 name:Tauron dam:5480 x:1147 y:1719 
+[11/08/2017][22:47:50] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5767 name:Tauron dam:5564 x:1147 y:1719 
+[11/08/2017][22:47:51] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5767 name:Tauron dam:5368 x:1147 y:1719 
+[11/08/2017][22:47:52] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5767 name:Tauron dam:5396 x:1147 y:1719 
+[11/08/2017][22:47:53] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5768 name:Tauron dam:5284 x:1149 y:1716 
+[11/08/2017][22:47:54] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5768 name:Tauron dam:5368 x:1149 y:1716 
+[11/08/2017][22:47:55] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5768 name:Tauron dam:5396 x:1149 y:1716 
+[11/08/2017][22:47:56] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5768 name:Tauron dam:5508 x:1149 y:1716 
+[11/08/2017][22:47:57] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5768 name:Tauron dam:5480 x:1149 y:1716 
+[11/08/2017][22:47:58] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5768 name:Tauron dam:5284 x:1149 y:1716 
+[11/08/2017][22:48:02] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5769 name:Tauron dam:5536 x:1147 y:1719 
+[11/08/2017][22:48:03] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5769 name:Tauron dam:5340 x:1142 y:1723 
+[11/08/2017][22:48:04] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5769 name:Tauron dam:5368 x:1142 y:1723 
+[11/08/2017][22:48:05] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5769 name:Tauron dam:8642 x:1142 y:1723 
+[11/08/2017][22:48:06] IP: 192.168.1.108 ADMIN etc,msg_attack attacker:1 name:HT-te target:5769 name:Tauron dam:5564 x:1142 y:1723 
+[11/08/2017][22:48:51] IP: 192.168.1.108 ADMIN clo,fd 22-2 
+[11/08/2017][22:48:51] IP: 192.168.1.108 ADMIN etc,charlogout conn:1 name:HT-te 
+[11/08/2017][22:48:53]  -system err wsareaddb fail 
+[11/08/2017][22:48:56]  -system reconnect DB fail. 

@@ -1,0 +1,472 @@
+[20/04/2017][22:18:46]  -system sys,start server 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 62 2215 2063 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 70 2219 2063 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 100 2227 2062 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 328 2321 2218 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 337 2318 2223 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 442 2488 2054 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 545 2488 1950 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 575 2450 1951 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 602 2543 1943 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 673 2618 1978 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 792 2472 1836 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 802 2476 1820 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 908 2612 2078 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 1179 2274 1748 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 1304 1960 1644 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1830 279 3790 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1968 409 3815 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 1995 560 3802 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2086 750 3809 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2220 420 4027 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2253 974 4075 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2307 952 4002 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2542 930 3804 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 3860 2086 1616 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 3864 2138 1623 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 3868 2074 1595 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 3885 2048 1574 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid: 5770 3409 1534 
+[20/04/2017][22:18:58]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[20/04/2017][22:19:00]  -system etc,nightmare_normal clear -22:19 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 70 2224 2063 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 324 2368 2213 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 337 2324 2224 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 601 2543 1954 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 796 2513 1836 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid: 1229 2268 1719 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 1293 1945 1573 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 1405 1877 1758 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 1467 2192 1487 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid: 1871 321 3744 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 1934 435 3788 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 1968 410 3815 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2019 596 3770 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2086 749 3809 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2287 1003 4004 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2523 799 3889 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2601 1030 3762 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2617 1077 3753 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2635 1068 3786 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 2641 1128 3762 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3869 2085 1596 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3873 2133 1595 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3878 2139 1583 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 4036 3622 2822 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[20/04/2017][22:19:10]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 259 2360 2160 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 1296 1953 1621 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 1298 1982 1620 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 3792 2232 3628 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 3852 2113 1636 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 3904 3661 3067 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 4106 3541 2896 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[20/04/2017][22:19:22]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid: 1193 2209 1732 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 1229 2267 1719 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 1231 2255 1735 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 1293 1945 1572 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 1345 1984 1723 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 2086 750 3809 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 2229 488 4042 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid: 2743 1703 1826 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 3235 1378 1855 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 3852 2112 1635 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 3891 2134 1551 
+[20/04/2017][22:19:34]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid(1): 1292 1956 1561 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid: 1296 1952 1621 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid(1): 1298 1977 1623 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid: 1364 1986 1752 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid(1): 2814 1746 1628 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid(1): 3514 1317 4043 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid(1): 3891 2135 1551 
+[20/04/2017][22:19:46]  -system err,No empty mobgrid(1): 4036 3624 2821 
+[20/04/2017][22:19:58]  -system err,No empty mobgrid(1): 3511 1332 4041 
+[20/04/2017][22:19:58]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[20/04/2017][22:19:58]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[20/04/2017][22:19:58]  -system err,No empty mobgrid(1): 4106 3540 2896 
+[20/04/2017][22:20:10]  -system err,No empty mobgrid(1): 1298 1978 1620 
+[20/04/2017][22:20:11] IP: 192.168.1.113 ADMIN CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[20/04/2017][22:20:22]  -system err,No empty mobgrid(1): 3455 2416 2121 
+[20/04/2017][22:20:22]  -system err,No empty mobgrid(1): 4036 3621 2823 
+[20/04/2017][22:20:30] IP: 192.168.1.113 ADMIN sta,Login char:Douglas1 exp:0 level:0 conn:1 money:1731350955, store:0 
+[20/04/2017][22:20:32]  ADMIN etc,changecity city:0 X:2096 Y:2093 
+[20/04/2017][22:20:34]  -system err,No empty mobgrid(1): 1298 1981 1622 
+[20/04/2017][22:20:34]  -system err,No empty mobgrid: 3488 622 3757 
+[20/04/2017][22:20:34]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[20/04/2017][22:20:46]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[20/04/2017][22:20:58]  -system err,No empty mobgrid(1): 1298 1978 1624 
+[20/04/2017][22:21:10]  -system err,No empty mobgrid(1): 3605 2448 4008 
+[20/04/2017][22:21:22]  -system err,No empty mobgrid(1): 1298 1978 1621 
+[20/04/2017][22:21:58]  -system err,No empty mobgrid(1): 2245 404 4046 
+[20/04/2017][22:22:06] IP: 192.168.1.113 ADMIN etc,reqteleport char:Douglas1 X:1044 Y:1724 price:700 
+[20/04/2017][22:22:10]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[20/04/2017][22:22:32] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5752 name:Tauron dam:9224 x:1160 y:1702 
+[20/04/2017][22:22:33] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5752 name:Tauron dam:9466 x:1160 y:1702 
+[20/04/2017][22:22:34] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5752 name:Tauron dam:9304 x:1160 y:1702 
+[20/04/2017][22:22:35] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5752 name:Tauron dam:9708 x:1160 y:1702 
+[20/04/2017][22:22:37] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:3634 name:Tauron dam:9788 x:1160 y:1702 
+[20/04/2017][22:22:38] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:3634 name:Tauron dam:8982 x:1160 y:1702 
+[20/04/2017][22:22:39] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:3634 name:Tauron dam:9144 x:1160 y:1702 
+[20/04/2017][22:22:40] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5750 name:Tauron dam:9708 x:1162 y:1701 
+[20/04/2017][22:22:41] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:3634 name:Tauron dam:9064 x:1160 y:1702 
+[20/04/2017][22:22:42] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5750 name:Tauron dam:9788 x:1162 y:1701 
+[20/04/2017][22:22:43]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:43]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:43]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:43]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:43]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:43]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5750 name:Tauron dam:8606 x:1162 y:1701 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:44]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:45]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5750 name:Tauron dam:9750 x:1162 y:1701 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:46]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:47]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5749 name:Tauron dam:11168 x:1160 y:1702 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:48]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:49] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5749 name:Tauron dam:11584 x:1160 y:1702 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:50]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5749 name:Tauron dam:13314 x:1160 y:1702 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:51]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:52]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8015 name:Tauron dam:14654 x:1159 y:1700 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:53]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:54]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8015 name:Tauron dam:14640 x:1159 y:1700 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:55]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:56]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8015 name:Tauron dam:17400 x:1159 y:1701 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:57]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:58] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8038 name:Tauron dam:18006 x:1162 y:1701 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:22:59]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8038 name:Tauron dam:19552 x:1162 y:1701 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:00]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:100 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:01]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8016 name:Tauron dam:19990 x:1160 y:1702 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:02]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:03]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:03]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:03]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:03]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:03]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:03]  ADMIN etc,applybonus name:Douglas1 bonustype:0 detail:2 pontos:1 
+[20/04/2017][22:23:04] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8016 name:Tauron dam:18766 x:1160 y:1702 
+[20/04/2017][22:23:08] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5751 name:Tauron dam:20350 x:1163 y:1702 
+[20/04/2017][22:23:09] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:5751 name:Tauron dam:19646 x:1163 y:1702 
+[20/04/2017][22:23:15] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:Douglas1 target:8066 name:Tauron dam:19294 x:1161 y:1700 
+[20/04/2017][22:23:29] IP: 192.168.1.113 ADMIN sta,Login char:EOQe exp:4000000000 level:1010 conn:1 money:14035597, store:0 
+[20/04/2017][22:23:30]  ADMIN etc,changecity city:3 X:3652 Y:3128 
+[20/04/2017][22:23:34]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[20/04/2017][22:23:41] IP: 192.168.1.113 ADMIN adm +set 7 1555 
+[20/04/2017][22:23:41] IP: 192.168.1.113 EOQe - Set Item Equip [1555 0:0:0:0:0:0] -system 
+[20/04/2017][22:23:55] IP: 192.168.1.113 ADMIN adm +set 2551 43 250 
+[20/04/2017][22:24:00]  -system etc,nightmare_mystic clear -22:24 
+[20/04/2017][22:24:03] IP: 192.168.1.113 ADMIN adm +set 7 2551 43 250 
+[20/04/2017][22:24:03] IP: 192.168.1.113 EOQe - Set Item Equip [2551 43:250:0:0:0:0] -system 
+[20/04/2017][22:24:34] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6127 name:Lobo Polar dam:25282 x:3660 y:3070 
+[20/04/2017][22:24:35] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6127 name:Lobo Polar dam:25282 x:3660 y:3070 
+[20/04/2017][22:24:36] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6127 name:Lobo Polar dam:26578 x:3660 y:3070 
+[20/04/2017][22:24:37] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6127 name:Lobo Polar dam:25834 x:3660 y:3070 
+[20/04/2017][22:24:48] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4183 name:Lobo Polar dam:25584 x:3641 y:3064 
+[20/04/2017][22:24:49] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4183 name:Lobo Polar dam:26826 x:3641 y:3064 
+[20/04/2017][22:24:54] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4183 name:Lobo Polar dam:24356 x:3641 y:3064 
+[20/04/2017][22:24:55] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4183 name:Lobo Polar dam:26578 x:3641 y:3064 
+[20/04/2017][22:24:56] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6128 name:Lobo Polar dam:25976 x:3632 y:3068 
+[20/04/2017][22:24:57] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6128 name:Lobo Polar dam:25584 x:3632 y:3068 
+[20/04/2017][22:24:58] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6128 name:Lobo Polar dam:5327 x:3632 y:3068 
+[20/04/2017][22:24:59] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6128 name:Lobo Polar dam:25976 x:3632 y:3068 
+[20/04/2017][22:25:00] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6128 name:Lobo Polar dam:26330 x:3632 y:3068 
+[20/04/2017][22:25:33] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4184 name:Lobo Polar dam:27074 x:3642 y:3056 
+[20/04/2017][22:25:35] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4184 name:Lobo Polar dam:28068 x:3642 y:3056 
+[20/04/2017][22:25:36] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4184 name:Lobo Polar dam:23894 x:3642 y:3056 
+[20/04/2017][22:25:37] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:4184 name:Lobo Polar dam:25050 x:3642 y:3056 
+[20/04/2017][22:26:05] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:8338 name:Lobo Polar dam:26578 x:3648 y:3058 
+[20/04/2017][22:26:21] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:6129 name:Lobo Polar dam:27820 x:3641 y:3055 
+[20/04/2017][22:26:28] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:8310 name:Lobo Polar dam:28068 x:3642 y:3070 
+[20/04/2017][22:26:29] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:8310 name:Lobo Polar dam:25584 x:3642 y:3070 
+[20/04/2017][22:26:30] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:8310 name:Lobo Polar dam:26438 x:3642 y:3070 
+[20/04/2017][22:26:31] IP: 192.168.1.113 ADMIN etc,msg_attack attacker:1 name:EOQe target:8310 name:Lobo Polar dam:25512 x:3642 y:3070 
+[20/04/2017][22:26:56] IP: 192.168.1.113 ADMIN clo,fd 22-2 
+[20/04/2017][22:26:56] IP: 192.168.1.113 ADMIN etc,charlogout conn:1 name:EOQe 
+[20/04/2017][22:27:10]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[20/04/2017][22:28:22]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[20/04/2017][22:28:58]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[20/04/2017][22:29:00]  -system etc,nightmare_arcan clear -22:29 
+[20/04/2017][22:29:58]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[20/04/2017][22:30:34]  -system err,No empty mobgrid(1): 2748 1710 1826 
+[20/04/2017][22:31:58] IP: 192.168.1.113 ADMIN CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[20/04/2017][22:32:17] IP: 192.168.1.113 ADMIN etc,delchar name:EOQe 1 13 
+[20/04/2017][22:32:21] IP: 192.168.1.113 ADMIN clo,fd 11-0 
+[20/04/2017][22:32:22]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[20/04/2017][22:32:34]  -system err,No empty mobgrid(1): 2748 1710 1826 
+[20/04/2017][22:32:38] IP: 192.168.1.113 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[20/04/2017][22:32:53] IP: 192.168.1.113 CYBER etc,createchar name:Cyber 1 13 
+[20/04/2017][22:32:57] IP: 192.168.1.113 CYBER sta,Login char:Cyber exp:0 level:0 conn:1 money:2000000000, store:0 
+[20/04/2017][22:33:00] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2375 name:Porco dam:29 x:2114 y:2044 
+[20/04/2017][22:33:02] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2375 name:Porco dam:29 x:2116 y:2040 
+[20/04/2017][22:33:03] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2374 name:Porco dam:29 x:2120 y:2040 
+[20/04/2017][22:33:04] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2374 name:Porco dam:29 x:2120 y:2040 
+[20/04/2017][22:33:06] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2373 name:Porco dam:28 x:2124 y:2038 
+[20/04/2017][22:33:07] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2373 name:Porco dam:29 x:2120 y:2040 
+[20/04/2017][22:33:08]  -system etc,carbuncle buff name:Cyber conn:1 
+[20/04/2017][22:33:10]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[20/04/2017][22:33:11] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6398 name:Porco dam:27 x:2125 y:2032 
+[20/04/2017][22:33:12] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6398 name:Porco dam:28 x:2125 y:2032 
+[20/04/2017][22:33:12] IP: 192.168.1.113 CYBER lvl Cyber level up to 1 
+[20/04/2017][22:33:17] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2411 name:Aguia dam:30 x:2114 y:2024 
+[20/04/2017][22:33:18] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2411 name:Aguia dam:30 x:2114 y:2024 
+[20/04/2017][22:33:21] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:5296 name:Aguia dam:29 x:2110 y:2020 
+[20/04/2017][22:33:22] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:5296 name:Aguia dam:28 x:2110 y:2020 
+[20/04/2017][22:33:22]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[20/04/2017][22:33:34]  -system err,No empty mobgrid: 2743 1703 1826 
+[20/04/2017][22:33:37] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2412 name:Porco dam:29 x:2104 y:2020 
+[20/04/2017][22:33:38] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2412 name:Porco dam:30 x:2104 y:2020 
+[20/04/2017][22:33:40] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:5297 name:Porco dam:28 x:2104 y:2021 
+[20/04/2017][22:33:41] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:5297 name:Porco dam:29 x:2104 y:2021 
+[20/04/2017][22:33:42] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2417 name:Aguia dam:29 x:2105 y:2019 
+[20/04/2017][22:33:43] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2417 name:Aguia dam:30 x:2105 y:2019 
+[20/04/2017][22:33:45] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2418 name:Porco dam:29 x:2104 y:2021 
+[20/04/2017][22:33:46] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2418 name:Porco dam:30 x:2104 y:2021 
+[20/04/2017][22:33:46] IP: 192.168.1.113 CYBER lvl Cyber level up to 2 
+[20/04/2017][22:33:48] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:5294 name:Aguia dam:30 x:2113 y:2018 
+[20/04/2017][22:33:49] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:5294 name:Aguia dam:32 x:2113 y:2018 
+[20/04/2017][22:33:51] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2407 name:Aguia dam:32 x:2121 y:2023 
+[20/04/2017][22:33:52] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2407 name:Aguia dam:30 x:2121 y:2023 
+[20/04/2017][22:33:53] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6397 name:Aguia dam:29 x:2124 y:2029 
+[20/04/2017][22:33:54] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6397 name:Aguia dam:32 x:2124 y:2029 
+[20/04/2017][22:33:55] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2398 name:Porco dam:32 x:2124 y:2028 
+[20/04/2017][22:33:56] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2398 name:Porco dam:29 x:2124 y:2028 
+[20/04/2017][22:33:58] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2396 name:Porco dam:32 x:2124 y:2030 
+[20/04/2017][22:33:58]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[20/04/2017][22:33:59] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2396 name:Porco dam:32 x:2125 y:2030 
+[20/04/2017][22:34:04]  -system etc,carbuncle buff name:Cyber conn:1 
+[20/04/2017][22:34:11] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2415 name:Aguia dam:30 x:2108 y:2031 
+[20/04/2017][22:34:12] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2415 name:Aguia dam:32 x:2108 y:2031 
+[20/04/2017][22:34:15] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2416 name:Porco dam:29 x:2109 y:2031 
+[20/04/2017][22:34:17] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2416 name:Porco dam:32 x:2109 y:2034 
+[20/04/2017][22:34:18] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2413 name:Aguia dam:30 x:2109 y:2032 
+[20/04/2017][22:34:19] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2413 name:Aguia dam:30 x:2109 y:2032 
+[20/04/2017][22:34:20] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6404 name:Porco dam:32 x:2109 y:2031 
+[20/04/2017][22:34:21] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6404 name:Porco dam:29 x:2109 y:2034 
+[20/04/2017][22:34:27] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6403 name:Aguia dam:30 x:2111 y:2030 
+[20/04/2017][22:34:28] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:6403 name:Aguia dam:29 x:2111 y:2030 
+[20/04/2017][22:34:31] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:9348 name:Porco dam:32 x:2116 y:2024 
+[20/04/2017][22:34:32] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:9348 name:Porco dam:30 x:2116 y:2024 
+[20/04/2017][22:34:32] IP: 192.168.1.113 CYBER lvl Cyber level up to 3 
+[20/04/2017][22:34:40] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2376 name:Porco dam:32 x:2113 y:2046 
+[20/04/2017][22:34:41] IP: 192.168.1.113 CYBER etc,msg_attack attacker:1 name:Cyber target:2376 name:Porco dam:33 x:2113 y:2046 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid: 5768 3408 1543 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid: 5769 3409 1537 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid: 5770 3411 1533 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid: 5771 3410 1527 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid: 5772 3410 1525 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[20/04/2017][22:35:10]  -system err,No empty mobgrid(1): 5971 3389 1089 
+[20/04/2017][22:35:18] IP: 192.168.1.113 CYBER clo,fd 22-2 
+[20/04/2017][22:35:18] IP: 192.168.1.113 CYBER etc,charlogout conn:1 name:Cyber 

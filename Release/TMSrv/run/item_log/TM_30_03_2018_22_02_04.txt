@@ -1,0 +1,365 @@
+30.03.2018.22.08.52 IP: 192.168.1.12 DECO buy_npc,npc:Evolucao price:5250 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+30.03.2018.22.08.53 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:3 
+30.03.2018.22.08.53 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:4 
+30.03.2018.22.08.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:5 
+30.03.2018.22.08.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:6 
+30.03.2018.22.08.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:7 
+30.03.2018.22.08.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:8 
+30.03.2018.22.08.55 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:9 
+30.03.2018.22.08.55 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:10 
+30.03.2018.22.08.55 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:11 
+30.03.2018.22.08.55 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:12 
+30.03.2018.22.08.55 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:13 
+30.03.2018.22.08.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:14 
+30.03.2018.22.08.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:15 
+30.03.2018.22.08.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:16 
+30.03.2018.22.08.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:17 
+30.03.2018.22.08.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:18 
+30.03.2018.22.08.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:19 
+30.03.2018.22.08.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:20 
+30.03.2018.22.08.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:21 
+30.03.2018.22.08.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:22 
+30.03.2018.22.08.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:23 
+30.03.2018.22.08.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:24 
+30.03.2018.22.08.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:25 
+30.03.2018.22.08.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:26 
+30.03.2018.22.08.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:27 
+30.03.2018.22.08.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:28 
+30.03.2018.22.08.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:29 
+30.03.2018.22.08.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:30 
+30.03.2018.22.09.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:31 
+30.03.2018.22.09.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:32 
+30.03.2018.22.09.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:33 
+30.03.2018.22.09.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:34 
+30.03.2018.22.09.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:35 
+30.03.2018.22.09.01 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:36 
+30.03.2018.22.09.01 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:37 
+30.03.2018.22.09.01 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:38 
+30.03.2018.22.09.01 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:39 
+30.03.2018.22.09.01 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:40 
+30.03.2018.22.09.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:41 
+30.03.2018.22.09.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:42 
+30.03.2018.22.09.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:43 
+30.03.2018.22.09.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:44 
+30.03.2018.22.09.03 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:45 
+30.03.2018.22.10.46 IP: 192.168.1.12 DECO buy_npc,npc:Shadow Montaria price:31500 item: Porco : 2360.100.100.120.60.100.0 
+30.03.2018.22.10.47 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:5 Item: Porco : 2360.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+30.03.2018.22.11.08 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:46 
+30.03.2018.22.11.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:47 
+30.03.2018.22.11.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:48 
+30.03.2018.22.11.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:49 
+30.03.2018.22.11.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:50 
+30.03.2018.22.11.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:51 
+30.03.2018.22.11.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:52 
+30.03.2018.22.11.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:53 
+30.03.2018.22.11.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:54 
+30.03.2018.22.11.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:55 
+30.03.2018.22.11.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:56 
+30.03.2018.22.11.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:57 
+30.03.2018.22.11.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:58 
+30.03.2018.22.11.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:59 
+30.03.2018.22.11.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:60 
+30.03.2018.22.11.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:61 
+30.03.2018.22.11.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:62 
+30.03.2018.22.11.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:63 
+30.03.2018.22.11.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:64 
+30.03.2018.22.11.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:65 
+30.03.2018.22.11.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:66 
+30.03.2018.22.11.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:67 
+30.03.2018.22.11.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:68 
+30.03.2018.22.11.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:69 
+30.03.2018.22.11.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:70 
+30.03.2018.22.11.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:71 
+30.03.2018.22.11.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:72 
+30.03.2018.22.11.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:73 
+30.03.2018.22.11.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:74 
+30.03.2018.22.11.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:75 
+30.03.2018.22.11.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:76 
+30.03.2018.22.11.16 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:77 
+30.03.2018.22.11.16 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:78 
+30.03.2018.22.11.16 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:79 
+30.03.2018.22.11.16 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:80 
+30.03.2018.22.11.16 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:81 
+30.03.2018.22.11.17 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:82 
+30.03.2018.22.11.17 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:83 
+30.03.2018.22.11.17 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:84 
+30.03.2018.22.11.17 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:85 
+30.03.2018.22.11.18 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:86 
+30.03.2018.22.11.18 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:87 
+30.03.2018.22.11.18 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:88 
+30.03.2018.22.11.18 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:89 
+30.03.2018.22.11.19 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:90 
+30.03.2018.22.11.19 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:91 
+30.03.2018.22.11.19 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:92 
+30.03.2018.22.11.19 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:93 
+30.03.2018.22.11.19 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:94 
+30.03.2018.22.11.20 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:95 
+30.03.2018.22.11.20 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:96 
+30.03.2018.22.11.20 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:97 
+30.03.2018.22.11.20 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:98 
+30.03.2018.22.11.21 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:99 
+30.03.2018.22.11.21 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:100 
+30.03.2018.22.11.22 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:101 
+30.03.2018.22.11.22 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:102 
+30.03.2018.22.11.23 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:103 
+30.03.2018.22.11.23 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:104 
+30.03.2018.22.11.23 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:105 
+30.03.2018.22.11.23 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:106 
+30.03.2018.22.11.24 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:107 
+30.03.2018.22.11.24 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:108 
+30.03.2018.22.11.24 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:109 
+30.03.2018.22.11.24 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:110 
+30.03.2018.22.11.25 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:111 
+30.03.2018.22.11.25 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:112 
+30.03.2018.22.11.25 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:113 
+30.03.2018.22.11.25 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:114 
+30.03.2018.22.11.26 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:115 
+30.03.2018.22.11.26 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:116 
+30.03.2018.22.11.26 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:117 
+30.03.2018.22.11.26 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:118 
+30.03.2018.22.11.26 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:119 
+30.03.2018.22.11.27 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:120 
+30.03.2018.22.11.27 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:121 
+30.03.2018.22.11.27 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:122 
+30.03.2018.22.11.27 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:123 
+30.03.2018.22.11.28 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:124 
+30.03.2018.22.11.28 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:125 
+30.03.2018.22.11.28 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:126 
+30.03.2018.22.11.28 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:127 
+30.03.2018.22.11.29 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:128 
+30.03.2018.22.11.29 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:129 
+30.03.2018.22.11.29 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:130 
+30.03.2018.22.11.29 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:131 
+30.03.2018.22.11.30 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:132 
+30.03.2018.22.11.30 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:133 
+30.03.2018.22.11.30 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:134 
+30.03.2018.22.11.30 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:135 
+30.03.2018.22.11.31 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:136 
+30.03.2018.22.11.31 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:137 
+30.03.2018.22.11.31 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:138 
+30.03.2018.22.11.31 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:139 
+30.03.2018.22.11.31 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:140 
+30.03.2018.22.11.32 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:141 
+30.03.2018.22.11.32 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:142 
+30.03.2018.22.11.32 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:143 
+30.03.2018.22.11.32 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:144 
+30.03.2018.22.11.33 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:145 
+30.03.2018.22.11.33 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:146 
+30.03.2018.22.11.33 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:147 
+30.03.2018.22.11.33 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:148 
+30.03.2018.22.11.33 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:149 
+30.03.2018.22.11.34 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:150 
+30.03.2018.22.11.34 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:151 
+30.03.2018.22.11.34 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:152 
+30.03.2018.22.11.34 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:153 
+30.03.2018.22.11.35 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:154 
+30.03.2018.22.11.35 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:155 
+30.03.2018.22.11.35 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:156 
+30.03.2018.22.11.35 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:157 
+30.03.2018.22.11.35 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:158 
+30.03.2018.22.11.36 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:159 
+30.03.2018.22.11.36 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:160 
+30.03.2018.22.11.36 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:161 
+30.03.2018.22.11.36 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:162 
+30.03.2018.22.11.37 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:163 
+30.03.2018.22.11.37 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:164 
+30.03.2018.22.11.37 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:165 
+30.03.2018.22.11.37 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:166 
+30.03.2018.22.11.37 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:167 
+30.03.2018.22.11.38 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:168 
+30.03.2018.22.11.38 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:169 
+30.03.2018.22.11.38 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:170 
+30.03.2018.22.11.38 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:171 
+30.03.2018.22.11.39 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:172 
+30.03.2018.22.11.39 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:173 
+30.03.2018.22.11.39 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:174 
+30.03.2018.22.11.39 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:175 
+30.03.2018.22.11.40 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:176 
+30.03.2018.22.11.40 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:177 
+30.03.2018.22.11.53 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:178 
+30.03.2018.22.11.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:179 
+30.03.2018.22.11.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:180 
+30.03.2018.22.11.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:181 
+30.03.2018.22.11.54 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:182 
+30.03.2018.22.11.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:183 
+30.03.2018.22.11.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:184 
+30.03.2018.22.11.56 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:185 
+30.03.2018.22.11.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:186 
+30.03.2018.22.11.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:187 
+30.03.2018.22.11.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:188 
+30.03.2018.22.11.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:189 
+30.03.2018.22.11.57 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:190 
+30.03.2018.22.11.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:191 
+30.03.2018.22.11.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:192 
+30.03.2018.22.11.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:193 
+30.03.2018.22.11.58 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:194 
+30.03.2018.22.11.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:195 
+30.03.2018.22.11.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:196 
+30.03.2018.22.11.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:197 
+30.03.2018.22.11.59 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:198 
+30.03.2018.22.12.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:199 
+30.03.2018.22.12.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:200 
+30.03.2018.22.12.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:201 
+30.03.2018.22.12.00 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:202 
+30.03.2018.22.12.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:203 
+30.03.2018.22.12.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:204 
+30.03.2018.22.12.02 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:205 
+30.03.2018.22.12.03 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:206 
+30.03.2018.22.12.03 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:207 
+30.03.2018.22.12.03 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:208 
+30.03.2018.22.12.03 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:209 
+30.03.2018.22.12.04 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:210 
+30.03.2018.22.12.04 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:211 
+30.03.2018.22.12.04 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:212 
+30.03.2018.22.12.04 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:213 
+30.03.2018.22.12.05 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:214 
+30.03.2018.22.12.05 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:215 
+30.03.2018.22.12.05 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:216 
+30.03.2018.22.12.05 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:217 
+30.03.2018.22.12.06 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:218 
+30.03.2018.22.12.06 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:219 
+30.03.2018.22.12.06 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:220 
+30.03.2018.22.12.06 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:221 
+30.03.2018.22.12.06 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:222 
+30.03.2018.22.12.07 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:223 
+30.03.2018.22.12.07 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:224 
+30.03.2018.22.12.08 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:225 
+30.03.2018.22.12.08 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:226 
+30.03.2018.22.12.08 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:227 
+30.03.2018.22.12.08 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:228 
+30.03.2018.22.12.08 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:229 
+30.03.2018.22.12.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:230 
+30.03.2018.22.12.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:231 
+30.03.2018.22.12.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:232 
+30.03.2018.22.12.09 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:233 
+30.03.2018.22.12.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:234 
+30.03.2018.22.12.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:235 
+30.03.2018.22.12.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:236 
+30.03.2018.22.12.10 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:237 
+30.03.2018.22.12.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:238 
+30.03.2018.22.12.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:239 
+30.03.2018.22.12.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:240 
+30.03.2018.22.12.11 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:241 
+30.03.2018.22.12.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:242 
+30.03.2018.22.12.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:243 
+30.03.2018.22.12.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:244 
+30.03.2018.22.12.12 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:245 
+30.03.2018.22.12.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:246 
+30.03.2018.22.12.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:247 
+30.03.2018.22.12.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:248 
+30.03.2018.22.12.13 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:249 
+30.03.2018.22.12.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:250 
+30.03.2018.22.12.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:251 
+30.03.2018.22.12.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:252 
+30.03.2018.22.12.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:253 
+30.03.2018.22.12.14 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:254 
+30.03.2018.22.12.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:255 
+30.03.2018.22.12.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:256 
+30.03.2018.22.12.15 IP: 192.168.1.12 DECO useitem,poeira_de_fada classmaster:2 level:257 
+30.03.2018.22.12.22 IP: 192.168.1.12 DECO buy_npc,npc:Arma Mortal2 price:577500 item: Cajado_Caótico(Anct) : 3726.60.32.43.251.0.0 
+30.03.2018.22.12.28 IP: 192.168.1.12 DECO buy_npc,npc:Set Mortal MG price:168000 item: Túnica_Templária : 1361.3.30.60.10.43.250 
+30.03.2018.22.12.29 IP: 192.168.1.12 DECO buy_npc,npc:Set Mortal MG price:168000 item: Calça_Templária : 1362.3.30.60.10.43.250 
+30.03.2018.22.12.29 IP: 192.168.1.12 DECO buy_npc,npc:Set Mortal MG price:168000 item: Manoplas_Templárias : 1363.3.30.60.10.43.250 
+30.03.2018.22.12.30 IP: 192.168.1.12 DECO buy_npc,npc:Set Mortal MG price:168000 item: Botas_Templárias : 1364.3.30.60.10.43.250 
+30.03.2018.22.12.48 IP: 192.168.1.12 DECO buy_npc,npc:Shadow Montaria price:892500 item: Sleipnir : 2388.100.100.120.60.100.0 
+30.03.2018.22.12.50 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:11 Item: Sleipnir : 2388.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Porco : 2360.100.100.120.60.100.0 
+30.03.2018.22.12.53 IP: 192.168.1.12 TESTEEE deleteitem,  Porco : 2360.100.100.120.60.100.0 
+30.03.2018.22.13.12 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios3 price:1260 item: Traje_de_Valquíria(30dias) : 4152.0.0.0.0.0.0 
+30.03.2018.22.13.13 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:11 Item: Traje_de_Valquíria(30dias) : 4152.106.31.110.4.109.18 DstType:0 DstSlot:12 Item: 
+30.03.2018.22.13.15 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios3 price:1050 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+30.03.2018.22.13.16 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios3 price:1050 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+30.03.2018.22.13.16 IP: 192.168.1.12 TESTEEE deleteitem,  
+30.03.2018.22.13.17 IP: 192.168.1.12 TESTEEE deleteitem,  
+30.03.2018.22.13.18 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios3 price:0 item: Trombeta_Mágica : 3330.61.10.0.0.0.0 
+30.03.2018.22.14.05 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios2 price:210000 item: Frango_Assado : 3314.61.5.0.0.0.0 
+30.03.2018.22.14.05 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios2 price:525000 item: Baú_de_Experiência : 4140.61.5.0.0.0.0 
+30.03.2018.22.14.11 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.2.120.43.250 
+30.03.2018.22.14.11 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.2.120.43.250 
+30.03.2018.22.14.15 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.60.30.43.250 
+30.03.2018.22.14.17 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:12 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 
+30.03.2018.22.14.22 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.70.20.60.20.43.229 
+30.03.2018.22.14.22 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.70.20.60.20.43.229 
+30.03.2018.22.14.23 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.70.20.60.20.43.229 
+30.03.2018.22.14.24 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.70.20.60.20.43.229 
+30.03.2018.22.14.25 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:12 Item: Pedra_Espiritual : 633.70.20.60.20.43.229 DstType:0 DstSlot:10 Item: 
+30.03.2018.22.14.26 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:3 Item: Pedra_Espiritual : 633.70.20.60.20.43.229 DstType:0 DstSlot:11 Item: 
+30.03.2018.22.14.27 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:8 Item: Pedra_Espiritual : 633.70.20.60.20.43.229 DstType:0 DstSlot:9 Item: 
+30.03.2018.22.14.29 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:13 Item: Pedra_Espiritual : 633.70.20.60.20.43.229 DstType:0 DstSlot:8 Item: 
+30.03.2018.22.14.33 IP: 192.168.1.12 DECO useitem,item frango time 1800 
+30.03.2018.22.14.33 IP: 192.168.1.12 DECO useitem,item bauexp time 900 
+30.03.2018.22.17.09 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios6 price:367 item: Pergaminho_da_Água(A)LV1 : 3182.61.10.0.0.0.0 
+30.03.2018.22.17.50 IP: 192.168.1.12 DECO useitem,water scroll A 0 
+30.03.2018.22.18.04 IP: 192.168.1.12 DECO useitem,water scroll A 1 
+30.03.2018.22.18.14 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Cajado_Caótico(Anct) : 3726.60.32.43.251.0.0 DstType:0 DstSlot:6 Item: Arco_Curto : 816.0.0.0.0.0.0 
+30.03.2018.22.18.18 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:6 Item: Botas_Templárias : 1364.3.30.60.10.43.250 DstType:0 DstSlot:5 Item: Botas_de_Pano(A) : 1301.0.0.0.0.0.0 
+30.03.2018.22.18.19 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:5 Item: Túnica_Templária : 1361.3.30.60.10.43.250 DstType:0 DstSlot:2 Item: Túnica_de_Pano(A) : 1265.0.0.0.0.0.0 
+30.03.2018.22.18.19 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:10 Item: Calça_Templária : 1362.3.30.60.10.43.250 DstType:0 DstSlot:3 Item: Saia_de_Pano(A) : 1277.0.0.0.0.0.0 
+30.03.2018.22.18.20 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:1 Item: Manoplas_Templárias : 1363.3.30.60.10.43.250 DstType:0 DstSlot:4 Item: Luvas_de_Pano(A) : 1289.0.0.0.0.0.0 
+30.03.2018.22.18.21 IP: 192.168.1.12 DECO useitem,water scroll A 2 
+30.03.2018.22.18.37 IP: 192.168.1.12 DECO useitem,water scroll A 3 
+30.03.2018.22.18.50 IP: 192.168.1.12 DECO useitem,water scroll A 4 
+30.03.2018.22.19.04 IP: 192.168.1.12 DECO useitem,water scroll A 5 
+30.03.2018.22.19.10 IP: 192.168.1.12 TESTEEE deleteitem,  Poeira_de_Lactolerium : 413.59.26.59.2.59.51 
+30.03.2018.22.19.17 IP: 192.168.1.12 DECO useitem,water scroll A 6 
+30.03.2018.22.19.49 IP: 192.168.1.12 DECO useitem,water scroll A 7 
+30.03.2018.22.20.06 IP: 192.168.1.12 DECO useitem,water scroll A 9 
+30.03.2018.22.20.12 IP: 192.168.1.12 DECO useitem,water scroll A 0 
+30.03.2018.22.20.22 IP: 192.168.1.12 DECO useitem,water scroll A 1 
+30.03.2018.22.20.37 IP: 192.168.1.12 DECO useitem,water scroll A 2 
+30.03.2018.22.20.43 IP: 192.168.1.12 DECO useitem,water scroll A 3 
+30.03.2018.22.20.57 IP: 192.168.1.12 DECO useitem,water scroll A 4 
+30.03.2018.22.21.11 IP: 192.168.1.12 DECO useitem,water scroll A 5 
+30.03.2018.22.21.21 IP: 192.168.1.12 DECO useitem,water scroll A 6 
+30.03.2018.22.21.32 IP: 192.168.1.12 DECO useitem,water scroll A 7 
+30.03.2018.22.23.13 IP: 192.168.1.12 DECO buy_npc,npc:Evolucao price:5250 item: Pedra_da_Imortalidade : 1742.0.0.0.0.0.0 
+30.03.2018.22.23.15 IP: 192.168.1.12 DECO buy_npc,npc:Evolucao price:7350 item: Sephirot(Huntress) : 1763.0.0.0.0.0.0 
+30.03.2018.22.23.17 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:13 Item: Sephirot(Huntress) : 1763.0.0.0.0.0.0 DstType:0 DstSlot:11 Item: Pedra_Espiritual : 633.70.20.60.20.43.229 
+30.03.2018.22.23.18 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:8 Item: Pedra_da_Imortalidade : 1742.0.0.0.0.0.0 DstType:0 DstSlot:10 Item: Pedra_Espiritual : 633.70.20.60.20.43.229 
+30.03.2018.22.24.46 IP: 192.168.1.12 DECO buy_npc,npc:Shadow Montaria price:2100000 item: Dragão_Vermelho : 2380.100.100.120.60.100.0 
+30.03.2018.22.24.47 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Dragão_Vermelho : 2380.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+30.03.2018.22.24.58 IP: 192.168.1.12 DECO buy_npc,npc:Set FM price:184800 item: Manoplas_Guardiãs : 1358.43.250.2.42.3.70 
+30.03.2018.22.24.59 IP: 192.168.1.12 DECO buy_npc,npc:Set FM price:186900 item: Túnica_Guardiã : 1356.43.250.2.42.71.90 
+30.03.2018.22.25.01 IP: 192.168.1.12 DECO buy_npc,npc:Set FM price:186900 item: Calça_Guardiã : 1357.43.250.2.42.71.90 
+30.03.2018.22.25.04 IP: 192.168.1.12 DECO buy_npc,npc:Set FM price:182700 item: Botas_Guardiãs : 1359.43.250.74.18.2.42 
+30.03.2018.22.25.09 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:1 Item: Botas_Guardiãs : 1359.43.250.74.18.2.42 DstType:0 DstSlot:5 Item: 
+30.03.2018.22.25.11 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Manoplas_Guardiãs : 1358.43.250.2.42.3.70 DstType:0 DstSlot:4 Item: 
+30.03.2018.22.25.15 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:5 Item: Túnica_Guardiã : 1356.43.250.2.42.71.90 DstType:0 DstSlot:2 Item: 
+30.03.2018.22.25.19 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:10 Item: Calça_Guardiã : 1357.43.250.2.42.71.90 DstType:0 DstSlot:3 Item: 
+30.03.2018.22.25.27 IP: 192.168.1.12 DECO buy_npc,npc:Arma SemiDeus price:682500 item: Skytalos(Anct) : 2554.2.81.42.30.43.250 
+30.03.2018.22.25.29 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Skytalos(Anct) : 2554.2.81.42.30.43.250 DstType:0 DstSlot:6 Item: 
+30.03.2018.22.25.52 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:1260 item: Cythera_Arcana : 3507.3.120.2.120.43.250 
+30.03.2018.22.25.53 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Cythera_Arcana : 3507.3.120.2.120.43.250 DstType:0 DstSlot:1 Item: 
+30.03.2018.22.25.59 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.2.120.71.100.43.229 
+30.03.2018.22.26.00 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.2.120.71.100.43.229 
+30.03.2018.22.26.01 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Pedra_Espiritual : 633.2.120.71.100.43.229 DstType:0 DstSlot:10 Item: 
+30.03.2018.22.26.02 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:5 Item: Pedra_Espiritual : 633.2.120.71.100.43.229 DstType:0 DstSlot:11 Item: 
+30.03.2018.22.26.11 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.71.100.43.229 
+30.03.2018.22.26.12 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.71.100.43.229 
+30.03.2018.22.26.14 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Pedra_Espiritual : 633.69.20.71.100.43.229 DstType:0 DstSlot:8 Item: 
+30.03.2018.22.26.19 IP: 192.168.1.12 DECO tradingitem, SrcType:0 SrcSlot:8 Item: Pedra_Espiritual : 633.69.20.71.100.43.229 DstType:1 DstSlot:6 Item: 
+30.03.2018.22.26.23 IP: 192.168.1.12 TESTEEE deleteitem,  Pedra_Espiritual : 633.69.20.71.100.43.229 
+30.03.2018.22.26.24 IP: 192.168.1.12 TESTEEE deleteitem,  Pedra_Espiritual : 633.69.20.71.100.43.229 
+30.03.2018.22.26.34 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+30.03.2018.22.26.35 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios price:525000 item: Pedra_Espiritual : 633.69.20.2.120.43.229 
+30.03.2018.22.26.36 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:0 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 DstType:0 DstSlot:8 Item: 
+30.03.2018.22.26.38 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:5 Item: Pedra_Espiritual : 633.69.20.2.120.43.229 DstType:0 DstSlot:9 Item: 
+30.03.2018.22.26.42 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios2 price:210000 item: Frango_Assado : 3314.61.5.0.0.0.0 
+30.03.2018.22.26.42 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios2 price:525000 item: Baú_de_Experiência : 4140.61.5.0.0.0.0 
+30.03.2018.22.28.51 IP: 192.168.1.12 DECO useitem,item frango time 1800 
+30.03.2018.22.28.52 IP: 192.168.1.12 DECO useitem,item bauexp time 900 
+30.03.2018.22.30.47 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios6 price:367 item: Pergaminho_da_Água(A)LV1 : 3182.61.10.0.0.0.0 
+30.03.2018.22.30.51 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios6 price:210 item: Pesadelo_(N/Grupo) : 3324.0.0.0.0.0.0 
+30.03.2018.22.31.03 IP: 192.168.1.12 DECO buy_npc,npc:Ruti price:15750 item: Pergaminho_Retorno_10x : 411.61.10.0.0.0.0 
+30.03.2018.22.31.14 IP: 192.168.1.12 TESTEEE deleteitem,  Pesadelo_(N/Grupo) : 3324.0.0.0.0.0.0 
+30.03.2018.22.31.30 IP: 192.168.1.12 DECO buy_npc,npc:Acessorios6 price:735 item: Pesadelo_(A/Grupo) : 3326.0.0.0.0.0.0 
+30.03.2018.22.31.39 IP: 192.168.1.12 DECO useitem,nightmare A ticket used party:1 
+30.03.2018.22.36.52 IP: 192.168.1.12 DECO useitem,recall 
+30.03.2018.22.37.54 IP: 192.168.1.12 DECO useitem,water scroll A 0 
+30.03.2018.22.38.52 IP: 192.168.1.12 DECO useitem,water scroll A 0 
+30.03.2018.22.38.54 IP: 192.168.1.12 DECO useitem,water scroll A 1 
+30.03.2018.22.39.34 IP: 192.168.1.12 DECO useitem,water scroll A 2 
+30.03.2018.22.40.11 IP: 192.168.1.12 DECO useitem,water scroll A 3 
+30.03.2018.22.40.40 IP: 192.168.1.12 DECO tradingitem, SrcType:0 SrcSlot:5 Item: Botas_Guardiãs : 1359.43.250.74.18.2.42 DstType:1 DstSlot:8 Item: 
+30.03.2018.22.41.04 IP: 192.168.1.12 DECO useitem,water scroll A 4 
+30.03.2018.22.44.04 IP: 192.168.1.12 DECO tradingitem, SrcType:1 SrcSlot:8 Item: Botas_Guardiãs : 1359.43.250.74.18.2.42 DstType:0 DstSlot:5 Item: 
+30.03.2018.22.45.06 IP: 192.168.1.12 DECO useitem,recall 

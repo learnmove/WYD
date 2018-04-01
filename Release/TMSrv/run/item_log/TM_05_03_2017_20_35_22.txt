@@ -1,0 +1,128 @@
+05.03.2017.20.35.49 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:4100 item: Selo_Mágico : 5135.0.0.0.0.0.0 
+05.03.2017.20.35.51 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:7175 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+05.03.2017.20.35.52 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:7175 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+05.03.2017.20.35.57 IP: 187.110.69.50 BIKINHO buy_npc,npc:Runas Joias price:0 item: Ansuz : 5110.0.0.0.0.0.0 
+05.03.2017.20.35.58 IP: 187.110.69.50 BIKINHO buy_npc,npc:Runas Joias price:0 item: Fehu : 5113.0.0.0.0.0.0 
+05.03.2017.20.35.59 IP: 187.110.69.50 BIKINHO buy_npc,npc:Runas Joias price:0 item: Mannaz : 5129.0.0.0.0.0.0 
+05.03.2017.20.36.00 IP: 187.110.69.50 BIKINHO buy_npc,npc:Runas Joias price:0 item: Thurisaz : 5112.0.0.0.0.0.0 
+05.03.2017.20.36.09 IP: 168.181.139.83 CYBER buy_npc,npc:C. de Montaria price:153750 item: Ração_de_Tigre_de_Fogo : 2427.61.10.0.0.0.0 
+05.03.2017.20.36.10 IP: 168.181.139.83 CYBER useitem,ração mount:7 
+05.03.2017.20.36.10 IP: 168.181.139.83 CYBER useitem,ração mount:7 
+05.03.2017.20.36.13 IP: 187.110.69.50 BIKINHO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+05.03.2017.20.36.48 IP: 168.181.139.83 CYBER useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+05.03.2017.20.36.51 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:296 
+05.03.2017.20.36.51 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:297 
+05.03.2017.20.36.51 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:298 
+05.03.2017.20.36.52 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:299 
+05.03.2017.20.36.52 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:300 
+05.03.2017.20.36.52 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:301 
+05.03.2017.20.36.52 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:302 
+05.03.2017.20.36.53 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:303 
+05.03.2017.20.36.53 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:304 
+05.03.2017.20.36.53 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:305 
+05.03.2017.20.36.53 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:306 
+05.03.2017.20.36.54 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:307 
+05.03.2017.20.36.54 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:308 
+05.03.2017.20.36.54 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:309 
+05.03.2017.20.36.54 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:310 
+05.03.2017.20.36.55 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:311 
+05.03.2017.20.36.55 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:312 
+05.03.2017.20.36.55 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:313 
+05.03.2017.20.36.55 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:314 
+05.03.2017.20.36.56 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:315 
+05.03.2017.20.36.56 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:316 
+05.03.2017.20.36.56 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:317 
+05.03.2017.20.36.56 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:318 
+05.03.2017.20.36.57 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:319 
+05.03.2017.20.36.57 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:320 
+05.03.2017.20.36.57 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:321 
+05.03.2017.20.36.57 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:322 
+05.03.2017.20.36.58 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:323 
+05.03.2017.20.36.58 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:324 
+05.03.2017.20.36.58 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:325 
+05.03.2017.20.36.58 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:326 
+05.03.2017.20.36.59 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:327 
+05.03.2017.20.36.59 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:328 
+05.03.2017.20.36.59 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:329 
+05.03.2017.20.37.00 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:330 
+05.03.2017.20.37.00 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:331 
+05.03.2017.20.37.00 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:332 
+05.03.2017.20.37.00 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:333 
+05.03.2017.20.37.01 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:334 
+05.03.2017.20.37.01 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:335 
+05.03.2017.20.37.01 IP: 187.110.69.50 BIKINHO *** Item combine odin. *** 
+05.03.2017.20.37.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:2 level:335 Pergaminho_Selado : 4127.0.0.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Selo_Mágico : 5135.0.0.0.0.0.0 Fehu : 5113.0.0.0.0.0.0 Mannaz : 5129.0.0.0.0.0.0 Thurisaz : 5112.0.0.0.0.0.0 Ansuz : 5110.0.0.0.0.0.0 
+05.03.2017.20.37.01 IP: 187.110.69.50 BIKINHO *** ------------------- *** 
+05.03.2017.20.37.01 IP: 187.110.69.50 BIKINHO *** Combine odin fail *** 
+05.03.2017.20.37.01 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:336 
+05.03.2017.20.37.01 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:337 
+05.03.2017.20.37.02 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:338 
+05.03.2017.20.37.02 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:339 
+05.03.2017.20.37.02 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:340 
+05.03.2017.20.37.02 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:341 
+05.03.2017.20.37.03 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:342 
+05.03.2017.20.37.03 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:343 
+05.03.2017.20.37.03 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:344 
+05.03.2017.20.37.03 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:345 
+05.03.2017.20.37.03 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:346 
+05.03.2017.20.37.04 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:347 
+05.03.2017.20.37.04 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:348 
+05.03.2017.20.37.04 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:349 
+05.03.2017.20.37.05 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:350 
+05.03.2017.20.37.05 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:351 
+05.03.2017.20.37.05 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:352 
+05.03.2017.20.37.05 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:353 
+05.03.2017.20.37.06 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:354 
+05.03.2017.20.37.06 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:355 
+05.03.2017.20.37.06 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:356 
+05.03.2017.20.37.06 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:357 
+05.03.2017.20.37.07 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:358 
+05.03.2017.20.37.07 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:359 
+05.03.2017.20.37.07 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:360 
+05.03.2017.20.37.08 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:361 
+05.03.2017.20.37.08 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:362 
+05.03.2017.20.37.08 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:363 
+05.03.2017.20.37.09 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:364 
+05.03.2017.20.37.09 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:365 
+05.03.2017.20.37.09 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:366 
+05.03.2017.20.37.09 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:367 
+05.03.2017.20.37.10 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:368 
+05.03.2017.20.37.10 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:369 
+05.03.2017.20.37.10 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:370 
+05.03.2017.20.37.10 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:371 
+05.03.2017.20.37.11 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:372 
+05.03.2017.20.37.11 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:373 
+05.03.2017.20.37.11 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:374 
+05.03.2017.20.37.11 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:375 
+05.03.2017.20.37.12 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:376 
+05.03.2017.20.37.12 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:377 
+05.03.2017.20.37.12 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:378 
+05.03.2017.20.37.12 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:379 
+05.03.2017.20.37.12 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:380 
+05.03.2017.20.37.13 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:381 
+05.03.2017.20.37.13 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:382 
+05.03.2017.20.37.13 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:383 
+05.03.2017.20.37.13 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:384 
+05.03.2017.20.37.14 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:385 
+05.03.2017.20.37.14 IP: 186.241.107.22 BOBS20 useitem,ração mount:7 
+05.03.2017.20.37.14 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:386 
+05.03.2017.20.37.14 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:387 
+05.03.2017.20.37.14 IP: 168.181.139.83 CYBER useitem,joia_pvp joia:3204 
+05.03.2017.20.37.14 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:388 
+05.03.2017.20.37.14 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:389 
+05.03.2017.20.37.15 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:390 
+05.03.2017.20.37.15 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:391 
+05.03.2017.20.37.16 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:392 
+05.03.2017.20.37.16 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:393 
+05.03.2017.20.37.16 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:394 
+05.03.2017.20.37.16 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:395 
+05.03.2017.20.37.17 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:396 
+05.03.2017.20.37.17 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:397 
+05.03.2017.20.37.17 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:398 
+05.03.2017.20.37.17 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.20.37.17 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.20.37.18 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.20.37.18 IP: 177.34.26.112 DENIZAO98 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.20.37.25 IP: 177.34.26.112 DENIZAO98 tradingitem, SrcType:1 SrcSlot:5 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 DstType:2 DstSlot:0 Item: 
+05.03.2017.20.37.26 IP: 177.34.26.112 DENIZAO98 tradingitem, SrcType:1 SrcSlot:0 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 DstType:2 DstSlot:5 Item: 
+05.03.2017.20.37.27 IP: 177.34.26.112 DENIZAO98 tradingitem, SrcType:1 SrcSlot:10 Item: Frango_Assado : 3314.61.4.0.0.0.0 DstType:2 DstSlot:10 Item: 

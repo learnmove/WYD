@@ -1,0 +1,7 @@
+06.03.2017.21.05.52 IP: 201.17.211.212 BADFIVE12 tradingitem, SrcType:0 SrcSlot:14 Item: Dragão : 2377.100.100.120.60.92.0 DstType:1 DstSlot:0 Item: 
+06.03.2017.21.05.54 IP: 201.17.211.212 BADFIVE12 tradingitem, SrcType:1 SrcSlot:0 Item: Dragão : 2377.100.100.120.60.92.0 DstType:0 DstSlot:14 Item: 
+06.03.2017.21.05.57 IP: 187.101.32.187 Skollz deleteitem,  Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 
+06.03.2017.21.05.57 IP: 187.101.32.187 Skollz deleteitem,  Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 
+06.03.2017.21.05.58 IP: 187.101.32.187 Skollz deleteitem,  Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 
+06.03.2017.21.05.59 IP: 187.101.32.187 MARLIM useitem,ração mount:8 
+06.03.2017.21.05.59 IP: 187.101.32.187 MARLIM useitem,ração mount:8 

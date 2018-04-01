@@ -1,0 +1,56 @@
+[05/03/2017][16:52:26]  -system sys,start server 
+[05/03/2017][16:52:26] IP: 25.1.3.227 ADMIN CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][16:52:31] IP: 25.1.3.227 ADMIN sta,Login char:EOQe exp:4000000000 level:1010 conn:1 money:107790262, store:0 
+[05/03/2017][16:52:33]  ADMIN etc,changecity city:2 X:2459 Y:2002 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 267 2348 2170 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 337 2319 2222 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 393 2444 2074 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 536 2514 2007 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 792 2476 1836 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1013 2420 1712 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1046 2362 1700 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1060 2336 1700 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1066 2369 1680 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1118 2335 1596 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid: 1179 2275 1748 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1230 2252 1735 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1274 2004 1604 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1296 1954 1621 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1298 1977 1620 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid: 1338 1974 1690 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1375 1974 1712 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1475 2211 1384 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1509 2196 1337 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1556 2272 1252 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1751 169 3788 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1795 207 3760 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1819 245 3787 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1827 276 3742 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 1968 411 3812 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2086 750 3808 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2167 432 3950 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2212 408 3994 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2279 993 4037 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2307 952 4002 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2864 1189 4048 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2874 1217 4023 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 2938 1359 4072 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3580 781 4027 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3851 2106 1639 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3857 2067 1627 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3863 2123 1612 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3865 2048 1614 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid: 3868 2072 1595 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid: 3870 2096 1596 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3871 2105 1596 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3873 2132 1596 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3874 2122 1582 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3875 2123 1567 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3876 2158 1563 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3880 2086 1566 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3887 2060 1550 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3890 2117 1550 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3892 2154 1550 
+[05/03/2017][16:52:38]  -system err,No empty mobgrid(1): 3900 2034 1608 
+[05/03/2017][16:52:38]  -system err,No empty mobg

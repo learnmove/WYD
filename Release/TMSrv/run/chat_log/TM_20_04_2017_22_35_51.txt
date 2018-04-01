@@ -1,0 +1,85 @@
+20.04.2017.22.38.26 IP: 192.168.1.113 CYBER chat_kingdom, Cyber : @@kd tu reino:0 
+20.04.2017.22.38.45 IP: 192.168.1.113 CYBER chat_cidadao, Cyber : @kd tu 
+20.04.2017.22.39.05 IP: 201.88.190.162 TESTE chat_sms,Murilo Murilo : nas npcs 
+20.04.2017.22.39.10 IP: 201.88.190.162 TESTE chat_sms,Murilo Murilo : armia 
+20.04.2017.22.39.18 IP: 192.168.1.113 CYBER chat, Cyber : vamos pvp 
+20.04.2017.22.39.33 IP: 192.168.1.113 CYBER chat, Cyber : esses npc era do vitor 
+20.04.2017.22.39.55 IP: 201.88.190.162 TESTE chat, Murilo : esse bug 
+20.04.2017.22.39.59 IP: 201.88.190.162 TESTE chat, Murilo : eu sei arumar 
+20.04.2017.22.40.04 IP: 201.88.190.162 TESTE chat, Murilo : arrumei nquela 
+20.04.2017.22.40.14 IP: 201.88.190.162 TESTE chat, Murilo : sei arrumar 
+20.04.2017.22.40.21 IP: 201.88.190.162 TESTE chat, Murilo : se viu o pl? 
+20.04.2017.22.40.22 IP: 192.168.1.113 CYBER chat, Cyber : kkk acho q é pq ta sem dano 
+20.04.2017.22.40.24 IP: 201.88.190.162 TESTE chat, Murilo : pk? 
+20.04.2017.22.40.44 IP: 192.168.1.113 CYBER chat, Cyber : tira o set 
+20.04.2017.22.40.55 IP: 192.168.1.113 CYBER chat, Cyber : viu 
+20.04.2017.22.40.58 IP: 192.168.1.113 CYBER chat, Cyber : me ataca ai 
+20.04.2017.22.41.10 IP: 192.168.1.113 CYBER chat, Cyber : ta ok  
+20.04.2017.22.41.13 IP: 201.88.190.162 TESTE chat, Murilo : sim 
+20.04.2017.22.41.16 IP: 201.88.190.162 TESTE chat, Murilo : vamos noatubn 
+20.04.2017.22.41.16 IP: 192.168.1.113 CYBER chat, Cyber : não vejo o erro do pk 
+20.04.2017.22.41.20 IP: 201.88.190.162 TESTE chat, Murilo : o pk 
+20.04.2017.22.41.22 IP: 192.168.1.113 CYBER chat, Cyber : assim 
+20.04.2017.22.41.23 IP: 192.168.1.113 CYBER chat, Cyber : vamos 
+20.04.2017.22.41.23 IP: 201.88.190.162 TESTE chat, Murilo : eh no noatun 
+20.04.2017.22.41.37 IP: 201.88.190.162 TESTE chat, Murilo : tipo 
+20.04.2017.22.41.44 IP: 201.88.190.162 TESTE chat, Murilo : eu vo fik pk 
+20.04.2017.22.41.56 IP: 201.88.190.162 TESTE chat, Murilo : n me atk 
+20.04.2017.22.42.01 IP: 192.168.1.113 CYBER chat, Cyber : viu 
+20.04.2017.22.42.12 IP: 201.88.190.162 TESTE chat, Murilo : viu 
+20.04.2017.22.42.15 IP: 201.88.190.162 TESTE chat, Murilo : vc fico 
+20.04.2017.22.42.15 IP: 192.168.1.113 CYBER chat, Cyber : haa 
+20.04.2017.22.42.17 IP: 201.88.190.162 TESTE chat, Murilo : sem atacar 
+20.04.2017.22.42.32 IP: 201.88.190.162 TESTE chat, Murilo : esse 
+20.04.2017.22.42.35 IP: 201.88.190.162 TESTE chat, Murilo : eh o bug 
+20.04.2017.22.42.37 IP: 201.88.190.162 TESTE chat, Murilo : do pk 
+20.04.2017.22.42.44 IP: 192.168.1.113 CYBER chat, Cyber : blz. vou ver ele dpois 
+20.04.2017.22.42.50 IP: 201.88.190.162 TESTE chat, Murilo : tem a da montaria 
+20.04.2017.22.42.55 IP: 201.88.190.162 TESTE chat, Murilo : matando ela 
+20.04.2017.22.42.57 IP: 192.168.1.113 CYBER chat, Cyber : oq tem a montaria? 
+20.04.2017.22.42.59 IP: 201.88.190.162 TESTE chat, Murilo : vc vai reviver 
+20.04.2017.22.43.01 IP: 201.88.190.162 TESTE chat, Murilo : ela 
+20.04.2017.22.43.07 IP: 201.88.190.162 TESTE chat, Murilo : seu hp vai fica bugado 
+20.04.2017.22.43.12 IP: 201.88.190.162 TESTE chat, Murilo : vai pra 11 milhoes 
+20.04.2017.22.43.13 IP: 192.168.1.113 CYBER chat, Cyber : a é o npc  
+20.04.2017.22.43.17 IP: 192.168.1.113 CYBER chat, Cyber : de reviver 
+20.04.2017.22.43.20 IP: 201.88.190.162 TESTE chat, Murilo : s 
+20.04.2017.22.43.23 IP: 201.88.190.162 TESTE chat, Murilo : só estou 
+20.04.2017.22.43.28 IP: 201.88.190.162 TESTE chat, Murilo : com esses 2 prob la 
+20.04.2017.22.43.31 IP: 201.88.190.162 TESTE chat, Murilo : e tbm 
+20.04.2017.22.43.35 IP: 201.88.190.162 TESTE chat, Murilo : do catalisador 
+20.04.2017.22.43.43 IP: 201.88.190.162 TESTE chat, Murilo : ms usando na montaria que diz ser 
+20.04.2017.22.43.47 IP: 201.88.190.162 TESTE chat, Murilo : ele diz q ta errado 
+20.04.2017.22.43.56 IP: 192.168.1.113 CYBER chat, Cyber : pera 
+20.04.2017.22.44.02 IP: 201.88.190.162 TESTE chat, Murilo : ta 
+20.04.2017.22.45.37 IP: 201.88.190.162 TESTE chat, Murilo : basicamente 
+20.04.2017.22.45.41 IP: 201.88.190.162 TESTE chat, Murilo : tenho todas 
+20.04.2017.22.45.45 IP: 201.88.190.162 TESTE chat, Murilo : la nas npcs 
+20.04.2017.22.45.50 IP: 201.88.190.162 TESTE chat, Murilo : as mihas estao com nome 
+20.04.2017.22.45.55 IP: 201.88.190.162 TESTE chat, Murilo : new01 ate new17 
+20.04.2017.22.46.35 IP: 201.88.190.162 TESTE chat, Murilo : kd fada 
+20.04.2017.22.46.43 IP: 192.168.1.113 CYBER chat, Cyber : poeira 
+20.04.2017.22.46.45 IP: 192.168.1.113 CYBER chat, Cyber : de fadas? 
+20.04.2017.22.46.51 IP: 201.88.190.162 TESTE chat, Murilo : kd 
+20.04.2017.22.46.54 IP: 192.168.1.113 CYBER chat, Cyber : evoluçao 
+20.04.2017.22.47.00 IP: 192.168.1.113 CYBER chat, Cyber : coloquei ela 100 
+20.04.2017.22.48.19 IP: 201.88.190.162 TESTE chat, Murilo : equipoa 
+20.04.2017.22.48.22 IP: 201.88.190.162 TESTE chat, Murilo : filhoooo 
+20.04.2017.22.48.33 IP: 192.168.1.113 CYBER chat, Cyber : kkk 
+20.04.2017.22.48.35 IP: 192.168.1.113 CYBER chat, Cyber : ei  
+20.04.2017.22.48.36 IP: 201.88.190.162 TESTE chat, Murilo : kkk 
+20.04.2017.22.48.37 IP: 192.168.1.113 CYBER chat, Cyber : vou sair 
+20.04.2017.22.48.44 IP: 201.88.190.162 TESTE chat, Murilo : ta 
+20.04.2017.22.48.45 IP: 192.168.1.113 CYBER chat, Cyber : tenho que acorda cedo amanhã 
+20.04.2017.22.48.48 IP: 201.88.190.162 TESTE chat, Murilo : fica ai 
+20.04.2017.22.48.51 IP: 201.88.190.162 TESTE chat, Murilo : os erros 
+20.04.2017.22.48.54 IP: 192.168.1.113 CYBER chat, Cyber : final de semana vamo stentar resolver 
+20.04.2017.22.48.55 IP: 201.88.190.162 TESTE chat, Murilo : vc viu o do pk 
+20.04.2017.22.48.56 IP: 192.168.1.113 CYBER chat, Cyber : esses bugs 
+20.04.2017.22.49.00 IP: 192.168.1.113 CYBER chat, Cyber : tem que ser de 2 
+20.04.2017.22.49.01 IP: 201.88.190.162 TESTE chat, Murilo : ta binm[ 
+20.04.2017.22.49.03 IP: 192.168.1.113 CYBER chat, Cyber : sim 
+20.04.2017.22.49.04 IP: 192.168.1.113 CYBER chat, Cyber : vlw 
+20.04.2017.22.49.05 IP: 201.88.190.162 TESTE chat, Murilo : bom 
+20.04.2017.22.49.09 IP: 201.88.190.162 TESTE chat, Murilo : pode conta cmg 
+20.04.2017.22.49.14 IP: 201.88.190.162 TESTE chat, Murilo : igualmente 

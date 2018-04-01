@@ -1,0 +1,7 @@
+11.08.2017.23.15.20 IP: 192.168.1.108 ADMIN buy_npc,npc:Racao price:157500 item: Ração_de_Tigre_de_Fogo : 2427.61.120.0.0.0.0 
+11.08.2017.23.15.27 IP: 192.168.1.108 ADMIN useitem,joia_pvp joia:3209 
+11.08.2017.23.15.28 IP: 192.168.1.108 ADMIN useitem,joia_pvp joia:3209 
+11.08.2017.23.15.28 IP: 192.168.1.108 ADMIN useitem,joia_pvp joia:3209 
+11.08.2017.23.15.29 IP: 192.168.1.108 ADMIN useitem,joia_pvp joia:3209 
+11.08.2017.23.15.31 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:2 Item: Dragão_Menor : 2363.76.29.120.60.100.0 DstType:0 DstSlot:14 Item: Sleipnir : 2388.224.98.120.60.100.0 
+11.08.2017.23.15.33 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:2 Item: Sleipnir : 2388.224.98.120.60.100.0 DstType:0 DstSlot:14 Item: Dragão_Menor : 2363.76.29.120.60.100.0 

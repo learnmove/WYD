@@ -1,0 +1,281 @@
+[05/03/2017][11:35:02]  -system sys,start server 
+[05/03/2017][11:35:11] IP: 25.1.3.227 ADMIN clo,fd 2-0 
+[05/03/2017][11:35:11] IP: 25.1.3.227 ADMIN CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 70 2224 2063 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 73 2194 2150 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 250 2382 2140 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 261 2344 2156 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 324 2368 2213 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 378 2434 2108 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 420 2462 2136 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 426 2472 2082 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 604 2522 1952 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 715 2630 1938 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 795 2506 1836 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 999 2414 1744 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1047 2350 1720 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 1122 2323 1611 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 1198 2209 1692 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1298 1977 1620 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 1300 1960 1635 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1366 1966 1738 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1401 1889 1677 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1814 247 3776 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1822 250 3749 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 1871 319 3744 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1924 430 3752 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 1972 400 3824 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2016 587 3779 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2019 596 3772 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2048 664 3766 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2050 682 3788 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2068 708 3778 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2220 420 4027 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2663 2348 2196 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2857 1197 4064 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 2869 1196 4023 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2974 1473 3987 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 2982 1462 4024 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3060 1379 3745 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3070 1403 3753 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 3168 1181 1728 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3194 1264 1722 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3375 1299 1678 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3832 2393 2118 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 3840 804 4058 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3852 2112 1636 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3855 2061 1635 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3860 2087 1610 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 3864 2138 1623 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 3865 2050 1617 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3871 2107 1594 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3879 2139 1566 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3889 2095 1550 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3890 2117 1552 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 3891 2134 1552 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid: 3894 2038 1572 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[05/03/2017][11:35:14]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[05/03/2017][11:35:15] IP: 25.1.3.227 ADMIN sta,Login char:CRAZY exp:2306920 level:73 conn:1 money:1999994927, store:0 
+[05/03/2017][11:35:16]  ADMIN etc,changecity city:0 X:2088 Y:2105 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 250 2380 2138 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 267 2354 2168 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 268 2363 2170 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 467 2534 2094 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1061 2343 1700 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1297 1970 1620 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1301 1972 1634 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1387 1950 1702 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1473 2193 1384 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1814 245 3776 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1871 317 3740 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 1924 428 3752 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2016 588 3777 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2019 596 3771 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2335 903 4048 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2644 1117 3786 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid: 2869 1195 4023 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2953 1434 4072 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2965 1419 4002 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 2981 1462 4040 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 3511 1332 4039 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 3855 2062 1636 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 3890 2117 1552 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 3891 2130 1551 
+[05/03/2017][11:35:26]  -system err,No empty mobgrid(1): 5682 3402 1618 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid: 324 2368 2216 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid: 1194 2209 1726 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid: 1871 319 3744 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid(1): 2048 664 3766 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid(1): 2633 1064 3810 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid(1): 3458 2384 2117 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid(1): 3586 780 4064 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid(1): 3605 2448 4009 
+[05/03/2017][11:35:38]  -system err,No empty mobgrid(1): 4106 3542 2895 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid(1): 1205 2195 1703 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid: 1229 2269 1719 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid: 1871 321 3744 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid(1): 2753 1746 1826 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid(1): 2953 1434 4072 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid(1): 3235 1378 1855 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid(1): 3375 1299 1678 
+[05/03/2017][11:35:50]  -system err,No empty mobgrid: 3840 805 4056 
+[05/03/2017][11:36:02]  -system err,No empty mobgrid(1): 3194 1264 1722 
+[05/03/2017][11:36:02]  -system err,No empty mobgrid(1): 3586 778 4064 
+[05/03/2017][11:36:14]  -system err,No empty mobgrid(1): 1061 2341 1700 
+[05/03/2017][11:36:14]  -system err,No empty mobgrid(1): 1205 2195 1704 
+[05/03/2017][11:36:14]  -system err,No empty mobgrid(1): 1297 1968 1623 
+[05/03/2017][11:36:14]  -system err,No empty mobgrid(1): 2633 1064 3810 
+[05/03/2017][11:36:14]  -system err,No empty mobgrid: 2745 1710 1826 
+[05/03/2017][11:36:14]  -system err,No empty mobgrid(1): 4106 3541 2897 
+[05/03/2017][11:36:15]  -system err,GridMulticast mobidx,pos 
+[05/03/2017][11:36:26]  -system err,No empty mobgrid(1): 3194 1264 1722 
+[05/03/2017][11:36:26]  -system err,No empty mobgrid(1): 3498 687 3731 
+[05/03/2017][11:36:38]  -system err,No empty mobgrid(1): 3235 1378 1855 
+[05/03/2017][11:36:38]  -system err,No empty mobgrid(1): 3455 2416 2121 
+[05/03/2017][11:37:02]  -system err,No empty mobgrid(1): 1709 143 3797 
+[05/03/2017][11:37:02]  -system err,No empty mobgrid: 2699 1749 1787 
+[05/03/2017][11:37:14]  -system err,No empty mobgrid(1): 3458 2386 2117 
+[05/03/2017][11:37:14]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][11:37:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:38:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][11:38:14]  -system err,No empty mobgrid(1): 2245 404 4046 
+[05/03/2017][11:38:26]  -system err,No empty mobgrid(1): 2246 416 4046 
+[05/03/2017][11:38:50]  -system err,No empty mobgrid(1): 3458 2385 2117 
+[05/03/2017][11:39:00]  -system etc,nightmare_normal clear -11:39 
+[05/03/2017][11:39:26]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:39:38]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:39:50]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][11:41:02]  -system err,No empty mobgrid(1): 1709 143 3797 
+[05/03/2017][11:41:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][11:41:02]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][11:41:02]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][11:43:50]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][11:44:00]  -system etc,nightmare_mystic clear -11:44 
+[05/03/2017][11:44:02]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][11:45:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:45:59] IP: 25.1.3.227 ADMIN adm +reloadnpc 
+[05/03/2017][11:46:02]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][11:46:05] IP: 25.1.3.227 ADMIN adm +kill Set_FM 
+[05/03/2017][11:46:14]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:47:26]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][11:49:00]  -system etc,nightmare_arcan clear -11:49 
+[05/03/2017][11:49:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][11:50:26]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][11:52:14]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][11:52:38]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][11:53:02]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][11:54:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:59:00]  -system etc,nightmare_normal clear -11:59 
+[05/03/2017][11:59:26]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][11:59:38]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][11:59:38]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][11:59:50]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:00:02]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:01:26]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:04:00]  -system etc,nightmare_mystic clear -12:4 
+[05/03/2017][12:04:14]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:04:26]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:04:50]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:05:02]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:05:38]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:08:34] IP: 25.1.3.227 ADMIN clo,fd 22-2 
+[05/03/2017][12:08:34] IP: 25.1.3.227 ADMIN etc,charlogout conn:1 name:CRAZY 
+[05/03/2017][12:09:00]  -system etc,nightmare_arcan clear -12:9 
+[05/03/2017][12:10:02]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:10:38]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:10:50]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:11:38]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:12:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:13:26]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:14:14]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][12:15:02]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:15:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:16:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:16:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:18:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:19:00]  -system etc,nightmare_normal clear -12:19 
+[05/03/2017][12:19:14]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:19:38]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:20:26]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:20:38]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:21:02]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:21:50]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:22:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:22:14]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:22:50]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:23:26]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:24:00]  -system etc,nightmare_mystic clear -12:24 
+[05/03/2017][12:24:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:25:02]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:25:38]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:26:38]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][12:28:02]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:28:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:29:00]  -system etc,nightmare_arcan clear -12:29 
+[05/03/2017][12:29:02]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:31:14]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:32:02]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:32:14]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][12:33:26]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:34:14]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:34:50]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:35:26]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:35:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:35:50]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:36:26]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:36:50]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:37:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:37:50]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:38:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:38:50]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][12:39:00]  -system etc,nightmare_normal clear -12:39 
+[05/03/2017][12:40:02]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:41:26]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:42:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:44:00]  -system etc,nightmare_mystic clear -12:44 
+[05/03/2017][12:46:02]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:47:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:47:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][12:48:02]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:48:14]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:49:00]  -system etc,nightmare_arcan clear -12:49 
+[05/03/2017][12:50:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][12:50:26]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:50:38]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:51:14]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:53:02]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:53:14]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][12:54:26]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:54:38]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:55:14]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:55:26]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][12:55:50]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:56:26]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][12:58:50]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][12:59:00]  -system etc,nightmare_normal clear -12:59 
+[05/03/2017][13:00:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][13:03:26]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][13:04:00]  -system etc,nightmare_mystic clear -13:4 
+[05/03/2017][13:04:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:04:50]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:05:02]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][13:05:26]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][13:06:38]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][13:07:38]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][13:08:38]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][13:09:00]  -system etc,nightmare_arcan clear -13:9 
+[05/03/2017][13:09:14]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][13:09:26]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][13:11:02]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][13:11:14]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[05/03/2017][13:12:26]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][13:12:38]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:13:26]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][13:13:26]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][13:13:50]  -system err,end index < start index 
+[05/03/2017][13:14:02]  -system err,end index < start index 
+[05/03/2017][13:14:38]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][13:14:50]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][13:14:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][13:15:02]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][13:15:50]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][13:18:26]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][13:19:00]  -system etc,nightmare_normal clear -13:19 
+[05/03/2017][13:20:50]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:21:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:21:50]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][13:22:50]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][13:23:02]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:23:14]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][13:24:00]  -system etc,nightmare_mystic clear -13:24 
+[05/03/2017][13:24:14]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][13:25:02]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][13:25:14]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][13:25:26]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][13:26:38]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][13:27:50]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][13:29:00]  -system etc,nightmare_arcan clear -13:29 
+[05/03/2017][13:30:02]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[05/03/2017][13:31:50]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][13:32:26]  -system err,No empty mobgrid(1): 5841 3426 1460 

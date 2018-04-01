@@ -1,0 +1,14 @@
+05.03.2017.17.19.42 IP: 189.13.226.146 ADMIN useitem,ração mount:7 
+05.03.2017.17.20.08 IP: 189.13.226.146 ADMIN buy_npc,npc:Shadow Montaria price:1537500 item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+05.03.2017.17.20.09 IP: 189.13.226.146 ADMIN tradingitem, SrcType:1 SrcSlot:11 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.48.117.255.94.17.0 
+05.03.2017.17.20.58 IP: 189.13.226.146 ADMIN tradingitem, SrcType:1 SrcSlot:11 Item: Tigre_de_Fogo : 2379.48.117.255.94.17.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+05.03.2017.17.21.03 IP: 189.13.226.146 ADMIN tradingitem, SrcType:1 SrcSlot:11 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.48.117.255.94.17.0 
+05.03.2017.17.22.53 IP: 177.39.204.178 WALLACER13 useitem,ração mount:10 
+05.03.2017.17.27.41 IP: 189.13.226.146 ADMIN useitem,joia_pvp joia:0 
+05.03.2017.17.29.05 IP: 189.13.226.146 ADMIN buy_npc,npc:Acessorios6 price:16400000 item: Retorno_da_Habilidade : 3336.0.0.0.0.0.0 
+05.03.2017.17.30.30 IP: 168.181.139.83 CYBER useitem,ração mount:9 
+05.03.2017.17.30.30 IP: 168.181.139.83 CYBER useitem,ração mount:9 
+05.03.2017.17.30.31 IP: 168.181.139.83 CYBER useitem,ração mount:9 
+05.03.2017.17.30.31 IP: 168.181.139.83 CYBER useitem,ração mount:9 
+05.03.2017.17.30.31 IP: 168.181.139.83 CYBER useitem,ração mount:9 
+05.03.2017.17.30.31 IP: 168.181.139.83 CYBER useitem,ração mount:9 

@@ -1,0 +1,2 @@
+[05/03/2017][16:50:42]  -system sys,start server 
+[05/03/2017][16:50:43]  -system erro, Não foi possivel se conectar a DBServer 

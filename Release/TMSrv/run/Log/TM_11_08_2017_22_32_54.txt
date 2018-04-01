@@ -1,0 +1,230 @@
+[11/08/2017][22:32:58]  -system sys,start server 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 62 2215 2063 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 70 2219 2063 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 100 2227 2062 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 328 2321 2218 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 337 2318 2223 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 442 2488 2054 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 545 2488 1950 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 575 2450 1951 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 602 2543 1943 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 673 2618 1978 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 792 2472 1836 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 802 2476 1820 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 908 2612 2078 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 1179 2274 1748 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 1304 1960 1644 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1830 279 3790 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1968 409 3815 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 1995 560 3802 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2220 420 4027 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2253 974 4075 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2307 952 4002 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2542 930 3804 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 3860 2086 1616 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 3864 2138 1623 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 3868 2074 1595 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 3885 2048 1574 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid: 5770 3409 1534 
+[11/08/2017][22:33:10]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/08/2017][22:33:14] IP: 192.168.1.108 TESTE CNFAccountLogin Mac: -1327610679.-2104213023.-2033555236.-2082929153 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 426 2468 2084 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 601 2543 1953 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 604 2522 1949 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 708 2641 2004 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 1053 2335 1746 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 1181 2251 1748 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid: 1197 2209 1699 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 1297 1969 1621 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 1405 1876 1758 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 1407 1903 1755 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 1713 157 3819 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 2239 413 4066 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 2287 1005 4005 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 2307 952 4002 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 2601 1030 3763 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 2965 1417 4003 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3850 2125 1626 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3852 2118 1634 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3855 2060 1635 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid: 3870 2096 1595 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3873 2132 1594 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid: 3874 2125 1581 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3878 2139 1585 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3887 2062 1552 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 3892 2152 1551 
+[11/08/2017][22:33:22]  -system err,No empty mobgrid(1): 4036 3622 2823 
+[11/08/2017][22:33:23] IP: 192.168.1.108 TESTE etc,createchar name:Teste 1 13 
+[11/08/2017][22:33:25] IP: 192.168.1.108 TESTE etc,createchar name:Teste1 1 13 
+[11/08/2017][22:33:29] IP: 192.168.1.108 TESTE sta,Login char:Teste1 exp:0 level:0 conn:1 money:2000000000, store:0 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 223 2350 2131 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 708 2641 2004 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 1126 2326 1570 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 1204 2195 1711 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 1298 1981 1621 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 2239 411 4066 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid(1): 3852 2114 1635 
+[11/08/2017][22:33:34]  -system err,No empty mobgrid: 3873 2136 1595 
+[11/08/2017][22:33:36]  TESTE etc,changecity city:0 X:2112 Y:2054 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 361 2378 2244 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 1181 2251 1748 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 1205 2195 1703 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 1229 2269 1719 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 1297 1971 1621 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 2086 750 3808 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 2753 1746 1826 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 3511 1333 4040 
+[11/08/2017][22:33:46]  -system err,No empty mobgrid(1): 3852 2112 1638 
+[11/08/2017][22:33:52] IP: 192.168.1.108 ADMIN CNFAccountLogin Mac: -1327610679.-2104213023.-2033555236.-2082929153 
+[11/08/2017][22:33:57] IP: 192.168.1.108 ADMIN sta,Login char:HT-te exp:848168570 level:312 conn:2 money:794505770, store:0 
+[11/08/2017][22:33:58]  -system err,No empty mobgrid(1): 1298 1977 1623 
+[11/08/2017][22:33:58]  -system err,No empty mobgrid: 1542 2244 1303 
+[11/08/2017][22:33:59]  ADMIN etc,changecity city:0 X:2098 Y:2106 
+[11/08/2017][22:34:10]  -system err,No empty mobgrid(1): 1181 2249 1748 
+[11/08/2017][22:34:10]  -system err,No empty mobgrid(1): 1297 1972 1622 
+[11/08/2017][22:34:10]  -system err,No empty mobgrid(1): 3511 1332 4041 
+[11/08/2017][22:34:22]  -system err,No empty mobgrid(1): 1298 1981 1620 
+[11/08/2017][22:34:34]  -system err,No empty mobgrid(1): 1297 1968 1622 
+[11/08/2017][22:34:36] IP: 192.168.1.108 TESTE etc,pkmode 1 
+[11/08/2017][22:34:44] IP: 192.168.1.108 TESTE etc,pkmode 0 
+[11/08/2017][22:34:44]  TESTE etc,changecity city:0 X:2123 Y:2143 
+[11/08/2017][22:34:46]  -system err,No empty mobgrid: 3488 622 3757 
+[11/08/2017][22:34:58]  -system err,No empty mobgrid(1): 1297 1971 1622 
+[11/08/2017][22:34:58]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[11/08/2017][22:34:59] IP: 192.168.1.108 TESTE etc,reqteleport char:Teste1 X:1046 Y:1725 price:700 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid: 5768 3410 1539 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid: 5769 3408 1537 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid: 5770 3408 1535 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid: 5771 3411 1529 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid: 5772 3411 1524 
+[11/08/2017][22:35:10]  -system err,No empty mobgrid(1): 5971 3392 1087 
+[11/08/2017][22:35:15]  ADMIN etc,changecity city:0 X:2121 Y:2143 
+[11/08/2017][22:35:22]  -system err,No empty mobgrid(1): 1297 1967 1621 
+[11/08/2017][22:35:22]  -system err,No empty mobgrid(1): 5971 3390 1086 
+[11/08/2017][22:35:22] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1044 Y:1725 price:700 
+[11/08/2017][22:35:28]  ADMIN etc,changecity city:0 X:2100 Y:2099 
+[11/08/2017][22:35:32] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1045 Y:1726 price:700 
+[11/08/2017][22:35:34]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[11/08/2017][22:35:34]  -system err,No empty mobgrid(1): 5971 3390 1086 
+[11/08/2017][22:35:41]  ADMIN etc,changecity city:0 X:2088 Y:2101 
+[11/08/2017][22:35:46] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:35:46]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[11/08/2017][22:35:48] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1046 Y:1724 price:700 
+[11/08/2017][22:35:59]  ADMIN etc,changecity city:0 X:2099 Y:2099 
+[11/08/2017][22:36:06]  -system etc,set citizen server:1 name:HT-te conn:2 
+[11/08/2017][22:36:10] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1044 Y:1725 price:700 
+[11/08/2017][22:36:10]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[11/08/2017][22:36:15]  ADMIN etc,changecity city:0 X:2100 Y:2096 
+[11/08/2017][22:36:22]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[11/08/2017][22:36:27] IP: 192.168.1.108 ADMIN sta,Login char:HT-te exp:848168570 level:312 conn:2 money:790505770, store:0 
+[11/08/2017][22:36:28]  ADMIN etc,changecity city:0 X:2093 Y:2107 
+[11/08/2017][22:36:34]  -system err,No empty mobgrid(1): 1297 1971 1623 
+[11/08/2017][22:36:34]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[11/08/2017][22:36:35] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1044 Y:1725 price:700 
+[11/08/2017][22:36:40] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1054 Y:1709 price:0 
+[11/08/2017][22:36:43] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:3650 Y:3112 price:0 
+[11/08/2017][22:36:43]  ADMIN etc,changecity city:3 X:3650 Y:3112 
+[11/08/2017][22:36:46]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[11/08/2017][22:36:47]  ADMIN etc,changecity city:3 X:3663 Y:3126 
+[11/08/2017][22:36:58]  -system err,No empty mobgrid(1): 1297 1970 1620 
+[11/08/2017][22:36:58]  -system err,No empty mobgrid(1): 1709 143 3797 
+[11/08/2017][22:37:06]  ADMIN etc,changecity city:3 X:3658 Y:3135 
+[11/08/2017][22:37:10]  -system err,No empty mobgrid(1): 3488 621 3757 
+[11/08/2017][22:37:21] IP: 192.168.1.108 ADMIN etc,createchar name:t12s5 2 13 
+[11/08/2017][22:37:22]  -system err,No empty mobgrid(1): 1297 1966 1625 
+[11/08/2017][22:37:25] IP: 192.168.1.108 ADMIN sta,Login char:t12s5 exp:0 level:0 conn:2 money:2000000000, store:0 
+[11/08/2017][22:37:33]  ADMIN etc,changecity city:0 X:2113 Y:2057 
+[11/08/2017][22:37:46]  -system err,No empty mobgrid(1): 1297 1971 1624 
+[11/08/2017][22:37:51] IP: 192.168.1.108 ADMIN etc,reqteleport char:t12s5 X:1046 Y:1726 price:700 
+[11/08/2017][22:37:58] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:01] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:02] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:03] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:07]  ADMIN etc,changecity city:0 X:2112 Y:2055 
+[11/08/2017][22:38:10]  -system err,No empty mobgrid(1): 1297 1968 1620 
+[11/08/2017][22:38:11] IP: 192.168.1.108 TESTE etc,pkmode 1 
+[11/08/2017][22:38:15] IP: 192.168.1.108 TESTE etc,pkmode 0 
+[11/08/2017][22:38:15] IP: 192.168.1.108 TESTE etc,pkmode 1 
+[11/08/2017][22:38:16] IP: 192.168.1.108 TESTE etc,pkmode 0 
+[11/08/2017][22:38:16] IP: 192.168.1.108 TESTE etc,pkmode 1 
+[11/08/2017][22:38:17] IP: 192.168.1.108 TESTE etc,pkmode 0 
+[11/08/2017][22:38:17] IP: 192.168.1.108 TESTE etc,pkmode 1 
+[11/08/2017][22:38:24] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:34]  -system err,No empty mobgrid(1): 1297 1970 1624 
+[11/08/2017][22:38:38] IP: 192.168.1.108 ADMIN etc,reqteleport char:t12s5 X:1045 Y:1724 price:700 
+[11/08/2017][22:38:41] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:41] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:42] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:42] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:43] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:43] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:44] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:44] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:48] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:48] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:49] IP: 192.168.1.108 ADMIN etc,pkmode 0 
+[11/08/2017][22:38:52] IP: 192.168.1.108 ADMIN etc,pkmode 1 
+[11/08/2017][22:38:58]  -system err,No empty mobgrid(1): 1297 1971 1623 
+[11/08/2017][22:39:00]  -system etc,nightmare_normal clear -22:39 
+[11/08/2017][22:39:12] IP: 192.168.1.108 ADMIN clo,fd 22-2 
+[11/08/2017][22:39:12] IP: 192.168.1.108 ADMIN etc,charlogout conn:2 name:t12s5 
+[11/08/2017][22:39:18] IP: 192.168.1.108 ADMIN CNFAccountLogin Mac: -1327610679.-2104213023.-2033555236.-2082929153 
+[11/08/2017][22:39:22]  -system err,No empty mobgrid(1): 1297 1966 1624 
+[11/08/2017][22:39:24] IP: 192.168.1.108 ADMIN sta,Login char:HT-te exp:848168570 level:312 conn:2 money:790505770, store:0 
+[11/08/2017][22:39:25]  ADMIN etc,changecity city:3 X:3659 Y:3123 
+[11/08/2017][22:39:33]  ADMIN etc,changecity city:3 X:3655 Y:3125 
+[11/08/2017][22:39:34]  -system err,No empty mobgrid(1): 3488 619 3757 
+[11/08/2017][22:39:37] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1055 Y:1711 price:0 
+[11/08/2017][22:39:43]  ADMIN etc,changecity city:3 X:3660 Y:3136 
+[11/08/2017][22:39:46]  -system err,No empty mobgrid(1): 1297 1966 1623 
+[11/08/2017][22:39:49] IP: 192.168.1.108 ADMIN etc,reqteleport char:HT-te X:1055 Y:1711 price:0 
+[11/08/2017][22:39:57] IP: 192.168.1.108 TESTE etc,pkmode 0 
+[11/08/2017][22:39:57] IP: 192.168.1.108 TESTE etc,pkmode 1 
+[11/08/2017][22:39:58] IP: 192.168.1.108 TESTE etc,pkmode 0 
+[11/08/2017][22:39:58]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[11/08/2017][22:40:06]  ADMIN etc,changecity city:3 X:3661 Y:3133 
+[11/08/2017][22:40:10]  -system err,No empty mobgrid(1): 1297 1967 1622 
+[11/08/2017][22:40:10]  -system err,No empty mobgrid(1): 2745 1710 1826 
+[11/08/2017][22:40:20] IP: 192.168.1.108 ADMIN clo,fd 22-2 
+[11/08/2017][22:40:20] IP: 192.168.1.108 ADMIN etc,charlogout conn:2 name:HT-te 
+[11/08/2017][22:40:20] IP: 192.168.1.108 TESTE clo,fd 22-2 
+[11/08/2017][22:40:20] IP: 192.168.1.108 TESTE etc,charlogout conn:1 name:Teste1 

@@ -1,0 +1,174 @@
+[05/03/2017][20:35:11] IP: 186.241.107.22 BOBS20 CNFAccountLogin Mac: 317392233.-612807937.-1723514751.636680940 
+[05/03/2017][20:35:18] IP: 186.241.107.22 BOBS20 sta,Login char:SodaNois exp:4000000000 level:199 conn:1 money:673073246, store:0 
+[05/03/2017][20:35:19]  BOBS20 etc,changecity city:0 X:2093 Y:2107 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 70 2222 2063 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 100 2226 2062 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 230 2366 2148 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 258 2386 2160 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid: 324 2368 2216 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 328 2318 2221 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 332 2359 2219 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 416 2476 2114 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 645 2592 1962 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 707 2650 1940 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid: 798 2535 1832 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 904 2580 2078 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 924 2590 2154 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 999 2414 1748 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1038 2356 1736 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1118 2334 1596 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1170 2276 1745 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1180 2262 1748 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1186 2209 1744 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid: 1194 2209 1728 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1242 2232 1634 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1292 1956 1562 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1298 1979 1622 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1401 1889 1677 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1402 1883 1679 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1556 2273 1253 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1771 180 3773 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1795 207 3761 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1814 244 3776 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1924 428 3752 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1934 435 3788 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 1995 560 3802 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2015 606 3800 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2077 736 3744 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2119 492 3876 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2307 952 4002 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2608 1070 3736 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid: 2869 1196 4023 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2938 1358 4073 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 2997 1495 4008 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3045 1371 3799 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3486 488 3888 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3832 2393 2117 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3849 2133 1636 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3850 2123 1630 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3853 2085 1635 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3856 2054 1627 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3857 2067 1626 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3862 2121 1606 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3867 2060 1595 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3868 2073 1596 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid: 3872 2120 1595 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3874 2123 1584 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3887 2064 1552 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3890 2113 1550 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3891 2134 1552 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 3892 2152 1552 
+[05/03/2017][20:35:22]  -system err,No empty mobgrid(1): 5971 3391 1087 
+[05/03/2017][20:35:30] IP: 187.110.69.50 BIKINHO CNFAccountLogin Mac: -312543481.-1217966727.-1095454382.1868310843 
+[05/03/2017][20:35:32] IP: 189.13.226.146 WELMAL CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][20:35:33] IP: 177.34.26.112 DENIZAO98 CNFAccountLogin Mac: -1134526654.-1343468639.-2011456134.-2007218134 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 100 2228 2062 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 223 2350 2132 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 233 2362 2118 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 332 2359 2219 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 361 2378 2244 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 426 2472 2082 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 520 2505 2019 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 602 2543 1943 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 792 2472 1836 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 796 2511 1836 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 797 2526 1832 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 798 2535 1831 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 935 2600 2132 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1065 2368 1685 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1121 2340 1565 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 1127 2326 1558 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1205 2195 1702 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1227 2267 1737 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1233 2268 1692 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1297 1970 1621 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1397 1904 1718 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1401 1886 1676 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1405 1878 1758 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 1556 2274 1253 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 1871 319 3744 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2019 596 3771 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2068 707 3780 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2086 750 3808 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2239 412 4066 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2307 952 4002 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2335 903 4048 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 2997 1496 4006 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 3850 2123 1631 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid: 3853 2086 1635 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 3890 2115 1551 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 3891 2131 1552 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 3892 2151 1552 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 3904 3661 3067 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 4036 3623 2821 
+[05/03/2017][20:35:34]  -system err,No empty mobgrid(1): 5971 3390 1089 
+[05/03/2017][20:35:37] IP: 187.110.69.50 BIKINHO sta,Login char:lH2O exp:800000000 level:39 conn:2 money:1658560036, store:0 
+[05/03/2017][20:35:38] IP: 189.13.226.146 WELMAL sta,Login char:CRAZY exp:60055 level:23 conn:3 money:1574594818, store:0 
+[05/03/2017][20:35:38]  BIKINHO etc,changecity city:0 X:2095 Y:2102 
+[05/03/2017][20:35:40]  WELMAL etc,changecity city:0 X:2087 Y:2097 
+[05/03/2017][20:35:44] IP: 168.181.139.83 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[05/03/2017][20:35:44] IP: 177.34.26.112 DENIZAO98 sta,Login char:Denizao exp:515416010 level:295 conn:4 money:1998988640, store:0 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 100 2230 2063 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 250 2382 2140 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 268 2363 2170 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 1227 2267 1737 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 1298 1978 1620 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 1556 2274 1254 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 2086 749 3809 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 2626 1127 3731 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 2938 1359 4073 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 2997 1495 4008 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 3458 2385 2118 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 3486 490 3889 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 3605 2450 4010 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 3904 3661 3067 
+[05/03/2017][20:35:46]  -system err,No empty mobgrid(1): 5971 3389 1087 
+[05/03/2017][20:35:49] IP: 168.181.139.83 CYBER sta,Login char:TK-MAGO exp:1800000000 level:89 conn:5 money:1361651988, store:0 
+[05/03/2017][20:35:51]  DENIZAO98 etc,changecity city:0 X:2100 Y:2100 
+[05/03/2017][20:35:51]  CYBER etc,changecity city:0 X:2096 Y:2106 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 223 2350 2131 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 1233 2268 1693 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 1297 1971 1624 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 2086 750 3808 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 2753 1746 1826 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 2997 1495 4008 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][20:35:58]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[05/03/2017][20:35:59] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:1044 Y:1724 price:700 
+[05/03/2017][20:36:03] IP: 168.181.139.83 CYBER etc,reqteleport char:TK-MAGO X:2458 Y:2018 price:0 
+[05/03/2017][20:36:04]  CYBER etc,changecity city:2 X:2458 Y:2018 
+[05/03/2017][20:36:10]  -system err,No empty mobgrid(1): 223 2350 2131 
+[05/03/2017][20:36:10]  -system err,No empty mobgrid(1): 2086 749 3809 
+[05/03/2017][20:36:10]  -system err,No empty mobgrid(1): 2997 1496 4007 
+[05/03/2017][20:36:10]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][20:36:10]  -system err,No empty mobgrid(1): 5971 3391 1089 
+[05/03/2017][20:36:22]  -system err,No empty mobgrid(1): 1065 2368 1688 
+[05/03/2017][20:36:22]  -system err,No empty mobgrid(1): 1205 2195 1700 
+[05/03/2017][20:36:22]  -system err,No empty mobgrid(1): 1297 1972 1624 
+[05/03/2017][20:36:22]  -system err,No empty mobgrid(1): 3453 2393 2101 
+[05/03/2017][20:36:22]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][20:36:22]  -system err,No empty mobgrid(1): 5971 3389 1086 
+[05/03/2017][20:36:34]  -system err,No empty mobgrid(1): 1298 1979 1620 
+[05/03/2017][20:36:34]  -system err,No empty mobgrid(1): 5971 3390 1086 
+[05/03/2017][20:36:40]  -system etc,mount ressurect index:2379 vit:59 - 120 
+[05/03/2017][20:36:43] IP: 187.110.69.50 BIKINHO etc,reqteleport char:lH2O X:2366 Y:3908 price:0 
+[05/03/2017][20:36:46]  -system err,No empty mobgrid(1): 1297 1971 1623 
+[05/03/2017][20:36:46]  -system err,No empty mobgrid(1): 2817 1746 1628 
+[05/03/2017][20:36:46]  -system err,No empty mobgrid(1): 3455 2416 2122 
+[05/03/2017][20:36:46]  -system err,No empty mobgrid(1): 3831 2406 2117 
+[05/03/2017][20:36:46]  -system err,No empty mobgrid(1): 5971 3388 1085 
+[05/03/2017][20:36:47] IP: 187.110.69.50 BIKINHO etc,reqteleport char:lH2O X:3251 Y:1704 price:0 
+[05/03/2017][20:36:53] IP: 177.39.204.178 WALLACER137 CNFAccountLogin Mac: 812394551.-1378333794.-1614894986.-299591001 
+[05/03/2017][20:36:58]  -system err,No empty mobgrid(1): 1298 1981 1620 
+[05/03/2017][20:36:58]  -system err,No empty mobgrid(1): 3488 622 3757 
+[05/03/2017][20:36:58]  -system err,No empty mobgrid(1): 5971 3391 1089 
+[05/03/2017][20:37:04] IP: 177.39.204.178 WALLACER137 sta,Login char:Maldito exp:800000000 level:39 conn:6 money:1510626173, store:0 
+[05/03/2017][20:37:05]  WALLACER137 etc,changecity city:0 X:2087 Y:2102 
+[05/03/2017][20:37:08] IP: 186.219.27.34 KNUT CNFAccountLogin Mac: 724515583.668615476.-1939770398.889634658 
+[05/03/2017][20:37:10]  -system err,No empty mobgrid(1): 1297 1970 1624 
+[05/03/2017][20:37:10]  -system err,No empty mobgrid(1): 1709 143 3797 
+[05/03/2017][20:37:14] IP: 186.219.27.34 KNUT sta,Login char:-Malevola- exp:780000000 level:39 conn:7 money:1926112916, store:0 
+[05/03/2017][20:37:16]  KNUT etc,changecity city:0 X:2097 Y:2096 
+[05/03/2017][20:37:22]  -system err,No empty mobgrid(1): 1298 1976 1624 
+[05/03/2017][20:37:22]  -system err,No empty mobgrid(1): 3458 2386 2117 

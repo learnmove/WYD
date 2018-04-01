@@ -1,0 +1,491 @@
+[11/03/2017][21:46:35]  -system sys,start server 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 62 2215 2063 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 70 2219 2063 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 100 2227 2062 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 328 2321 2218 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 337 2318 2223 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 442 2488 2054 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 545 2488 1950 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 575 2450 1951 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 602 2543 1943 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 673 2618 1978 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 792 2472 1836 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 802 2476 1820 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 908 2612 2078 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 1179 2274 1748 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 1304 1960 1644 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1830 279 3790 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1968 409 3815 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 1995 560 3802 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2220 420 4027 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2253 974 4075 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2307 952 4002 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2542 930 3804 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 3860 2086 1616 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 3864 2138 1623 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 3868 2074 1595 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 3885 2048 1574 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid: 5770 3409 1534 
+[11/03/2017][21:46:47]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 70 2224 2063 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 324 2368 2213 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 337 2324 2224 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 601 2543 1954 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 796 2513 1836 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid: 1229 2268 1719 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 1293 1945 1573 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 1405 1877 1758 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 1467 2192 1487 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid: 1871 321 3744 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 1934 435 3788 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 1968 410 3815 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2019 596 3770 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2086 749 3809 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2287 1003 4004 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2523 799 3889 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2601 1030 3762 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2617 1077 3753 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2635 1068 3786 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 2641 1128 3762 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3511 1333 4039 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3869 2085 1596 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3873 2133 1595 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3878 2139 1583 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 3891 2133 1551 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 4036 3622 2822 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/03/2017][21:46:59]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 259 2360 2160 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 1296 1953 1621 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 1298 1982 1620 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 3792 2232 3628 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 3852 2113 1636 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 3904 3661 3067 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 4106 3541 2896 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[11/03/2017][21:47:11]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid: 1193 2209 1732 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 1229 2267 1719 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 1231 2255 1735 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 1293 1945 1572 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 1345 1984 1723 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 2086 750 3809 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 2229 488 4042 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid: 2743 1703 1826 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 3235 1378 1855 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 3852 2112 1635 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 3891 2134 1551 
+[11/03/2017][21:47:23]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid(1): 1292 1956 1561 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid: 1296 1952 1621 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid(1): 1298 1977 1623 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid: 1364 1986 1752 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid(1): 2814 1746 1628 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid(1): 3514 1317 4043 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid(1): 3891 2135 1551 
+[11/03/2017][21:47:35]  -system err,No empty mobgrid(1): 4036 3624 2821 
+[11/03/2017][21:47:47]  -system err,No empty mobgrid(1): 3511 1332 4041 
+[11/03/2017][21:47:47]  -system err,No empty mobgrid(1): 3605 2449 4010 
+[11/03/2017][21:47:47]  -system err,No empty mobgrid(1): 3891 2131 1551 
+[11/03/2017][21:47:47]  -system err,No empty mobgrid(1): 4106 3540 2896 
+[11/03/2017][21:47:59]  -system err,No empty mobgrid(1): 1298 1978 1620 
+[11/03/2017][21:48:11]  -system err,No empty mobgrid(1): 3831 2406 2117 
+[11/03/2017][21:48:11]  -system err,No empty mobgrid(1): 4036 3621 2824 
+[11/03/2017][21:48:22] IP: 192.168.1.110 ADMIN CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[11/03/2017][21:48:23]  -system err,No empty mobgrid(1): 1298 1981 1620 
+[11/03/2017][21:48:41] IP: 192.168.1.110 ADMIN etc,delchar name: 1 13 
+[11/03/2017][21:48:47]  -system err,No empty mobgrid(1): 1298 1980 1623 
+[11/03/2017][21:48:47]  -system err,No empty mobgrid(1): 4036 3621 2821 
+[11/03/2017][21:48:47] IP: 192.168.1.110 ADMIN sta,Login char:Douglas1 exp:4000000158 level:1010 conn:1 money:1831350955, store:0 
+[11/03/2017][21:48:48]  ADMIN etc,changecity city:0 X:2092 Y:2093 
+[11/03/2017][21:49:00]  -system etc,nightmare_arcan clear -21:49 
+[11/03/2017][21:49:06] IP: 192.168.1.110 ADMIN etc,abandonar 6 9 
+[11/03/2017][21:49:23]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[11/03/2017][21:49:27] IP: 192.168.1.110 ADMIN clo,fd 22-2 
+[11/03/2017][21:49:27] IP: 192.168.1.110 ADMIN etc,charlogout conn:1 name:Douglas1 
+[11/03/2017][21:49:51] IP: 192.168.1.110 ADMIN CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[11/03/2017][21:49:59]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[11/03/2017][21:50:04] IP: 192.168.1.110 ADMIN sta,Login char:Douglas1 exp:4000000158 level:1010 conn:1 money:1831350955, store:0 
+[11/03/2017][21:50:05]  ADMIN etc,changecity city:0 X:2100 Y:2103 
+[11/03/2017][21:50:11]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[11/03/2017][21:50:11]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[11/03/2017][21:50:15] IP: 192.168.1.110 ADMIN sys,guild medal value:5 count:5 
+[11/03/2017][21:50:47]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][21:50:56] IP: 192.168.1.110 ADMIN clo,fd 22-2 
+[11/03/2017][21:50:56] IP: 192.168.1.110 ADMIN etc,charlogout conn:1 name:Douglas1 
+[11/03/2017][21:50:59]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[11/03/2017][21:51:35]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[11/03/2017][21:51:43] IP: 192.168.1.110 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[11/03/2017][21:51:58] IP: 192.168.1.110 CYBER etc,createchar name:HUNTRESS 1 13 
+[11/03/2017][21:52:02] IP: 192.168.1.110 CYBER sta,Login char:HUNTRESS exp:0 level:0 conn:1 money:2000000000, store:0 
+[11/03/2017][21:52:03]  CYBER etc,changecity city:0 X:2099 Y:2096 
+[11/03/2017][21:53:35]  -system err,No empty mobgrid(1): 5841 3426 1459 
+[11/03/2017][21:53:42] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2379 name:Porco dam:493 x:2109 y:2046 
+[11/03/2017][21:53:48] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:8422 name:Porco dam:475 x:2108 y:2045 
+[11/03/2017][21:53:50] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2376 name:Porco dam:489 x:2109 y:2046 
+[11/03/2017][21:53:52] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2375 name:Porco dam:507 x:2111 y:2044 
+[11/03/2017][21:53:52] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 1 
+[11/03/2017][21:53:53] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2378 name:Porco dam:485 x:2110 y:2039 
+[11/03/2017][21:53:53] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[11/03/2017][21:53:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2373 name:Porco dam:495 x:2120 y:2037 
+[11/03/2017][21:53:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2374 name:Porco dam:693 x:2126 y:2040 
+[11/03/2017][21:54:00] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6397 name:Aguia dam:499 x:2124 y:2035 
+[11/03/2017][21:54:01] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2395 name:Aguia dam:462 x:2123 y:2035 
+[11/03/2017][21:54:03]  -system etc,carbuncle buff name:HUNTRESS conn:1 
+[11/03/2017][21:54:05] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2398 name:Porco dam:462 x:2125 y:2033 
+[11/03/2017][21:54:05] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 2 
+[11/03/2017][21:54:07] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6400 name:Porco dam:477 x:2124 y:2028 
+[11/03/2017][21:54:09] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2408 name:Porco dam:505 x:2119 y:2024 
+[11/03/2017][21:54:11] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2412 name:Porco dam:500 x:2115 y:2025 
+[11/03/2017][21:54:11] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[11/03/2017][21:54:12] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5297 name:Porco dam:510 x:2110 y:2025 
+[11/03/2017][21:54:14] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2417 name:Aguia dam:472 x:2109 y:2023 
+[11/03/2017][21:54:15] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5296 name:Aguia dam:491 x:2107 y:2017 
+[11/03/2017][21:54:19] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5305 name:Gremlin dam:509 x:2094 y:2021 
+[11/03/2017][21:54:19] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 3 
+[11/03/2017][21:54:19] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 4 
+[11/03/2017][21:54:21] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2424 name:Gremlin dam:497 x:2090 y:2024 
+[11/03/2017][21:54:21] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 5 
+[11/03/2017][21:54:21] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 6 
+[11/03/2017][21:54:29] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2439 name:Gremlin Artif dam:480 x:2071 y:2020 
+[11/03/2017][21:54:29] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 7 
+[11/03/2017][21:54:29] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Chave_da_Primeira_Porta:451 0.0.0.0.0.0 do mob:Gremlin Artif 
+[11/03/2017][21:54:29] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 8 
+[11/03/2017][21:54:35]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[11/03/2017][21:54:38] IP: 192.168.1.110 CYBER etc,opengate gateid:20 X:2075 Y:2015 
+[11/03/2017][21:54:41] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5326 name:Krill dam:460 x:2077 y:2006 
+[11/03/2017][21:54:41] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 9 
+[11/03/2017][21:54:41] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 10 
+[11/03/2017][21:54:42]  -system etc,carbuncle buff name:HUNTRESS conn:1 
+[11/03/2017][21:54:46] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5329 name:Gremlin dam:754 x:2095 y:1998 
+[11/03/2017][21:54:46] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 11 
+[11/03/2017][21:54:46] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 12 
+[11/03/2017][21:54:47]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][21:54:48] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5342 name:Rei Gremlin dam:727 x:2109 y:1996 
+[11/03/2017][21:54:48] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 13 
+[11/03/2017][21:54:48] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 14 
+[11/03/2017][21:54:50] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2471 name:Serpente dam:751 x:2117 y:2002 
+[11/03/2017][21:54:50] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 15 
+[11/03/2017][21:54:50] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 16 
+[11/03/2017][21:54:53] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2474 name:Rei Gremlin  dam:710 x:2132 y:2001 
+[11/03/2017][21:54:53] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 17 
+[11/03/2017][21:54:53] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 18 
+[11/03/2017][21:54:56] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5358 name:Krill Gigante dam:723 x:2145 y:1996 
+[11/03/2017][21:54:56] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 19 
+[11/03/2017][21:54:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5358 name:Krill Gigante dam:773 x:2145 y:1996 
+[11/03/2017][21:54:57] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 20 
+[11/03/2017][21:54:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5358 name:Krill Gigante dam:774 x:2145 y:1996 
+[11/03/2017][21:54:58] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 21 
+[11/03/2017][21:54:58] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Chave_da_Segunda_Porta:452 0.0.0.0.0.0 do mob:Krill Gigante 
+[11/03/2017][21:54:58] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 22 
+[11/03/2017][21:55:02] IP: 192.168.1.110 CYBER etc,opengate gateid:21 X:2143 Y:1985 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid(1): 5655 3346 1618 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid: 5769 3411 1539 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid: 5770 3412 1535 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid: 5771 3409 1531 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid: 5772 3412 1526 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid(1): 5965 3392 1089 
+[11/03/2017][21:55:11]  -system err,No empty mobgrid(1): 5971 3391 1088 
+[11/03/2017][21:55:12] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2488 name:Rei Gremlin  dam:752 x:2123 y:1974 
+[11/03/2017][21:55:12] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 23 
+[11/03/2017][21:55:12] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 24 
+[11/03/2017][21:55:13] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2490 name:Rei Gremlin  dam:755 x:2120 y:1973 
+[11/03/2017][21:55:13] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 25 
+[11/03/2017][21:55:13] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 26 
+[11/03/2017][21:55:15] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:5371 name:Rei Gremlin  dam:729 x:2109 y:1978 
+[11/03/2017][21:55:15] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 27 
+[11/03/2017][21:55:15] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 28 
+[11/03/2017][21:55:18] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2495 name:Krill  dam:773 x:2103 y:1975 
+[11/03/2017][21:55:18] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 29 
+[11/03/2017][21:55:18] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 30 
+[11/03/2017][21:55:22] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2494 name:Rei Gremlin  dam:768 x:2095 y:1974 
+[11/03/2017][21:55:22] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 31 
+[11/03/2017][21:55:22] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 32 
+[11/03/2017][21:55:23]  -system err,No empty mobgrid(1): 5971 3390 1088 
+[11/03/2017][21:55:28] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2504 name:Orc Sniper dam:778 x:2078 y:1976 
+[11/03/2017][21:55:28] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 33 
+[11/03/2017][21:55:29] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2504 name:Orc Sniper dam:707 x:2078 y:1976 
+[11/03/2017][21:55:29] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 34 
+[11/03/2017][21:55:30] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:2504 name:Orc Sniper dam:708 x:2078 y:1976 
+[11/03/2017][21:55:30] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 35 
+[11/03/2017][21:55:30] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Chave_da_Ultima_Porta:453 0.0.0.0.0.0 do mob:Orc Sniper 
+[11/03/2017][21:55:30] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 36 
+[11/03/2017][21:55:31]  CYBER etc,changecity city:0 X:2086 Y:2106 
+[11/03/2017][21:55:35]  -system err,No empty mobgrid(1): 5971 3389 1087 
+[11/03/2017][21:55:47]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[11/03/2017][21:55:47]  -system err,No empty mobgrid(1): 5971 3390 1086 
+[11/03/2017][21:55:59]  -system err,No empty mobgrid(1): 5971 3391 1087 
+[11/03/2017][21:56:11]  -system err,No empty mobgrid(1): 5971 3389 1089 
+[11/03/2017][21:56:23]  -system err,No empty mobgrid(1): 5971 3390 1088 
+[11/03/2017][21:56:35]  -system err,No empty mobgrid(1): 5971 3389 1087 
+[11/03/2017][21:56:47]  -system err,No empty mobgrid(1): 5971 3388 1085 
+[11/03/2017][21:56:59]  -system err,No empty mobgrid(1): 5971 3389 1086 
+[11/03/2017][21:57:11]  -system err,No empty mobgrid(1): 5971 3392 1088 
+[11/03/2017][21:57:22] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1044 Y:1726 price:700 
+[11/03/2017][21:57:23]  -system err,No empty mobgrid(1): 5971 3392 1089 
+[11/03/2017][21:57:32] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:2458 Y:2016 price:0 
+[11/03/2017][21:57:32]  CYBER etc,changecity city:2 X:2458 Y:2016 
+[11/03/2017][21:57:35]  -system err,No empty mobgrid(1): 5971 3389 1086 
+[11/03/2017][21:57:47]  -system err,No empty mobgrid(1): 5971 3389 1086 
+[11/03/2017][21:57:50] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1367 name:Orc Cavaleiro dam:683 x:2484 y:2017 
+[11/03/2017][21:57:51] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4838 name:Meio Orc  dam:672 x:2481 y:2020 
+[11/03/2017][21:57:55] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1353 name:Meio Orc dam:196 x:2485 y:2032 
+[11/03/2017][21:57:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1353 name:Meio Orc dam:201 x:2481 y:2028 
+[11/03/2017][21:57:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1353 name:Meio Orc dam:200 x:2481 y:2028 
+[11/03/2017][21:57:59]  -system err,No empty mobgrid(1): 5971 3388 1089 
+[11/03/2017][21:57:59] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1353 name:Meio Orc dam:188 x:2481 y:2028 
+[11/03/2017][21:58:03] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1345 name:Dragao Menor dam:190 x:2469 y:2038 
+[11/03/2017][21:58:04] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1345 name:Dragao Menor dam:203 x:2469 y:2038 
+[11/03/2017][21:58:05] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1345 name:Dragao Menor dam:664 x:2469 y:2038 
+[11/03/2017][21:58:10] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1268 name:Dragao Menor dam:658 x:2462 y:2053 
+[11/03/2017][21:58:11] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1268 name:Dragao Menor dam:690 x:2462 y:2053 
+[11/03/2017][21:58:14] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6315 name:Orc Arqueiro  dam:708 x:2459 y:2058 
+[11/03/2017][21:58:15] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6314 name:Orc Cavaleiro  dam:689 x:2458 y:2062 
+[11/03/2017][21:58:18] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4792 name:Orc Cavaleiro dam:737 x:2453 y:2058 
+[11/03/2017][21:58:19] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1227 name:Orc Arqueiro  dam:708 x:2445 y:2066 
+[11/03/2017][21:58:23] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1217 name:Orc Cavaleiro dam:683 x:2434 y:2078 
+[11/03/2017][21:58:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1129 name:Chefe Krill  dam:745 x:2395 y:2069 
+[11/03/2017][21:58:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1128 name:Chefe Krill dam:731 x:2389 y:2069 
+[11/03/2017][21:58:38] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4714 name:Chefe Krill dam:766 x:2388 y:2070 
+[11/03/2017][21:58:39] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6284 name:Chefe Krill dam:724 x:2387 y:2067 
+[11/03/2017][21:58:40] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6283 name:Chefe Krill dam:738 x:2384 y:2068 
+[11/03/2017][21:58:46] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4706 name:Chefe Krill dam:731 x:2368 y:2089 
+[11/03/2017][21:58:48] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4707 name:Chefe Krill dam:717 x:2372 y:2098 
+[11/03/2017][21:58:49] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6277 name:Chefe Krill dam:710 x:2371 y:2101 
+[11/03/2017][21:58:49] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Dardo_Místico:991 43.1.2.27.59.0 do mob:Chefe Krill 
+[11/03/2017][21:58:51] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4700 name:Rei Gremlin dam:715 x:2363 y:2104 
+[11/03/2017][21:58:51] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 42 
+[11/03/2017][21:58:51] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 43 
+[11/03/2017][21:58:53] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1114 name:Rei Gremlin dam:740 x:2363 y:2102 
+[11/03/2017][21:58:53] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 44 
+[11/03/2017][21:58:53] IP: 192.168.1.110 CYBER lvl HUNTRESS level up to 45 
+[11/03/2017][21:58:56]  -system etc,quest256 ticket coveiro name:HUNTRESS level:45 
+[11/03/2017][21:58:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7456 name:Esqueleto dam:640 x:2405 y:2102 
+[11/03/2017][21:59:00] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7456 name:Esqueleto dam:610 x:2399 y:2101 
+[11/03/2017][21:59:00]  -system etc,nightmare_normal clear -21:59 
+[11/03/2017][21:59:01] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7456 name:Esqueleto dam:640 x:2399 y:2101 
+[11/03/2017][21:59:02] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7456 name:Esqueleto dam:610 x:2401 y:2098 
+[11/03/2017][21:59:04] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7454 name:Aparicao dam:553 x:2408 y:2103 
+[11/03/2017][21:59:05] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7454 name:Aparicao dam:537 x:2402 y:2099 
+[11/03/2017][21:59:06] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7454 name:Aparicao dam:543 x:2402 y:2099 
+[11/03/2017][21:59:07] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7454 name:Aparicao dam:586 x:2402 y:2099 
+[11/03/2017][21:59:08] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7454 name:Aparicao dam:564 x:2402 y:2099 
+[11/03/2017][21:59:09] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7454 name:Aparicao dam:559 x:2402 y:2099 
+[11/03/2017][21:59:09] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Resto_de_Oriharucon:419 59.130.59.224.59.48 do mob:Aparicao 
+[11/03/2017][21:59:09] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Caixa_da_Sabedoria:4117 0.0.0.0.0.0 do mob:Aparicao 
+[11/03/2017][21:59:10] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7455 name:Esqueleto dam:634 x:2401 y:2098 
+[11/03/2017][21:59:11] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7455 name:Esqueleto dam:989 x:2402 y:2099 
+[11/03/2017][21:59:12] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7455 name:Esqueleto dam:616 x:2402 y:2099 
+[11/03/2017][21:59:13] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:7455 name:Esqueleto dam:634 x:2402 y:2099 
+[11/03/2017][21:59:13] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Caixa_da_Sabedoria:4117 0.0.0.0.0.0 do mob:Esqueleto 
+[11/03/2017][21:59:15] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9440 name:Esqueleto dam:610 x:2402 y:2098 
+[11/03/2017][21:59:16] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9440 name:Esqueleto dam:634 x:2402 y:2098 
+[11/03/2017][21:59:17] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9440 name:Esqueleto dam:616 x:2402 y:2098 
+[11/03/2017][21:59:18] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9440 name:Esqueleto dam:646 x:2402 y:2098 
+[11/03/2017][21:59:19] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9439 name:Esqueleto dam:658 x:2402 y:2099 
+[11/03/2017][21:59:20] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9439 name:Esqueleto dam:671 x:2402 y:2099 
+[11/03/2017][21:59:21] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9439 name:Esqueleto dam:634 x:2402 y:2099 
+[11/03/2017][21:59:22] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9439 name:Esqueleto dam:664 x:2402 y:2099 
+[11/03/2017][21:59:22] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Caixa_da_Sabedoria:4117 0.0.0.0.0.0 do mob:Esqueleto 
+[11/03/2017][21:59:23] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9438 name:Aparicao dam:570 x:2402 y:2098 
+[11/03/2017][21:59:24] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9438 name:Aparicao dam:586 x:2402 y:2098 
+[11/03/2017][21:59:25] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9438 name:Aparicao dam:575 x:2402 y:2098 
+[11/03/2017][21:59:26] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9438 name:Aparicao dam:591 x:2402 y:2098 
+[11/03/2017][21:59:27] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9438 name:Aparicao dam:559 x:2402 y:2098 
+[11/03/2017][21:59:28] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9438 name:Aparicao dam:553 x:2402 y:2098 
+[11/03/2017][21:59:28] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Caixa_da_Sabedoria:4117 0.0.0.0.0.0 do mob:Aparicao 
+[11/03/2017][21:59:33] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:3816 name:Esqueleto dam:665 x:2404 y:2089 
+[11/03/2017][21:59:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:3817 name:Esqueleto dam:672 x:2402 y:2091 
+[11/03/2017][21:59:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:3817 name:Esqueleto dam:629 x:2402 y:2091 
+[11/03/2017][21:59:37] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:3817 name:Esqueleto dam:647 x:2402 y:2091 
+[11/03/2017][21:59:38] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:3817 name:Esqueleto dam:647 x:2402 y:2091 
+[11/03/2017][21:59:43] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:6752 name:Esqueleto dam:613 x:2398 y:2089 
+[11/03/2017][21:59:47]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[11/03/2017][21:59:53] IP: 192.168.1.110 CYBER sta,Login char:HUNTRESS exp:839515 level:55 conn:1 money:1998498876, store:0 
+[11/03/2017][21:59:54]  CYBER etc,changecity city:2 X:2455 Y:2005 
+[11/03/2017][21:59:59]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[11/03/2017][22:00:00] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1045 Y:1710 price:700 
+[11/03/2017][22:00:06] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:2117 Y:2100 price:0 
+[11/03/2017][22:00:07]  CYBER etc,changecity city:0 X:2117 Y:2100 
+[11/03/2017][22:00:19]  CYBER etc,applybonus name:HUNTRESS bonustype:2 skillpos:9 
+[11/03/2017][22:00:25]  CYBER etc,applybonus name:HUNTRESS bonustype:2 skillpos:1 
+[11/03/2017][22:00:35]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[11/03/2017][22:00:43] IP: 192.168.1.110 CYBER adm +set 2550 
+[11/03/2017][22:00:48] IP: 192.168.1.110 CYBER adm +set 15 2550 
+[11/03/2017][22:00:48] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2550 0:0:0:0:0:0] -system 
+[11/03/2017][22:00:57] IP: 192.168.1.110 CYBER adm +set 15 2379 120 120 120 
+[11/03/2017][22:00:57] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2379 120:120:120:0:0:0] -system 
+[11/03/2017][22:01:06] IP: 192.168.1.110 CYBER adm +set 7 2550 
+[11/03/2017][22:01:06] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2550 0:0:0:0:0:0] -system 
+[11/03/2017][22:01:09] IP: 192.168.1.110 CYBER adm +set 7 2555 
+[11/03/2017][22:01:09] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2555 0:0:0:0:0:0] -system 
+[11/03/2017][22:01:14] IP: 192.168.1.110 CYBER adm +set 7 2554 
+[11/03/2017][22:01:14] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2554 0:0:0:0:0:0] -system 
+[11/03/2017][22:01:29] IP: 192.168.1.110 CYBER adm +set 8 4141 
+[11/03/2017][22:01:29] IP: 192.168.1.110 HUNTRESS - Set Item Equip [4141 0:0:0:0:0:0] -system 
+[11/03/2017][22:01:31] IP: 192.168.1.110 CYBER adm +set 8 4141 61 120 
+[11/03/2017][22:01:31] IP: 192.168.1.110 HUNTRESS - Set Item Equip [4141 61:120:0:0:0:0] -system 
+[11/03/2017][22:02:04] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1046 Y:1726 price:700 
+[11/03/2017][22:02:09] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1053 Y:1709 price:0 
+[11/03/2017][22:02:12] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:3650 Y:3112 price:0 
+[11/03/2017][22:02:12]  CYBER etc,changecity city:3 X:3650 Y:3112 
+[11/03/2017][22:02:27] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1294 x:3636 y:3069 
+[11/03/2017][22:02:28] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1234 x:3636 y:3069 
+[11/03/2017][22:02:32] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1318 x:3638 y:3067 
+[11/03/2017][22:02:33] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1331 x:3641 y:3071 
+[11/03/2017][22:02:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:2420 x:3641 y:3071 
+[11/03/2017][22:02:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1331 x:3641 y:3071 
+[11/03/2017][22:02:44]  CYBER etc,changecity city:3 X:3649 Y:3100 
+[11/03/2017][22:02:47] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1055 Y:1710 price:0 
+[11/03/2017][22:02:52] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:2458 Y:2017 price:0 
+[11/03/2017][22:02:52]  CYBER etc,changecity city:2 X:2458 Y:2017 
+[11/03/2017][22:02:54]  -system etc,mount ressurect index:0 vit:-2 - 0 
+[11/03/2017][22:03:16] IP: 192.168.1.110 CYBER adm +set 15 2379 120 120 120 120 120 
+[11/03/2017][22:03:16] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2379 120:120:120:120:120:0] -system 
+[11/03/2017][22:03:31] IP: 192.168.1.110 CYBER adm +set 15 2379 120 120 120 120 120 
+[11/03/2017][22:03:31] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2379 120:120:120:120:120:0] -system 
+[11/03/2017][22:03:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4851 name:Orc Cavaleiro dam:1276 x:2484 y:2003 
+[11/03/2017][22:03:42] IP: 192.168.1.110 CYBER adm +set 15 2379 120 120 120 120 120 
+[11/03/2017][22:03:42] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2379 120:120:120:120:120:0] -system 
+[11/03/2017][22:03:43]  CYBER etc,changecity city:5 X:2477 Y:2009 
+[11/03/2017][22:03:48] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1044 Y:1708 price:700 
+[11/03/2017][22:03:52] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:3651 Y:3111 price:0 
+[11/03/2017][22:03:52]  CYBER etc,changecity city:3 X:3651 Y:3111 
+[11/03/2017][22:04:00]  -system etc,nightmare_mystic clear -22:4 
+[11/03/2017][22:04:00] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:9 x:3639 y:3065 
+[11/03/2017][22:04:02] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:9 x:3641 y:3064 
+[11/03/2017][22:04:03] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:8 x:3641 y:3064 
+[11/03/2017][22:04:04] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:9 x:3641 y:3064 
+[11/03/2017][22:04:05] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:9 x:3641 y:3064 
+[11/03/2017][22:04:06] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:9 x:3641 y:3064 
+[11/03/2017][22:04:07]  -system etc PK killer:Lobo Polar(331,0) killed:HUNTRESS(55,150) kingdom:0 war:0 
+[11/03/2017][22:04:14] IP: 192.168.1.110 CYBER etc,restart char:HUNTRESS hp:2 
+[11/03/2017][22:04:14]  CYBER etc,changecity city:3 X:3656 Y:3129 
+[11/03/2017][22:04:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:482 x:3634 y:3070 
+[11/03/2017][22:04:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:496 x:3634 y:3070 
+[11/03/2017][22:04:37] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:468 x:3634 y:3070 
+[11/03/2017][22:04:39] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:463 x:3634 y:3070 
+[11/03/2017][22:04:39]  -system etc PK killer:Lobo Polar(331,0) killed:HUNTRESS(55,150) kingdom:0 war:0 
+[11/03/2017][22:04:48] IP: 192.168.1.110 CYBER etc,restart char:HUNTRESS hp:2 
+[11/03/2017][22:04:48]  CYBER etc,changecity city:3 X:3655 Y:3130 
+[11/03/2017][22:04:54] IP: 192.168.1.110 CYBER adm +set 15 2379 10 10 10 10 10 10 
+[11/03/2017][22:04:54] IP: 192.168.1.110 HUNTRESS - Set Item Equip [2379 10:10:10:10:10:10] -system 
+[11/03/2017][22:05:12] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3639 y:3065 
+[11/03/2017][22:05:13] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3639 y:3065 
+[11/03/2017][22:05:14] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:15] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:16] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:18] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:20] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:21] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:22] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:23] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:24] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:25] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:26] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:27] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:28] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:29] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:30] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:31] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:32] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:33] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:38] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:39] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:40] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:41] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:42] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:43] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:44] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:45] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:46] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:47] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:48] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:49] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:50] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:51] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:52] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:53] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:54] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:55] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:05:59] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:06:00] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4183 name:Lobo Polar dam:1 x:3641 y:3064 
+[11/03/2017][22:06:06]  CYBER etc,changecity city:3 X:3647 Y:3104 
+[11/03/2017][22:06:19] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:3650 Y:3110 price:0 
+[11/03/2017][22:06:23] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:1054 Y:1711 price:0 
+[11/03/2017][22:06:27] IP: 192.168.1.110 CYBER etc,reqteleport char:HUNTRESS X:2457 Y:2017 price:0 
+[11/03/2017][22:06:27]  CYBER etc,changecity city:2 X:2457 Y:2017 
+[11/03/2017][22:06:31]  -system etc,mount ressurect index:2379 vit:8 - 10 
+[11/03/2017][22:06:35]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[11/03/2017][22:06:37] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4848 name:Orc Cavaleiro dam:906 x:2484 y:2011 
+[11/03/2017][22:06:39] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4847 name:Meio Orc dam:885 x:2482 y:2015 
+[11/03/2017][22:06:40] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1366 name:Meio Orc dam:902 x:2483 y:2016 
+[11/03/2017][22:06:43]  CYBER etc,changecity city:2 X:2474 Y:2010 
+[11/03/2017][22:06:47]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[11/03/2017][22:07:19] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1368 name:Meio Orc dam:885 x:2485 y:2000 
+[11/03/2017][22:07:21] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1369 name:Orc Cavaleiro dam:951 x:2486 y:2001 
+[11/03/2017][22:07:22] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4850 name:Meio Orc dam:902 x:2487 y:2001 
+[11/03/2017][22:07:24] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1372 name:Meio Orc dam:885 x:2484 y:1994 
+[11/03/2017][22:07:25] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:1373 name:Orc Cavaleiro dam:969 x:2484 y:1993 
+[11/03/2017][22:07:27] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:4855 name:Orc Cavaleiro dam:960 x:2487 y:1996 
+[11/03/2017][22:07:29] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10425 name:Meio Orc dam:946 x:2485 y:2002 
+[11/03/2017][22:07:30] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10426 name:Orc Cavaleiro dam:987 x:2484 y:2001 
+[11/03/2017][22:07:33] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10350 name:Meio Orc dam:885 x:2483 y:2013 
+[11/03/2017][22:07:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10351 name:Orc Cavaleiro dam:960 x:2482 y:2012 
+[11/03/2017][22:07:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10370 name:Meio Orc dam:885 x:2487 y:2013 
+[11/03/2017][22:07:36] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Botas_Vampíricas(A):1839 43.0.73.18.59.0 do mob:Meio Orc 
+[11/03/2017][22:07:43] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10443 name:Meio Orc dam:920 x:2483 y:2016 
+[11/03/2017][22:07:43] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Botas_de_Bandagem(A):2055 43.0.73.18.74.12 do mob:Meio Orc 
+[11/03/2017][22:07:53] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:10444 name:Orc Cavaleiro dam:889 x:2484 y:2014 
+[11/03/2017][22:07:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9294 name:Meio Orc  dam:954 x:2483 y:2016 
+[11/03/2017][22:07:59]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[11/03/2017][22:07:59] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:HUNTRESS target:9293 name:Meio Orc dam:937 x:2486 y:2028 
+[11/03/2017][22:07:59] IP: 192.168.1.110 CYBER MobName:HUNTRESS dropou o item: Botas_Vampíricas(A):1839 5.6.73.18.59.0 do mob:Meio Orc 
+[11/03/2017][22:08:07] IP: 192.168.1.110 CYBER clo,fd 22-2 
+[11/03/2017][22:08:07] IP: 192.168.1.110 CYBER etc,charlogout conn:1 name:HUNTRESS 
+[11/03/2017][22:08:11]  -system err,No empty mobgrid(1): 5817 3358 1426 
+[11/03/2017][22:08:23]  -system not AVISO: Servidor será reiniciado após 1 minuto. 

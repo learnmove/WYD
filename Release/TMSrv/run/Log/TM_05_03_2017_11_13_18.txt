@@ -1,0 +1,138 @@
+[05/03/2017][11:13:21]  -system sys,start server 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 73 2194 2150 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 160 2306 2128 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 223 2350 2132 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 261 2344 2156 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 328 2319 2221 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 406 2458 2096 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid: 466 2536 2084 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 602 2543 1944 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 605 2535 1938 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 697 2644 2016 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 802 2476 1820 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 883 2575 2060 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 998 2414 1744 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1046 2360 1700 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1088 2311 1720 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1104 2338 1616 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1180 2263 1748 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1184 2228 1748 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1298 1977 1624 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1554 2262 1252 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1751 168 3788 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1827 276 3742 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1830 279 3791 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1897 376 3812 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1901 388 3816 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1906 400 3798 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1909 384 3769 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1972 400 3824 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 1995 560 3802 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2019 596 3772 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2086 750 3809 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2220 420 4027 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2542 930 3804 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2646 1124 3786 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2652 2324 2190 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2661 2322 2195 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 2974 1473 3987 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3354 1337 1705 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3375 1302 1679 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid: 3840 804 4058 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3852 2112 1636 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3855 2061 1635 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3860 2087 1610 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid: 3864 2138 1623 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid: 3865 2050 1617 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3871 2107 1594 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3879 2139 1566 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3889 2095 1550 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3890 2117 1552 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 3891 2134 1552 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid: 3894 2038 1572 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[05/03/2017][11:13:33]  -system err,No empty mobgrid(1): 5971 3388 1088 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 250 2382 2140 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 601 2543 1955 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 602 2543 1943 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 604 2522 1946 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 700 2664 2004 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid: 796 2513 1833 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid: 797 2526 1834 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 883 2574 2059 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid: 1061 2344 1702 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 1065 2368 1688 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 1088 2310 1721 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid: 1197 2209 1704 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid: 1229 2270 1719 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 1293 1945 1573 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 1405 1877 1758 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 1467 2192 1487 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid: 1871 319 3744 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 2048 664 3766 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 2638 1069 3786 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 2973 1463 3987 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 3852 2112 1637 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 3871 2102 1595 
+[05/03/2017][11:13:45]  -system err,No empty mobgrid(1): 5682 3402 1618 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid(1): 406 2458 2096 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid(1): 601 2543 1951 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid: 1122 2323 1611 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid(1): 1298 1980 1620 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid(1): 2048 664 3768 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid(1): 2974 1471 3986 
+[05/03/2017][11:13:57]  -system err,No empty mobgrid(1): 5682 3402 1617 
+[05/03/2017][11:14:09]  -system err,No empty mobgrid: 1197 2209 1703 
+[05/03/2017][11:14:09]  -system err,No empty mobgrid(1): 1205 2194 1703 
+[05/03/2017][11:14:09]  -system err,No empty mobgrid(1): 1297 1968 1623 
+[05/03/2017][11:14:09]  -system err,No empty mobgrid(1): 2048 664 3768 
+[05/03/2017][11:14:09]  -system err,No empty mobgrid(1): 2973 1463 3987 
+[05/03/2017][11:14:09]  -system err,No empty mobgrid(1): 3375 1302 1678 
+[05/03/2017][11:14:21]  -system err,No empty mobgrid(1): 1298 1976 1624 
+[05/03/2017][11:14:21]  -system err,No empty mobgrid(1): 2974 1473 3986 
+[05/03/2017][11:14:33]  -system err,No empty mobgrid(1): 1297 1972 1622 
+[05/03/2017][11:14:33]  -system err,No empty mobgrid(1): 2973 1463 3986 
+[05/03/2017][11:14:33]  -system err,No empty mobgrid(1): 3453 2394 2101 
+[05/03/2017][11:14:34]  -system err,GridMulticast mobidx,pos 
+[05/03/2017][11:14:45]  -system err,No empty mobgrid(1): 1298 1979 1623 
+[05/03/2017][11:14:45]  -system err,No empty mobgrid(1): 2806 1710 1628 
+[05/03/2017][11:14:45]  -system err,No empty mobgrid(1): 2974 1472 3987 
+[05/03/2017][11:14:57]  -system err,No empty mobgrid(1): 1297 1970 1623 
+[05/03/2017][11:14:57]  -system err,No empty mobgrid(1): 3455 2417 2122 
+[05/03/2017][11:15:09]  -system err,No empty mobgrid(1): 1298 1980 1623 
+[05/03/2017][11:15:09]  -system err,No empty mobgrid(1): 2974 1474 3986 
+[05/03/2017][11:15:09]  -system err,No empty mobgrid(1): 3488 619 3757 
+[05/03/2017][11:15:21]  -system err,No empty mobgrid(1): 1297 1972 1621 
+[05/03/2017][11:15:21]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][11:15:33]  -system err,No empty mobgrid(1): 1298 1982 1621 
+[05/03/2017][11:15:40] IP: 25.1.3.227 ADMIN CNFAccountLogin Mac: -726653152.-1102689325.-1123160993.1936322831 
+[05/03/2017][11:15:57]  -system err,No empty mobgrid(1): 1298 1980 1620 
+[05/03/2017][11:15:57]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][11:16:06] IP: 25.1.3.227 ADMIN etc,createchar name:CRAZY 1 13 
+[05/03/2017][11:16:09]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][11:16:10] IP: 25.1.3.227 ADMIN sta,Login char:CRAZY exp:0 level:0 conn:1 money:2000000000, store:0 
+[05/03/2017][11:16:45] IP: 25.1.3.227 ADMIN etc,msg_attack attacker:1 name:CRAZY target:2389 name:Porco dam:42 x:2113 y:2044 
+[05/03/2017][11:16:46] IP: 25.1.3.227 ADMIN etc,msg_attack attacker:1 name:CRAZY target:2389 name:Porco dam:29 x:2113 y:2044 
+[05/03/2017][11:16:49] IP: 25.1.3.227 ADMIN etc,msg_attack attacker:1 name:CRAZY target:2388 name:Porco dam:28 x:2108 y:2045 
+[05/03/2017][11:16:50] IP: 25.1.3.227 ADMIN etc,msg_attack attacker:1 name:CRAZY target:2388 name:Porco dam:28 x:2108 y:2045 
+[05/03/2017][11:16:57]  ADMIN etc,changecity city:0 X:2113 Y:2053 
+[05/03/2017][11:16:57]  -system err,No empty mobgrid(1): 5832 3426 1432 
+[05/03/2017][11:18:09]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[05/03/2017][11:19:00]  -system etc,nightmare_normal clear -11:19 
+[05/03/2017][11:19:33]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][11:19:45] IP: 25.1.3.227 ADMIN adm +set level 1010 
+[05/03/2017][11:20:57]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[05/03/2017][11:21:10]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[05/03/2017][11:21:21]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][11:22:09]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[05/03/2017][11:22:49]  -system not AVISO: Servidor será reiniciado após 1 minuto. 
+[05/03/2017][11:22:59]  -system not AVISO: Para salvar seu progresso é recomendável sair do jogo. 
+[05/03/2017][11:23:10]  -system not AVISO: Reinicialização em 30 segundos. 
+[05/03/2017][11:23:20]  -system not AVISO: Reinicialização em 20 segundos. 
+[05/03/2017][11:23:30]  -system not AVISO: Reinicialização em 10 segundos. 
+[05/03/2017][11:23:33]  -system err,No empty mobgrid(1): 5815 3424 1460 
+[05/03/2017][11:23:40]  -system not AVISO: Reiniciando... 
+[05/03/2017][11:23:52]  -system sys,save 1 - 22 - ADMIN 
+[05/03/2017][11:23:52] IP: 25.1.3.227 ADMIN etc,charlogout conn:1 name:CRAZY 
+[05/03/2017][11:23:52]  -system sys,server down complete 

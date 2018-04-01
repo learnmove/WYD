@@ -1,0 +1,1145 @@
+05.03.2017.19.29.08 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:5 Item: Sleipnir : 2388.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+05.03.2017.19.29.09 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:6 Item: Pantera_Negra : 2389.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Sleipnir : 2388.100.100.120.60.100.0 
+05.03.2017.19.29.11 IP: 189.13.226.146 WELMAL tradingitem, SrcType:1 SrcSlot:2 Item: Tigre_de_Fogo : 2379.20.0.120.56.5.0 DstType:0 DstSlot:14 Item: 
+05.03.2017.19.29.14 IP: 189.13.226.146 WELMAL useitem,ração mount:7 
+05.03.2017.19.29.15 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:6 Item: Sleipnir : 2388.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Pantera_Negra : 2389.100.100.120.60.100.0 
+05.03.2017.19.29.20 IP: 189.13.226.146 WELMAL useitem,ração mount:7 
+05.03.2017.19.29.29 IP: 189.13.226.146 WELMAL useitem,ração mount:7 
+05.03.2017.19.29.47 IP: 187.110.69.50 BIKINHO buy_npc,npc:Evolucao price:5125 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+05.03.2017.19.29.48 IP: 187.110.69.50 BIKINHO buy_npc,npc:Evolucao price:5125 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+05.03.2017.19.29.49 IP: 187.110.69.50 BIKINHO buy_npc,npc:Evolucao price:5125 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+05.03.2017.19.29.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:1 
+05.03.2017.19.29.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:2 
+05.03.2017.19.29.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:3 
+05.03.2017.19.29.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:4 
+05.03.2017.19.29.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:5 
+05.03.2017.19.29.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:6 
+05.03.2017.19.29.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:7 
+05.03.2017.19.29.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:8 
+05.03.2017.19.29.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:9 
+05.03.2017.19.29.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:10 
+05.03.2017.19.29.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:11 
+05.03.2017.19.29.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:12 
+05.03.2017.19.29.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:13 
+05.03.2017.19.29.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:14 
+05.03.2017.19.29.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:15 
+05.03.2017.19.29.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:16 
+05.03.2017.19.29.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:17 
+05.03.2017.19.29.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:18 
+05.03.2017.19.29.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:19 
+05.03.2017.19.29.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:20 
+05.03.2017.19.29.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:21 
+05.03.2017.19.29.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:22 
+05.03.2017.19.29.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:23 
+05.03.2017.19.29.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:24 
+05.03.2017.19.29.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:25 
+05.03.2017.19.29.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:26 
+05.03.2017.19.29.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:27 
+05.03.2017.19.29.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:28 
+05.03.2017.19.29.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:29 
+05.03.2017.19.29.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:30 
+05.03.2017.19.29.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:31 
+05.03.2017.19.29.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:32 
+05.03.2017.19.29.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:33 
+05.03.2017.19.29.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:34 
+05.03.2017.19.29.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:35 
+05.03.2017.19.29.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:36 
+05.03.2017.19.29.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:37 
+05.03.2017.19.29.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:38 
+05.03.2017.19.29.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:39 
+05.03.2017.19.29.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:40 
+05.03.2017.19.30.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:41 
+05.03.2017.19.30.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:42 
+05.03.2017.19.30.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:43 
+05.03.2017.19.30.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:44 
+05.03.2017.19.30.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:45 
+05.03.2017.19.30.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:46 
+05.03.2017.19.30.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:47 
+05.03.2017.19.30.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:48 
+05.03.2017.19.30.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:49 
+05.03.2017.19.30.02 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:50 
+05.03.2017.19.30.02 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:51 
+05.03.2017.19.30.02 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:52 
+05.03.2017.19.30.02 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:53 
+05.03.2017.19.30.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:54 
+05.03.2017.19.30.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:55 
+05.03.2017.19.30.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:56 
+05.03.2017.19.30.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:57 
+05.03.2017.19.30.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:58 
+05.03.2017.19.30.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:59 
+05.03.2017.19.30.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:60 
+05.03.2017.19.30.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:61 
+05.03.2017.19.30.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:62 
+05.03.2017.19.30.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:63 
+05.03.2017.19.30.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:64 
+05.03.2017.19.30.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:65 
+05.03.2017.19.30.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:66 
+05.03.2017.19.30.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:67 
+05.03.2017.19.30.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:68 
+05.03.2017.19.30.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:69 
+05.03.2017.19.30.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:70 
+05.03.2017.19.30.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:71 
+05.03.2017.19.30.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:72 
+05.03.2017.19.30.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:73 
+05.03.2017.19.30.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:74 
+05.03.2017.19.30.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:75 
+05.03.2017.19.30.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:76 
+05.03.2017.19.30.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:77 
+05.03.2017.19.30.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:78 
+05.03.2017.19.30.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:79 
+05.03.2017.19.30.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:80 
+05.03.2017.19.30.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:81 
+05.03.2017.19.30.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:82 
+05.03.2017.19.30.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:83 
+05.03.2017.19.30.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:84 
+05.03.2017.19.30.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:85 
+05.03.2017.19.30.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:86 
+05.03.2017.19.30.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:87 
+05.03.2017.19.30.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:88 
+05.03.2017.19.30.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:89 
+05.03.2017.19.30.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:90 
+05.03.2017.19.30.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:91 
+05.03.2017.19.30.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:92 
+05.03.2017.19.30.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:93 
+05.03.2017.19.30.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:94 
+05.03.2017.19.30.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:95 
+05.03.2017.19.30.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:96 
+05.03.2017.19.30.13 IP: 179.125.130.230 LILITH tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.0.0.120.60.0.0 DstType:1 DstSlot:2 Item: Sleipnir : 2388.100.100.120.60.100.0 
+05.03.2017.19.30.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:97 
+05.03.2017.19.30.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:98 
+05.03.2017.19.30.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:99 
+05.03.2017.19.30.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:100 
+05.03.2017.19.30.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:101 
+05.03.2017.19.30.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:102 
+05.03.2017.19.30.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:103 
+05.03.2017.19.30.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:104 
+05.03.2017.19.30.14 IP: 179.125.130.230 Lilith deleteitem,  Tigre_de_Fogo : 2379.0.0.120.60.0.0 
+05.03.2017.19.30.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:105 
+05.03.2017.19.30.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:106 
+05.03.2017.19.30.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:107 
+05.03.2017.19.30.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:108 
+05.03.2017.19.30.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:109 
+05.03.2017.19.30.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:110 
+05.03.2017.19.30.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:111 
+05.03.2017.19.30.16 IP: 179.125.130.230 LILITH buy_npc,npc:Shadow Montaria price:1537500 item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+05.03.2017.19.30.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:112 
+05.03.2017.19.30.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:113 
+05.03.2017.19.30.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:114 
+05.03.2017.19.30.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:115 
+05.03.2017.19.30.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:116 
+05.03.2017.19.30.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:117 
+05.03.2017.19.30.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:118 
+05.03.2017.19.30.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:119 
+05.03.2017.19.30.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:120 
+05.03.2017.19.30.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:121 
+05.03.2017.19.30.18 IP: 179.125.130.230 LILITH tradingitem, SrcType:1 SrcSlot:2 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Sleipnir : 2388.100.100.120.60.100.0 
+05.03.2017.19.30.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:122 
+05.03.2017.19.30.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:123 
+05.03.2017.19.30.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:124 
+05.03.2017.19.30.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:125 
+05.03.2017.19.30.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:126 
+05.03.2017.19.30.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:127 
+05.03.2017.19.30.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:128 
+05.03.2017.19.30.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:129 
+05.03.2017.19.30.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:130 
+05.03.2017.19.30.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:131 
+05.03.2017.19.30.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:132 
+05.03.2017.19.30.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:133 
+05.03.2017.19.30.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:134 
+05.03.2017.19.30.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:135 
+05.03.2017.19.30.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:136 
+05.03.2017.19.30.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:137 
+05.03.2017.19.30.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:138 
+05.03.2017.19.30.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:139 
+05.03.2017.19.30.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:140 
+05.03.2017.19.30.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:141 
+05.03.2017.19.30.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:142 
+05.03.2017.19.30.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:143 
+05.03.2017.19.30.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:144 
+05.03.2017.19.30.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:145 
+05.03.2017.19.30.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:146 
+05.03.2017.19.30.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:147 
+05.03.2017.19.30.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:148 
+05.03.2017.19.30.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:149 
+05.03.2017.19.30.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:150 
+05.03.2017.19.30.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:151 
+05.03.2017.19.30.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:152 
+05.03.2017.19.30.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:153 
+05.03.2017.19.30.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:154 
+05.03.2017.19.30.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:155 
+05.03.2017.19.30.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:156 
+05.03.2017.19.30.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:157 
+05.03.2017.19.30.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:158 
+05.03.2017.19.30.28 IP: 189.13.226.146 WELMAL useitem,ração mount:7 
+05.03.2017.19.30.28 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:159 
+05.03.2017.19.30.28 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:160 
+05.03.2017.19.30.28 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:161 
+05.03.2017.19.30.28 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:162 
+05.03.2017.19.30.29 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:163 
+05.03.2017.19.30.29 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:164 
+05.03.2017.19.30.29 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:165 
+05.03.2017.19.30.29 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:166 
+05.03.2017.19.30.29 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:167 
+05.03.2017.19.30.30 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:168 
+05.03.2017.19.30.30 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:169 
+05.03.2017.19.30.31 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:170 
+05.03.2017.19.30.31 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:171 
+05.03.2017.19.30.31 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:172 
+05.03.2017.19.30.31 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:173 
+05.03.2017.19.30.31 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:174 
+05.03.2017.19.30.32 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:175 
+05.03.2017.19.30.32 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:176 
+05.03.2017.19.30.32 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:177 
+05.03.2017.19.30.32 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:178 
+05.03.2017.19.30.32 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:179 
+05.03.2017.19.30.33 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:180 
+05.03.2017.19.30.33 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:181 
+05.03.2017.19.30.33 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:182 
+05.03.2017.19.30.33 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:183 
+05.03.2017.19.30.33 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:184 
+05.03.2017.19.30.34 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:185 
+05.03.2017.19.30.34 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:186 
+05.03.2017.19.30.34 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:187 
+05.03.2017.19.30.34 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:188 
+05.03.2017.19.30.34 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:189 
+05.03.2017.19.30.35 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:190 
+05.03.2017.19.30.35 IP: 179.125.130.230 LILITH useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+05.03.2017.19.30.35 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:191 
+05.03.2017.19.30.35 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:192 
+05.03.2017.19.30.35 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:193 
+05.03.2017.19.30.35 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:194 
+05.03.2017.19.30.36 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:195 
+05.03.2017.19.30.36 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:196 
+05.03.2017.19.30.37 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:197 
+05.03.2017.19.30.37 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:198 
+05.03.2017.19.30.37 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:199 
+05.03.2017.19.30.37 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:200 
+05.03.2017.19.30.37 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:201 
+05.03.2017.19.30.37 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:202 
+05.03.2017.19.30.38 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:203 
+05.03.2017.19.30.38 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:204 
+05.03.2017.19.30.38 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:205 
+05.03.2017.19.30.38 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:206 
+05.03.2017.19.30.38 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:207 
+05.03.2017.19.30.39 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:208 
+05.03.2017.19.30.39 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:209 
+05.03.2017.19.30.39 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:210 
+05.03.2017.19.30.39 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:211 
+05.03.2017.19.30.40 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:212 
+05.03.2017.19.30.40 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:213 
+05.03.2017.19.30.40 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:214 
+05.03.2017.19.30.40 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:215 
+05.03.2017.19.30.40 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:216 
+05.03.2017.19.30.41 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:217 
+05.03.2017.19.30.41 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:218 
+05.03.2017.19.30.41 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:219 
+05.03.2017.19.30.41 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:220 
+05.03.2017.19.30.42 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:221 
+05.03.2017.19.30.42 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:222 
+05.03.2017.19.30.42 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:223 
+05.03.2017.19.30.42 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:224 
+05.03.2017.19.30.42 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:225 
+05.03.2017.19.30.43 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:226 
+05.03.2017.19.30.43 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:227 
+05.03.2017.19.30.43 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:228 
+05.03.2017.19.30.43 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:229 
+05.03.2017.19.30.44 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:230 
+05.03.2017.19.30.44 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:231 
+05.03.2017.19.30.44 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:232 
+05.03.2017.19.30.44 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:233 
+05.03.2017.19.30.44 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:234 
+05.03.2017.19.30.44 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:235 
+05.03.2017.19.30.45 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:236 
+05.03.2017.19.30.45 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:237 
+05.03.2017.19.30.45 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:238 
+05.03.2017.19.30.45 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:239 
+05.03.2017.19.30.46 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:240 
+05.03.2017.19.30.46 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:241 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:242 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:243 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:244 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:245 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:246 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:247 
+05.03.2017.19.30.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:248 
+05.03.2017.19.30.48 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:249 
+05.03.2017.19.30.48 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:250 
+05.03.2017.19.30.48 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:251 
+05.03.2017.19.30.48 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:252 
+05.03.2017.19.30.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:253 
+05.03.2017.19.30.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:254 
+05.03.2017.19.30.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:255 
+05.03.2017.19.30.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:256 
+05.03.2017.19.30.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:257 
+05.03.2017.19.30.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:258 
+05.03.2017.19.30.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:259 
+05.03.2017.19.30.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:260 
+05.03.2017.19.30.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:261 
+05.03.2017.19.30.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:262 
+05.03.2017.19.30.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:263 
+05.03.2017.19.30.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:264 
+05.03.2017.19.30.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:265 
+05.03.2017.19.30.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:266 
+05.03.2017.19.30.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:267 
+05.03.2017.19.30.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:268 
+05.03.2017.19.30.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:269 
+05.03.2017.19.30.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:270 
+05.03.2017.19.30.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:271 
+05.03.2017.19.30.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:272 
+05.03.2017.19.30.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:273 
+05.03.2017.19.30.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:274 
+05.03.2017.19.30.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:275 
+05.03.2017.19.31.01 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Elime : 4106.0.0.0.0.0.0 
+05.03.2017.19.31.04 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Sylphed : 4107.0.0.0.0.0.0 
+05.03.2017.19.31.05 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Thelion : 4108.0.0.0.0.0.0 
+05.03.2017.19.31.06 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Noas : 4109.0.0.0.0.0.0 
+05.03.2017.19.31.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:276 
+05.03.2017.19.31.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:277 
+05.03.2017.19.31.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:278 
+05.03.2017.19.31.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:279 
+05.03.2017.19.31.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:280 
+05.03.2017.19.31.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:281 
+05.03.2017.19.31.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:282 
+05.03.2017.19.31.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:283 
+05.03.2017.19.31.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:284 
+05.03.2017.19.31.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:285 
+05.03.2017.19.31.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:286 
+05.03.2017.19.31.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:287 
+05.03.2017.19.31.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:288 
+05.03.2017.19.31.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:289 
+05.03.2017.19.31.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:290 
+05.03.2017.19.31.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:291 
+05.03.2017.19.31.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:292 
+05.03.2017.19.31.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:293 
+05.03.2017.19.31.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:294 
+05.03.2017.19.31.12 IP: 201.17.211.212 -PARAD1SE- deleteitem,  Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 
+05.03.2017.19.31.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:295 
+05.03.2017.19.31.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:296 
+05.03.2017.19.31.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:297 
+05.03.2017.19.31.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:298 
+05.03.2017.19.31.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:299 
+05.03.2017.19.31.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:300 
+05.03.2017.19.31.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:301 
+05.03.2017.19.31.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:302 
+05.03.2017.19.31.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:303 
+05.03.2017.19.31.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:304 
+05.03.2017.19.31.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:305 
+05.03.2017.19.31.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:306 
+05.03.2017.19.31.15 IP: 201.17.211.212 -PARAD1SE- deleteitem,  Ração_de_Dragão_Verm : 2428.61.10.0.0.0.0 
+05.03.2017.19.31.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:307 
+05.03.2017.19.31.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:308 
+05.03.2017.19.31.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:309 
+05.03.2017.19.31.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:310 
+05.03.2017.19.31.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:311 
+05.03.2017.19.31.16 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:312 
+05.03.2017.19.31.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:313 
+05.03.2017.19.31.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:314 
+05.03.2017.19.31.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:315 
+05.03.2017.19.31.17 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:316 
+05.03.2017.19.31.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:317 
+05.03.2017.19.31.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:318 
+05.03.2017.19.31.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:319 
+05.03.2017.19.31.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:320 
+05.03.2017.19.31.18 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:321 
+05.03.2017.19.31.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:322 
+05.03.2017.19.31.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:323 
+05.03.2017.19.31.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:324 
+05.03.2017.19.31.19 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:325 
+05.03.2017.19.31.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:326 
+05.03.2017.19.31.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:327 
+05.03.2017.19.31.20 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:328 
+05.03.2017.19.31.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:329 
+05.03.2017.19.31.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:330 
+05.03.2017.19.31.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:331 
+05.03.2017.19.31.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:332 
+05.03.2017.19.31.21 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:333 
+05.03.2017.19.31.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:334 
+05.03.2017.19.31.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:335 
+05.03.2017.19.31.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:336 
+05.03.2017.19.31.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:337 
+05.03.2017.19.31.22 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:338 
+05.03.2017.19.31.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:339 
+05.03.2017.19.31.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:340 
+05.03.2017.19.31.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:341 
+05.03.2017.19.31.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:342 
+05.03.2017.19.31.23 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:343 
+05.03.2017.19.31.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:344 
+05.03.2017.19.31.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:345 
+05.03.2017.19.31.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:346 
+05.03.2017.19.31.24 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:347 
+05.03.2017.19.31.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:348 
+05.03.2017.19.31.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:349 
+05.03.2017.19.31.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:350 
+05.03.2017.19.31.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:351 
+05.03.2017.19.31.25 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:352 
+05.03.2017.19.31.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:353 
+05.03.2017.19.31.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.26 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.27 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.28 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.28 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.29 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:354 
+05.03.2017.19.31.33 IP: 201.17.211.212 BADFIVE123 buy_npc,npc:Refinacoes price:82000000 item: Pedra_da_Troca_Maior : 774.0.0.0.0.0.0 
+05.03.2017.19.31.34 IP: 201.17.211.212 BADFIVE123 buy_npc,npc:Refinacoes price:82000000 item: Pedra_da_Troca_Menor : 775.0.0.0.0.0.0 
+05.03.2017.19.31.38 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:16 Item: Pedra_da_Troca_Maior : 774.0.0.0.0.0.0 DstType:0 DstSlot:13 Item: 
+05.03.2017.19.31.42 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:14 Item: Dragão : 2377.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+05.03.2017.19.31.55 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Dragão : 2377.100.100.120.60.100.0 
+05.03.2017.19.31.57 IP: 179.125.130.230 LILITH buy_npc,npc:Acessorios2 price:1025000 item: Gema_de_Garnet : 3389.0.0.0.0.0.0 
+05.03.2017.19.32.07 IP: 179.125.130.230 LILITH buy_npc,npc:Acessorios2 price:1025000 item: Gema_de_Coral : 3388.0.0.0.0.0.0 
+05.03.2017.19.32.08 IP: 179.125.130.230 LILITH buy_npc,npc:Acessorios2 price:1025000 item: Gema_de_Coral : 3388.0.0.0.0.0.0 
+05.03.2017.19.32.10 IP: 179.125.130.230 LILITH useitem,change jewel success 2493+27 - (0,0,0) 
+05.03.2017.19.32.17 IP: 179.125.130.230 LILITH buy_npc,npc:Acessorios2 price:1025000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+05.03.2017.19.32.18 IP: 179.125.130.230 LILITH buy_npc,npc:Acessorios2 price:1025000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+05.03.2017.19.32.20 IP: 179.125.130.230 LILITH useitem,change jewel success 2492+27 - (0,0,0) 
+05.03.2017.19.32.23 IP: 179.125.130.230 LILITH useitem,change jewel success 2492+27 - (0,0,0) 
+05.03.2017.19.32.29 IP: 187.110.69.50 BIKINHO buy_npc,npc:Arma SemiDeus price:666250 item: Gleipnir(Anct) : 2674.60.36.4.120.43.250 
+05.03.2017.19.32.32 IP: 187.110.69.50 BIKINHO buy_npc,npc:Arma SemiDeus price:666250 item: Eirenus(Anct) : 2863.60.36.4.120.43.250 
+05.03.2017.19.32.37 IP: 187.110.69.50 BIKINHO buy_npc,npc:Arma SemiDeus price:666250 item: Neorion(Anct) : 2859.60.36.4.120.43.250 
+05.03.2017.19.32.39 IP: 187.110.69.50 BIKINHO buy_npc,npc:Arma SemiDeus price:666250 item: Balmung(Anct) : 2494.2.81.42.30.43.250 
+05.03.2017.19.32.40 IP: 179.125.130.230 NAMI buy_npc,npc:Acessorios2 price:1025000 item: Gema_de_Esmeralda : 3387.0.0.0.0.0.0 
+05.03.2017.19.32.42 IP: 179.125.130.230 NAMI useitem,change jewel success 2552+27 - (0,0,0) 
+05.03.2017.19.32.44 IP: 187.110.69.50 BIKINHO buy_npc,npc:Arma SemiDeus price:307500 item: Hophlon : 1711.3.81.4.120.43.250 
+05.03.2017.19.33.09 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:17 Item: Pedra_da_Troca_Menor : 775.0.0.0.0.0.0 DstType:2 DstSlot:0 Item: 
+05.03.2017.19.33.17 IP: 187.110.69.50 BIKINHO buy_npc,npc:Acessorios3 price:1025 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+05.03.2017.19.33.19 IP: 187.110.69.50 BIKINHO buy_npc,npc:Acessorios3 price:1025 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+05.03.2017.19.33.20 IP: 187.110.69.50 lH2O deleteitem,  
+05.03.2017.19.33.20 IP: 187.110.69.50 lH2O deleteitem,  
+05.03.2017.19.33.25 IP: 201.23.128.224 ALUKZ buy_npc,npc:Acessorios2 price:41000 item: Klazedale(3dias) : 3982.106.3.107.0.108.0 
+05.03.2017.19.33.29 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:1 SrcSlot:5 Item: DstType:0 DstSlot:14 Item: 
+05.03.2017.19.33.30 IP: 187.110.69.50 BIKINHO buy_npc,npc:Acessorios price:1230 item: Cythera_Arcana : 3507.3.120.60.30.43.250 
+05.03.2017.19.33.32 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:15 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: 
+05.03.2017.19.33.39 IP: 201.23.128.224 ALUKZ buy_npc,npc:Acessorios3 price:1230 item: Conjunto_Draco(30dias) : 4158.106.30.107.0.0.0 
+05.03.2017.19.33.56 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.33.56 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.33.57 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.33.58 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.33.59 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.00 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.00 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.02 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.02 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.03 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.04 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.05 IP: 201.23.128.224 ALUKZ buy_npc,npc:Acessorios3 price:51250 item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 
+05.03.2017.19.34.06 IP: 201.23.128.224 ALUKZ buy_npc,npc:Acessorios3 price:1025 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+05.03.2017.19.34.06 IP: 179.125.130.230 Lilith deleteitem,  Safira : 697.0.0.0.0.0.0 
+05.03.2017.19.34.06 IP: 201.23.128.224 ALUKZ buy_npc,npc:Acessorios3 price:1025 item: Bolsa_do_Andarílho : 3467.0.0.0.0.0.0 
+05.03.2017.19.34.07 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:2 SrcSlot:0 Item: Pedra_da_Troca_Menor : 775.0.0.0.0.0.0 DstType:1 DstSlot:0 Item: 
+05.03.2017.19.34.08 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:0 Item: Pedra_da_Troca_Menor : 775.0.0.0.0.0.0 DstType:0 DstSlot:13 Item: 
+05.03.2017.19.34.08 IP: 201.23.128.224 alukz deleteitem,  
+05.03.2017.19.34.09 IP: 177.39.204.178 WALLACER137 tradingitem, SrcType:0 SrcSlot:14 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:1 DstSlot:12 Item: 
+05.03.2017.19.34.09 IP: 189.45.123.83 MANEJO buy_npc,npc:Shadow Montaria price:1537500 item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 
+05.03.2017.19.34.10 IP: 201.23.128.224 alukz deleteitem,  
+05.03.2017.19.34.13 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:7175 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+05.03.2017.19.34.14 IP: 189.45.123.83 MANEJO tradingitem, SrcType:1 SrcSlot:10 Item: Tigre_de_Fogo : 2379.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.0.0.120.60.0.0 
+05.03.2017.19.34.15 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:7175 item: Pergaminho_Selado : 4127.0.0.0.0.0.0 
+05.03.2017.19.34.17 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:922 item: Poeira_de_Lactolerium : 413.61.255.0.0.0.0 
+05.03.2017.19.34.17 IP: 179.125.130.230 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.34.18 IP: 189.45.123.83 N3R0 deleteitem,  Tigre_de_Fogo : 2379.0.0.120.60.0.0 
+05.03.2017.19.34.19 IP: 189.45.123.83 MANEJO tradingitem, SrcType:1 SrcSlot:11 Item: Balmung(Anct) : 2492.2.81.42.30.43.251 DstType:1 DstSlot:10 Item: 
+05.03.2017.19.34.30 IP: 201.23.128.224 ALUKZ buy_npc,npc:Shadow I price:0 item: Esfera_da_Sorte(N) : 4128.0.0.0.0.0.0 
+05.03.2017.19.34.36 IP: 187.110.69.50 BIKINHO buy_npc,npc:Refinacoes price:8200000 item: Selo_do_Guerreiro : 4146.61.255.0.0.0.0 
+05.03.2017.19.34.52 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:255 num:1 
+05.03.2017.19.34.53 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:254 num:1 
+05.03.2017.19.34.54 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:253 num:4 
+05.03.2017.19.34.56 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 10 
+05.03.2017.19.34.56 IP: 189.45.123.83 MANEJO buy_npc,npc:Acessorios6 price:4141000 item: Círculo_Divino_Puro : 448.0.0.0.0.0.0 
+05.03.2017.19.34.57 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 20 
+05.03.2017.19.34.57 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 30 
+05.03.2017.19.34.57 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 40 
+05.03.2017.19.34.58 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 50 
+05.03.2017.19.34.58 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 60 
+05.03.2017.19.34.58 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 70 
+05.03.2017.19.34.58 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 80 
+05.03.2017.19.34.58 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 90 
+05.03.2017.19.34.59 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 100 
+05.03.2017.19.34.59 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 110 
+05.03.2017.19.34.59 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 120 
+05.03.2017.19.34.59 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 130 
+05.03.2017.19.35.00 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 140 
+05.03.2017.19.35.00 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 150 
+05.03.2017.19.35.00 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 160 
+05.03.2017.19.35.00 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 170 
+05.03.2017.19.35.01 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 180 
+05.03.2017.19.35.01 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 190 
+05.03.2017.19.35.01 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 200 
+05.03.2017.19.35.01 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 210 
+05.03.2017.19.35.02 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 220 
+05.03.2017.19.35.02 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 230 
+05.03.2017.19.35.02 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 240 
+05.03.2017.19.35.02 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 250 
+05.03.2017.19.35.02 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 260 
+05.03.2017.19.35.03 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 270 
+05.03.2017.19.35.03 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 280 
+05.03.2017.19.35.03 IP: 187.110.69.50 BIKINHO useitem,sealofwarrior 290 
+05.03.2017.19.35.05 IP: 189.45.123.83 MANEJO tradingitem, SrcType:1 SrcSlot:11 Item: Círculo_Divino_Puro : 448.0.0.0.0.0.0 DstType:0 DstSlot:13 Item: 
+05.03.2017.19.35.17 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:249 num:1 
+05.03.2017.19.35.17 IP: 201.23.128.224 ALUKZ buy_npc,npc:Trajes price:1230 item: Traje_Mont:_Tigre_Branco : 4190.0.0.0.0.0.0 
+05.03.2017.19.35.19 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:4 num:1 
+05.03.2017.19.35.20 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:3 num:1 
+05.03.2017.19.35.21 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:2 num:1 
+05.03.2017.19.35.33 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:22 Item: Poeira_de_Lactolerium : 413.61.2.0.0.0.0 DstType:1 DstSlot:23 Item: 
+05.03.2017.19.35.34 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:24 Item: Poeira_de_Lactolerium : 413.61.3.0.0.0.0 DstType:1 DstSlot:23 Item: 
+05.03.2017.19.35.36 IP: 187.110.69.50 lH2O deleteitem,  Poeira_de_Lactolerium : 413.61.3.0.0.0.0 
+05.03.2017.19.35.39 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:248 num:10 
+05.03.2017.19.35.40 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:238 num:10 
+05.03.2017.19.35.45 IP: 187.110.69.50 BIKINHO *** Item combine lindy. *** 
+05.03.2017.19.35.45 IP: 187.110.69.50 BIKINHO skill delay skillnum: -213375301--213375301 Poeira_de_Lactolerium : 413.61.10.0.0.0.0 Poeira_de_Lactolerium : 413.61.10.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 
+05.03.2017.19.35.45 IP: 187.110.69.50 BIKINHO *** ------------------- *** 
+05.03.2017.19.36.04 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios3 price:1230 item: Conjunto_Odin(30dias) : 4174.106.30.107.0.0.0 
+05.03.2017.19.36.06 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:1 Item: DstType:0 DstSlot:12 Item: 
+05.03.2017.19.36.08 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios3 price:1230 item: Conjunto_Odin(30dias) : 4174.106.30.107.0.0.0 
+05.03.2017.19.36.08 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios3 price:1230 item: Conjunto_Odin(30dias) : 4174.106.30.107.0.0.0 
+05.03.2017.19.36.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:355 
+05.03.2017.19.36.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:356 
+05.03.2017.19.36.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:357 
+05.03.2017.19.36.11 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:358 
+05.03.2017.19.36.11 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:1 Item: DstType:0 DstSlot:12 Item: 
+05.03.2017.19.36.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:359 
+05.03.2017.19.36.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:360 
+05.03.2017.19.36.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:361 
+05.03.2017.19.36.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:362 
+05.03.2017.19.36.12 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:363 
+05.03.2017.19.36.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:364 
+05.03.2017.19.36.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:365 
+05.03.2017.19.36.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:366 
+05.03.2017.19.36.13 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:6 Item: DstType:0 DstSlot:12 Item: 
+05.03.2017.19.36.13 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:367 
+05.03.2017.19.36.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:368 
+05.03.2017.19.36.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:369 
+05.03.2017.19.36.14 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:369 
+05.03.2017.19.36.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:369 
+05.03.2017.19.36.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:369 
+05.03.2017.19.36.15 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:369 
+05.03.2017.19.36.16 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios3 price:1230 item: Conjunto_Kalintz(F)(30dias) : 4156.106.30.0.0.0.0 
+05.03.2017.19.36.17 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:1 Item: DstType:0 DstSlot:12 Item: 
+05.03.2017.19.36.25 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:228 num:10 
+05.03.2017.19.36.26 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:218 num:10 
+05.03.2017.19.36.28 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:208 num:1 
+05.03.2017.19.36.29 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:207 num:1 
+05.03.2017.19.36.30 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:206 num:1 
+05.03.2017.19.36.31 IP: 187.110.69.50 lH2O splititem, itemindex:413 amount:205 num:1 
+05.03.2017.19.36.36 IP: 187.110.69.50 BIKINHO *** Item combine lindy. *** 
+05.03.2017.19.36.36 IP: 187.110.69.50 BIKINHO splititem, itemindex:413 amount:205 num:1 Poeira_de_Lactolerium : 413.61.10.0.0.0.0 Poeira_de_Lactolerium : 413.61.10.0.0.0.0 Pergaminho_Selado : 4127.0.0.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 Poeira_de_Lactolerium : 413.61.1.0.0.0.0 
+05.03.2017.19.36.36 IP: 187.110.69.50 BIKINHO *** ------------------- *** 
+05.03.2017.19.36.36 IP: 189.45.123.83 MANEJO tradingitem, SrcType:1 SrcSlot:6 Item: Khyrius(Anct) : 2611.2.81.42.30.43.250 DstType:0 DstSlot:6 Item: Skytalos(Anct) : 2554.2.81.42.30.43.250 
+05.03.2017.19.36.44 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Evolucao price:5125 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+05.03.2017.19.36.45 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Evolucao price:5125 item: Poeira_de_Fada : 4142.61.255.0.0.0.0 
+05.03.2017.19.36.47 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:370 
+05.03.2017.19.36.48 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:1 
+05.03.2017.19.36.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:2 
+05.03.2017.19.36.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:3 
+05.03.2017.19.36.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:4 
+05.03.2017.19.36.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:5 
+05.03.2017.19.36.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:6 
+05.03.2017.19.36.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:7 
+05.03.2017.19.36.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:8 
+05.03.2017.19.36.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:9 
+05.03.2017.19.36.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:10 
+05.03.2017.19.36.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:11 
+05.03.2017.19.36.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:12 
+05.03.2017.19.36.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:13 
+05.03.2017.19.36.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:14 
+05.03.2017.19.36.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:15 
+05.03.2017.19.36.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:16 
+05.03.2017.19.36.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:17 
+05.03.2017.19.36.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:371 
+05.03.2017.19.36.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:18 
+05.03.2017.19.36.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:372 
+05.03.2017.19.36.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:19 
+05.03.2017.19.36.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:373 
+05.03.2017.19.36.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:20 
+05.03.2017.19.36.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:374 
+05.03.2017.19.36.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:375 
+05.03.2017.19.36.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:21 
+05.03.2017.19.36.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:22 
+05.03.2017.19.36.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:376 
+05.03.2017.19.36.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:377 
+05.03.2017.19.36.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:23 
+05.03.2017.19.36.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:24 
+05.03.2017.19.36.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:378 
+05.03.2017.19.36.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:379 
+05.03.2017.19.36.54 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:25 
+05.03.2017.19.36.54 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:26 
+05.03.2017.19.36.54 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:27 
+05.03.2017.19.36.54 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:28 
+05.03.2017.19.36.54 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:29 
+05.03.2017.19.36.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:30 
+05.03.2017.19.36.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:31 
+05.03.2017.19.36.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:32 
+05.03.2017.19.36.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:33 
+05.03.2017.19.36.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:34 
+05.03.2017.19.36.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:35 
+05.03.2017.19.36.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:36 
+05.03.2017.19.36.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:37 
+05.03.2017.19.36.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:38 
+05.03.2017.19.36.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:39 
+05.03.2017.19.36.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:40 
+05.03.2017.19.36.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:41 
+05.03.2017.19.36.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:42 
+05.03.2017.19.36.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:43 
+05.03.2017.19.36.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:44 
+05.03.2017.19.36.59 IP: 189.45.123.83 MANEJO useitem,huntingscrolls itemindex:3436 warpid:10 tx:2202 ty:3866 
+05.03.2017.19.36.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:45 
+05.03.2017.19.36.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:46 
+05.03.2017.19.36.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:47 
+05.03.2017.19.36.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:48 
+05.03.2017.19.37.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:49 
+05.03.2017.19.37.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:50 
+05.03.2017.19.37.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:51 
+05.03.2017.19.37.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:52 
+05.03.2017.19.37.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:53 
+05.03.2017.19.37.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:54 
+05.03.2017.19.37.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:55 
+05.03.2017.19.37.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:56 
+05.03.2017.19.37.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:57 
+05.03.2017.19.37.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:58 
+05.03.2017.19.37.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:59 
+05.03.2017.19.37.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:60 
+05.03.2017.19.37.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:61 
+05.03.2017.19.37.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:62 
+05.03.2017.19.37.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:63 
+05.03.2017.19.37.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:64 
+05.03.2017.19.37.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:65 
+05.03.2017.19.37.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:66 
+05.03.2017.19.37.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:67 
+05.03.2017.19.37.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:68 
+05.03.2017.19.37.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:69 
+05.03.2017.19.37.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:70 
+05.03.2017.19.37.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:71 
+05.03.2017.19.37.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:72 
+05.03.2017.19.37.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:73 
+05.03.2017.19.37.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:74 
+05.03.2017.19.37.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:75 
+05.03.2017.19.37.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:76 
+05.03.2017.19.37.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:77 
+05.03.2017.19.37.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:78 
+05.03.2017.19.37.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:79 
+05.03.2017.19.37.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:80 
+05.03.2017.19.37.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:81 
+05.03.2017.19.37.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:82 
+05.03.2017.19.37.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:83 
+05.03.2017.19.37.08 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:84 
+05.03.2017.19.37.08 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:85 
+05.03.2017.19.37.08 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:86 
+05.03.2017.19.37.08 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:87 
+05.03.2017.19.37.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:88 
+05.03.2017.19.37.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:89 
+05.03.2017.19.37.09 IP: 187.110.69.50 BIKINHO useitem,archcristal complete etapa:1 
+05.03.2017.19.37.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:90 
+05.03.2017.19.37.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:91 
+05.03.2017.19.37.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:92 
+05.03.2017.19.37.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:93 
+05.03.2017.19.37.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:94 
+05.03.2017.19.37.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:95 
+05.03.2017.19.37.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:96 
+05.03.2017.19.37.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:97 
+05.03.2017.19.37.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:98 
+05.03.2017.19.37.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:99 
+05.03.2017.19.37.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:100 
+05.03.2017.19.37.11 IP: 187.110.69.50 BIKINHO useitem,archcristal complete etapa:2 
+05.03.2017.19.37.12 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:101 
+05.03.2017.19.37.12 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:102 
+05.03.2017.19.37.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:103 
+05.03.2017.19.37.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:104 
+05.03.2017.19.37.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:105 
+05.03.2017.19.37.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:106 
+05.03.2017.19.37.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:107 
+05.03.2017.19.37.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:108 
+05.03.2017.19.37.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:109 
+05.03.2017.19.37.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:110 
+05.03.2017.19.37.15 IP: 187.110.69.50 BIKINHO useitem,archcristal complete etapa:3 
+05.03.2017.19.37.15 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.37.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:111 
+05.03.2017.19.37.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:112 
+05.03.2017.19.37.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:113 
+05.03.2017.19.37.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:114 
+05.03.2017.19.37.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:115 
+05.03.2017.19.37.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:116 
+05.03.2017.19.37.15 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios2 price:615 item: Esmeralda : 2442.0.0.0.0.0.0 
+05.03.2017.19.37.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:117 
+05.03.2017.19.37.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:118 
+05.03.2017.19.37.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:119 
+05.03.2017.19.37.16 IP: 187.110.69.50 BIKINHO useitem,archcristal complete etapa:4 
+05.03.2017.19.37.16 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios2 price:615 item: Garnet : 2444.0.0.0.0.0.0 
+05.03.2017.19.37.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:120 
+05.03.2017.19.37.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:121 
+05.03.2017.19.37.17 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios2 price:615 item: Coral : 2443.0.0.0.0.0.0 
+05.03.2017.19.37.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:122 
+05.03.2017.19.37.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:123 
+05.03.2017.19.37.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:124 
+05.03.2017.19.37.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:125 
+05.03.2017.19.37.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:126 
+05.03.2017.19.37.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:127 
+05.03.2017.19.37.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:128 
+05.03.2017.19.37.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:129 
+05.03.2017.19.37.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:130 
+05.03.2017.19.37.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:131 
+05.03.2017.19.37.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:132 
+05.03.2017.19.37.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:133 
+05.03.2017.19.37.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:134 
+05.03.2017.19.37.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:135 
+05.03.2017.19.37.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:136 
+05.03.2017.19.37.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:137 
+05.03.2017.19.37.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:138 
+05.03.2017.19.37.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:139 
+05.03.2017.19.37.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:140 
+05.03.2017.19.37.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:141 
+05.03.2017.19.37.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:142 
+05.03.2017.19.37.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:143 
+05.03.2017.19.37.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:144 
+05.03.2017.19.37.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:145 
+05.03.2017.19.37.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:146 
+05.03.2017.19.37.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:147 
+05.03.2017.19.37.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:148 
+05.03.2017.19.37.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:149 
+05.03.2017.19.37.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:150 
+05.03.2017.19.37.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:151 
+05.03.2017.19.37.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:152 
+05.03.2017.19.37.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:153 
+05.03.2017.19.37.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:154 
+05.03.2017.19.37.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:155 
+05.03.2017.19.37.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:156 
+05.03.2017.19.37.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:157 
+05.03.2017.19.37.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:158 
+05.03.2017.19.37.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:159 
+05.03.2017.19.37.26 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:160 
+05.03.2017.19.37.26 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:161 
+05.03.2017.19.37.26 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:162 
+05.03.2017.19.37.26 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:163 
+05.03.2017.19.37.27 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:164 
+05.03.2017.19.37.27 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:165 
+05.03.2017.19.37.27 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:166 
+05.03.2017.19.37.27 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:167 
+05.03.2017.19.37.28 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:168 
+05.03.2017.19.37.28 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:169 
+05.03.2017.19.37.28 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:170 
+05.03.2017.19.37.29 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:171 
+05.03.2017.19.37.29 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:172 
+05.03.2017.19.37.30 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:173 
+05.03.2017.19.37.30 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:174 
+05.03.2017.19.37.30 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:175 
+05.03.2017.19.37.30 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:176 
+05.03.2017.19.37.30 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:177 
+05.03.2017.19.37.31 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:178 
+05.03.2017.19.37.31 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:179 
+05.03.2017.19.37.31 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:180 
+05.03.2017.19.37.32 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:181 
+05.03.2017.19.37.33 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:182 
+05.03.2017.19.37.34 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:183 
+05.03.2017.19.37.34 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:184 
+05.03.2017.19.37.34 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:185 
+05.03.2017.19.37.34 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:186 
+05.03.2017.19.37.35 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:187 
+05.03.2017.19.37.35 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:188 
+05.03.2017.19.37.35 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:189 
+05.03.2017.19.37.35 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:190 
+05.03.2017.19.37.35 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:191 
+05.03.2017.19.37.36 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:192 
+05.03.2017.19.37.36 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:193 
+05.03.2017.19.37.36 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:194 
+05.03.2017.19.37.36 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:195 
+05.03.2017.19.37.36 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:196 
+05.03.2017.19.37.37 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:197 
+05.03.2017.19.37.37 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:198 
+05.03.2017.19.37.37 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:199 
+05.03.2017.19.37.37 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:200 
+05.03.2017.19.37.38 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:201 
+05.03.2017.19.37.38 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:202 
+05.03.2017.19.37.38 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:203 
+05.03.2017.19.37.38 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:204 
+05.03.2017.19.37.38 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:205 
+05.03.2017.19.37.39 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:206 
+05.03.2017.19.37.39 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:207 
+05.03.2017.19.37.39 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:208 
+05.03.2017.19.37.39 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:209 
+05.03.2017.19.37.39 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:210 
+05.03.2017.19.37.40 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:211 
+05.03.2017.19.37.40 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:212 
+05.03.2017.19.37.40 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:213 
+05.03.2017.19.37.40 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:214 
+05.03.2017.19.37.41 IP: 186.207.139.153 GUGUPMG12 *** Item combine ehre. *** 
+05.03.2017.19.37.41 IP: 186.207.139.153 GUGUPMG12 useitem,poeira_de_fada classmaster:2 level:214 Esmeralda : 2442.0.0.0.0.0.0 Diamante : 2441.0.0.0.0.0.0 Coral : 2443.0.0.0.0.0.0 
+05.03.2017.19.37.41 IP: 186.207.139.153 GUGUPMG12 *** ------------------- *** 
+05.03.2017.19.37.41 IP: 186.207.139.153 *** Combine ehre sucess *** GUGUPMG12  Mestre_de_Hekalotia : 3197.0.0.0.0.0.0 
+05.03.2017.19.37.41 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:215 
+05.03.2017.19.37.41 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:216 
+05.03.2017.19.37.41 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:217 
+05.03.2017.19.37.42 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:218 
+05.03.2017.19.37.42 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:219 
+05.03.2017.19.37.42 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Elime : 4106.0.0.0.0.0.0 
+05.03.2017.19.37.42 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:220 
+05.03.2017.19.37.42 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:221 
+05.03.2017.19.37.42 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:222 
+05.03.2017.19.37.42 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Sylphed : 4107.0.0.0.0.0.0 
+05.03.2017.19.37.43 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:223 
+05.03.2017.19.37.43 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:224 
+05.03.2017.19.37.43 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:225 
+05.03.2017.19.37.43 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:226 
+05.03.2017.19.37.43 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:227 
+05.03.2017.19.37.43 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Thelion : 4108.0.0.0.0.0.0 
+05.03.2017.19.37.44 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:228 
+05.03.2017.19.37.44 IP: 187.110.69.50 BIKINHO buy_npc,npc:Shadow I price:512500 item: Cristal_Noas : 4109.0.0.0.0.0.0 
+05.03.2017.19.37.44 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:229 
+05.03.2017.19.37.44 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:230 
+05.03.2017.19.37.44 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:231 
+05.03.2017.19.37.44 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:232 
+05.03.2017.19.37.44 IP: 186.207.139.153 ZePikeno deleteitem,  Garnet : 2444.0.0.0.0.0.0 
+05.03.2017.19.37.45 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:233 
+05.03.2017.19.37.45 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:234 
+05.03.2017.19.37.45 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:235 
+05.03.2017.19.37.45 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:236 
+05.03.2017.19.37.45 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:237 
+05.03.2017.19.37.46 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:238 
+05.03.2017.19.37.46 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:239 
+05.03.2017.19.37.46 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:240 
+05.03.2017.19.37.46 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:241 
+05.03.2017.19.37.47 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:242 
+05.03.2017.19.37.47 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:243 
+05.03.2017.19.37.47 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:244 
+05.03.2017.19.37.48 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:245 
+05.03.2017.19.37.48 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:246 
+05.03.2017.19.37.48 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:247 
+05.03.2017.19.37.48 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:248 
+05.03.2017.19.37.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:249 
+05.03.2017.19.37.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:250 
+05.03.2017.19.37.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:251 
+05.03.2017.19.37.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:252 
+05.03.2017.19.37.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:253 
+05.03.2017.19.37.49 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:254 
+05.03.2017.19.37.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:255 
+05.03.2017.19.37.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:256 
+05.03.2017.19.37.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:257 
+05.03.2017.19.37.50 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:258 
+05.03.2017.19.37.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:259 
+05.03.2017.19.37.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:260 
+05.03.2017.19.37.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:261 
+05.03.2017.19.37.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:262 
+05.03.2017.19.37.51 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:263 
+05.03.2017.19.37.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:264 
+05.03.2017.19.37.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:265 
+05.03.2017.19.37.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:266 
+05.03.2017.19.37.52 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:267 
+05.03.2017.19.37.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:268 
+05.03.2017.19.37.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:269 
+05.03.2017.19.37.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:270 
+05.03.2017.19.37.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:271 
+05.03.2017.19.37.53 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:272 
+05.03.2017.19.37.54 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:273 
+05.03.2017.19.37.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:274 
+05.03.2017.19.37.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:275 
+05.03.2017.19.37.55 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Parche price:15375 item: Pergaminho_Retorno_10x : 411.61.10.0.0.0.0 
+05.03.2017.19.37.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:276 
+05.03.2017.19.37.55 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:277 
+05.03.2017.19.37.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:278 
+05.03.2017.19.37.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:279 
+05.03.2017.19.37.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:280 
+05.03.2017.19.37.56 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:20 Item: Pergaminho_Retorno_10x : 411.61.10.0.0.0.0 DstType:1 DstSlot:28 Item: 
+05.03.2017.19.37.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:281 
+05.03.2017.19.37.56 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:282 
+05.03.2017.19.37.57 IP: 187.110.69.50 lH2O deleteitem,  Cristal_Thelion : 4108.0.0.0.0.0.0 
+05.03.2017.19.37.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:283 
+05.03.2017.19.37.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:284 
+05.03.2017.19.37.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:285 
+05.03.2017.19.37.57 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:286 
+05.03.2017.19.37.58 IP: 187.110.69.50 lH2O deleteitem,  Cristal_Sylphed : 4107.0.0.0.0.0.0 
+05.03.2017.19.37.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:287 
+05.03.2017.19.37.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:288 
+05.03.2017.19.37.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:289 
+05.03.2017.19.37.58 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:290 
+05.03.2017.19.37.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:291 
+05.03.2017.19.37.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:292 
+05.03.2017.19.37.59 IP: 187.110.69.50 lH2O deleteitem,  Cristal_Noas : 4109.0.0.0.0.0.0 
+05.03.2017.19.37.59 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:293 
+05.03.2017.19.38.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:294 
+05.03.2017.19.38.00 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:1 SrcSlot:10 Item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 DstType:0 DstSlot:13 Item: 
+05.03.2017.19.38.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:295 
+05.03.2017.19.38.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:296 
+05.03.2017.19.38.00 IP: 187.110.69.50 lH2O deleteitem,  Cristal_Elime : 4106.0.0.0.0.0.0 
+05.03.2017.19.38.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:297 
+05.03.2017.19.38.00 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:298 
+05.03.2017.19.38.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:299 
+05.03.2017.19.38.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:300 
+05.03.2017.19.38.01 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:301 
+05.03.2017.19.38.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:302 
+05.03.2017.19.38.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:303 
+05.03.2017.19.38.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:304 
+05.03.2017.19.38.02 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:305 
+05.03.2017.19.38.02 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:370 
+05.03.2017.19.38.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:306 
+05.03.2017.19.38.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:307 
+05.03.2017.19.38.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:371 
+05.03.2017.19.38.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:308 
+05.03.2017.19.38.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:372 
+05.03.2017.19.38.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:309 
+05.03.2017.19.38.03 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:310 
+05.03.2017.19.38.03 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:373 
+05.03.2017.19.38.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:374 
+05.03.2017.19.38.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:311 
+05.03.2017.19.38.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:375 
+05.03.2017.19.38.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:376 
+05.03.2017.19.38.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:312 
+05.03.2017.19.38.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:313 
+05.03.2017.19.38.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:377 
+05.03.2017.19.38.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:314 
+05.03.2017.19.38.04 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:315 
+05.03.2017.19.38.04 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:378 
+05.03.2017.19.38.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:379 
+05.03.2017.19.38.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:316 
+05.03.2017.19.38.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:380 
+05.03.2017.19.38.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:381 
+05.03.2017.19.38.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:317 
+05.03.2017.19.38.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:318 
+05.03.2017.19.38.05 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:382 
+05.03.2017.19.38.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:319 
+05.03.2017.19.38.05 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:320 
+05.03.2017.19.38.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:383 
+05.03.2017.19.38.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:321 
+05.03.2017.19.38.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:384 
+05.03.2017.19.38.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:322 
+05.03.2017.19.38.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:385 
+05.03.2017.19.38.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:323 
+05.03.2017.19.38.06 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:324 
+05.03.2017.19.38.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:386 
+05.03.2017.19.38.06 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:387 
+05.03.2017.19.38.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:388 
+05.03.2017.19.38.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:325 
+05.03.2017.19.38.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:389 
+05.03.2017.19.38.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:326 
+05.03.2017.19.38.07 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:390 
+05.03.2017.19.38.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:327 
+05.03.2017.19.38.07 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:328 
+05.03.2017.19.38.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:391 
+05.03.2017.19.38.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:392 
+05.03.2017.19.38.08 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:329 
+05.03.2017.19.38.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:393 
+05.03.2017.19.38.08 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:330 
+05.03.2017.19.38.08 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:394 
+05.03.2017.19.38.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:331 
+05.03.2017.19.38.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:332 
+05.03.2017.19.38.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:333 
+05.03.2017.19.38.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:395 
+05.03.2017.19.38.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:396 
+05.03.2017.19.38.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:334 
+05.03.2017.19.38.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:397 
+05.03.2017.19.38.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:335 
+05.03.2017.19.38.09 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:398 
+05.03.2017.19.38.09 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:336 
+05.03.2017.19.38.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:337 
+05.03.2017.19.38.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:338 
+05.03.2017.19.38.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:339 
+05.03.2017.19.38.10 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:340 
+05.03.2017.19.38.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:341 
+05.03.2017.19.38.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:342 
+05.03.2017.19.38.11 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:343 
+05.03.2017.19.38.12 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:344 
+05.03.2017.19.38.12 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:345 
+05.03.2017.19.38.12 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:346 
+05.03.2017.19.38.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:347 
+05.03.2017.19.38.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:348 
+05.03.2017.19.38.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:349 
+05.03.2017.19.38.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:350 
+05.03.2017.19.38.13 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:351 
+05.03.2017.19.38.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:352 
+05.03.2017.19.38.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:353 
+05.03.2017.19.38.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:354 
+05.03.2017.19.38.14 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:355 
+05.03.2017.19.38.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:356 
+05.03.2017.19.38.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:357 
+05.03.2017.19.38.15 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:358 
+05.03.2017.19.38.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:359 
+05.03.2017.19.38.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:360 
+05.03.2017.19.38.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:361 
+05.03.2017.19.38.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:362 
+05.03.2017.19.38.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:363 
+05.03.2017.19.38.16 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:364 
+05.03.2017.19.38.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:365 
+05.03.2017.19.38.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:366 
+05.03.2017.19.38.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:367 
+05.03.2017.19.38.17 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:368 
+05.03.2017.19.38.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:369 
+05.03.2017.19.38.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:370 
+05.03.2017.19.38.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:371 
+05.03.2017.19.38.18 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:372 
+05.03.2017.19.38.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:373 
+05.03.2017.19.38.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:374 
+05.03.2017.19.38.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:375 
+05.03.2017.19.38.19 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:376 
+05.03.2017.19.38.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:377 
+05.03.2017.19.38.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:378 
+05.03.2017.19.38.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:379 
+05.03.2017.19.38.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:380 
+05.03.2017.19.38.20 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:381 
+05.03.2017.19.38.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:382 
+05.03.2017.19.38.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:383 
+05.03.2017.19.38.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:384 
+05.03.2017.19.38.21 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:385 
+05.03.2017.19.38.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:386 
+05.03.2017.19.38.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:387 
+05.03.2017.19.38.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:388 
+05.03.2017.19.38.22 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:389 
+05.03.2017.19.38.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:390 
+05.03.2017.19.38.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:391 
+05.03.2017.19.38.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:392 
+05.03.2017.19.38.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:393 
+05.03.2017.19.38.23 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:394 
+05.03.2017.19.38.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:395 
+05.03.2017.19.38.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:396 
+05.03.2017.19.38.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:397 
+05.03.2017.19.38.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:398 
+05.03.2017.19.38.24 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.19.38.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.19.38.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.19.38.25 IP: 177.39.204.178 WALLACER137 useitem,poeira_de_fada classmaster:2 level:399 
+05.03.2017.19.38.27 IP: 177.39.204.178 Deus deleteitem,  Poeira_de_Fada : 4142.61.108.0.0.0.0 
+05.03.2017.19.38.33 IP: 201.17.211.212 BADFIVE123 buy_npc,npc:Acessorios6 price:61500000 item: Pergaminho_do_Perdão : 3343.0.0.0.0.0.0 
+05.03.2017.19.38.34 IP: 201.17.211.212 BADFIVE123 useitem,perdao new cp 75 
+05.03.2017.19.38.36 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Acessorios2 price:41000 item: Klazedale(3dias) : 3982.106.3.107.0.108.0 
+05.03.2017.19.38.37 IP: 177.39.204.178 WALLACER137 tradingitem, SrcType:1 SrcSlot:0 Item: DstType:0 DstSlot:14 Item: 
+05.03.2017.19.39.02 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:1 SrcSlot:11 Item: Escudo_de_Madeira : 1701.0.0.0.0.0.0 DstType:0 DstSlot:7 Item: 
+05.03.2017.19.39.14 IP: 201.17.211.212 BADFIVE123 useitem,joia_pvp joia:3200 
+05.03.2017.19.39.38 IP: 201.23.128.224 ALUKZ buy_npc,npc:Acessorios price:1230 item: Cythera_Arcana : 3507.3.120.60.30.43.250 
+05.03.2017.19.39.40 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:1 SrcSlot:11 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: Chapéu_Pele_de_Animal(A) : 1403.0.0.0.0.0.0 
+05.03.2017.19.39.53 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:14 Item: Dragão : 2377.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Tigre_de_Fogo : 2379.0.0.120.60.0.0 
+05.03.2017.19.39.55 IP: 201.17.211.212 -OlhaOTchan deleteitem,  Tigre_de_Fogo : 2379.0.0.120.60.0.0 
+05.03.2017.19.39.59 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Shadow I price:51250 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.00 IP: 186.207.139.153 GUGUPMG12 useitem,silver coin used V:1000000000 fV:1024109905 
+05.03.2017.19.40.01 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Shadow I price:51250 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.02 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Shadow I price:51250 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.02 IP: 179.125.231.25 LILITH *** Item combine ehre. *** 
+05.03.2017.19.40.02 IP: 179.125.231.25 LILITH buy_npc,npc:Shadow I price:51250 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 Diamante : 2441.0.0.0.0.0.0 Diamante : 2441.0.0.0.0.0.0 Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.02 IP: 179.125.231.25 LILITH *** ------------------- *** 
+05.03.2017.19.40.02 IP: 179.125.231.25 LILITH *** Combine ehre fail *** 
+05.03.2017.19.40.02 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Shadow I price:51250 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.03 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Shadow I price:51250 item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.06 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:6 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.08 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:1 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 DstType:1 DstSlot:6 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.09 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:11 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 DstType:1 DstSlot:6 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.10 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:2 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 DstType:1 DstSlot:6 Item: Barra_de_Prata(1Bi) : 4011.0.0.0.0.0.0 
+05.03.2017.19.40.10 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:1 level:399 
+05.03.2017.19.40.15 IP: 187.110.69.50 BIKINHO buy_npc,npc:Evolucao price:35875 item: Pedra_Ideal : 5338.0.0.0.0.0.0 
+05.03.2017.19.40.17 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios5 price:102500000 item: Barra_de_Mithril_(Defesa) : 3029.61.5.0.0.0.0 
+05.03.2017.19.40.17 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios5 price:102500000 item: Barra_de_Mithril_(Atq.Mágico) : 3028.61.5.0.0.0.0 
+05.03.2017.19.40.18 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios5 price:102500000 item: Barra_de_Mithril_(Defesa) : 3029.61.5.0.0.0.0 
+05.03.2017.19.40.19 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios5 price:102500000 item: Barra_de_Mithril_(Atq.Mágico) : 3028.61.5.0.0.0.0 
+05.03.2017.19.40.19 IP: 179.125.231.25 Lilith deleteitem,  Poeira_de_Fada : 4142.61.255.0.0.0.0 
+05.03.2017.19.40.20 IP: 186.207.139.153 GUGUPMG12 tradingitem, SrcType:1 SrcSlot:3 Item: Barra_de_Mithril_(Defesa) : 3029.61.5.0.0.0.0 DstType:1 DstSlot:7 Item: Barra_de_Mithril_(Defesa) : 3029.61.5.0.0.0.0 
+05.03.2017.19.40.21 IP: 179.125.231.25 Lilith deleteitem,  Poeira_de_Fada : 4142.61.66.0.0.0.0 
+05.03.2017.19.40.24 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:2 Item: Armadura_Rake : 1656.43.250.60.10.3.30 DstType:1 DstSlot:15 Item: 
+05.03.2017.19.40.24 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1221+27 - (61,0,0) 
+05.03.2017.19.40.24 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:1 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:1 DstSlot:20 Item: 
+05.03.2017.19.40.25 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:4 Item: Manoplas_Rake : 1658.43.250.54.18.72.30 DstType:1 DstSlot:21 Item: 
+05.03.2017.19.40.26 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1221+27 - (61,0,0) 
+05.03.2017.19.40.26 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:5 Item: Botas_Rake : 1659.43.250.60.10.2.6 DstType:1 DstSlot:26 Item: 
+05.03.2017.19.40.27 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.27 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:3 Item: Calça_Rake : 1657.43.250.60.10.3.30 DstType:1 DstSlot:17 Item: 
+05.03.2017.19.40.27 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1221+27 - (61,0,0) 
+05.03.2017.19.40.27 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.28 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:14 Item: Sleipnir : 2388.100.100.120.60.100.0 DstType:1 DstSlot:22 Item: 
+05.03.2017.19.40.28 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.30 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:0 SrcSlot:1 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:1 DstSlot:26 Item: 
+05.03.2017.19.40.30 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1221+27 - (61,0,0) 
+05.03.2017.19.40.31 IP: 187.110.69.50 BIKINHO useitem,ideal stone used to make god 5 4 
+05.03.2017.19.40.32 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.33 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1221+27 - (61,0,0) 
+05.03.2017.19.40.36 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1221+27 - (61,0,0) 
+05.03.2017.19.40.38 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.39 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1221+27 - (61,0,0) 
+05.03.2017.19.40.39 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.39 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:22 Item: Sleipnir : 2388.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+05.03.2017.19.40.40 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.40 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:21 Item: Manoplas_Rake : 1658.43.250.54.18.72.30 DstType:0 DstSlot:4 Item: 
+05.03.2017.19.40.40 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.41 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1221+27 - (61,0,0) 
+05.03.2017.19.40.41 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:26 Item: Botas_Rake : 1659.43.250.60.10.2.6 DstType:0 DstSlot:5 Item: 
+05.03.2017.19.40.41 IP: 179.125.231.25 LILITH buy_npc,npc:Acessorios2 price:615 item: Diamante : 2441.0.0.0.0.0.0 
+05.03.2017.19.40.42 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:15 Item: Armadura_Rake : 1656.43.250.60.10.3.30 DstType:0 DstSlot:2 Item: 
+05.03.2017.19.40.42 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:17 Item: Calça_Rake : 1657.43.250.60.10.3.30 DstType:0 DstSlot:3 Item: 
+05.03.2017.19.40.43 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:20 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: Cythera_Mística : 3502.0.0.0.0.0.0 
+05.03.2017.19.40.44 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1221+27 - (61,0,0) 
+05.03.2017.19.40.46 IP: 201.17.211.212 BADFIVE123 buy_npc,npc:Arma SemiDeus price:666250 item: Khyrius(Anct) : 2611.2.81.42.30.43.250 
+05.03.2017.19.40.48 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:14 Item: Khyrius(Anct) : 2611.2.81.42.30.43.250 DstType:0 DstSlot:6 Item: Skytalos(Anct) : 2552.2.81.42.30.43.251 
+05.03.2017.19.40.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:1 
+05.03.2017.19.40.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:2 
+05.03.2017.19.40.49 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:1 SrcSlot:5 Item: DstType:0 DstSlot:12 Item: 
+05.03.2017.19.40.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:3 
+05.03.2017.19.40.49 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:4 
+05.03.2017.19.40.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:5 
+05.03.2017.19.40.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:6 
+05.03.2017.19.40.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:7 
+05.03.2017.19.40.50 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:8 
+05.03.2017.19.40.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:9 
+05.03.2017.19.40.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:10 
+05.03.2017.19.40.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:11 
+05.03.2017.19.40.51 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:12 
+05.03.2017.19.40.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:13 
+05.03.2017.19.40.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:14 
+05.03.2017.19.40.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:15 
+05.03.2017.19.40.52 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:16 
+05.03.2017.19.40.52 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.40.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:17 
+05.03.2017.19.40.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:18 
+05.03.2017.19.40.53 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:10 Item: Dragão_Vermelho : 2380.100.100.120.60.100.12 DstType:0 DstSlot:14 Item: Dragão : 2377.100.100.120.60.100.0 
+05.03.2017.19.40.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:19 
+05.03.2017.19.40.53 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:20 
+05.03.2017.19.40.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:21 
+05.03.2017.19.40.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:22 
+05.03.2017.19.40.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:23 
+05.03.2017.19.40.54 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:24 
+05.03.2017.19.40.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:25 
+05.03.2017.19.40.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:26 
+05.03.2017.19.40.55 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.40.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:27 
+05.03.2017.19.40.55 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:28 
+05.03.2017.19.40.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:29 
+05.03.2017.19.40.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:30 
+05.03.2017.19.40.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:31 
+05.03.2017.19.40.56 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:32 
+05.03.2017.19.40.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:33 
+05.03.2017.19.40.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:34 
+05.03.2017.19.40.57 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:35 
+05.03.2017.19.40.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:36 
+05.03.2017.19.40.58 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1223+27 - (61,0,0) 
+05.03.2017.19.40.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:37 
+05.03.2017.19.40.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:38 
+05.03.2017.19.40.58 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.40.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.40.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.40.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.40.59 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.00 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail-- 1223+27 - (61,0,0) 
+05.03.2017.19.41.00 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.01 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.02 IP: 187.110.69.50 BIKINHO useitem,poeira_de_fada classmaster:3 level:39 
+05.03.2017.19.41.02 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.41.04 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.41.04 IP: 177.207.126.16 SONY buy_npc,npc:Acessorios price:1230 item: Cythera_Arcana : 3507.3.120.60.30.43.250 
+05.03.2017.19.41.06 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1223+27 - (61,0,0) 
+05.03.2017.19.41.06 IP: 177.207.126.16 SONY tradingitem, SrcType:1 SrcSlot:0 Item: Cythera_Arcana : 3507.3.120.60.30.43.250 DstType:0 DstSlot:1 Item: Bandana_de_Pano(N) : 1251.0.0.0.0.0.0 
+05.03.2017.19.41.07 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade success 1223+27 - (61,0,0) 
+05.03.2017.19.41.12 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.41.13 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:1 SrcSlot:2 Item: Vela_do_Coveiro : 4038.43.9.0.0.0.0 DstType:1 DstSlot:7 Item: 
+05.03.2017.19.41.14 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.41.14 IP: 177.207.126.16 SONY buy_npc,npc:Acessorios2 price:41000 item: Klazedale(3dias) : 3982.106.3.107.0.108.0 
+05.03.2017.19.41.16 IP: 186.207.139.153 GUGUPMG12 useitem,upgrade fail 1223+27 - (61,0,0) 
+05.03.2017.19.41.16 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Acessorios3 price:0 item: Trombeta_Mágica : 3330.61.10.0.0.0.0 
+05.03.2017.19.41.16 IP: 177.207.126.16 SONY tradingitem, SrcType:1 SrcSlot:0 Item: DstType:0 DstSlot:14 Item: 
+05.03.2017.19.41.17 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Acessorios3 price:0 item: Trombeta_Mágica : 3330.61.10.0.0.0.0 
+05.03.2017.19.41.18 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Acessorios3 price:0 item: Trombeta_Mágica : 3330.61.10.0.0.0.0 
+05.03.2017.19.41.18 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:0 SrcSlot:2 Item: Robe_Pele_de_Animal(A) : 1406.0.0.0.0.0.0 DstType:1 DstSlot:4 Item: 
+05.03.2017.19.41.19 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Acessorios3 price:0 item: Trombeta_Mágica : 3330.61.10.0.0.0.0 
+05.03.2017.19.41.20 IP: 201.23.128.224 ALUKZ tradingitem, SrcType:0 SrcSlot:5 Item: Sapatos_Pele_de_Animal(A) : 1415.0.0.0.0.0.0 DstType:1 DstSlot:9 Item: 
+05.03.2017.19.41.20 IP: 177.39.204.178 WALLACER137 buy_npc,npc:Acessorios3 price:0 item: Trombeta_Mágica : 3330.61.10.0.0.0.0 
+05.03.2017.19.41.20 IP: 186.207.139.153 GUGUPMG12 buy_npc,npc:Acessorios5 price:102500000 item: Barra_de_Mithril_(Defesa) : 3029.61.5.0.0.0.0 

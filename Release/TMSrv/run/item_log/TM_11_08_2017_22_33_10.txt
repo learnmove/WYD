@@ -1,0 +1,5 @@
+11.08.2017.22.36.55 IP: 192.168.1.108 ADMIN tradingitem, SrcType:0 SrcSlot:13 Item: Fada_Vermelha(3dias) : 3902.106.3.107.0.0.0 DstType:1 DstSlot:4 Item: 
+11.08.2017.22.36.56 IP: 192.168.1.108 ADMIN tradingitem, SrcType:0 SrcSlot:14 Item: Sleipnir : 2388.196.99.120.60.100.0 DstType:1 DstSlot:8 Item: 
+11.08.2017.22.36.57 IP: 192.168.1.108 ADMIN tradingitem, SrcType:0 SrcSlot:6 Item: Arco_do_Guardião_(Anct) : 3622.2.81.43.251.0.0 DstType:1 DstSlot:13 Item: 
+11.08.2017.22.36.59 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:8 Item: Sleipnir : 2388.196.99.120.60.100.0 DstType:0 DstSlot:14 Item: 
+11.08.2017.22.39.27 IP: 192.168.1.108 ADMIN tradingitem, SrcType:1 SrcSlot:13 Item: Arco_do_Guardião_(Anct) : 3622.2.81.43.251.0.0 DstType:0 DstSlot:6 Item: 

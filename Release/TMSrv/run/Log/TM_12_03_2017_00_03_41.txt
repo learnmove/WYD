@@ -1,0 +1,286 @@
+[12/03/2017][00:03:43]  -system sys,start server 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 62 2215 2063 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 70 2219 2063 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 100 2227 2062 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 328 2321 2218 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 337 2318 2223 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 442 2488 2054 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 545 2488 1950 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 575 2450 1951 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 602 2543 1943 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 673 2618 1978 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 792 2472 1836 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 802 2476 1820 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 908 2612 2078 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1032 2396 1688 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1046 2363 1700 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1118 2336 1596 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 1179 2274 1748 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1184 2226 1748 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1204 2198 1710 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1227 2267 1736 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1240 2296 1618 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1279 1996 1638 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1292 1956 1560 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 1304 1960 1644 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1506 2192 1360 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1542 2244 1302 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1830 279 3790 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1968 409 3815 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 1995 560 3802 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2086 750 3809 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2220 420 4027 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2253 974 4075 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2287 1003 4005 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2307 952 4002 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2445 2328 2088 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2542 930 3804 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2620 1048 3754 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2869 1195 4023 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 2882 1225 4013 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3051 1397 3790 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3068 1404 3733 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3514 1317 4042 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3850 2123 1632 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3855 2060 1636 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 3860 2086 1616 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 3864 2138 1623 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 3868 2074 1595 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3869 2083 1596 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3870 2098 1595 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3873 2132 1595 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3874 2124 1582 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3878 2139 1581 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 3885 2048 1574 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3886 2054 1584 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3887 2059 1551 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3889 2097 1550 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3891 2135 1550 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 3892 2153 1550 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 5690 3432 1622 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid: 5770 3409 1534 
+[12/03/2017][00:03:55]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[12/03/2017][00:04:00]  -system etc,nightmare_mystic clear -0:4 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 349 2348 2234 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 405 2460 2068 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 467 2534 2092 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1049 2354 1700 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1065 2369 1687 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid: 1179 2274 1748 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1184 2227 1750 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid: 1199 2209 1681 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1233 2268 1692 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1293 1945 1572 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1297 1971 1623 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1337 1984 1683 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 1830 279 3788 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2048 664 3767 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2086 749 3809 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2212 408 3994 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2239 412 4066 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2287 1003 4006 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2523 799 3888 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid: 2731 1704 1665 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2927 1356 3988 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 2953 1434 4072 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3051 1397 3789 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3193 1264 1718 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3511 1332 4040 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3715 3778 3538 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3850 2123 1629 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3852 2115 1635 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid: 3855 2060 1636 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 3873 2133 1595 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 4036 3622 2823 
+[12/03/2017][00:04:07]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[12/03/2017][00:04:11] IP: 192.168.1.110 CYBER clo,fd 2-0 
+[12/03/2017][00:04:11] IP: 192.168.1.110 CYBER CNFAccountLogin Mac: 548874019.-1988211760.-2140267060.-1976229099 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 62 2213 2063 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 100 2226 2063 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 265 2328 2168 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 1184 2223 1748 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid: 1194 2209 1724 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 1204 2195 1709 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 1298 1978 1622 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 2302 932 4032 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 2561 938 3762 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 3051 1396 3789 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 3514 1317 4041 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 3586 780 4065 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 3605 2450 4010 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 3852 2116 1635 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 3873 2137 1595 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 4106 3541 2897 
+[12/03/2017][00:04:19]  -system err,No empty mobgrid(1): 5841 3425 1460 
+[12/03/2017][00:04:25] IP: 192.168.1.110 CYBER etc,delchar name: 1 13 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 100 2230 2063 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 1049 2353 1700 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid: 1061 2344 1702 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 1065 2370 1684 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 1205 2195 1700 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 1297 1966 1625 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 2523 799 3889 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 2597 1024 3796 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid: 2743 1703 1826 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 3852 2118 1635 
+[12/03/2017][00:04:31]  -system err,No empty mobgrid(1): 5791 3358 1426 
+[12/03/2017][00:04:43]  -system err,No empty mobgrid(1): 1292 1956 1562 
+[12/03/2017][00:04:43]  -system err,No empty mobgrid(1): 3586 780 4067 
+[12/03/2017][00:04:43]  -system err,No empty mobgrid(1): 3715 3778 3539 
+[12/03/2017][00:04:43]  -system err,No empty mobgrid(1): 3852 2113 1634 
+[12/03/2017][00:04:43]  -system err,No empty mobgrid(1): 4036 3621 2821 
+[12/03/2017][00:04:48] IP: 192.168.1.110 CYBER etc,createchar name:FM-Especial 1 13 
+[12/03/2017][00:04:51] IP: 192.168.1.110 CYBER sta,Login char:FM-Especial exp:0 level:0 conn:1 money:2000000000, store:0 
+[12/03/2017][00:04:55]  -system err,No empty mobgrid(1): 1205 2194 1701 
+[12/03/2017][00:04:55]  -system err,No empty mobgrid(1): 1297 1967 1625 
+[12/03/2017][00:04:55]  -system err,No empty mobgrid(1): 2745 1710 1826 
+[12/03/2017][00:04:55]  -system err,No empty mobgrid(1): 3511 1333 4041 
+[12/03/2017][00:04:55]  -system err,No empty mobgrid(1): 3605 2448 4009 
+[12/03/2017][00:04:55]  -system err,No empty mobgrid(1): 4106 3540 2896 
+[12/03/2017][00:04:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2375 name:Porco dam:29 x:2113 y:2045 
+[12/03/2017][00:04:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2375 name:Porco dam:27 x:2113 y:2045 
+[12/03/2017][00:05:03] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2373 name:Porco dam:29 x:2122 y:2039 
+[12/03/2017][00:05:04] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2373 name:Porco dam:28 x:2122 y:2039 
+[12/03/2017][00:05:07]  -system err,No empty mobgrid(1): 1204 2195 1711 
+[12/03/2017][00:05:07]  -system err,No empty mobgrid(1): 2726 1740 1676 
+[12/03/2017][00:05:07]  -system err,No empty mobgrid(1): 2806 1710 1628 
+[12/03/2017][00:05:07]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[12/03/2017][00:05:08]  -system etc,carbuncle buff name:FM-Especial conn:1 
+[12/03/2017][00:05:12] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2396 name:Porco dam:29 x:2124 y:2035 
+[12/03/2017][00:05:13] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2396 name:Porco dam:28 x:2124 y:2035 
+[12/03/2017][00:05:15] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6386 name:Aguia dam:29 x:2123 y:2032 
+[12/03/2017][00:05:16] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6386 name:Aguia dam:28 x:2123 y:2032 
+[12/03/2017][00:05:19]  -system err,No empty mobgrid(1): 1297 1966 1625 
+[12/03/2017][00:05:19] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6388 name:Aguia dam:28 x:2126 y:2029 
+[12/03/2017][00:05:20] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6388 name:Aguia dam:29 x:2126 y:2029 
+[12/03/2017][00:05:20] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 1 
+[12/03/2017][00:05:24] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5289 name:Porco dam:40 x:2117 y:2025 
+[12/03/2017][00:05:25] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5289 name:Porco dam:30 x:2117 y:2025 
+[12/03/2017][00:05:30] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5300 name:Krill dam:18 x:2101 y:2021 
+[12/03/2017][00:05:31]  -system err,No empty mobgrid: 3488 621 3757 
+[12/03/2017][00:05:31]  -system err,No empty mobgrid(1): 3605 2448 4010 
+[12/03/2017][00:05:31]  -system err,No empty mobgrid(1): 4106 3541 2897 
+[12/03/2017][00:05:31] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5300 name:Krill dam:18 x:2101 y:2021 
+[12/03/2017][00:05:33] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5300 name:Krill dam:18 x:2101 y:2021 
+[12/03/2017][00:05:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5300 name:Krill dam:18 x:2101 y:2021 
+[12/03/2017][00:05:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5300 name:Krill dam:18 x:2101 y:2021 
+[12/03/2017][00:05:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5300 name:Krill dam:18 x:2100 y:2020 
+[12/03/2017][00:05:36] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 2 
+[12/03/2017][00:05:36] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 3 
+[12/03/2017][00:05:43]  -system err,No empty mobgrid(1): 1297 1970 1624 
+[12/03/2017][00:05:43]  -system err,No empty mobgrid(1): 1709 143 3797 
+[12/03/2017][00:05:43]  -system err,No empty mobgrid(1): 5841 3426 1460 
+[12/03/2017][00:06:07]  -system err,No empty mobgrid(1): 1297 1971 1620 
+[12/03/2017][00:06:07]  -system err,No empty mobgrid(1): 4106 3542 2895 
+[12/03/2017][00:06:19]  -system err,No empty mobgrid(1): 5841 3424 1460 
+[12/03/2017][00:06:24] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5301 name:Gremlin dam:32 x:2103 y:2022 
+[12/03/2017][00:06:24] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 4 
+[12/03/2017][00:06:25] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5301 name:Gremlin dam:33 x:2103 y:2022 
+[12/03/2017][00:06:25] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 5 
+[12/03/2017][00:06:31]  -system err,No empty mobgrid(1): 1297 1972 1622 
+[12/03/2017][00:06:31] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2418 name:Porco dam:35 x:2107 y:2020 
+[12/03/2017][00:06:31] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 6 
+[12/03/2017][00:06:32] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2418 name:Porco dam:35 x:2107 y:2020 
+[12/03/2017][00:06:32] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 7 
+[12/03/2017][00:06:32] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 8 
+[12/03/2017][00:06:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5295 name:Porco dam:40 x:2112 y:2024 
+[12/03/2017][00:06:34] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 9 
+[12/03/2017][00:06:35] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5295 name:Porco dam:39 x:2108 y:2019 
+[12/03/2017][00:06:35] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 10 
+[12/03/2017][00:06:35] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 11 
+[12/03/2017][00:06:37] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2417 name:Aguia dam:42 x:2110 y:2023 
+[12/03/2017][00:06:37] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 12 
+[12/03/2017][00:06:38] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2417 name:Aguia dam:45 x:2110 y:2023 
+[12/03/2017][00:06:38] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 13 
+[12/03/2017][00:06:38] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 14 
+[12/03/2017][00:06:46] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5301 name:Gremlin dam:44 x:2109 y:2020 
+[12/03/2017][00:06:46] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 15 
+[12/03/2017][00:06:46] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 16 
+[12/03/2017][00:06:47] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5294 name:Aguia dam:48 x:2111 y:2023 
+[12/03/2017][00:06:47] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 17 
+[12/03/2017][00:06:47] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 18 
+[12/03/2017][00:06:48] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5293 name:Porco dam:54 x:2116 y:2025 
+[12/03/2017][00:06:48] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 19 
+[12/03/2017][00:06:48] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 20 
+[12/03/2017][00:06:49] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2407 name:Aguia dam:61 x:2118 y:2024 
+[12/03/2017][00:06:49] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 21 
+[12/03/2017][00:06:49] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 22 
+[12/03/2017][00:06:53] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5292 name:Aguia dam:59 x:2111 y:2024 
+[12/03/2017][00:06:53] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 23 
+[12/03/2017][00:06:53] IP: 192.168.1.110 CYBER MobName:FM-Especial dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Aguia 
+[12/03/2017][00:06:53] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 24 
+[12/03/2017][00:06:54] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2412 name:Porco dam:58 x:2114 y:2021 
+[12/03/2017][00:06:54] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 25 
+[12/03/2017][00:06:54] IP: 192.168.1.110 CYBER MobName:FM-Especial dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[12/03/2017][00:06:54] IP: 192.168.1.110 CYBER MobName:FM-Especial dropou o item: Âmago_de_Porco:2390 0.0.0.0.0.0 do mob:Porco 
+[12/03/2017][00:06:54] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 26 
+[12/03/2017][00:06:55] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2410 name:Porco dam:64 x:2112 y:2019 
+[12/03/2017][00:06:55] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 27 
+[12/03/2017][00:06:55] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 28 
+[12/03/2017][00:06:55]  -system err,No empty mobgrid(1): 1297 1969 1622 
+[12/03/2017][00:06:57] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7874 name:Aguia dam:64 x:2118 y:2021 
+[12/03/2017][00:06:57] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 29 
+[12/03/2017][00:06:57] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 30 
+[12/03/2017][00:06:58] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7875 name:Porco dam:65 x:2119 y:2022 
+[12/03/2017][00:06:59] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2408 name:Porco dam:51 x:2120 y:2021 
+[12/03/2017][00:07:00] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2408 name:Porco dam:65 x:2120 y:2021 
+[12/03/2017][00:07:02] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2409 name:Aguia dam:69 x:2117 y:2019 
+[12/03/2017][00:07:03] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5291 name:Porco dam:65 x:2114 y:2019 
+[12/03/2017][00:07:06] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7848 name:Aguia dam:65 x:2111 y:2022 
+[12/03/2017][00:07:07] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6945 name:Porco dam:65 x:2111 y:2018 
+[12/03/2017][00:07:09] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7919 name:Aguia dam:67 x:2114 y:2018 
+[12/03/2017][00:07:10] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7920 name:Porco dam:51 x:2115 y:2019 
+[12/03/2017][00:07:11] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7920 name:Porco dam:67 x:2115 y:2019 
+[12/03/2017][00:07:12] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7876 name:Aguia dam:65 x:2114 y:2020 
+[12/03/2017][00:07:13] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7849 name:Porco dam:67 x:2112 y:2023 
+[12/03/2017][00:07:14] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7917 name:Aguia dam:67 x:2116 y:2024 
+[12/03/2017][00:07:16] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7918 name:Porco dam:64 x:2116 y:2023 
+[12/03/2017][00:07:19]  -system err,No empty mobgrid(1): 1297 1971 1624 
+[12/03/2017][00:07:20] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7878 name:Aguia dam:82 x:2109 y:2024 
+[12/03/2017][00:07:21] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7879 name:Porco dam:69 x:2108 y:2023 
+[12/03/2017][00:07:21] IP: 192.168.1.110 CYBER MobName:FM-Especial dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Porco 
+[12/03/2017][00:07:26] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5296 name:Krill dam:58 x:2103 y:2024 
+[12/03/2017][00:07:27] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5296 name:Krill dam:65 x:2103 y:2024 
+[12/03/2017][00:07:27] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 31 
+[12/03/2017][00:07:28] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:5297 name:Gremlin dam:76 x:2102 y:2023 
+[12/03/2017][00:07:28] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 32 
+[12/03/2017][00:07:30] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2421 name:Krill dam:59 x:2098 y:2023 
+[12/03/2017][00:07:34] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2421 name:Krill dam:57 x:2098 y:2023 
+[12/03/2017][00:07:34] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 33 
+[12/03/2017][00:07:37] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7880 name:Krill dam:58 x:2101 y:2023 
+[12/03/2017][00:07:38] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7880 name:Krill dam:58 x:2101 y:2023 
+[12/03/2017][00:07:42] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2419 name:Krill dam:59 x:2098 y:2027 
+[12/03/2017][00:07:43] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2419 name:Krill dam:60 x:2098 y:2027 
+[12/03/2017][00:07:43] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 34 
+[12/03/2017][00:07:43]  -system err,No empty mobgrid(1): 1297 1972 1620 
+[12/03/2017][00:07:43]  -system err,No empty mobgrid(1): 1709 143 3796 
+[12/03/2017][00:07:45] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6394 name:Krill dam:60 x:2091 y:2022 
+[12/03/2017][00:07:46] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:6394 name:Krill dam:62 x:2091 y:2022 
+[12/03/2017][00:07:46] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 35 
+[12/03/2017][00:07:46] IP: 192.168.1.110 CYBER MobName:FM-Especial dropou o item: Vela_do_Coveiro:4038 43.9.0.0.0.0 do mob:Krill 
+[12/03/2017][00:07:47]  CYBER etc,changecity city:0 X:2094 Y:2099 
+[12/03/2017][00:07:58] IP: 192.168.1.110 CYBER sta,Login char:FM-Especial exp:196715 level:35 conn:1 money:2000000000, store:0 
+[12/03/2017][00:08:06] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:7405 name:Porco dam:52 x:2111 y:2045 
+[12/03/2017][00:08:07] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2378 name:Porco dam:56 x:2106 y:2041 
+[12/03/2017][00:08:07]  -system err,No empty mobgrid(1): 1297 1969 1624 
+[12/03/2017][00:08:08] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:8077 name:Porco dam:56 x:2112 y:2045 
+[12/03/2017][00:08:09] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:2376 name:Porco dam:54 x:2113 y:2046 
+[12/03/2017][00:08:10]  CYBER etc,changecity city:0 X:2097 Y:2094 
+[12/03/2017][00:08:32] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1002 name:Gremlin dam:51 x:2180 y:2103 
+[12/03/2017][00:08:33] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1002 name:Gremlin dam:53 x:2180 y:2103 
+[12/03/2017][00:08:36] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1008 name:Gremlin dam:52 x:2191 y:2099 
+[12/03/2017][00:08:37] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1008 name:Gremlin dam:52 x:2191 y:2099 
+[12/03/2017][00:08:38] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1009 name:Gremlin dam:52 x:2188 y:2094 
+[12/03/2017][00:08:39] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1009 name:Gremlin dam:53 x:2189 y:2098 
+[12/03/2017][00:08:39] IP: 192.168.1.110 CYBER MobName:FM-Especial dropou o item: Chapéu_Acolchoado(N):1551 43.0.59.0.3.10 do mob:Gremlin 
+[12/03/2017][00:08:40] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1017 name:Gremlin dam:52 x:2195 y:2093 
+[12/03/2017][00:08:41] IP: 192.168.1.110 CYBER etc,msg_attack attacker:1 name:FM-Especial target:1017 name:Gremlin dam:53 x:2195 y:2093 
+[12/03/2017][00:08:41] IP: 192.168.1.110 CYBER lvl FM-Especial level up to 36 
+[12/03/2017][00:08:53] IP: 192.168.1.110 CYBER sta,Login char:FM-Especial exp:212107 level:36 conn:1 money:2000000000, store:0 
+[12/03/2017][00:08:54]  CYBER etc,changecity city:0 X:2094 Y:2104 
+[12/03/2017][00:08:55]  -system err,No empty mobgrid(1): 1297 1970 1622 
+[12/03/2017][00:08:55]  -system err,No empty mobgrid(1): 5841 3425 1459 
+[12/03/2017][00:09:00]  -system etc,nightmare_arcan clear -0:9 
+[12/03/2017][00:09:15] IP: 192.168.1.110 CYBER clo,fd 22-2 
+[12/03/2017][00:09:15] IP: 192.168.1.110 CYBER etc,charlogout conn:1 name:FM-Especial 

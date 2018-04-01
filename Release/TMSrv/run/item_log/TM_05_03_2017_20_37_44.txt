@@ -1,0 +1,14 @@
+05.03.2017.20.38.07 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:0 SrcSlot:7 Item: Neorion(Anct) : 2859.60.36.4.120.43.250 DstType:1 DstSlot:6 Item: 
+05.03.2017.20.38.08 IP: 187.110.69.50 BIKINHO tradingitem, SrcType:1 SrcSlot:10 Item: Eirenus(Anct) : 2863.60.36.4.120.43.250 DstType:0 DstSlot:6 Item: Balmung(Anct) : 2494.2.81.42.30.43.250 
+05.03.2017.20.38.11 IP: 186.219.27.34 KNUT buy_npc,npc:Shadow I price:157500 item: Poção_Sephira_(30dias) : 3363.0.0.0.0.0.0 
+05.03.2017.20.38.12 IP: 186.219.27.34 KNUT useitem,poção_kappa affectslot:8 value:0 time:80 
+05.03.2017.20.39.14 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:10 Item: Dragão : 2377.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Dragão_Vermelho : 2380.94.94.120.60.100.12 
+05.03.2017.20.39.24 IP: 186.219.27.34 KNUT tradingitem, SrcType:1 SrcSlot:1 Item: Dragão_Vermelho : 2380.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Svadilfari : 2387.100.100.120.60.100.0 
+05.03.2017.20.39.29 IP: 186.219.27.34 KNUT buy_npc,npc:Trajes price:1260 item: Traje_Mont:_Tigre_Branco : 4190.0.0.0.0.0.0 
+05.03.2017.20.40.13 IP: 186.219.27.34 KNUT tradingitem, SrcType:0 SrcSlot:14 Item: Dragão_Vermelho : 2380.100.100.120.60.100.0 DstType:1 DstSlot:1 Item: 
+05.03.2017.20.40.17 IP: 186.219.27.34 KNUT tradingitem, SrcType:1 SrcSlot:0 Item: Traje_Mont:_Tigre_Branco : 4190.0.0.0.0.0.0 DstType:1 DstSlot:1 Item: Dragão_Vermelho : 2380.100.100.120.60.100.0 
+05.03.2017.20.40.21 IP: 186.219.27.34 KNUT tradingitem, SrcType:1 SrcSlot:0 Item: Dragão_Vermelho : 2380.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: 
+05.03.2017.20.41.08 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:10 Item: Dragão_Vermelho : 2380.94.94.120.60.100.12 DstType:0 DstSlot:14 Item: Dragão : 2377.100.100.120.60.100.0 
+05.03.2017.20.41.13 IP: 201.17.211.212 BADFIVE123 tradingitem, SrcType:1 SrcSlot:10 Item: Dragão : 2377.100.100.120.60.100.0 DstType:0 DstSlot:14 Item: Dragão_Vermelho : 2380.94.94.120.60.100.12 
+05.03.2017.20.41.15 IP: 201.17.211.212 -OlhaOTchan deleteitem,  Dragão_Vermelho : 2380.94.94.120.60.100.12 
+05.03.2017.20.41.20 IP: 201.17.211.212 BADFIVE123 buy_npc,npc:Shadow Montaria price:2100000 item: Dragão_Vermelho : 2380.100.100.120.60.100.0 
