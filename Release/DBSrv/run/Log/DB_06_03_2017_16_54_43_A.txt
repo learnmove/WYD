@@ -1,0 +1,190 @@
+[06/03/2017][16:54:43]  -system start log 
+[06/03/2017][16:57:12]  MADORO create character [-Tempo-] 
+[06/03/2017][17:10:46]  WELMAL create character [CRAZY] 
+[06/03/2017][17:25:32]  MARLONX create character [Skoll] 
+[06/03/2017][17:31:02]  MARLONX create character [Skoll] 
+[06/03/2017][17:31:43]  LULIPE create character [HolyFuck] 
+[06/03/2017][17:39:12]  GHS1 create character [Biel] 
+[06/03/2017][18:14:03]  FAFA create character [ManSeVy] 
+[06/03/2017][18:15:32]  LILITH create character [Liliyth] 
+[06/03/2017][18:16:29]  GHS1 create character [Biel] 
+[06/03/2017][18:16:37]  LILIYHT create character [Thresh] 
+[06/03/2017][18:18:59]  IAJESUS create character [Hardwell] 
+[06/03/2017][18:19:18]  MADORO create character [-Tempo-] 
+[06/03/2017][18:20:29]  LILITH create character [Liliyth] 
+[06/03/2017][18:21:37]  FAFA create character [ManSeVy] 
+[06/03/2017][18:29:49]  IAJESUS create character [Hardwell] 
+[06/03/2017][18:29:59]  MIOJO1 create character [Erroc404] 
+[06/03/2017][18:39:19]  MIOJO1 create character [Erroc404] 
+[06/03/2017][19:04:51]  LILIYHT create character [Thresh] 
+[06/03/2017][20:30:13]  system  
+[06/03/2017][20:30:13]  system DBRecord Fail 
+[06/03/2017][20:47:00]  FAFA err, desconectado. conexão anterior finalizada. 
+[06/03/2017][21:16:47]  FAFA err, desconectado. conexão anterior finalizada. 
+[06/03/2017][21:52:33]  ASF2009 create character [M-o-N-s-T-e-] 
+[06/03/2017][22:01:32]  ASF2009 create character [M-o-N-s-T-e-] 
+[06/03/2017][10:09:12]  WALLACER13 create character [Zeus] 
+[06/03/2017][10:27:21]  MANEJO create character [N3R0] 
+[06/03/2017][10:30:17]  FABIOSOGO create character [FACCAO-RED] 
+[06/03/2017][10:32:21]  FABIOSOGO delete char [FACCAO-RED] 
+[06/03/2017][10:33:40]  FABIOSOGO create character [FACTION-RED] 
+[06/03/2017][10:39:18]  FABIOSOGO create character [FACTION-RED] 
+[06/03/2017][10:40:45]  ABCD123 create character [-AN4RQU14-] 
+[06/03/2017][10:43:57]  IAJESUS err, desconectado. conexão anterior finalizada. 
+[06/03/2017][10:48:26]  ABCD1234 create character [-AN4RQUI4-] 
+[06/03/2017][11:01:25]  CAFETAO create character [Cafetao] 
+[06/03/2017][11:03:17]  DIOGOJJ create character [FloooP] 
+[06/03/2017][11:10:16]  DIOGOJJ create character [FloooP] 
+[06/03/2017][11:11:03]  CAFETAO create character [Cafetao] 
+[06/03/2017][11:13:44]  NOSYRED create character [--VagAb4--] 
+[06/03/2017][11:13:52]  -system guild ally request 12 10 
+[06/03/2017][11:14:50]  DIOGOJJ create character [FloooP] 
+[06/03/2017][11:15:17]  DIOGOJJ delete char [FloooP] 
+[06/03/2017][11:17:57]  -system guild ally request 10 12 
+[06/03/2017][11:18:03]  -system guild ally request 12 10 
+[06/03/2017][11:18:07]  -system guild ally request 12 10 
+[06/03/2017][11:23:40]  NOSYRED create character [--VagAb4--] 
+[06/03/2017][11:35:02]  MENESES99 create character [xcsacsa] 
+[06/03/2017][11:48:01]  MENESES99 delete char [xcsacsa] 
+[06/03/2017][11:48:10]  MENESES99 create character [0cmm] 
+[06/03/2017][12:06:02]  SPLOSIONS create character [BlackFurias] 
+[06/03/2017][12:10:31]  FXCORONEL create character [Like] 
+[06/03/2017][12:16:01]  FXCORONEL create character [Like] 
+[06/03/2017][12:16:54]  MANEJO err,deletechar password 
+[06/03/2017][12:17:02]  BADFIVE12 create character [-OlhaAOnda] 
+[06/03/2017][12:18:18]  -system guild ally request 18 6 
+[06/03/2017][12:18:21]  -system guild ally request 6 18 
+[06/03/2017][12:27:35]  GAMU10 create character [StarOonee] 
+[06/03/2017][12:27:46]  GORDIMPK2 create character [Danger] 
+[06/03/2017][12:28:04]  SPLOSIONS create character [BlackFurias] 
+[06/03/2017][12:34:27]  MANEJO create character [N3R0] 
+[06/03/2017][12:34:36]  DESO15 create character [I-PANDA-I] 
+[06/03/2017][12:35:29]  NUBISK create character [InFuture] 
+[06/03/2017][12:35:48]  JONATAS018 create character [Eythor] 
+[06/03/2017][12:37:51]  GORDIMPK2 create character [Danger] 
+[06/03/2017][12:39:05]  JONATAS018 create character [Eythor] 
+[06/03/2017][12:42:02]  DESO15 create character [I-PANDA-I] 
+[06/03/2017][12:43:36]  COCO create character [SoEu] 
+[06/03/2017][12:44:17]  KILL97 create character [lH1O] 
+[06/03/2017][12:44:25]  NUBISK create character [InFuture] 
+[06/03/2017][12:44:29]  system  
+[06/03/2017][12:44:29]  system DBRecord Fail 
+[06/03/2017][12:45:30]  EDCARLOS20 create character [xRedL4BEL] 
+[06/03/2017][12:51:38]  RCBRITH create character [-BriToLA] 
+[06/03/2017][12:52:52]  CHMOS10 create character [Tkuro] 
+[06/03/2017][12:53:01]  KILL97 create character [lH1O] 
+[06/03/2017][12:55:42]  WALLACER13 create character [MyGod] 
+[06/03/2017][12:57:27]  GAMU10 create character [StarOonee] 
+[06/03/2017][12:57:52]  COCO create character [SoEu] 
+[06/03/2017][12:59:11]  CHMOS10 create character [Tkuro] 
+[06/03/2017][12:59:16]  JUZAO create character [Skunkz] 
+[06/03/2017][12:59:58]  EDCARLOS20 create character [xRedL4BEL] 
+[06/03/2017][13:04:21]  JUZAO create character [Skunkz] 
+[06/03/2017][13:04:26]  EDCARLOS20 create character [xRedL4BEL] 
+[06/03/2017][13:05:45]  RCBRITH create character [-BriToLA] 
+[06/03/2017][13:10:01]  GS097 create character [lMarechaL] 
+[06/03/2017][13:13:21]  GS097 create character [lMarechaL] 
+[06/03/2017][13:15:09]  EDCARLOS20 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][13:15:56]  LIVELTON create character [TheSkooLLBR] 
+[06/03/2017][13:20:29]  WALLACER07 create character [PapaiNoeL] 
+[06/03/2017][13:20:47]  LIVELTON create character [TheSkooLLBR] 
+[06/03/2017][13:23:45]  DANODANO1 create character [Cavalinho-] 
+[06/03/2017][13:28:09]  LENO create character [AngelOfDeath] 
+[06/03/2017][13:28:28]  DANODANO1 create character [Cavalinho-] 
+[06/03/2017][13:32:12]  PHDO13 create character [PATRAO] 
+[06/03/2017][13:33:29]  -system guild ally request 6 11 
+[06/03/2017][13:33:37]  -system guild ally request 6 11 
+[06/03/2017][13:33:42]  WALLACER07 create character [PapaiNoeL] 
+[06/03/2017][13:39:26]  PHDO13 create character [PATRAO] 
+[06/03/2017][13:40:05]  LEANDRO create character [-SemRisadinh] 
+[06/03/2017][13:41:27]  system  
+[06/03/2017][13:41:27]  system DBRecord Fail 
+[06/03/2017][13:52:56]  MARLONX create character [Skolls] 
+[06/03/2017][13:55:16]  TEMPO01 create character [-GALLICIA-] 
+[06/03/2017][13:57:21]  MARLONX create character [Skolls] 
+[06/03/2017][13:58:46]  MATHEUS798 create character [MrMasCaRa] 
+[06/03/2017][13:59:04]  system  
+[06/03/2017][13:59:04]  system DBRecord Fail 
+[06/03/2017][14:02:39]  CARLOS2013 create character [SonGoku] 
+[06/03/2017][14:03:11]  system  
+[06/03/2017][14:03:11]  system DBRecord Fail 
+[06/03/2017][14:05:00]  MATHEUS798 create character [MrMasCaRa] 
+[06/03/2017][14:06:53]  system  
+[06/03/2017][14:06:53]  system DBRecord Fail 
+[06/03/2017][14:07:08]  NALBERTH66 create character [Canhotinha] 
+[06/03/2017][14:08:06]  MARLIM create character [Skollz] 
+[06/03/2017][14:12:19]  MARLIM create character [Skollz] 
+[06/03/2017][14:14:56]  NALBERTH66 create character [Canhotinha] 
+[06/03/2017][14:15:44]  CARLOS2013 create character [SonGoku] 
+[06/03/2017][14:19:57]  WALLACER137 create character [Deus] 
+[06/03/2017][14:26:59]  TEMPO01 create character [-GALLICIA-] 
+[06/03/2017][14:34:17]  -system guild ally request 6 11 
+[06/03/2017][14:34:25]  -system guild ally request 6 11 
+[06/03/2017][14:34:57]  -system guild ally request 11 6 
+[06/03/2017][14:45:31]  JOHNIN create character [johnin] 
+[06/03/2017][14:52:40]  BRITOLA create character [GreenKING] 
+[06/03/2017][14:55:47]  BRITOLA create character [GreenKING] 
+[06/03/2017][15:01:22]  ABRAKADAR0V create character [Abrakhadar0v] 
+[06/03/2017][15:24:32]  BENEGAO err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:32:05]  SKINRED1 create character [SkinRed] 
+[06/03/2017][15:33:37]  LUCAS create character [--CrowleY--] 
+[06/03/2017][15:33:56]  RONALDHZ create character [AvengeD] 
+[06/03/2017][15:35:35]  RONALDHZ delete char [AvengeD] 
+[06/03/2017][15:35:43]  RONALDHZ create character [AvengeD] 
+[06/03/2017][15:41:19]  RONALDHZ create character [AvengeD] 
+[06/03/2017][15:42:27]  SKINRED1 create character [SkinRed] 
+[06/03/2017][15:42:43]  system  
+[06/03/2017][15:42:43]  system DBRecord Fail 
+[06/03/2017][15:43:30]  -Tempo- err createchar EEXIST 
+[06/03/2017][15:43:37]  MADORO create character [Madoro] 
+[06/03/2017][15:45:00]  MAMUTE69 create character [DarkTiguer] 
+[06/03/2017][15:49:10]  LUCAS create character [--CrowleY--] 
+[06/03/2017][15:49:55]  MADORO create character [Madoro] 
+[06/03/2017][15:55:13]  system  
+[06/03/2017][15:55:13]  system DBRecord Fail 
+[06/03/2017][15:55:36]  IGORDINO create character [ZEDASERVAS] 
+[06/03/2017][15:56:03]  SONY2 create character [MAH-0001] 
+[06/03/2017][16:04:22]  MAMUTE69 create character [DarkTiguer] 
+[06/03/2017][16:05:49]  SONY2 create character [MAH-0001] 
+[06/03/2017][16:09:28]  AYLMAO create character [-xYz-] 
+[06/03/2017][16:12:58]  MARLONX err,deletechar level 219 
+[06/03/2017][16:13:24]  MARLIM create character [SkoL] 
+[06/03/2017][16:14:10]  AYLMAO create character [-xYz-] 
+[06/03/2017][16:17:47]  MARLIM create character [SkoL] 
+[06/03/2017][16:23:01]  MENESES99 create character [cacaca] 
+[06/03/2017][16:25:11]  MENESES99 delete char [cacaca] 
+[06/03/2017][16:25:17]  MENESES99 err,deletechar level 219 
+[06/03/2017][16:25:26]  OMOURAJOAO create character [AshleyGraham] 
+[06/03/2017][16:26:02]  MENESES99 err,deletechar level 219 
+[06/03/2017][16:26:34]  ETERNAL create character [EternalAgony] 
+[06/03/2017][16:28:31]  MENESES99 create character [Im00] 
+[06/03/2017][16:35:37]  COCOL create character [Dougras] 
+[06/03/2017][16:40:41]  COCOL create character [Dougras] 
+[06/03/2017][16:43:35]  system  
+[06/03/2017][16:43:35]  system DBRecord Fail 
+[06/03/2017][16:44:40]  ETERNAL create character [EternalAgony] 
+[06/03/2017][17:07:47]  LUCASCANESIN create character [WhySoSeriouS] 
+[06/03/2017][17:15:51]  VAGNER02 create character [ZiKa] 
+[06/03/2017][17:19:52]  MENESES99 delete char [Im00] 
+[06/03/2017][17:19:58]  MENESES99 err,deletechar level 219 
+[06/03/2017][17:20:07]  MENESES99 create character [Im00] 
+[06/03/2017][17:26:45]  VAGNER02 create character [CrazyOfDust] 
+[06/03/2017][17:31:12]  VAGNER02 create character [CrazyOfDust] 
+[06/03/2017][18:03:00]  MARCOS1508 create character [Razer] 
+[06/03/2017][18:09:04]  TESTE create character [testedocrazy] 
+[06/03/2017][18:23:20]  LOYZATHEUS err, desconectado. conexão anterior finalizada. 
+[06/03/2017][18:34:00]  MARCOS1508 create character [Razer] 
+[06/03/2017][19:08:53]  LOYZATHEUS1 create character [xX-SeCrEdItA] 
+[06/03/2017][19:18:03]  MATHEUS123 create character [Justiceiro] 
+[06/03/2017][19:22:12]  MATHEUS123 create character [Justiceiro] 
+[06/03/2017][19:39:37]  DJTUNICO create character [BruxoLoco] 
+[06/03/2017][19:40:17]  TW3LLING create character [PombaGira] 
+[06/03/2017][19:45:29]  TW3LLING create character [PombaGira] 
+[06/03/2017][19:54:11]  LOYZATHEUS1 create character [xX-SeCrEdItA] 
+[06/03/2017][19:54:26]  LOKINHAXD create character [locaao] 
+[06/03/2017][19:55:37]  KAIS create character [SrBob] 
+[06/03/2017][20:05:01]  LOKINHAXD create character [locaao] 
+[06/03/2017][20:08:07]  KAIS create character [SrBob] 
+[06/03/2017][20:09:16]  DANODANO1 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][20:43:23]  HAMARO create character [HAMARO-MOD] 
+[06/03/2017][20:45:44]  -system clo server fd 0 

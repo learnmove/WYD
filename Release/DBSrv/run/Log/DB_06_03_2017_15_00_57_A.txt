@@ -1,0 +1,20 @@
+[06/03/2017][15:05:25]  JLFDS157 create character [NeCroZ] 
+[06/03/2017][15:27:36]  system  
+[06/03/2017][15:27:36]  system DBRecord Fail 
+[06/03/2017][15:40:04]  -system guild ally request 6 11 
+[06/03/2017][15:40:29]  -system guild ally request 11 6 
+[06/03/2017][15:43:08]  PALLASX3 create character [SK-JESSICA] 
+[06/03/2017][15:45:39]  PALLASX3 delete char [SK-JESSICA] 
+[06/03/2017][15:45:53]  -system guild ally request 10 12 
+[06/03/2017][15:45:57]  PALLASX3 create character [SK-JESSICA] 
+[06/03/2017][15:46:03]  -system guild ally request 12 10 
+[06/03/2017][16:00:51]  JEMMY err, desconectado. conexão anterior finalizada. 
+[06/03/2017][16:01:47]  ALEEXANDRE create character [Crowley] 
+[06/03/2017][16:06:40]  PALLASX3 create character [SK-JESSICA] 
+[06/03/2017][16:08:45]  TUITI1 create character [ByArcanjo] 
+[06/03/2017][16:18:43]  ALEEXANDRE create character [Crowley] 
+[06/03/2017][16:22:03]  ZAYCO2808 err,deletechar level 219 
+[06/03/2017][16:22:13]  ZAYCO2808 create character [Zayco] 
+[06/03/2017][16:25:57]  ZAYCO2808 create character [Zayco] 
+[06/03/2017][16:31:40]  LULIPE create character [FmTesTBU] 
+[06/03/2017][16:32:51]  -system clo server fd 0 

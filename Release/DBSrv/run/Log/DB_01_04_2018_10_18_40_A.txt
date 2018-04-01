@@ -1,0 +1,2 @@
+[01/04/2018][10:18:40]  -system start log 
+[01/04/2018][10:20:42]  FOKUS create character [Fokus] 

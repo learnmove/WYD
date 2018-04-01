@@ -1,0 +1,7 @@
+[12/03/2017][00:00:15]  -system clo server fd 0 
+[12/03/2017][00:01:48]  -system clo server fd 0 
+[12/03/2017][00:03:24]  -system clo server fd 0 
+[12/03/2017][00:04:25]  CYBER delete char [FOEMA] 
+[12/03/2017][00:04:48]  CYBER create character [FM-Especial] 
+[12/03/2017][00:09:19]  -system clo server fd 0 
+[12/03/2017][00:12:39]  -system clo server fd 0 

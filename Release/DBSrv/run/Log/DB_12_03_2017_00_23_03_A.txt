@@ -1,0 +1,5 @@
+[12/03/2017][00:23:03]  -system start log 
+[12/03/2017][00:27:41]  CYBER delete char [FM-Especial] 
+[12/03/2017][00:27:47]  CYBER create character [HT-Teste] 
+[12/03/2017][00:28:54]  -system clo server fd 0 
+[12/03/2017][00:32:47]  -system clo server fd 0 

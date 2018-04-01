@@ -1,0 +1,5 @@
+[05/03/2017][20:35:07]  -system start log 
+[05/03/2017][20:37:29]  -system clo server fd 0 
+[05/03/2017][20:37:38]  KNUT err, desconectado. conexão anterior finalizada. 
+[05/03/2017][20:38:25]  BADFIVE123 err,addAccountlist - already added 
+[05/03/2017][20:39:57]  DANODANO1 err,addAccountlist - already added 

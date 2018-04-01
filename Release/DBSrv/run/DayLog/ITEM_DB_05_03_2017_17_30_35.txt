@@ -1,0 +1,5 @@
+[05/03/2017][17:30:35]  ItemID:3204 ItemName:Jóia_da_Absorção ItemNum:1 
+[05/03/2017][17:30:35]  ItemID:3207 ItemName:Jóia_da_Armazenagem ItemNum:1 
+[05/03/2017][17:30:35]  ItemID:3325 ItemName:Pesadelo_(M/Grupo) ItemNum:1 
+[05/03/2017][17:30:35]  ItemID:3343 ItemName:Pergaminho_do_Perdão ItemNum:1 
+[05/03/2017][17:30:35]  ItemID:5112 ItemName:Thurisaz ItemNum:1 

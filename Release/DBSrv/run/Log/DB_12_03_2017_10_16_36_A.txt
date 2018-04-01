@@ -1,0 +1,4 @@
+[12/03/2017][10:16:36]  -system start log 
+[12/03/2017][10:17:54]  CYBER create character [BestMaster] 
+[12/03/2017][10:24:10]  CYBER create character [TransKinght] 
+[12/03/2017][10:35:13]  -system clo server fd 0 

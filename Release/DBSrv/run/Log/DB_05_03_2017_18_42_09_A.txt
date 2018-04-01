@@ -1,0 +1,13 @@
+[05/03/2017][18:42:26]  DANODANO1 create character [Cavalinho] 
+[05/03/2017][18:47:11]  NAMI create character [Mooy] 
+[05/03/2017][18:49:10]  FABIOSOGOD create character [Duke] 
+[05/03/2017][18:54:55]  HAITEKK create character [BalacubaK0] 
+[05/03/2017][18:55:11]  NAMI create character [Mooy] 
+[05/03/2017][18:59:12]  COVIS01 create character [BooyS2GirLs] 
+[05/03/2017][18:59:40]  GUGUPMG12 create character [ZePikeno] 
+[05/03/2017][19:05:06]  COVIS01 create character [BooyS2GirLs] 
+[05/03/2017][19:12:30]  NAMI create character [-Moy] 
+[05/03/2017][19:16:24]  BIKINHO create character [lH2O] 
+[05/03/2017][19:17:10]  NAMI create character [-Moy] 
+[05/03/2017][19:25:25]  BIKINHO create character [lH2O] 
+[05/03/2017][19:26:50]  -system clo server fd 0 

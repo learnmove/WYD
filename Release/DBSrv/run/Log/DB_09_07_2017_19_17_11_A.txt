@@ -1,0 +1,4 @@
+[09/07/2017][19:17:11]  -system start log 
+[09/07/2017][19:18:36]  TESTE create character [HT-teste] 
+[09/07/2017][19:18:44]  TESTE err,charlogin mobname empty 
+[09/07/2017][19:20:30]  -system clo server fd 0 

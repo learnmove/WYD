@@ -1,0 +1,5 @@
+[11/08/2017][22:32:47]  -system start log 
+[11/08/2017][22:33:23]  Teste err createchar EEXIST 
+[11/08/2017][22:33:25]  TESTE create character [Teste1] 
+[11/08/2017][22:37:21]  ADMIN create character [t12s5] 
+[11/08/2017][22:40:23]  -system clo server fd 0 

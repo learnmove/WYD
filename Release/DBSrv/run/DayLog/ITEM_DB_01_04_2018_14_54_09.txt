@@ -1,0 +1,3 @@
+[01/04/2018][14:54:09]  ItemID:420 ItemName:Resto_de_Lactolerium ItemNum:4 
+[01/04/2018][14:54:09]  ItemID:977 ItemName:Bastão_Serpente ItemNum:1 
+[01/04/2018][14:54:09]  ItemID:1504 ItemName:Botas_Elementais(M) ItemNum:1 

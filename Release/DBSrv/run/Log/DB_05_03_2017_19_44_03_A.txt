@@ -1,0 +1,11 @@
+[05/03/2017][19:44:03]  -system start log 
+[05/03/2017][19:49:44]  KNUT create character [-Malevola-] 
+[05/03/2017][19:52:48]  DYLLASINHO create character [ChicoKillerX] 
+[05/03/2017][20:02:47]  WALLACER137 err,deletechar password 
+[05/03/2017][20:02:52]  WALLACER137 err,deletechar password 
+[05/03/2017][20:03:52]  DYLLASINHO create character [ChicoKillerX] 
+[05/03/2017][20:04:45]  KNUT create character [-Malevola-] 
+[05/03/2017][20:11:30]  SANTANAZIN create character [PKSS] 
+[05/03/2017][20:23:36]  DENIZAO98 create character [Denizao] 
+[05/03/2017][20:27:05]  ALUKZ create character [alukz] 
+[05/03/2017][20:33:26]  -system clo server fd 0 

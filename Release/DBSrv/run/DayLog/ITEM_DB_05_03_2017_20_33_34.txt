@@ -1,0 +1,5 @@
+[05/03/2017][20:33:34]  ItemID:1216 ItemName:Manoplas_Embutidas(M) ItemNum:1 
+[05/03/2017][20:33:34]  ItemID:1501 ItemName:Manoplas_Elementais(M) ItemNum:1 
+[05/03/2017][20:33:34]  ItemID:1803 ItemName:Elmo_de_Couro_Batido(A) ItemNum:1 
+[05/03/2017][20:33:34]  ItemID:1807 ItemName:Cota_de_Couro_Batido(A) ItemNum:1 
+[05/03/2017][20:33:34]  ItemID:3322 ItemName:[S]Caixa_Poção_de_Cura ItemNum:1 

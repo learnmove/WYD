@@ -1,0 +1,3 @@
+[26/11/2017][22:08:38]  -system start log 
+[26/11/2017][22:11:34]  ADMIN create character [Ht-dksks] 
+[26/11/2017][22:11:56]  -system clo server fd 0 

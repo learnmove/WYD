@@ -1,0 +1,7 @@
+[05/03/2017][19:41:27]  ItemID:405 ItemName:Poção_de_Mana ItemNum:1 
+[05/03/2017][19:41:27]  ItemID:420 ItemName:Resto_de_Lactolerium ItemNum:2 
+[05/03/2017][19:41:27]  ItemID:451 ItemName:Chave_da_Primeira_Porta ItemNum:1 
+[05/03/2017][19:41:27]  ItemID:1551 ItemName:Chapéu_Acolchoado(N) ItemNum:1 
+[05/03/2017][19:41:27]  ItemID:1701 ItemName:Escudo_de_Madeira ItemNum:1 
+[05/03/2017][19:41:27]  ItemID:1801 ItemName:Elmo_de_Couro(A) ItemNum:1 
+[05/03/2017][19:41:27]  ItemID:4038 ItemName:Vela_do_Coveiro ItemNum:6 

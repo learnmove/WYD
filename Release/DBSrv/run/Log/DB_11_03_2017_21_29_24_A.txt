@@ -1,0 +1,3 @@
+[11/03/2017][21:29:24]  -system start log 
+[11/03/2017][21:31:03]  CYBER create character [HT-DANO] 
+[11/03/2017][21:36:32]  -system clo server fd 0 

@@ -1,0 +1,6 @@
+[05/03/2017][22:35:38]  ItemID:419 ItemName:Resto_de_Oriharucon ItemNum:1 
+[05/03/2017][22:35:38]  ItemID:420 ItemName:Resto_de_Lactolerium ItemNum:14 
+[05/03/2017][22:35:38]  ItemID:1831 ItemName:Saia_Vampírica(A) ItemNum:1 
+[05/03/2017][22:35:38]  ItemID:1835 ItemName:Luvas_Vampíricas(A) ItemNum:1 
+[05/03/2017][22:35:38]  ItemID:2055 ItemName:Botas_de_Bandagem(A) ItemNum:1 
+[05/03/2017][22:35:38]  ItemID:2179 ItemName:Manoplas_Douradas(Le) ItemNum:1 

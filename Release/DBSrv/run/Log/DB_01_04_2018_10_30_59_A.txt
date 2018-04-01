@@ -1,0 +1,16 @@
+[01/04/2018][10:30:59]  -system start log 
+[01/04/2018][11:40:49]  FOKUS err, desconectado. conexão anterior finalizada. 
+[01/04/2018][11:41:52]  FOKUS err, desconectado. conexão anterior finalizada. 
+[01/04/2018][11:47:21]  FOKUS create character [Fokus] 
+[01/04/2018][11:50:31]  Fokus err createchar EEXIST 
+[01/04/2018][11:50:41]  FOKUS1 create character [Fokus-] 
+[01/04/2018][11:53:46]  -system clo server fd 0 
+[01/04/2018][11:55:59]  -system clo server fd 0 
+[01/04/2018][12:02:12]  FOKUS1 create character [[GM}Fokus-] 
+[01/04/2018][12:07:58]  -system clo server fd 0 
+[01/04/2018][12:10:52]  -system clo server fd 0 
+[01/04/2018][12:19:48]  -system clo server fd 0 
+[01/04/2018][12:41:31]  -system clo server fd 0 
+[01/04/2018][12:46:30]  -system clo server fd 0 
+[01/04/2018][12:51:02]  -system clo server fd 0 
+[01/04/2018][14:54:06]  -system clo server fd 0 

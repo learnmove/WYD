@@ -1,0 +1,3 @@
+[05/03/2017][18:02:22]  -system start log 
+[05/03/2017][18:02:42]  WELMAL create character [CRAZY] 
+[05/03/2017][18:03:36]  WALLACER137 create character [Maldito] 

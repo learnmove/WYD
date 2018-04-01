@@ -1,0 +1,47 @@
+[06/03/2017][15:10:29]  LUCIO err,addAccountlist - already added 
+[06/03/2017][15:16:30]  JEMMY create character [CherryGirl] 
+[06/03/2017][15:17:56]  RUANNBQ15 create character [SamSUNG] 
+[06/03/2017][15:05:14]  RUANNBQ15 create character [SamSUNG] 
+[06/03/2017][15:05:37]  DENIZAO98 create character [Denizao] 
+[06/03/2017][15:00:26]  IGORTMJ create character [REIDASERVAS] 
+[06/03/2017][15:00:38]  GALATICO097 create character [Sr-lMarechaL] 
+[06/03/2017][15:02:54]  ZATANNA create character [1620] 
+[06/03/2017][15:00:24]  LOYZATHEUS create character [FM-BRAVOX] 
+[06/03/2017][15:00:37]  JOAORAFAEL create character [EMICI-SNIPER] 
+[06/03/2017][15:06:55]  IGORDINO create character [ZEDASERVAS] 
+[06/03/2017][15:07:09]  ZATANNA create character [1620] 
+[06/03/2017][15:08:51]  JEMMY create character [CherryGirl] 
+[06/03/2017][15:10:16]  GALATICO097 create character [Sr-lMarechaL] 
+[06/03/2017][15:15:17]  BLACKK9 create character [-Allen-] 
+[06/03/2017][15:19:46]  JOAORAFAEL create character [EMICI-SNIPER] 
+[06/03/2017][15:22:14]  -system clo server fd 0 
+[06/03/2017][15:23:59]  JEMMY err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:00]  DANODANO1 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:02]  RUANNBQ15 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:06]  GALATICO097 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:07]  BLACKK9 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:15]  LOYZATHEUS err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:25]  JOAORAFAEL err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:24:35]  BADFIVE123 err,addAccountlist - already added 
+[06/03/2017][15:26:20]  SOPRAPVP8 create character [ETAPORRA] 
+[06/03/2017][15:27:30]  BLACKK9 create character [-Allen-] 
+[06/03/2017][15:31:28]  LOYZATHEUS create character [FM-BRAVOX] 
+[06/03/2017][15:34:31]  SOPRAPVP8 create character [ETAPORRA] 
+[06/03/2017][01:40:44]  HALLANEU create character [MiOjOoO] 
+[06/03/2017][01:42:46]  FABIOSOGOD err,deletechar password 
+[06/03/2017][01:42:54]  FABIOSOGOD err,deletechar level 219 
+[06/03/2017][01:43:04]  FABIOSOGOD create character [Godzin] 
+[06/03/2017][01:45:46]  IGORDINO create character [ZEDASERVAS] 
+[06/03/2017][01:47:55]  LUANTOP create character [SpankaNooB] 
+[06/03/2017][01:48:03]  HALLANEU create character [MiOjOoO] 
+[06/03/2017][01:48:52]  FABIOSOGOD create character [Godzin] 
+[06/03/2017][01:53:51]  LUANTOP create character [SpankaNooB] 
+[06/03/2017][01:55:58]  DANODANO1 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][01:57:33]  HALLANEU err,deletechar password 
+[06/03/2017][01:57:50]  HALLANEU err,deletechar password 
+[06/03/2017][01:59:52]  RUANNBQ152 create character [BUFF] 
+[06/03/2017][02:00:21]  HALLANEU create character [MiOjOoO] 
+[06/03/2017][02:02:04]  DANODANO1 err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:18:03]  JEMMY err, desconectado. conexão anterior finalizada. 
+[06/03/2017][15:21:26]  VSTAQUI create character [AnykyladorFM] 
+[06/03/2017][15:29:37]  OMOURAJOAO create character [T-VeronicA] 

@@ -1,0 +1,11 @@
+[05/03/2017][22:38:55]  BENEGAO create character [Benegrao] 
+[05/03/2017][22:44:15]  SIMAUM10 create character [Fm-Register] 
+[05/03/2017][22:46:11]  MATANZA create character [Banguela] 
+[05/03/2017][22:47:18]  TAKURE1 create character [FLAVONOIDZ] 
+[05/03/2017][22:49:36]  BENEGAO create character [Benegrao] 
+[05/03/2017][22:51:41]  MATANZA create character [Banguela] 
+[05/03/2017][22:53:05]  system  
+[05/03/2017][22:53:05]  system DBRecord Fail 
+[05/03/2017][22:54:01]  OMOURAJOAO create character [T-VeronicA] 
+[05/03/2017][22:56:41]  JLFDS157 create character [NeCroZ] 
+[05/03/2017][15:01:23]  TUITI1 create character [ByArcanjo] 

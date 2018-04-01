@@ -1,0 +1,7 @@
+[05/03/2017][11:12:56]  -system start log 
+[05/03/2017][11:16:06]  ADMIN create character [CRAZY] 
+[05/03/2017][11:23:53]  -system clo server fd 0 
+[05/03/2017][11:28:54]  -system clo server fd 0 
+[05/03/2017][11:31:05]  -system clo server fd 0 
+[05/03/2017][11:31:37]  -system clo server fd 0 
+[05/03/2017][13:32:28]  -system clo server fd 0 

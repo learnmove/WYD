@@ -1,0 +1,3 @@
+[11/03/2017][22:17:32]  -system start log 
+[11/03/2017][22:18:37]  CYBER create character [FOEMA] 
+[11/03/2017][22:20:23]  -system clo server fd 0 

@@ -1,0 +1,4 @@
+[20/04/2017][22:18:31]  -system start log 
+[20/04/2017][22:32:17]  ADMIN err,deletechar level 219 
+[20/04/2017][22:32:53]  CYBER create character [Cyber] 
+[20/04/2017][22:35:19]  -system clo server fd 0 

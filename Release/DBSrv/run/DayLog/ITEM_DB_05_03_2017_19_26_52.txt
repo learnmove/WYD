@@ -1,0 +1,2 @@
+[05/03/2017][19:26:52]  ItemID:1819 ItemName:Botas_de_Couro_Batido(A) ItemNum:1 
+[05/03/2017][19:26:52]  ItemID:4038 ItemName:Vela_do_Coveiro ItemNum:3 

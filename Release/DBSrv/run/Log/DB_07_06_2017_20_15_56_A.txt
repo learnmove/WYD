@@ -1,0 +1,2 @@
+[07/06/2017][20:15:56]  -system start log 
+[07/06/2017][20:17:01]  FUTURO create character [teste] 

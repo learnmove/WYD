@@ -1,0 +1,3 @@
+[07/06/2017][18:28:23]  -system start log 
+[07/06/2017][18:36:24]  FUTURO create character [FUTURO] 
+[07/06/2017][18:37:36]  -system clo server fd 0 

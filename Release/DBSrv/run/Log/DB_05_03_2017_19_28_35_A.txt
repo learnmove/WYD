@@ -1,0 +1,10 @@
+[05/03/2017][19:28:35]  -system start log 
+[05/03/2017][19:32:17]  ALUKZ create character [alukz] 
+[05/03/2017][19:33:32]  BADFIVE123 create character [-OlhaOTchan] 
+[05/03/2017][19:34:31]  BADFIVE123 etc,name swap -OlhaOTchan -PARAD1SE- 
+[05/03/2017][19:34:51]  BADFIVE123 delete char [-PARAD1SE-] 
+[05/03/2017][19:36:14]  WALLACER137 create character [Deus] 
+[05/03/2017][19:39:46]  system  
+[05/03/2017][19:39:46]  system DBRecord Fail 
+[05/03/2017][19:40:04]  SONY create character [PlayArte] 
+[05/03/2017][19:41:24]  -system clo server fd 0 

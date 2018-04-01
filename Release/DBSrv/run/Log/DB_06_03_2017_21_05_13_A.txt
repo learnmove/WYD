@@ -1,0 +1,2 @@
+[06/03/2017][21:05:13]  -system start log 
+[06/03/2017][21:06:02]  -system clo server fd 0 

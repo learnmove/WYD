@@ -1,0 +1,4 @@
+[06/03/2017][20:49:40]  -system start log 
+[06/03/2017][20:56:00]  LIVELTON1 create character [TOUCH] 
+[06/03/2017][20:57:27]  OMOURAJOAO create character [AshleyGraham] 
+[06/03/2017][21:02:49]  -system clo server fd 0 

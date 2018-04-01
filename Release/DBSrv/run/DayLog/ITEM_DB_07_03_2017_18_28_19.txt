@@ -1,0 +1,2 @@
+[07/03/2017][18:28:19]  ItemID:3027 ItemName:Barra_de_Mithril_(Dano) ItemNum:1 
+[07/03/2017][18:28:19]  ItemID:4038 ItemName:Vela_do_Coveiro ItemNum:1 
