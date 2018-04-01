@@ -1,0 +1,3 @@
+0 0 0 Guild1
+0 0 1 Guild2
+0 0 5 MUTAÇÃO   
